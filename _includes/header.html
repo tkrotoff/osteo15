@@ -7,9 +7,9 @@
         <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
         <p>
-          <a href="http://maps.apple.com/?q={{ site.address }}">{{ site.address }}</a>
+          <a href="http://maps.apple.com/?q={{ site.address | cgi_escape }}">{{ site.address }}</a>
           <!-- See Specifying a preferred line break point in HTML text in a responsive design http://stackoverflow.com/questions/18222409 -->
-          - <a href="tel:{{ site.tel }}" style="white-space: nowrap;">{{ site.tel }}</a>
+          - <a href="tel:{{ site.tel | cgi_escape }}" style="white-space: nowrap;">{{ site.tel }}</a>
         </p>
       </td>
 
