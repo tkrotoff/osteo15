@@ -197,8 +197,9 @@ pre {
         height: 16px;
         vertical-align: middle;
 
-        path {
+        // See The color for the SVG icons are defined 2 times https://github.com/jekyll/jekyll/issues/2944
+        /*path {
             fill: $grey-color;
-        }
+        }*/
     }
 }
