@@ -1,0 +1,18 @@
+/**
+ * See How to Make Google Maps Embeds Responsive http://www.labnol.org/internet/embed-responsive-google-maps/
+ * See Responsive Google or Bing maps https://niklausgerber.com/blog/responsive-google-or-bing-maps/
+ * See Shrink a Youtube video to responsive width http://stackoverflow.com/questions/15844500
+ */
+
+.responsive-iframe {
+  position: relative;
+
+  padding-bottom: 75%; // This is the aspect ratio
+  height: 0;
+}
+.responsive-iframe iframe {
+  position: absolute;
+
+  width: 100% !important;
+  height: 100% !important;
+}
