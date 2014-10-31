@@ -57,7 +57,7 @@ Or, plus on attend avant de faire un sondage du canal et plus les chances de ré
 Le traitement du canal lacrymal bouché ne fait donc pas l'unanimité [5].
 Certains pensent qu'il est souhaitable de réaliser un sondage précoce alors que d'autres pensent qu'il vaut mieux attendre la résolution spontanée avant d'utiliser une telle technique.
 
-![Canal lacrymal bouché bébé](/assets/2014-08-17/Canal-lacrymal-bouché-bébé.png)
+![Canal lacrymal bouché bébé](/assets/2014-08-17/Canal-lacrymal-bouche-bebe.png)
 
 *"Une ligne directrice peut être établie [5]:
 Avant 3 mois : soins locaux sauf s'il existe une dilatation importante du sac lacrymal
@@ -105,7 +105,7 @@ c'est pour cela que l'on traite le corps entier du bébé et non pas localement 
 **Avant d'envisager un sondage ou la pose d'un tube siliconé (cette dernière technique se fait sous anesthésie générale qu'il est souhaitable d'éviter),
 il est donc recommandé de faire consulter son enfant par un ostéopathe.**
 
-## Sources :
+## Sources
 
 - [1] Eye (Lond). 1991;5 (Pt 5):596-600.
   [Epiphora during the first year of life](http://www.nature.com/eye/journal/v5/n5/pdf/eye1991103a.pdf).
