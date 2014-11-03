@@ -45,3 +45,11 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 
 - Le format non destructeur [PNG](http://fr.wikipedia.org/wiki/Portable_Network_Graphics) (.png) adapté pour les images simples comprenant des aplats de couleurs
 - Le format destructeur [JPEG](http://fr.wikipedia.org/wiki/JPEG) (.jpg) pour la photographie
+
+## Intégration d'une video YouTube
+
+```HTML
+<div class="responsive-iframe">
+  <iframe src="//www.youtube.com/embed/VJo5z11rUYQ" frameborder="0" allowfullscreen></iframe>
+</div>
+```
