@@ -22,7 +22,7 @@ On peut imaginer 3 points de vue sur de l'état de santé du patient comme 3 por
 
 Ces 3 "points de vue" étant en étroite relation les uns avec les autres :
 
-- Le psychisme influe sur le corps et le métabolisme et inversement, c'est ce que l'on appelle le [psychosomatique](https://fr.wikipedia.org/wiki/Psychosomatique_psychanalytique).
+- Le psychisme influe sur le corps et le métabolisme et inversement, c'est ce que l'on appelle le [psychosomatique](https://fr.wikipedia.org/wiki/Psychosomatique).
 - Le physique / somatique influe sur le psychique et le métabolisme du patient.
 - Le métabolisme influe sur le psychique et le physique.
 
