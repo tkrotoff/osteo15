@@ -3,7 +3,7 @@ layout: post
 title: Questions-réponses sur l'hypnose avec Delphine Bourdet
 ---
 
-![Delphine Bourdet](/assets/2014-02-19/Delphine-Bourdet.jpg)
+[![Delphine Bourdet](/assets/2014-02-19/Delphine-Bourdet.jpg)](http://www.lotusinparis.com/)
 
 Delphine Bourdet, [sophrologue et hypnothérapeute à Paris 15](http://www.lotusinparis.com/) répond aux questions les plus fréquentes que vous vous posez sur l'hypnose.
 N'hésitez pas à laisser vos commentaires ou questions à la fin de l'article !
