@@ -15,5 +15,5 @@ Ce document précise notamment :
 - Des informations utiles pour la mère et son enfant.
 - Une liste de contacts complète les informations pratiques.
 
-_"Ce document a pour but de vous informer sur les possibilités d’organisation de suivi pour vous et votre bébé, à votre domicile, en ville ou en PMI.
+_"Ce document a pour but de vous informer sur les possibilités d'organisation de suivi pour vous et votre bébé, à votre domicile, en ville ou en PMI.
 Il devrait vous permettre de mieux échanger avec les professionnels de santé et vous aider à choisir les modalités de votre sortie de maternité."_

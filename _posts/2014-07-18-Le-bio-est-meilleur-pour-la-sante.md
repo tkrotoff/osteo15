@@ -26,7 +26,7 @@ de produits chimiques de synthèse (engrais minéraux et pesticide de synthèse,
 
 ![Nouveau logo label bio européen](/assets/2014-07-18/Label-bio-europeen.png)
 
-En France c'est l'[Agence BIO (Agence française pour le développement et la promotion de l’agriculture biologique)](http://www.agencebio.org/)
+En France c'est l'[Agence BIO (Agence française pour le développement et la promotion de l'agriculture biologique)](http://www.agencebio.org/)
 qui délivre les certificats.
 
 En 2009, le label AB (Agriculture biologique) s'est aligné sur [le cahier des charges de l'Union européenne ](https://fr.wikipedia.org/wiki/Label_bio_de_l%27Union_europ%C3%A9enne#Cahier_des_charges)

@@ -53,3 +53,9 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
   <iframe src="//www.youtube.com/embed/VJo5z11rUYQ" frameborder="0" allowfullscreen></iframe>
 </div>
 ```
+
+## Caractères alacon
+
+- ’ -> '
+- … -> ...
+- oe -> œ

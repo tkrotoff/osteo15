@@ -15,7 +15,7 @@ Forcément, acheter du cheval à la place du bœuf ne va pas rassurer le consomm
 les industriels ne savent plus trop ce qu'ils vendent.
 
 Avec la crise, le prix reste le principal critère lors d'un achat, mais
-_"l'appréhension croissante [...] se traduit par de plus fortes attentes en matière d’information sur
+_"l'appréhension croissante [...] se traduit par de plus fortes attentes en matière d'information sur
 la façon dont les aliments sont cultivés, élevés et transformés."_
 
 La production industrielle a permis de faire diminuer le prix moyen du panier d'achat et de répondre à la demande du consommateur

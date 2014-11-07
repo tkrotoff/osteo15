@@ -20,7 +20,7 @@ Vos intestins ont plusieurs fonctions :
 ### Interface d'échange
 
 La paroi doit être capable d'autoriser le passage des aliments suffisamment digérés
-(et donc découpés en petites molécules grâce au processus de la digestion) avec  tous les micro et macro-nutriments nécessaires à votre santé.
+(et donc découpés en petites molécules grâce au processus de la digestion) avec tous les micro et macro-nutriments nécessaires à votre santé.
 
 ### Rôle de protection
 
@@ -139,7 +139,7 @@ n'hésitez pas à contacter [Karine de la Rouère](http://www.dietetique.delarou
 
 - Sudo N, Chida Y, Aiba Y, Sonoda J, Oyama N, Yu XN, Kubo C, Koga Y :
   ["Postnatal microbial colonization programs thehypothalamic-pituitary-adrenal system for stress response in mice"](http://www.ncbi.nlm.nih.gov/pubmed/15133062)
-  The journal of physiologie (2004),  558 (Pt 1) - p 263-275
+  The journal of physiologie (2004), 558 (Pt 1) - p 263-275
 
 - Maes M, Kubera M, Leunis JC :
   ["The gut-brain barrier in major depression: intestinal mucosal dysfunction with an increased translocation of LPS from gram negative enterobacteria (leaky gut) plays a role in the inflammatory pathophysiology of depression"](http://www.ncbi.nlm.nih.gov/pubmed/18283240) 

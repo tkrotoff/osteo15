@@ -13,13 +13,13 @@ La plagiocéphalie est une déformation du crâne qui peut avoir deux origines :
 
 La fréquence des plagiocéphalies positionnelles a tellement augmenté depuis la campagne du dodo sur le dos en 1992
 (très efficace car cette campagne a tout de même permis une diminution près de la moitié des morts subites du nourrisson)
-que l’on parle maintenant d’épidémie [2][43].
+que l'on parle maintenant d'épidémie [2][43].
 
 Elle touche préférentiellement les garçons et concerne selon les études : 46,6% des bébés de 7-12 semaines et 20% des bébés à 4 mois
-puis diminue pour tomber à 3,3% à l’âge de 2 ans [1][45][46].
+puis diminue pour tomber à 3,3% à l'âge de 2 ans [1][45][46].
 
-Cependant, si rien n’est fait, les plagiocéphalies positionnelles qui persistent chez les enfants entre 18 et 48 mois
-ne s’amélioreront pas d’elles-mêmes dans plus de ¾ des cas [3]. 
+Cependant, si rien n'est fait, les plagiocéphalies positionnelles qui persistent chez les enfants entre 18 et 48 mois
+ne s'amélioreront pas d'elles-mêmes dans plus de ¾ des cas [3]. 
 
 ![Fréquence des plagiocéphalies positionnelles](/assets/2014-07-24/Frequence-plagiocephalies-positionnelles.gif)
 
@@ -59,14 +59,14 @@ On retrouvera aussi : petit poids de naissance et prématurité...
 
 ### Après l'accouchement
 
-On aura d’une part tout ce qui provoque des diminutions de mobilité du cou ou provoque une préférence de position faisant
+On aura d'une part tout ce qui provoque des diminutions de mobilité du cou ou provoque une préférence de position faisant
 que le bébé garde la même position et fait appuyer la tête toujours du même côté :
 torticolis, [céphalhématome](https://fr.wikipedia.org/wiki/C%C3%A9phalh%C3%A9matome) et [bosse séro-sanguine](https://fr.wikipedia.org/wiki/Bosse_s%C3%A9ro-sanguine)
 (qui provoquent une préférence de côté lors du couchage sur le dos),
 [hypotonie](https://fr.wikipedia.org/wiki/Hypotonie_musculaire)
-(sans doute par _"l’affaiblissement des muscles du cou qui diminue la capacité de l’enfant à repositionner sa tête"_)...
+(sans doute par _"l'affaiblissement des muscles du cou qui diminue la capacité de l'enfant à repositionner sa tête"_)...
 
-On aura d’autre part le manque de stimulation des mouvements de la tête du bébé et des positions toujours identiques par les parents : peu de temps d’éveil sur le ventre, biberon donné toujours du même côté, peu de variations de la position de la tête pendant les phases d’éveil et faible niveau d’activité...
+On aura d'autre part le manque de stimulation des mouvements de la tête du bébé et des positions toujours identiques par les parents : peu de temps d'éveil sur le ventre, biberon donné toujours du même côté, peu de variations de la position de la tête pendant les phases d'éveil et faible niveau d'activité...
 
 On aura aussi les surfaces dures sur lesquelles appuie le crâne du bébé : matelas dur, beaucoup de temps passé dans le cosy, couchage sur le dos...
 
@@ -79,7 +79,7 @@ causer un raccourcissement chronique du SCM et donc créer un torticolis."_ [2]
 Un torticolis congénital est retrouvé dans près des 1/3 des plagiocéphalies positionnelles et doit être traité le plus tôt possible [7][8].
 
 Votre enfant peut présenter une position préférée de tête, mais il doit pouvoir la tourner et l'incliner à droite et à gauche et ce, de manière symétrique.
-Si ce n’est pas le cas, votre pédiatre pourrait alors diagnostiquer un torticolis congénital et orienter votre enfant chez
+Si ce n'est pas le cas, votre pédiatre pourrait alors diagnostiquer un torticolis congénital et orienter votre enfant chez
 le kinésithérapeute pour un traitement spécifique.
 
 [L'ostéopathie dans le traitement des têtes plates ou plagiocéphalies](http://www.journalosteopathie.com/Plagiocephalie_42.pdf)
@@ -116,7 +116,7 @@ et les autres bien que le cerveau présente une déformation semblable aux défo
 Cependant, il y a toujours débat sur l'association entre plagiocéphalie et retards de développement [18] et certaines études
 mettent en évidence un lien entre plagiocéphalie positionnelle et :
 
-- une diminution dans l’acquisition des compétences spécifiques motrices en fonction de la gravité de la plagiocéphalie positionnelle [13],
+- une diminution dans l'acquisition des compétences spécifiques motrices en fonction de la gravité de la plagiocéphalie positionnelle [13],
 - un moins bon score au BSID-III (sans savoir si ces retards de développement suivent ou précèdent les déformations du cerveau) [15],
 - un traitement altéré du son par le cerveau [16],
 - une augmentation du risque de problème de développement avec augmentation à l'âge scolaire de prises en charge spécifiques :
@@ -193,8 +193,8 @@ l'on appelle le syndrome du bébé moulé :
 
 _"Les forces de tractions et/ou de compressions capables de créer une asymétrie crânienne sont absorbées et transmises
 dans le corps du nourrisson avant, pendant et/ou après la naissance prédisposant ainsi certains enfants à développer,
-entre autres, une plagiocéphalie. La spécificité de l’ostéopathie nous permet de traiter l’enfant dans sa globalité en remontant
-aux causes responsables des principaux symptômes et en libérant les dysfonctions de l’ensemble du corps par ordre de primarité." [23]
+entre autres, une plagiocéphalie. La spécificité de l'ostéopathie nous permet de traiter l'enfant dans sa globalité en remontant
+aux causes responsables des principaux symptômes et en libérant les dysfonctions de l'ensemble du corps par ordre de primarité." [23]
 
 Le traitement ostéopathique ne s'arrête pas à la seule déformation visible du crâne, mais s'occupe de la globalité du
 corps du nourrisson et de l'asymétrie posturale dans son ensemble. Le traitement ostéopathique dans les premiers mois de
@@ -318,7 +318,7 @@ Pour aller plus loin, vous pouvez consulter le blog [Plagiocéphalie, têtes pla
   Journal of Kentucky Medical Association (2006) Vol 104, N°4 -p 136-340 
 
 - [23] Sylvie Lessard, Nathalie, Thiffault, Nathalie Trottier.
-  ["L’ostéopathie dans le traitement des têtes plates ou plagiocéphalies"](http://www.journalosteopathie.com/Plagiocephalie_42.pdf)
+  ["L'ostéopathie dans le traitement des têtes plates ou plagiocéphalies"](http://www.journalosteopathie.com/Plagiocephalie_42.pdf)
   Journal de l'ostéopathie précisément, N° 42 - p 5-13
 
 - [24] Lessard S, Gagnon I, Trottier N.

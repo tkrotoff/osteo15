@@ -9,8 +9,8 @@ permalink: /L'ostéopathie/
 L'ostéopathie est une thérapie manuelle dite de premier ordre : il n'y a **pas besoin d'ordonnance** pour entamer une prise en charge ostéopathique.
 
 Le Référentiel Métier Ostéopathe donne une définition de l'ostéopathie : 
-*"L’ostéopathie consiste, dans une compréhension globale du patient,
-à prévenir, diagnostiquer et traiter manuellement les dysfonctions de la mobilité des tissus du corps humain susceptibles d’en altérer l’état de santé"*.
+*"L'ostéopathie consiste, dans une compréhension globale du patient,
+à prévenir, diagnostiquer et traiter manuellement les dysfonctions de la mobilité des tissus du corps humain susceptibles d'en altérer l'état de santé"*.
 
 Pour comprendre cet 'état de santé', il est nécessaire de se rappeler de la définition qu'en donne l'OMS :
 *"La santé est un état de complet bien-être physique, mental et social, et ne consiste pas seulement en une absence de maladie ou d'infirmité"*.

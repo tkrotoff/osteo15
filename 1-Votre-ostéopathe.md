@@ -46,7 +46,7 @@ Pour vous proposer la meilleure des prises en charge, je continue de me former r
 
 ### 2009
 - Titulaire du [label Eur Ost DO](http://www.osteofrance.com/eur-ost-do/), je réponds à son [code de déontologie](http://www.osteofrance.com/assets/pdf/ufof_deontologie.pdf)
-- **Diplôme d’ostéopathie du [COE](http://www.osteo-coe.fr/)** agréé par l'Etat (formation de 5 ans).
+- **Diplôme d'ostéopathie du [COE](http://www.osteo-coe.fr/)** agréé par l'Etat (formation de 5 ans).
   Mentions très bien aux mémoires (cas clinique et recherche de littérature).
   Mon diplôme d'ostéopathie est inscrit au fichier ADELI (N° 750004061) de la DRASS référençant toutes les professions médicales et paramédicales.
   N° SIRET : 5151163900029

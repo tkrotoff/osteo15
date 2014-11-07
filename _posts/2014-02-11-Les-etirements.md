@@ -60,7 +60,7 @@ Vous l'aurez maintenant compris : surtout pas d'étirements. Pour diminuer les c
 - ["Effects of stretching before and after exercising on muscle soreness and risk of injury: systematic review"](http://www.bmj.com/content/325/7362/468)
   Rob D Herbert, Michael Gabriel / BMJ 2002;325:468
 
-- ["Les exercices d’étirement dans la pratique sportive ont-ils encore leur raison d’être ? Une revue de la littérature"](http://titan.medhyg.ch/mh/formation/article.php3?sid=30581)
+- ["Les exercices d'étirement dans la pratique sportive ont-ils encore leur raison d'être ? Une revue de la littérature"](http://titan.medhyg.ch/mh/formation/article.php3?sid=30581)
   G. Gremion/ Revue Médicale Suisse N° 28 publiée le 27/07/2005
 
 - ["Effects of running, static stretching and practice jumps on explosive force production and jumping performance"](http://www.ncbi.nlm.nih.gov/pubmed/12629458)

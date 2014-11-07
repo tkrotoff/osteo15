@@ -30,7 +30,7 @@ Plusieurs signes peuvent être présents, les larmes ne pouvant plus s'écouler 
   C'est ce que l'on appelle l'[épiphora](http://www.larousse.fr/dictionnaires/francais/%C3%A9piphora/30485) (ce larmoiement des yeux peut avoir plusieurs origines [3] [8] et nécessite donc le diagnostic d'un médecin),
 - Cils mouillés en permanence,
 - Paupières collées, surtout le matin au réveil car le mucus des yeux n'est plus nettoyé par les larmes,
-- Parfois, on peut voir un liquide jaune ou verdâtre dans l'oeil ou alors remarquer que l'œil  est rouge : l'œil peut s'infecter plus facilement lorsque le canal lacrymal est bouché  car il n'est plus nettoyé correctement par les larmes,
+- Parfois, on peut voir un liquide jaune ou verdâtre dans l'oeil ou alors remarquer que l'œil est rouge : l'œil peut s'infecter plus facilement lorsque le canal lacrymal est bouché car il n'est plus nettoyé correctement par les larmes,
 - Le sac lacrymal, situé au coin interne de l'œil, peut être gonflé. C'est ce que l'on appelle la [dacryocystocèle](http://fr.wikipedia.org/wiki/Dacryocystoc%C3%A8le).
 
 ## Traitements
@@ -87,9 +87,9 @@ La littérature sur le traitement ostéopathique d'un canal lacrymal bouché est
 
 D'ailleurs, il est intéressant de noter que [M. Perchepied](http://www.bretagne-osteopathie.com/pdf/Memoire_PERCHEPIED_Gilles.pdf), dans ce mémoire, pointe du doigt l'approche différente (entre médecine allopathique et ostéopathie) d'un canal lacrymal bouché :
 
-*"La médecine conçoit l’obstruction comme une membrane immature qui bouche le canal et qu’il faut perforer afin que le canal puisse remplir sa fonction.
-Dans notre étude, nous n’avons pas été confrontés à ces situations si elles existent car dans ces cas notre mode d’action serait inefficace.
-Selon notre point de vue ostéopathique, nous concevons ces obstructions comme une congestion vasculaire de la muqueuse (œdème de la muqueuse) qu’il faut drainer par voie réflexe neurovasculaire.
+*"La médecine conçoit l'obstruction comme une membrane immature qui bouche le canal et qu'il faut perforer afin que le canal puisse remplir sa fonction.
+Dans notre étude, nous n'avons pas été confrontés à ces situations si elles existent car dans ces cas notre mode d'action serait inefficace.
+Selon notre point de vue ostéopathique, nous concevons ces obstructions comme une congestion vasculaire de la muqueuse (œdème de la muqueuse) qu'il faut drainer par voie réflexe neurovasculaire.
 Cette obstruction est congestive car nous constatons à posteriori du traitement une disparition conjointe des LTR et consécutivement des troubles de la fonction."*
 
 Je rajouterai que toutes les causes modifiant la qualité des tissus, leur vascularisation et drainage, leur mobilité etc...
@@ -138,7 +138,7 @@ il est donc recommandé de faire consulter son enfant par un ostéopathe.**
   Pathologie lacrymale chez le nourrisson et l'enfant.
   Encycl Méd Chir, Ophtalmologie, 21-170-B-30,2007
 
-- [9] [ETUDE DES EFFETS DU TRAITEMENT OSTEOPATHIQUE SUR L’OBSTRUCTION DU CANAL LACRYMAL CHEZ LE NOURRISSON](http://www.bretagne-osteopathie.com/pdf/Memoire_PERCHEPIED_Gilles.pdf)
+- [9] [ETUDE DES EFFETS DU TRAITEMENT OSTEOPATHIQUE SUR L'OBSTRUCTION DU CANAL LACRYMAL CHEZ LE NOURRISSON](http://www.bretagne-osteopathie.com/pdf/Memoire_PERCHEPIED_Gilles.pdf)
   PERCHEPIED Gilles 2011/2012
 
 Pour aller plus loin, vous pouvez consulter le [site des Drs Bruno Fayet et Emmanuel Racy](http://www.voies-lacrymales.com/62+nourrisson-et-petit-enfant.html)
