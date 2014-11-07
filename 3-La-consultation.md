@@ -42,6 +42,4 @@ Ces signes disparaissent en général les jours qui suivent la séance. Dans le 
 Pour aider votre corps à rétablir ce nouvel état d'équilibre, il est conseillé de se reposer et de ne pas faire d'effort pendant une semaine.
 Votre ostéopathe peut aussi vous donner en fin de séance quelques conseils lui semblant importants pour votre bon rétablissement : boire suffisamment d'eau, revoir votre ergonomie au travail, faire certains étirements...
 
-**Il est parfois indispensable de coupler les soins ostéopathiques à d'autres prises en charge comme la podologie, les soins bucco-dentaires, un bilan chez l'ophtalmologiste...**
-
-**[Votre ostéopathe](/Contact) saura vous réorienter en cas de nécessité.**
+Il est parfois nécessaire de coupler les soins ostéopathiques à d'autres prises en charge comme la podologie, les soins bucco-dentaires, un bilan chez l'ophtalmologiste...
