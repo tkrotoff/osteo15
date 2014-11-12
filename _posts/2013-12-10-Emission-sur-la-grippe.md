@@ -3,8 +3,7 @@ layout: post
 title: Emission sur la grippe
 ---
 
-Chouette émission hier soir sur France 3 intitulée ["Grippe, virus, microbes : la guerre est déclarée"](http://www.france3.fr/emission/tout-peut-changer/diffusion-du-09-12-2013-20h45
-).
+Chouette émission hier soir sur France 3 intitulée ["Grippe, virus, microbes : la guerre est déclarée"](http://www.france3.fr/emission/tout-peut-changer/diffusion-du-09-12-2013-20h45).
 
 Si vous-vous :
 
