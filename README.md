@@ -59,3 +59,15 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 - ’ -> '
 - … -> ...
 - oe -> œ
+
+## Favicon
+
+- https://github.com/audreyr/favicon-cheat-sheet
+- [Apple - Configuring Web Applications](https://developer.apple.com/library/iad/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
+- [Chrome - Add to Homescreen](https://developer.chrome.com/multidevice/android/installtohomescreen)
+- [W3C HTML5 - Link type "icon"](http://www.w3.org/TR/html5/links.html#rel-icon)
+
+```Shell
+# Pour créer une image ICO avec ImageMagick
+convert hand-16.png hand-32.png hand-48.png hand-16-32-48.ico
+```
