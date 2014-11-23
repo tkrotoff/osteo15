@@ -1,6 +1,13 @@
 # Osteo15 blog
 
-Jekyll version 2.4.0
+Jekyll version 2.5.1
+
+```Shell
+gem install jekyll
+gem install i18n # Dates en français
+jekyll serve
+open http://localhost:4000
+```
 
 ## Les URLs ne doivent pas contenir certains caractères
 
