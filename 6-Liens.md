@@ -1,6 +1,6 @@
 ---
-title: Liens
 layout: page
+title: Liens
 permalink: /Liens/
 ---
 

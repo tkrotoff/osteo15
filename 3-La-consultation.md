@@ -1,6 +1,6 @@
 ---
-title: La consultation
 layout: page
+title: La consultation
 permalink: /La-consultation/
 ---
 

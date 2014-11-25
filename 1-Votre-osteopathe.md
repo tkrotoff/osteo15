@@ -1,7 +1,7 @@
 ---
-title: Votre ostéopathe
 layout: page
-permalink: /Votre-ostéopathe/
+title: Votre ostéopathe
+permalink: /Votre-osteopathe/
 ---
 
 Je suis ostéopathe DO issue d'une formation à temps plein de 5 ans et diplômée du [COE](http://www.osteo-coe.fr/).

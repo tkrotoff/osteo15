@@ -1,6 +1,6 @@
 ---
-title: Tarif et remboursement
 layout: page
+title: Tarif et remboursement
 permalink: /Tarif-et-remboursement/
 ---
 

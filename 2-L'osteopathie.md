@@ -1,7 +1,7 @@
 ---
-title: L'ostéopathie
 layout: page
-permalink: /L'ostéopathie/
+title: L'ostéopathie
+permalink: /L'osteopathie/
 ---
 
 ## Qu'est ce que l'ostéopathie ?
