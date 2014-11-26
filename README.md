@@ -78,3 +78,8 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 # Pour créer une image ICO avec ImageMagick
 convert hand-16.png hand-32.png hand-48.png hand-16-32-48.ico
 ```
+
+## Sitemap
+
+- http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/
+- http://www.sitemaps.org/
