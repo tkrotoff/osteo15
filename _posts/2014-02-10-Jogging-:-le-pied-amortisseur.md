@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Jogging : le pied amortisseur"
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Pour ceux qui font de la course à pied ou tout simplement pour les curieux, voici une vidéo de l'[université Claude-Bernard Lyon I (UCBL)](http://www.univ-lyon1.fr/).

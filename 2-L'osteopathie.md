@@ -2,6 +2,8 @@
 layout: page
 title: L'ostéopathie
 permalink: /L'osteopathie/
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 ## Qu'est ce que l'ostéopathie ?

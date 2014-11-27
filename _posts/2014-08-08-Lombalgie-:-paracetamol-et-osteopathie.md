@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Lombalgie : paracétamol et ostéopathie"
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Le paracétamol, un médicament accessible sans ordonnance en pharmacie, est un [antalgique](https://fr.wikipedia.org/wiki/Antalgique)

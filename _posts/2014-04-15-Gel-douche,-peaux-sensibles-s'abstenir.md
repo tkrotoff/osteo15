@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Gel douche, peaux sensibles s'abstenir
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Documentaire d'Emeline Ménage et Liza Fanjeaux diffusé sur France 5 : ["Gel douche, peaux sensibles s'abstenir"](http://www.france5.fr/emission/gel-douche-peaux-sensibles-sabstenir).

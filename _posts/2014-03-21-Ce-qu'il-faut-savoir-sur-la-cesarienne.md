@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Ce qu'il faut savoir sur la césarienne
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 La HAS (Haute Autorité de Santé) a rédigé un document d'information destiné aux femmes enceintes

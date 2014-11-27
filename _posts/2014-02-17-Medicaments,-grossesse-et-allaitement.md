@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Médicaments, grossesse et allaitement
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Le [centre de référence sur les agents tératogènes (CRAT)](http://www.lecrat.org/) propose un recensement des médicaments

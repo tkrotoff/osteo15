@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Pourquoi et quand consulter un ostéopathe ?
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Je n'ai pas la prétention de répondre de façon exhaustive à ces questions tant le sujet est vaste, mais je vais tenter d'y répondre de façon claire et simple.

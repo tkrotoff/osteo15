@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Comment savoir si mon bébé à besoin de consulter un ostéopathe ?
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Il n'y a pas de règle en la matière car un accouchement peut se passer bien médicalement alors que

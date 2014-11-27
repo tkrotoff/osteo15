@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Recommandations sur la sortie de maternité
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 La HAS (Haute Autorité de Santé) a rédigé un document d'information destiné aux femmes enceintes : ["Sortie de maternité : préparez votre retour à la maison"](http://www.has-sante.fr/portail/jcms/c_1729194/fr/sortie-de-maternite-preparez-votre-retour-a-la-maisondocument-d-information-destine-aux-femmes-enceintes).

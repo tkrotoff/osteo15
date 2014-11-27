@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Introduction à la micronutrition
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Peu connue et méritant une vraie démocratisation, la [micronutrition](http://fr.wikipedia.org/wiki/Micronutrition) est une thérapie à part entière

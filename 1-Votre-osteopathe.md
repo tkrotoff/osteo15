@@ -2,6 +2,8 @@
 layout: page
 title: Votre ostéopathe
 permalink: /Votre-osteopathe/
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Je suis ostéopathe DO issue d'une formation à temps plein de 5 ans et diplômée du [COE](http://www.osteo-coe.fr/).

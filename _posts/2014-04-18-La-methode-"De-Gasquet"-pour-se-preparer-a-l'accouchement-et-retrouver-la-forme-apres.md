@@ -1,6 +1,8 @@
 ---
 layout: post
 title: La méthode "De Gasquet" pour se préparer à l'accouchement et retrouver la forme après
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 La période de grossesse est un moment de bouleversements intenses : postural, hormonal, psychologique...

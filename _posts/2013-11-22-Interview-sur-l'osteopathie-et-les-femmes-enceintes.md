@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Interview sur l'ostéopathie et les femmes enceintes
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Delphine Bourdet m'a interviewé à propos de

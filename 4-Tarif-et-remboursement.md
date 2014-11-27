@@ -2,6 +2,8 @@
 layout: page
 title: Tarif et remboursement
 permalink: /Tarif-et-remboursement/
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 ## Tarif

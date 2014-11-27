@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Entorse de cheville et arthrose : attention aux séquelles"
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Une étude récente [1] a mis en évidence l'installation d'arthrose sur l'articulation de la cheville lorsque celle-ci était instable.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Le ventre, notre deuxième cerveau
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Voici un très bon documentaire de Cécile Denjean diffusé sur Arte : ["Le ventre, notre deuxième cerveau"](http://future.arte.tv/fr/le-ventre).

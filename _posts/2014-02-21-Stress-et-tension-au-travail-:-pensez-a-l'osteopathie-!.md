@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Stress et tension au travail : pensez à l'ostéopathie !"
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 En période de stress, le corps peut être mal mené : longues journées de travail, mauvaises positions, peu de sommeil ou sommeil non réparateur, surmenage...

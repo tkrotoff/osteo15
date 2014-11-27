@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Le voyage psychique de la femme enceinte
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Parce qu'être enceinte est un bouleversement physique mais aussi psychique, je vous conseille la lecture de deux livres d'Elisabeth Darchis :

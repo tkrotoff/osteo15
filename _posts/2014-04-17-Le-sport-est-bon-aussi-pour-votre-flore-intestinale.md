@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Le sport est bon aussi pour votre flore intestinale
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Nous sommes aux prémices de la compréhension de notre microbiote intestinal et de ses interactions avec notre corps,

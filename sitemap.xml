@@ -7,7 +7,7 @@ sitemap:
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   {% for post in site.posts %}
-    {% unless post.published == false and post.sitemap.exclude == true %}
+    {% unless post.published == false or post.sitemap.exclude == true %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.sitemap.lastmod %}

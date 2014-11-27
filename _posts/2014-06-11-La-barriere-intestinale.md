@@ -1,6 +1,8 @@
 ---
 layout: post
 title: La barrière intestinale
+sitemap:
+  lastmod: 2014-11-27
 ---
 
 Pour que votre alimentation vous apporte tous les macro et micro-nutriments dont votre corps a besoin,
