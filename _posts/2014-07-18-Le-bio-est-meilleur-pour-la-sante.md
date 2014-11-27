@@ -33,7 +33,10 @@ En 2009, le label AB (Agriculture biologique) s'est aligné sur [le cahier des c
 qui est moins strict et est [dénoncé par Green Peace](http://www.greenpeace.org/belgium/fr/presse/communiques-presse/ogm-bio/)
 (entre autre pour la tolérance de trace d'OGM dans les produits issus de l'agriculture biologique).
 
-Un autre label a donc vu le jour : [Bio Cohérence](http://www.biocoherence.fr/Qu_est-ce_que_c_est_/Bio_Coherence_qu_est-ce_que_c_est_),
+Un autre label
+[[1]](http://www.60millions-mag.com/guides_d_achat/conseils_d_experts/a_quel_label_bio_se_fier/bio_coherence)
+[[2]](http://www.lexpress.fr/actualite/societe/environnement/bio-coherence-le-nouveau-label-qui-peut-tout-changer_883966.html)
+a donc vu le jour : [Bio Cohérence](http://www.biocoherence.fr/Qu_est-ce_que_c_est_/Bio_Coherence_qu_est-ce_que_c_est_),
 qui reprend l'ancien cahier des charges du label AB.
 
 ![Bio Cohérence](/assets/2014-07-18/Bio-Coherence.jpg)
