@@ -47,7 +47,7 @@ Les causes de survenue d'une lombalgie commune peuvent être très variées (lis
 
 En général, la lombalgie se résout en 2 semaines mais les récidives sont fréquentes (73% des personnes auront une récidive de lombalgie dans les 12 mois) [1].
 Le paracétamol est inefficace comme traitement et il ne réduit pas la durée du mal de dos
-(voir [l'article sur la lombalgie et le paracétamol]({% post_url 2014-08-08-Lombalgie-:-paracetamol-et-osteopathie %}).
+(voir [l'article sur la lombalgie et le paracétamol]({% post_url 2014-08-08-Lombalgie-paracetamol-et-osteopathie %}).
 Le risque majeur de la lombalgie est donc son passage à la chronicité avec son lot d'arrêts maladie et d'incapacité physique.
 
 On parle de lombalgie :
@@ -70,7 +70,7 @@ Une séance hebdomadaire de sport [10][11][12] (avec échauffements et étiremen
 piscine, pilates, marche à pied ou marche nordique, yoga, vélo...
 Il ne faut pas tomber dans ce que l'on appelle le cercle vicieux de la douleur :
 
-![Cercle vicieux de la douleur](/assets/2014-07-30/Lombalgie-:-cercle-vicieux-de-la-douleur.gif)
+![Cercle vicieux de la douleur](/assets/2014-07-30/Lombalgie-cercle-vicieux-de-la-douleur.gif)
 
 - Bien entendu, il faudra revoir [l'ergonomie](http://www.reseau-lcd.org/html/pdf/Douleur_mal%20de%20dos.pdf) :
 que ce soit l'agencement du poste de travail au bureau ou les mouvements lors de la manutention, du jardinage ou des gestes quotidiens...

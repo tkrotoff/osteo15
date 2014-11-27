@@ -26,27 +26,38 @@ Exemple :
 
 ## Utilisation de post_url
 
-Pour générer un lien vers un post, il faut utiliser la fonction [post_url](http://jekyllrb.com/docs/templates/#post-url) de Jekyll.
+Pour générer un lien vers un post, il faut utiliser la fonction [post_url](http://jekyllrb.com/docs/templates/#post-url) de Jekyll :
+```HTML
+{% post_url 2014-08-08-Lombalgie-paracetamol-et-osteopathie %}
+```
 
-## Les fichiers ne doivent pas contenir d'accents
+## Les fichiers ne doivent pas contenir de caractères spéciaux
 
 post_url ne fonctionne pas avec des accents (:-/), exemple :
 ```Markdown
-<!-- Fonctionne -->
+<!-- OK -->
 [la micronutrition]({% post_url 2014-03-25-Introduction-a-la-micronutrition %})
 
-<!-- Ne fonctionne pas -->
+<!-- KO -->
 [la micronutrition]({% post_url 2014-03-25-Introduction-à-la-micronutrition %})
 ```
 
 Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubuntu 14.10 x64, Ruby 2.1.0, Jekyll 2.4.0) :
 ```Markdown
-<!-- Fonctionne -->
+<!-- OK -->
 ![Schéma déroulement consultation](/assets/2014-08-20/Deroulement-consultation.png)
 
-<!-- Ne fonctionne pas -->
+<!-- KO -->
 ![Schéma déroulement consultation](/assets/2014-08-20/Déroulement consultation.png)
 ```
+
+Le caractère `?` est replacé par `%3F` dans les URLs, ce qui est à éviter :
+- OK : `2014-08-21-Bebe-:-quand-consulter-un-osteopathe-?.md` => `/2014/08/21/Bebe-:-quand-consulter-un-osteopathe-%3F/`
+- KO : `2014-08-21-Bebe-quand-consulter-un-osteopathe.md` => `/2014/08/21/Bebe-quand-consulter-un-osteopathe/`
+
+Jekyll 2.5.1 crash si le nom d'un fichier comporte `:` :
+- OK : `2014-02-10-Jogging-le-pied-amortisseur.md`
+- KO : `2014-02-10-Jogging-:-le-pied-amortisseur.md`
 
 ## Formats des images
 
