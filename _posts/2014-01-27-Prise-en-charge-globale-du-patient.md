@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Prise en charge globale du patient
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 Lorsque l'on parle de prise en charge globale du patient, on pense à la prise en considération de toutes les pathologies

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Quelques conseils aux skieurs
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 Vous venez certainement de passer une longue période sans forcément avoir eu une activité sportive et êtes impatients de

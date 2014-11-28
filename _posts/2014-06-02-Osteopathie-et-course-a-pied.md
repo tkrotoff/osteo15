@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Ostéopathie et course à pied
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 Le site web [Globe Runners](http://www.globe-runners.fr/) propose un article sur l'ostéopathie :

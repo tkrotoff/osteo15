@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Questions-réponses sur l'hypnose avec Delphine Bourdet
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 [![Delphine Bourdet](/assets/2014-02-19/Delphine-Bourdet.jpg)](http://www.lotusinparis.com/)

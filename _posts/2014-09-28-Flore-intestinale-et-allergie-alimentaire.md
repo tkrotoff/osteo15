@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Flore intestinale et allergie alimentaire
-sitemap:
-  lastmod: 2014-11-26
+last_modified_at: '2014-11-26'
 ---
 
 D'après [cette étude d'août 2014](http://intl.pnas.org/content/111/36/13145), l'alimentation moderne, les antibiotiques et les pesticides

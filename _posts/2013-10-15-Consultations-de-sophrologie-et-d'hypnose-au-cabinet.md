@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Consultations de sophrologie et d'hypnose au cabinet
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 Depuis le 1er octobre 2013, [Delphine Bourdet](http://delphinebourdet.com/about/), sophrologue et hypnothérapeute,

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Prévention et gestion des troubles musculosquelettiques (TMS)
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 Les troubles musculosquelettiques ou TMS regroupent une multitude de pathologies dont les signes cliniques sont divers et variés.

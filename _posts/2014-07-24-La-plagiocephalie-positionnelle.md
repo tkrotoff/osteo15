@@ -1,8 +1,7 @@
 ---
 layout: post
 title: La plagiocéphalie positionnelle
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 La plagiocéphalie est une déformation du crâne qui peut avoir deux origines :

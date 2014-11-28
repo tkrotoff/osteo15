@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Le bio est meilleur pour la santé
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 Cet article fait suite aux précédents sur

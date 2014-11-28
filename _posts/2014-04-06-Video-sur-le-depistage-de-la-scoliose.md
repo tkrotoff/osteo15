@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Vidéo sur le dépistage de la scoliose
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 Voici une vidéo de la [fondation Yves Cotrel](http://fondationcotrel.org/) à propos du dépistage de la scoliose :

@@ -2,8 +2,6 @@
 layout: page
 title: Contact
 permalink: /Contact/
-sitemap:
-  lastmod: 2014-11-27
 ---
 
 **Fabienne Krotoff Ostéopathe DO**

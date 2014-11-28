@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Etude Ipsos sur les Français et leur alimentation
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 L'institut de sondages Ipsos vient de sortir

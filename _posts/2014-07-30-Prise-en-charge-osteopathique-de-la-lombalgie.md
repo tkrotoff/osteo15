@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Prise en charge ostéopathique de la lombalgie
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 La lombalgie est une douleur dans le bas du dos, au niveau du rachis lombaire. Dans le langage courant les termes de "tour de reins"

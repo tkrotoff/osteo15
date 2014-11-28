@@ -2,8 +2,6 @@
 layout: page
 title: Liens
 permalink: /Liens/
-sitemap:
-  lastmod: 2014-11-27
 ---
 
 ## Gymboree : l'activité des petits

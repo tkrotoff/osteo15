@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Traitement ostéopathique de l'inertie colique
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 "Le traitement chirurgical de l'inertie colique concerne moins de 10 % des patients souffrant de constipation sévère résistant au traitement médical".

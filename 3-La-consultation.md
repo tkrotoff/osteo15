@@ -2,8 +2,6 @@
 layout: page
 title: La consultation
 permalink: /La-consultation/
-sitemap:
-  lastmod: 2014-11-27
 ---
 
 On peut découper une séance d'ostéopathie en plusieurs temps.

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Ostéopathie pour les femmes enceintes
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 Le magazine [Neuf Mois](http://www.neufmois.fr/) parle de l'ostéopathie :

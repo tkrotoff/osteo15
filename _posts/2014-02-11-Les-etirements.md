@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Les étirements
-sitemap:
-  lastmod: 2014-11-27
+last_modified_at: '2014-11-27'
 ---
 
 Les étirements devraient faire partie intégrante d'un programme sportif, que ce soit pour la compétition ou l'entretien physique.

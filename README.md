@@ -3,8 +3,7 @@
 Jekyll version 2.5.1
 
 ```Shell
-gem install jekyll
-gem install i18n # Dates en français
+bundle install
 jekyll serve
 open http://localhost:4000
 ```
