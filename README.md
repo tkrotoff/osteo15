@@ -104,4 +104,6 @@ convert hand-16.png hand-32.png hand-48.png hand-16-32-48.ico
 ## Hébergement
 
 Amazon Simple Storage Service (Amazon S3)
-http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
+- [Hosting a Static Website on Amazon Web Services](http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html)
+- [Hosting a static (Jekyll) blog on Amazon S3](http://www.savjee.be/2013/02/howto-host-jekyll-blog-on-amazon-s3/)
+- [Enable gzip for Jekyll blogs on Amazon S3](http://www.savjee.be/2014/03/Jekyll-to-S3-deploy-script-with-gzip/)
