@@ -1,0 +1,17 @@
+---
+layout: page
+title: Page introuvable
+permalink: /404.html
+sitemap: false
+sitenav: false
+---
+
+<p>Oops, cette page n'existe pas...</p>
+
+<p>A la recherche d'un article récent ?</p>
+
+<ul>
+  {% for post in site.posts limit:7 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
