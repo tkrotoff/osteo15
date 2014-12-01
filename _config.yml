@@ -18,5 +18,12 @@ permalink: pretty
 # Build settings
 markdown: kramdown
 
+exclude: [
+  "vendor",
+  "README.md",
+  "Gemfile",
+  "Gemfile.lock"
+]
+
 gems:
   - jekyll-sitemap

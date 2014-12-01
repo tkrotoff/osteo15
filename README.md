@@ -3,8 +3,9 @@
 Jekyll version 2.5.1
 
 ```Shell
-bundle install
-jekyll serve
+sudo gem install bundler
+bundle install --path vendor/bundle
+bundle exec jekyll serve
 open http://localhost:4000
 ```
 
