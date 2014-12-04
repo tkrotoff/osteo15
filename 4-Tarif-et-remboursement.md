@@ -6,7 +6,7 @@ permalink: /Tarif-et-remboursement/
 
 ## Tarif
 
-Le montant d'une consultation d'ostéopathie est fixé à 60 euros.
+Le montant d'une consultation d'ostéopathie est de 60 euros.
 Une facture vous est remise à la fin de la consultation vous permettant de l'adresser à votre mutuelle si vous bénéficiez d'un remboursement.
 
 ## Remboursement
