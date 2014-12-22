@@ -11,7 +11,7 @@ Je suis ostéopathe DO issue d'une formation à temps plein de 5 ans et diplôm�
 - Titulaire du [label Eur Ost DO](http://www.osteofrance.com/eur-ost-do/), je réponds à son [code de déontologie](http://www.osteofrance.com/assets/pdf/ufof_deontologie.pdf)
 - Membre de l'[UFOF](http://www.osteofrance.com/ufof/presentation/) (Union Fédérale des Ostéopathes de France)
 
-![Fabienne Krotoff](/assets/Fabienne-Krotoff.jpg)
+![Fabienne Krotoff](/assets/Fabienne-Krotoff/Fabienne-Krotoff-1.jpg)
 
 ## Formations et diplômes
 
