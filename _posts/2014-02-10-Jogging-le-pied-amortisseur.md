@@ -11,7 +11,7 @@ Toute perte de mobilité locale sur l'une de ces structures (ou à distance prov
 peut compromettre l'ergonomie du pas et donc l'efficacité de l'amortisseur que forme le complexe jambe + cheville + pied.
 Je pense notamment aux entorses de cheville qui sont souvent mal soignées.
 
-<div class="responsive-iframe">
+<div class="responsive-youtube-iframe">
   <iframe src="//www.youtube.com/embed/-MAxyf6SzVE" frameborder="0" allowfullscreen></iframe>
 </div>
 

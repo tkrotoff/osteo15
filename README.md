@@ -73,8 +73,16 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 ## Intégration d'une video YouTube
 
 ```HTML
-<div class="responsive-iframe">
+<div class="responsive-youtube-iframe">
   <iframe src="//www.youtube.com/embed/VJo5z11rUYQ" frameborder="0" allowfullscreen></iframe>
+</div>
+```
+
+## Intégration d'une carte Google Maps
+
+```HTML
+<div class="responsive-googlemaps-iframe">
+  <iframe src="https://www.google.com/maps/embed?..." frameborder="0" style="border:0"></iframe>
 </div>
 ```
 
