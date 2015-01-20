@@ -47,6 +47,9 @@ ul, ol, dl, figure,
 img {
     max-width: 100%;
     vertical-align: middle;
+
+    -webkit-box-shadow: 0 0 1px 1px $grey-color-dark;
+            box-shadow: 0 0 1px 1px $grey-color-dark;
 }
 
 
