@@ -19,7 +19,11 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
+
+    // The body should take the background wanted for the footer
+    // in case the page is smaller than the web browser window
+    background: transparent url('/assets/bg-line-tan.png') repeat center top;
+
     -webkit-text-size-adjust: 100%;
 }
 

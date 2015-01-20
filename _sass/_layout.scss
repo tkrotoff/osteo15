@@ -2,12 +2,12 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 5px solid $brand-color;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    background: transparent url('/assets/bg-line-chocolate.png') repeat center top;
 }
 
 .site-title {
@@ -92,8 +92,10 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 5px solid $brand-color;
     padding: $spacing-unit 0;
+
+    background: transparent url('/assets/bg-line-tan.png') repeat center top;
 }
 
 .footer-heading {
@@ -163,6 +165,8 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+
+    background-color: $background-color;
 }
 
 .page-heading {
