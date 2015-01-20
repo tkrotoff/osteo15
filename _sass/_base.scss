@@ -22,7 +22,7 @@ body {
 
     // The body should take the background wanted for the footer
     // in case the page is smaller than the web browser window
-    background: transparent url('/assets/bg-line-tan.png') repeat center top;
+    background: transparent url($bg-line-tan_png) repeat center top;
 
     -webkit-text-size-adjust: 100%;
 }

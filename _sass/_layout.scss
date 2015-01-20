@@ -10,7 +10,7 @@
 
     @extend %triangle-after;
 
-    background: transparent url('/assets/bg-line-chocolate.png') repeat center top;
+    background: transparent url($bg-line-chocolate_png) repeat center top;
 
     color: $header-text-color;
     a {
@@ -114,7 +114,7 @@
     border-top: 5px solid $brand-color;
     padding: $spacing-unit 0;
 
-    background: transparent url('/assets/bg-line-tan.png') repeat center top;
+    background: transparent url($bg-line-tan_png) repeat center top;
 
     position: relative;
     @extend %triangle-before;
