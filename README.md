@@ -5,8 +5,10 @@ Jekyll version 2.5.1
 ```Shell
 sudo gem install bundler
 bundle install --path vendor/bundle
-bundle exec jekyll serve
+bundle exec jekyll serve --host 0.0.0.0
 open http://localhost:4000
+
+bundle exec s3_website push # Déploiement sur Amazon S3
 ```
 
 ## Utilisation de post_url
@@ -107,12 +109,22 @@ convert hand-16.png hand-32.png hand-48.png hand-16-32-48.ico
 
 ## Sitemap
 
-- http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/
-- http://www.sitemaps.org/
+- https://github.com/jekyll/jekyll-sitemap
+- [Building a Better Sitemap.xml with Jekyll](http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/)
+- [Sitemaps XML format](http://www.sitemaps.org/protocol.html)
 
 ## Hébergement
 
-Amazon Simple Storage Service (Amazon S3)
+Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
+
 - [Hosting a Static Website on Amazon Web Services](http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html)
 - [Hosting a static (Jekyll) blog on Amazon S3](http://www.savjee.be/2013/02/howto-host-jekyll-blog-on-amazon-s3/)
 - [Enable gzip for Jekyll blogs on Amazon S3](http://www.savjee.be/2014/03/Jekyll-to-S3-deploy-script-with-gzip/)
+- [Static website on S3, CloudFront and Route 53, the right way!](http://www.michaelgallego.fr/blog/2013/08/27/static-website-on-s3-cloudfront-and-route-53-the-right-way/)
+- [Avoiding the Duplicate Content Penalty with AWS S3 and CloudFront](https://bryce.fisher-fleig.org/blog/avoiding-duplicate-content-penalty-with-aws-s3-and-cloudfront/)
+
+## SEO
+
+- [Webmaster Tools](https://www.google.com/webmasters/tools/other-links)
+- [SEOquake](http://www.seoquake.com/)
+- [Search Engine Optimization (SEO) Basics](https://www.njimedia.com/search-engine-optimization-seo-basics/)
