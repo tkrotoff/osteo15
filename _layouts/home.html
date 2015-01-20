@@ -54,13 +54,13 @@
     $(function() {
       $('.fadein img:gt(0)').hide();
       setInterval(
-          function() {
-            $('.fadein :first-child')
-                .hide()
-                .next('img').show()
-                .end().appendTo('.fadein');
-          },
-          4000
+        function() {
+          $('.fadein :first-child')
+            .hide()
+            .next('img').show()
+            .end().appendTo('.fadein');
+        },
+        4000
       );
     });
   </script>
