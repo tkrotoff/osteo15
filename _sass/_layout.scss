@@ -7,6 +7,9 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    @extend %triangle-after;
+
     background: transparent url('/assets/bg-line-chocolate.png') repeat center top;
 
     color: $header-text-color;
@@ -59,6 +62,7 @@
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
+        z-index: 2;
 
         .menu-icon {
             display: block;
@@ -111,6 +115,9 @@
     padding: $spacing-unit 0;
 
     background: transparent url('/assets/bg-line-tan.png') repeat center top;
+
+    position: relative;
+    @extend %triangle-before;
 }
 
 .footer-heading {
@@ -251,5 +258,40 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+}
+
+
+/**
+ * The triangle centered and above the page content/below the header
+ * See Center a Pseudo Element http://stackoverflow.com/questions/16818792
+ * Example: http://www.hanselman.com/
+ */
+%triangle {
+    content: "";
+    position: absolute;
+
+    left: -webkit-calc(50% - 10px);
+    left:         calc(50% - 10px);
+
+    border-style: solid;
+    border-color: $brand-color transparent;
+
+    z-index: 1;
+}
+
+%triangle-after {
+    &:after {
+        @extend %triangle;
+        bottom: -15px;
+        border-width: 10px 10px 0;
+    }
+}
+
+%triangle-before {
+    &:before {
+        @extend %triangle;
+        top: -15px;
+        border-width: 0 10px 10px;
     }
 }
