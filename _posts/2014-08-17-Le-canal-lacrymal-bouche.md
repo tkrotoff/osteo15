@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Le canal lacrymal bouché
-last_modified_at: '2014-11-27'
+last_modified_at: '2015-01-20'
 ---
 
 ## Qu'est-ce que le canal lacrymal
 
 Le canal lacrymal ou canal naso-lacrymal est un canal situé au niveau de la base du nez, au coin de l'œil.
-Il y en a un à droite et une à gauche.
+Il y en a un à droite et un à gauche.
 Il permet l'évacuation de l'excédent de [liquide lacrymal](http://fr.wikipedia.org/wiki/Liquide_lacrymal) (ou larme) vers la cavité nasale, c'est-à-dire le nez.
 Le canal lacrymal peut être bouché dès la naissance (en général par imperforation de la valve de Hasner),
 ou se boucher par la suite au cours de la première année de vie du bébé.
