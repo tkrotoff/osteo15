@@ -7,6 +7,36 @@
 
     {% include header.html %}
 
+    {% if page.url == '/' %}
+      <header class="wrapper" style="padding: 30px 30px 10px 30px;">
+        <div class="fadein" style="float: left; margin: 0 15px 10px 0;">
+          <img src="/assets/8-rue-Desnouettes/Cabinet1-300px.jpg" alt="Cabinet">
+          <img src="/assets/8-rue-Desnouettes/Cabinet5-300px.jpg" alt="Cabinet">
+          <img src="/assets/8-rue-Desnouettes/Cabinet6-300px.jpg" alt="Cabinet">
+        </div>
+
+        <p>
+          Je vous reçois dans <a href="/Contact">mon cabinet</a>
+          sur rendez-vous du lundi au vendredi 9h - 19h et le samedi 9h - 13h.
+        </p>
+        <p>
+          Je prends en charge les femmes enceintes, nourrissons, enfants, adultes, séniors et sportifs.
+          Je propose un suivi ostéopathique pour les pathologies dites fonctionnelles, les douleurs, les "blocages", les traitements d'orthodontie...
+          ainsi qu'un travail corporel pour vous sentir mieux dans votre corps et retrouver un "équilibre" physique.
+        </p>
+        <p>
+          En plus des conseils donnés en consultation, j'écris des articles autour de l'ostéopathie,
+          de la santé et du bien-être sur ce blog.
+        </p>
+        <p>
+          Suivez moi également sur
+          <a href="https://twitter.com/Osteopathe75015">Twitter</a>,
+          <a href="https://www.facebook.com/KrotoffFabienneOsteopathe75015">Facebook</a> et
+          <a href="https://plus.google.com/104301362970770277035/posts">Google+</a>.
+        </p>
+      </header>
+    {% endif %}
+
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
@@ -17,7 +47,13 @@
 
   </body>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
   <script>
     {% include GoogleAnalytics.js %}
+
+    $(function() {
+      {% include SlideShow.js %}
+      {% include ToggleMenu.js %}
+    });
   </script>
 </html>
