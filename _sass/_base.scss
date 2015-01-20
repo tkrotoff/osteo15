@@ -92,18 +92,27 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
+@mixin a-colors($color: $brand-color, $visited-color: darken($brand-color, 15%), $hover-color: $text-color) {
+    color: $color;
+    &:visited {
+        color: $visited-color;
+    }
+    &:hover {
+        color: $hover-color;
+    }
+}
+
 a {
-    color: $brand-color;
     text-decoration: none;
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
+    -webkit-transition: all 0.2s ease-in;
+            transition: all 0.2s ease-in;
 
     &:hover {
-        color: $text-color;
         text-decoration: underline;
     }
+
+    @include a-colors;
 }
 
 
