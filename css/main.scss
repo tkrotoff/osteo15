@@ -28,7 +28,10 @@ $content-width:    1000px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+$bg-line-tan_png:       "/assets/bg-line-tan.png";
+$bg-line-tan_png:       "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAABAQMAAAAoxSaNAAAABlBMVEX29en7+vXXGgHBAAAACklEQVR4XmM4AAAAwgDBxG98nwAAAABJRU5ErkJggg==";
+$bg-line-chocolate_png: "/assets/bg-line-chocolate.png";
+$bg-line-chocolate_png: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAABAQMAAAAoxSaNAAAABlBMVEVbLSZsPjfHk9aaAAAACklEQVR4XmM4AAAAwgDBxG98nwAAAABJRU5ErkJggg==";
 
 // Using media queries with like this:
 // @include media-query($palm) {
