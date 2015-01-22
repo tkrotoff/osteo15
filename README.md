@@ -5,7 +5,7 @@ Jekyll version 2.5.1
 ```Shell
 sudo gem install bundler
 bundle install --path vendor/bundle
-bundle exec jekyll serve --host 0.0.0.0
+bundle exec jekyll serve --host 0.0.0.0 --port 4000
 open http://localhost:4000
 
 bundle exec s3_website push # Déploiement sur Amazon S3
