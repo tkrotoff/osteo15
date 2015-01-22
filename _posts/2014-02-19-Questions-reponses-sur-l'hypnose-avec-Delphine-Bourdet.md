@@ -4,10 +4,9 @@ title: Questions-réponses sur l'hypnose avec Delphine Bourdet
 last_modified_at: '2014-11-27'
 ---
 
-[![Delphine Bourdet](/assets/2014-02-19/Delphine-Bourdet.jpg)](http://www.lotusinparis.com/)
-
 Delphine Bourdet, [sophrologue et hypnothérapeute à Paris 15](http://www.lotusinparis.com/) répond aux questions les plus fréquentes que vous vous posez sur l'hypnose.
-N'hésitez pas à laisser vos commentaires ou questions à la fin de l'article !
+
+[![Delphine Bourdet](/assets/2014-02-19/Delphine-Bourdet.jpg)](http://www.lotusinparis.com/)
 
 ## Quel est le but de l'hypnose ?
 

@@ -215,6 +215,9 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        > h2 {
+            margin-bottom: 0;
+        }
     }
 }
 
