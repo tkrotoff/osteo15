@@ -20,6 +20,7 @@ markdown: kramdown
 exclude: [
   "vendor",
   "README.md",
+  "s3_website.yml",
   "Gemfile",
   "Gemfile.lock"
 ]
