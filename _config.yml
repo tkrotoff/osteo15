@@ -2,15 +2,13 @@
 title: Fabienne Krotoff Ostéopathe
 address: 8 rue Desnouettes Paris 15
 tel: 01 45 31 98 48
-email: fabienne.krotoff@gmail.com
-description: >
-  Cabinet ouvert du lundi au vendredi de 9h à 19h et le samedi de 9h à 13h<br>
-  Diplômée du COE, DU de psychosomatique et de périnatalité
+email: krotoffosteo@gmail.com
+description: Cabinet d'ostéopathie de Fabienne Krotoff, Paris 15
 lang: fr
 
-twitter_username: Osteo15
+twitter_username: osteopathe75015
+facebook_username: KrotoffFabienneOsteopathe75015
 googleplus_username: 104301362970770277035
-facebook_username: Osteo15
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://osteo15.com" # the base hostname & protocol for your site
