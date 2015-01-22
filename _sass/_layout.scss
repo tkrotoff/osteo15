@@ -131,6 +131,18 @@
     margin-left: 0;
 }
 
+.social-media-list {
+    a:hover {
+        // See Ignore whitespace in HTML http://stackoverflow.com/a/5647640/990356
+        //font-size: 0;
+        text-decoration: none;
+    }
+
+    .icon {
+        margin-right: 3px;
+    }
+}
+
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
