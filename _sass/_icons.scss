@@ -1,0 +1,21 @@
+.icon .foreground, .icon .background { transition: fill .2s ease-in }
+
+.icon-twitter:hover .foreground { fill: #2aa9e0 }
+
+.icon-facebook .foreground { fill: transparent }
+.icon-facebook:hover .background { fill: #3b5999 }
+.icon-facebook:hover .foreground { fill: white }
+
+.icon-googleplus .foreground { fill: transparent }
+.icon-googleplus:hover .background { fill: #dd4b39 }
+.icon-googleplus:hover .foreground { fill: white }
+
+.icon-linkedin .foreground { fill: transparent }
+.icon-linkedin:hover .background { fill: #0077b5 }
+.icon-linkedin:hover .foreground { fill: white }
+
+.icon-rss .foreground { fill: transparent }
+.icon-rss:hover .background { fill: #f28c36 }
+.icon-rss:hover .foreground { fill: white }
+
+.icon-envelope:hover .foreground { fill: $grey-color }

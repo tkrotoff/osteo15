@@ -108,8 +108,8 @@ h1, h2, h3, h4, h5, h6 {
 a {
     text-decoration: none;
 
-    -webkit-transition: all 0.2s ease-in;
-            transition: all 0.2s ease-in;
+    -webkit-transition: all .2s ease-in;
+            transition: all .2s ease-in;
 
     &:hover {
         text-decoration: underline;
@@ -206,25 +206,13 @@ pre {
  * Icons
  */
 .icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
 
-    > svg {
-        display: inline-block;
-        width: 20px;
-        height: 20px;
-        vertical-align: middle;
-
-        path {
-            // See The color for the SVG icons are defined 2 times https://github.com/jekyll/jekyll/issues/2944
-            fill: lighten($grey-color, 20%);
-
-            -webkit-transition: all 0.2s ease-in;
-            transition: all 0.2s ease-in;
-        }
-
-        &:hover {
-            path {
-                fill: $grey-color;
-            }
-        }
+    path {
+        // See The color for the SVG icons are defined 2 times https://github.com/jekyll/jekyll/issues/2944
+        fill: lighten($grey-color, 20%);
     }
 }
