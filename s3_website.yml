@@ -8,7 +8,12 @@ max_age:
   "assets/*": 6000
   "*": 300
 
-gzip: true
+gzip:
+  - .html
+  - .css
+  - .js
+  - .txt
+  - .ico
 
 # See http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region for valid endpoints
 s3_endpoint: eu-west-1
