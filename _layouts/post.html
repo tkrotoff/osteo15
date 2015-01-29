@@ -16,24 +16,4 @@ layout: default
   </article>
 </div>
 
-<div id="disqus_thread"></div>
-<script>
-  var disqus_shortname = 'osteo15';
-  (function() {
-    var dsq = document.createElement('script');
-    dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-</script>
-<noscript>Merci d'activer JavaScript pour visualiser les commentaires.</noscript>
-
-<script>
-  function openNewWindow(url, width, height) {
-    window.open(
-      url,
-      '',
-      'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,width=' + width + ',height=' + height
-    );
-  }
-</script>
+{% include Disqus.html %}
