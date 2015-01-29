@@ -4,7 +4,7 @@ title: Votre ostéopathe
 permalink: /Votre-osteopathe/
 ---
 
-Je suis ostéopathe DO issue d'une formation à temps plein de 5 ans et diplômée du [COE](http://www.osteo-coe.fr/).
+Je suis ostéopathe D.O. issue d'une formation à temps plein de 5 ans (RNCP 1) et diplômée du [COE](http://www.osteo-coe.fr/).
 
 - Titulaire du [DU de psychosomatique, université Paris Descartes](http://www.parisdescartes.fr/fre/FORMATION)
 - Titulaire du [DU d'ostéopathie appliquée à la périnatalité, université Paris Diderot](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite)
