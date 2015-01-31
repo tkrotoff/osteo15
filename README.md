@@ -125,6 +125,14 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 
 ## SEO
 
-- [Webmaster Tools](https://www.google.com/webmasters/tools/other-links)
+- [Google Webmaster Tools](https://www.google.com/webmasters/tools/other-links)
 - [SEOquake](http://www.seoquake.com/)
 - [Search Engine Optimization (SEO) Basics](https://www.njimedia.com/search-engine-optimization-seo-basics/)
+- [Actualités SEO et réseaux sociaux](http://www.arobasenet.com/)
+- [OpenClassrooms - Améliorez la visibilité de votre site grâce au référencement](http://openclassrooms.com/courses/ameliorez-la-visibilite-de-votre-site-grace-au-referencement)
+- [WebPage Test - Test a website's performance](http://www.webpagetest.org/)
+
+## Minification
+
+- [Speeding up Jekyll site](http://dmytro.github.io/2013/10/29/optimizing_jekyll.html)
+- [How I use Reduce to Minify and Optimize Assets for Production](http://davidensinger.com/2013/08/how-i-use-reduce-to-minify-and-optimize-assets-for-production/)
