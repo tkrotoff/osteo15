@@ -52,6 +52,7 @@ $bg-line-chocolate_png: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAABA
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
+        "grid",
         "layout",
         "syntax-highlighting",
         "responsive-iframe",

@@ -13,8 +13,8 @@
       </span>
     </h2>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
+    <div class="footer-content row">
+      <div class="col-sm-6 col-md-4">
         <ul class="contact-list">
           <li><a href="http://maps.apple.com/?q={{ site.title | append: ' ' | append: site.address | cgi_escape }}">{{ site.address }}</a></li>
 
@@ -25,7 +25,7 @@
         </ul>
       </div>
 
-      <div class="social-media-list footer-col  footer-col-2">
+      <div class="col-sm-6 col-md-3 social-media-list">
         {% if site.twitter_username %}
         <a title="Me suivre sur Twitter" href="https://twitter.com/{{ site.twitter_username }}">
           <svg class="icon icon-twitter" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
@@ -68,7 +68,7 @@
         </a>
       </div>
 
-      <div class="footer-col  footer-col-3">
+      <div class="col-sm-12 col-md-5">
         <p class="text">{{ site.description }}</p>
       </div>
     </div>
