@@ -8,28 +8,62 @@
     {% include header.html %}
 
     {% if page.url == '/' %}
-    <header class="wrapper" style="padding: 30px 30px 10px 30px;">
-      <div class="fadein" style="float: left; margin: 0 15px 10px 0;">
-        <img src="/assets/8-rue-Desnouettes/Cabinet1-300px.jpg" alt="Cabinet">
-        <!-- In the future, use the "hidden" attribute, see http://stackoverflow.com/a/27548863/990356 -->
-        <img src="/assets/8-rue-Desnouettes/Cabinet5-300px.jpg" alt="Cabinet" style="display: none;">
-        <img src="/assets/8-rue-Desnouettes/Cabinet6-300px.jpg" alt="Cabinet" style="display: none;">
-      </div>
+    <div class="page-content">
+      <div class="wrapper">
 
-      <p>
-        Je vous reçois dans <a href="/Contact/">mon cabinet</a>
-        sur rendez-vous du lundi au vendredi 9h - 19h et le samedi 9h - 13h.
-      </p>
-      <p>
-        Je prends en charge les femmes enceintes, nourrissons, enfants, adultes, séniors et sportifs.
-        Je propose un suivi ostéopathique pour les pathologies dites fonctionnelles, les douleurs, les "blocages", les traitements d'orthodontie...
-        ainsi qu'un travail corporel pour vous sentir mieux dans votre corps et retrouver un "équilibre" physique.
-      </p>
-      <p>
-        En plus des conseils donnés en consultation, j'écris des articles autour de l'ostéopathie,
-        de la santé et du bien-être sur ce blog.
-      </p>
-    </header>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="fadein" style="margin-bottom: 30px">
+              <img src="/assets/8-rue-Desnouettes/Cabinet1-300px.jpg" alt="Photo cabinet">
+              <!-- In the future, use the "hidden" attribute, see http://stackoverflow.com/a/27548863/990356 -->
+              <img src="/assets/8-rue-Desnouettes/Cabinet5-300px.jpg" alt="Photo cabinet" style="display: none">
+              <img src="/assets/8-rue-Desnouettes/Cabinet6-300px.jpg" alt="Photo cabinet" style="display: none">
+            </div>
+          </div>
+
+          <div class="col-md-8">
+            <p>
+              Je suis une ostéopathe D.O issue d'une formation continue de 5 ans agréée par le Ministère de la Santé.
+            </p>
+            <p>
+              Je pratique, entre autres, les techniques craniennes, viscérales et musculo-squelettiques.
+            </p>
+            <p>
+              Je vous reçois dans <a href="/Contact/">mon cabinet</a> dans le 15ème arrondissement de Paris,
+              près du métro Convention (ligne 12), sur rendez-vous du lundi au vendredi 9h - 19h et le samedi 9h - 13h.
+            </p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4">
+            <h3>Prise en charge</h3>
+            <ul>
+              <li>Femme enceinte et suivi de grossesse</li>
+              <li>Nourrisson - bébé</li>
+              <li>Enfant - adolescent</li>
+              <li>Adulte</li>
+              <li>Sportif</li>
+              <li>Senior</li>
+            </ul>
+          </div>
+
+          <div class="col-md-8">
+            <h3>Pourquoi consulter ?</h3>
+            <ul>
+              <li>Douleur, lombalgie, blocage, sciatique, cruralgie, névralgie cervico-brachiale, trouble musculo-squelettique...</li>
+              <li>Maux de tête, céphalée et migraine</li>
+              <li>Suites de traumatisme (fracture, entorse, accident de voiture, chute, coup du lapin...) en parallèle d'une prise en charge médicale si nécessaire</li>
+              <li>Problème fonctionnel de l'appareil locomoteur, de l'appareil digestif...</li>
+              <li>Suivi : de grossesse, de traitement d'orthodontie, de traitement de scoliose...</li>
+              <li>Bébé : grossesse et accouchement difficile, plagiocéphalie positionnelle, canal lacrymal bouché...</li>
+              <li>Prévention</li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </div>
     {% endif %}
 
     <div class="page-content">
