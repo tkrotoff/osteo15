@@ -4,14 +4,20 @@ title: Votre ostéopathe
 permalink: /Votre-osteopathe/
 ---
 
-Je suis ostéopathe D.O. issue d'une formation à temps plein de 5 ans (RNCP 1) et diplômée du [COE](http://www.osteo-coe.fr/).
+<div class="row">
+  <div class="col-md-2" markdown="1">
+  ![Fabienne Krotoff](/assets/Fabienne-Krotoff/Fabienne-Krotoff-1.jpg)
+  </div>
 
-- Titulaire du [DU de psychosomatique, université Paris Descartes](http://www.parisdescartes.fr/fre/FORMATION)
-- Titulaire du [DU d'ostéopathie appliquée à la périnatalité, université Paris Diderot](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite)
-- Titulaire du [label Eur Ost DO](http://www.osteofrance.com/eur-ost-do/), je réponds à son [code de déontologie](http://www.osteofrance.com/assets/pdf/ufof_deontologie.pdf)
-- Membre de l'[UFOF](http://www.osteofrance.com/ufof/presentation/) (Union Fédérale des Ostéopathes de France)
+  <div class="col-md-10" markdown="1">
+  Je suis ostéopathe D.O. issue d'une formation à temps plein de 5 ans (RNCP 1) et diplômée du [COE](http://www.osteo-coe.fr/).
 
-![Fabienne Krotoff](/assets/Fabienne-Krotoff/Fabienne-Krotoff-1.jpg)
+  - Titulaire du [DU de psychosomatique, université Paris Descartes](http://www.parisdescartes.fr/fre/FORMATION)
+  - Titulaire du [DU d'ostéopathie appliquée à la périnatalité, université Paris Diderot](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite)
+  - Titulaire du [label Eur Ost DO](http://www.osteofrance.com/eur-ost-do/), je réponds à son [code de déontologie](http://www.osteofrance.com/assets/pdf/ufof_deontologie.pdf)
+  - Membre de l'[UFOF](http://www.osteofrance.com/ufof/presentation/) (Union Fédérale des Ostéopathes de France)
+  </div>
+</div>
 
 ## Formations et diplômes
 
@@ -51,11 +57,18 @@ Pour vous proposer la meilleure des prises en charge, je continue de me former r
   Mon diplôme d'ostéopathie est inscrit au fichier ADELI (N° 750004061) de la DRASS référençant toutes les professions médicales et paramédicales.
   N° SIRET : 5151163900029
 
-<div style="text-align: center;">
-  <a href="http://www.osteofrance.com/ufof/presentation/">
-    <img src="/assets/UFOF.jpg" alt="Union Fédérale des Ostéopathes de France" title="Union Fédérale des Ostéopathes de France">
-  </a>
-  <a href="http://www.efo.eu/portal/" style="margin-left: 50px;">
-    <img src="/assets/Eur-Ost-DO.gif" alt="Label Eur Ost DO" title="Label Eur Ost DO">
-  </a>
+<div class="row" style="margin-top: 60px">
+  <div class="col-md-2"></div>
+  <div class="col-md-3" style="margin-bottom: 30px">
+    <a href="http://www.osteofrance.com/ufof/presentation/">
+      <img src="/assets/UFOF.jpg" alt="Union Fédérale des Ostéopathes de France" title="Union Fédérale des Ostéopathes de France">
+    </a>
+  </div>
+  <div class="col-md-2"></div>
+  <div class="col-md-3">
+    <a href="http://www.efo.eu/portal/">
+      <img src="/assets/Eur-Ost-DO.gif" alt="Label Eur Ost DO" title="Label Eur Ost DO">
+    </a>
+  </div>
+  <div class="col-md-2"></div>
 </div>
