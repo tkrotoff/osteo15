@@ -46,10 +46,11 @@ Les causes de survenue d'une lombalgie commune peuvent être très variées (lis
 
 En général, la lombalgie se résout en 2 semaines mais les récidives sont fréquentes (73% des personnes auront une récidive de lombalgie dans les 12 mois) [1].
 Le paracétamol est inefficace comme traitement et il ne réduit pas la durée du mal de dos
-(voir [l'article sur la lombalgie et le paracétamol]({% post_url 2014-08-08-Lombalgie-paracetamol-et-osteopathie %}).
+(voir [l'article sur la lombalgie et le paracétamol]({% post_url 2014-08-08-Lombalgie-paracetamol-et-osteopathie %})).
 Le risque majeur de la lombalgie est donc son passage à la chronicité avec son lot d'arrêts maladie et d'incapacité physique.
 
 On parle de lombalgie :
+
 - aiguës : quand elle dure moins de 6 semaines
 - subaiguë : quand elle dure entre 6 semaines et 3 mois
 - chronique : quand elle dure plus de 3 mois
