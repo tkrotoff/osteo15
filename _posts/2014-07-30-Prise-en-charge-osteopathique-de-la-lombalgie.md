@@ -23,7 +23,7 @@ Il faut faire la différence entre 3 types de lombalgie :
 - Les lombalgies avec compression radiculaire (5 à 15%). Sur le nerf crural on parlera de cruralgie et sur le nerf sciatique on parlera de sciatalgie,
 - Les lombalgies symptomatiques avec pathologies sous-jacentes (1 à 5%) dont le suivi et le traitement seront particuliers.
 
-[![Lombalgies symptomatiques](/assets/2014-07-30/Lombalgies-symptomatiques.gif)](http://www.has-sante.fr/portail/upload/docs/application/pdf/lombalgie_dec2000_recos.pdf)
+[![Lombalgies symptomatiques](/assets/2014-07-30/Lombalgies-symptomatiques.png)](http://www.has-sante.fr/portail/upload/docs/application/pdf/lombalgie_dec2000_recos.pdf)
 
 - Les lombalgies communes sans pathologie à l'origine de la douleur : c'est cette lombalgie que l'on va détailler dans cet article.
 
@@ -70,7 +70,7 @@ Une séance hebdomadaire de sport [10][11][12] (avec échauffements et étiremen
 piscine, pilates, marche à pied ou marche nordique, yoga, vélo...
 Il ne faut pas tomber dans ce que l'on appelle le cercle vicieux de la douleur :
 
-![Cercle vicieux de la douleur](/assets/2014-07-30/Lombalgie-cercle-vicieux-de-la-douleur.gif)
+![Cercle vicieux de la douleur](/assets/2014-07-30/Lombalgie-cercle-vicieux-de-la-douleur.png)
 
 - Bien entendu, il faudra revoir [l'ergonomie](http://www.reseau-lcd.org/html/pdf/Douleur_mal%20de%20dos.pdf) :
 que ce soit l'agencement du poste de travail au bureau ou les mouvements lors de la manutention, du jardinage ou des gestes quotidiens...

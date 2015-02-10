@@ -22,7 +22,7 @@ puis diminue pour tomber à 3,3% à l'âge de 2 ans [1][45][46].
 Cependant, si rien n'est fait, les plagiocéphalies positionnelles qui persistent chez les enfants entre 18 et 48 mois
 ne s'amélioreront pas d'elles-mêmes dans plus de ¾ des cas [3]. 
 
-![Fréquence des plagiocéphalies positionnelles](/assets/2014-07-24/Frequence-plagiocephalies-positionnelles.gif)
+![Fréquence des plagiocéphalies positionnelles](/assets/2014-07-24/Frequence-plagiocephalies-positionnelles.png)
 
 ## Les différentes déformations du crâne
 
@@ -91,7 +91,7 @@ Près de 80% des plagiocéphalies positionnelles sont bénignes [46] et comme no
 la fréquence augmente après la naissance pour être maximum à 4 mois (20% des bébés) puis diminue pour retomber à 3,3% à l'âge de 2 ans [1][2][45].
 Cependant, plus de 3/4 des bébés présentant une plagiocéphalie positionnelle entre 18-48 mois la garderont par la suite si rien n'est fait [3].
 
-![Conséquences des déformations positionnelles du crâne](/assets/2014-07-24/Consequences-plagiocephalie-positionnelle.gif)
+![Conséquences des déformations positionnelles du crâne](/assets/2014-07-24/Consequences-plagiocephalie-positionnelle.png)
 
 Chez les adolescents entre 12 et 17 ans, on retrouve ainsi 2% de déformation du crâne dont plus de 38% avec des anomalies de la face [11].
 
@@ -153,7 +153,7 @@ L'asymétrie postérieure du crâne pourrait être corrigée entre 6-12 semaines
 la face pourraient se corriger sur une période plus longue : jusqu'à 18 mois [21].
 _"Après un traitement approprié, les taux de réussite pour les formes modérées peuvent être de 92%."_ [22]
 
-![Traitements](/assets/2014-07-24/Traitements-plagiocephalie.gif)
+![Traitements](/assets/2014-07-24/Traitements-plagiocephalie.png)
 
 ### Prévention
 

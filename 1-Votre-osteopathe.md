@@ -67,7 +67,7 @@ Pour vous proposer la meilleure des prises en charge, je continue de me former r
   <div class="col-md-2"></div>
   <div class="col-md-3">
     <a href="http://www.efo.eu/portal/">
-      <img src="/assets/Eur-Ost-DO.gif" alt="Label Eur Ost DO" title="Label Eur Ost DO">
+      <img src="/assets/Eur-Ost-DO.png" alt="Label Eur Ost DO" title="Label Eur Ost DO">
     </a>
   </div>
   <div class="col-md-2"></div>
