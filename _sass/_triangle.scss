@@ -1,0 +1,30 @@
+/**
+ * The triangle centered and above the page content/below the header
+ * See Center a Pseudo Element http://stackoverflow.com/questions/16818792
+ * Example: http://www.hanselman.com/
+ */
+@mixin triangle($color) {
+  content: "";
+  position: absolute;
+
+  left: -webkit-calc(50% - 15px);
+  left:         calc(50% - 15px);
+
+  border-color: $color transparent;
+  border-style: solid;
+}
+
+@mixin triangle-after($color) {
+  &:after {
+    @include triangle($color);
+    border-width: 20px 20px 0;
+  }
+}
+
+@mixin triangle-before($color) {
+  &:before {
+    @include triangle($color);
+    top: -10px;
+    border-width: 0 10px 10px;
+  }
+}
