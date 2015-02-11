@@ -136,3 +136,13 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 
 - [Speeding up Jekyll site](http://dmytro.github.io/2013/10/29/optimizing_jekyll.html)
 - [How I use Reduce to Minify and Optimize Assets for Production](http://davidensinger.com/2013/08/how-i-use-reduce-to-minify-and-optimize-assets-for-production/)
+
+## Images optimization
+
+```Shell
+brew install jpegoptim optipng
+./optimize-images.sh
+```
+
+- [How does Google's Page Speed lossless image compression work?](http://stackoverflow.com/a/20020267/990356)
+- [Intro to jpegoptim and optipng](http://blog.grayghostvisuals.com/workflow/jpegoptim-optipng-intro/)
