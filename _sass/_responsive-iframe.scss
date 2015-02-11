@@ -20,7 +20,7 @@
 .responsive-googlemaps-iframe {
   @extend %responsive-iframe;
 
-  padding-bottom: 450px + 15px;
+  padding-bottom: 450px + $spacing-unit / 2;
 
   iframe {
     // Google Maps medium size
@@ -32,7 +32,7 @@
 .responsive-youtube-iframe {
   @extend %responsive-iframe;
 
-  padding-bottom: 315px + 15px;
+  padding-bottom: 315px + $spacing-unit / 2;
 
   iframe {
     // YouTube default size for embedded videos
