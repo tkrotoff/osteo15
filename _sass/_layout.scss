@@ -87,7 +87,7 @@
             display: none;
         }
 
-        &:hover .trigger {
+        &:hover .trigger, .trigger-hover {
             display: block;
             padding-bottom: 5px;
         }

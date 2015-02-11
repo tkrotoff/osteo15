@@ -3,9 +3,11 @@ var menuIcon = $('.menu-icon');
 
 function toggleMenu() {
   if (menuIcon.is(':visible')) {
-    menu.css('display', 'none');
+    menu.hide();
+    menu.removeClass('trigger-hover');
   } else {
-    menu.css('display', 'block');
+    menu.show();
+    menu.addClass('trigger-hover');
   }
 }
 
@@ -21,7 +23,8 @@ $(window).resize(function() {
 // Hide the menu when clicking outside
 $('html').click(function() {
   if (menuIcon.is(':visible')) {
-    menu.css('display', 'none');
+    menu.hide();
+    menu.removeClass('trigger-hover');
   }
 });
 
@@ -29,9 +32,11 @@ $('html').click(function() {
 $('.site-nav').click(function(e) {
   if (menuIcon.is(':visible')) {
     if (menu.is(':visible')) {
-      menu.css('display', 'none');
+      menu.hide();
+      menu.removeClass('trigger-hover');
     } else {
-      menu.css('display', 'block');
+      menu.show();
+      menu.addClass('trigger-hover');
     }
   }
   e.stopPropagation();
