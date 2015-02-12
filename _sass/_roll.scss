@@ -1,0 +1,79 @@
+// See Rolling links http://hakim.se/thoughts/rolling-links http://jsfiddle.net/hakim/Ht6Ym/
+// See http://riotdesign.eu/en/
+// See How to create 3D links rolling on hover http://www.dreamdealer.nl/articles/how_to_create_3d_links_rolling_on_hover.html
+// See CSS3 HTML5 Cross Browser 3d flip effect on hover link http://stackoverflow.com/questions/16016751
+
+.roll {
+    display: inline-block;
+    overflow: hidden;
+
+    // Fix Safari 8.1 weird stuffs with font below
+    -webkit-perspective: 400px;
+}
+
+.roll span {
+    display: block;
+    position: relative;
+    padding: 0 2px;
+
+    transition: all .3s ease;
+
+    -webkit-transform-origin: 50% 0;
+            transform-origin: 50% 0;
+
+    -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+}
+
+.roll:hover span {
+    -webkit-transform: translate3d(0, 0, -30px) rotateX(90deg);
+            transform: translate3d(0, 0, -30px) rotateX(90deg);
+
+    // Fix for IE11 that does not support "transform-style: preserve-3d"
+    -ms-transform: none;
+}
+
+.roll span:after {
+    content: attr(data-title);
+
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    padding: 0 2px;
+
+    -webkit-transform-origin: 50% 0;
+            transform-origin: 50% 0;
+
+    -webkit-transform: translate3d(0, 100%, 0) rotateX(-90deg);
+            transform: translate3d(0, 100%, 0) rotateX(-90deg);
+
+    // See Prevent flicker on webkit-transition of webkit-transform http://stackoverflow.com/questions/3461441
+    // See iPhone WebKit CSS animations cause flicker http://stackoverflow.com/questions/2946748
+    // Also fix some weird behaviors under Chrome 40
+    -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+}
+
+
+.site-nav {
+    .roll span:after {
+        color: $grey-color-dark;
+        background: $inverted-text-color;
+        text-shadow: none;
+    }
+
+    @include media-query($on-palm) {
+        .roll {
+            color: $text-color;
+            text-shadow: none;
+        }
+
+        .roll span:after {
+            color: $inverted-text-color;
+            background: $grey-color-dark;
+            text-shadow: none;
+        }
+    }
+}

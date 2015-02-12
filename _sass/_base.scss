@@ -19,7 +19,9 @@ body {
 
     // The body should take the background wanted for the footer
     // in case the page is smaller than the web browser window
-    background: transparent url($bg-line-tan_png) repeat center top;
+    // This is also the color used when pulling down on iOS
+    // and when a background image is not yet loaded
+    background-color: $background-color;
 
     -webkit-text-size-adjust: 100%;
 }
@@ -92,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
-@mixin a-colors($color: $brand-color, $visited-color: darken($brand-color, 15%), $hover-color: $text-color) {
+@mixin a-colors($color: $brand-color, $visited-color: $link-visited-color, $hover-color: $text-color) {
     color: $color;
     &:visited {
         color: $visited-color;
@@ -103,6 +105,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
+    @include a-colors;
     text-decoration: none;
 
     -webkit-transition: all .2s ease-in;
@@ -111,8 +114,6 @@ a {
     &:hover {
         text-decoration: underline;
     }
-
-    @include a-colors;
 }
 
 
@@ -208,6 +209,6 @@ pre {
 
     path {
         // See The color for the SVG icons are defined 2 times https://github.com/jekyll/jekyll/issues/2944
-        fill: lighten($grey-color, 20%);
+        fill: $grey-color-icon;
     }
 }

@@ -1,12 +1,14 @@
 <header class="site-header">
+  <div class="parallax-bg"></div>
 
   <div class="wrapper">
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
-    <p>
+    <p class="site-meta">
       <a href="http://maps.apple.com/?q={{ site.title | append: ' ' | append: site.address | cgi_escape }}">{{ site.address }}</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <!-- See Specifying a preferred line break point in HTML text in a responsive design http://stackoverflow.com/questions/18222409 -->
-      - <a href="tel:{{ site.tel | cgi_escape }}" style="white-space: nowrap">{{ site.tel }}</a>
+      <a href="tel:{{ site.tel | cgi_escape }}" style="white-space: nowrap">{{ site.tel }}</a>
     </p>
 
     <nav class="site-nav">
@@ -19,10 +21,15 @@
       </a>
 
       <div class="trigger">
-        <a class="page-link" href="/blog/">Blog</a>
-        {% for page in site.pages %}
-          {% if page.title and page.sitenav != false %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        <a class="page-link roll {% if page.url contains '/blog/' %}current{% endif %}" href="/blog/">
+          <span data-title="Blog">Blog</span>
+        </a>
+
+        {% for p in site.pages %}
+          {% if p.title and p.sitenav != false %}
+          <a class="page-link roll {% if page.url == p.url %}current{% endif %}" href="{{ p.url | prepend: site.baseurl }}">
+            <span data-title="{{ p.title }}">{{ p.title }}</span>
+          </a>
           {% endif %}
         {% endfor %}
       </div>

@@ -2,49 +2,93 @@
  * Site header
  */
 .site-header {
-    border-bottom: 5px solid $brand-color;
-    min-height: 56px;
+    font-weight: 400;
+    letter-spacing: 1px; // Make Helvetica Neue more readable
 
     // Positioning context for the mobile navigation icon
     position: relative;
 
-    @extend %triangle-after;
+    padding-top: $spacing-unit;
+    @include media-query($on-palm) {
+        padding-top: $spacing-unit / 2;
+    }
 
-    background: transparent url($bg-line-chocolate_png) repeat center top;
+    box-shadow: 0 2px 2px rgba(0,0,0,.5);
 
-    color: $header-text-color;
+    color: $inverted-text-color;
+    text-shadow: 0 1px 4px rgba(0,0,0,.6);
     a {
-        @include a-colors($color: $header-text-color, $visited-color: $header-text-color, $hover-color: $brand-color);
+        @include a-colors($color: $inverted-text-color, $visited-color: $inverted-text-color, $hover-color: $inverted-text-color);
+
+        &:hover {
+            opacity: 1;
+            text-decoration: none;
+        }
+    }
+
+    .parallax-bg {
+        position: absolute;
+
+        z-index: -1; // Avoid the use of "overflow: hidden" for the parent
+
+        width: 100%;
+        height: 100%;
+        top: 0;
+
+        background: url(/assets/8-rue-Desnouettes/Cabinet3-header-bg.jpg)
+                    top center/cover no-repeat;
+    }
+}
+
+.intro {
+    background-color: $grey-color-lighter;
+
+    @include triangle-after($grey-color-lighter);
+
+    padding-top: $spacing-unit;
+
+    @include media-query($on-palm) {
+        img {
+            // Resize the images to fit their container on mobile devices
+            // => take the full window width
+            width: 100%;
+        }
+    }
+
+    .photos {
+        margin-bottom: $spacing-unit / 2;
     }
 }
 
 .site-title {
     font-size: 34px;
     font-weight: bold;
-    line-height: 56px;
-    margin-bottom: 0;
-    //float: left;
+}
 
-    /*&,
-    &:visited {
-        color: $grey-color-dark;
-    }*/
+.site-meta {
+    font-size: 18px;
+
+    a {
+        opacity: .65;
+        &:hover {
+            opacity: 1;
+        }
+    }
 }
 
 .site-nav {
     font-size: $small-font-size;
     font-weight: bold;
     text-transform: uppercase;
+    line-height: 46px;
 
-    //float: right;
-    line-height: 56px;
+    margin-top: $spacing-unit;
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        //color: $text-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -52,16 +96,25 @@
             margin-right: 20px;
         }
     }
+    .page-link {
+        opacity: .65;
+    }
+
+    .page-link.current {
+        opacity: 1;
+    }
 
     @include media-query($on-palm) {
         position: absolute;
+        margin-top: 0;
         top: 9px;
         right: $spacing-unit / 2;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
-        z-index: 2;
+
+        z-index: 1; // Above everything else
 
         .menu-icon {
             display: block;
@@ -100,8 +153,11 @@
                 margin-right: 0;
             }
             margin-left: 20px;
+        }
 
-            @include a-colors;
+        a.page-link {
+            opacity: 1;
+            color: $text-color;
         }
     }
 }
@@ -112,13 +168,12 @@
  * Site footer
  */
 .site-footer {
-    border-top: 5px solid $brand-color;
-    padding: $spacing-unit 0;
+    border-top: 1px solid $grey-color-light;
+    padding-top: $spacing-unit / 2;
 
-    background: transparent url($bg-line-tan_png) repeat center top;
+    background-color: $background-color;
 
     position: relative;
-    @extend %triangle-before;
 }
 
 .footer-heading {
