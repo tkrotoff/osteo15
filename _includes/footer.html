@@ -19,7 +19,7 @@
           <li><a href="http://maps.apple.com/?q={{ site.title | append: ' ' | append: site.address | cgi_escape }}">{{ site.address }}</a></li>
 
           <!-- See Specifying a preferred line break point in HTML text in a responsive design http://stackoverflow.com/questions/18222409 -->
-          <li><a href="tel:{{ site.tel | cgi_escape }}" style="white-space: nowrap;">{{ site.tel }}</a></li>
+          <li><a href="tel:{{ site.tel | cgi_escape }}" style="white-space: nowrap">{{ site.tel }}</a></li>
 
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
