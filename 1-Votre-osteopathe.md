@@ -28,7 +28,7 @@ Pour vous proposer la meilleure des prises en charge, je continue de me former r
 - Laboratoire Nutergia : "Du stress chronique aux troubles métaboliques", "Terrain acide"
 
 ### 2013
-- **[DU de périnatalité "Thérapeutiques alternatives en antalgie périnatale"](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite)**, université Paris Diredot
+- [DU de périnatalité "Thérapeutiques alternatives en antalgie périnatale"](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite), université Paris Diredot
 - Laboratoire Nutergia : "Ecosytème intestinal", "Nutrition et sport" et "bien-être hépatique et phytothérapie"
 
 ### 2012
@@ -48,11 +48,11 @@ Pour vous proposer la meilleure des prises en charge, je continue de me former r
 
 ### 2010
 - FCOP : "Pathologies du nourrisson et ostéopathie" avec Rodrigue Pinel médecin du sport et Alain Bédouet ostéopathe DO
-- **[DU de Psychosomatique](http://www.parisdescartes.fr/fre/FORMATION)**, université Paris Descartes
+- [DU de Psychosomatique](http://www.parisdescartes.fr/fre/FORMATION), université Paris Descartes
 
 ### 2009
 - Titulaire du [label Eur Ost DO](http://www.osteofrance.com/eur-ost-do/), je réponds à son [code de déontologie](http://www.osteofrance.com/assets/pdf/ufof_deontologie.pdf)
-- **Diplôme d'ostéopathie du [COE](http://www.osteo-coe.fr/)** agréé par l'Etat (formation de 5 ans).
+- Diplôme d'ostéopathie du [COE](http://www.osteo-coe.fr/) agréé par le ministère de la Santé (formation de 5 ans).
   Mentions très bien aux mémoires (cas clinique et recherche de littérature).
   Mon diplôme d'ostéopathie est inscrit au fichier ADELI (N° 750004061) de la DRASS référençant toutes les professions médicales et paramédicales.
   N° SIRET : 5151163900029

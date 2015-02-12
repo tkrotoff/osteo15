@@ -22,7 +22,7 @@ Le bilan ostéopathique regroupe différents tests incluant entre autre l'observ
 et de votre posture ainsi que différents tests palpatoires (tests de mobilité de vos articulations, tension de vos chaînes musculaires, recherche des pertes de mobilité des différentes régions de votre corps, recherche de vos compensations locales et à distance...).
 L'ostéopathe tente de comprendre comment "vit" votre corps et comment il compense les traumatismes vécus, les problèmes de posture, une ergonomie défaillante au bureau, une alimentation non équilibrée...
 
-**L'analyse des résultats de ces tests permet d'établir un diagnostic ostéopathique.**
+L'analyse des résultats de ces tests permet d'établir un diagnostic ostéopathique.
 
 ## Le diagnostic ostéopathique
 
