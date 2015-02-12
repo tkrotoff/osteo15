@@ -111,9 +111,8 @@ a {
     @include a-colors;
     text-decoration: none;
 
-    -webkit-transition: all .2s ease-in;
-            transition: all .2s ease-in;
-
+    transition-property: color, opacity;
+    transition-duration: $transition-duration;
     &:hover {
         text-decoration: underline;
     }

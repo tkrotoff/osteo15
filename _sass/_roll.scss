@@ -16,7 +16,7 @@
     position: relative;
     padding: 0 2px;
 
-    transition: all .3s ease;
+    transition: transform $transition-duration;
 
     -webkit-transform-origin: 50% 0;
             transform-origin: 50% 0;

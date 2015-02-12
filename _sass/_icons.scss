@@ -1,4 +1,4 @@
-.icon .foreground, .icon .background { transition: fill .2s ease-in }
+.icon .foreground, .icon .background { transition: fill $transition-duration }
 
 .icon-twitter:hover .foreground { fill: #2aa9e0 }
 
