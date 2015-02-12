@@ -139,10 +139,5 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 
 ## Images optimization
 
-```Shell
-brew install jpegoptim optipng
-./optimize-images.sh
-```
+- [ImageOptim](https://imageoptim.com/)
 
-- [How does Google's Page Speed lossless image compression work?](http://stackoverflow.com/a/20020267/990356)
-- [Intro to jpegoptim and optipng](http://blog.grayghostvisuals.com/workflow/jpegoptim-optipng-intro/)
