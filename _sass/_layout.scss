@@ -19,6 +19,7 @@
     text-shadow: 0 1px 4px rgba(0,0,0,.6);
     a {
         @include a-colors($color: $inverted-text-color, $visited-color: $inverted-text-color, $hover-color: $inverted-text-color);
+        opacity: .65;
 
         &:hover {
             opacity: 1;
@@ -64,16 +65,12 @@
     font-size: 34px;
     font-weight: bold;
 }
+a.site-title {
+    opacity: 1;
+}
 
 .site-meta {
     font-size: 18px;
-
-    a {
-        opacity: .65;
-        &:hover {
-            opacity: 1;
-        }
-    }
 }
 
 .site-nav {
@@ -95,9 +92,6 @@
         &:not(:last-child) {
             margin-right: 20px;
         }
-    }
-    .page-link {
-        opacity: .65;
     }
 
     .page-link.current {
@@ -124,6 +118,8 @@
             line-height: 0;
             padding-top: 10px;
             text-align: center;
+
+            opacity: 1;
 
             > svg {
                 width: 18px;
