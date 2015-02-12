@@ -12,7 +12,7 @@ peut compromettre l'ergonomie du pas et donc l'efficacité de l'amortisseur que 
 Je pense notamment aux entorses de cheville qui sont souvent mal soignées.
 
 <div class="responsive-youtube-iframe">
-  <iframe src="//www.youtube.com/embed/-MAxyf6SzVE" frameborder="0" allowfullscreen></iframe>
+  <iframe src="//www.youtube.com/embed/-MAxyf6SzVE" allowfullscreen></iframe>
 </div>
 
 L'université Claude-Bernard Lyon I étant spécialisée dans les domaines des sciences et technologies, de la santé et des sciences du sport ;

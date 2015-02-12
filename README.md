@@ -76,7 +76,7 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 
 ```HTML
 <div class="responsive-youtube-iframe">
-  <iframe src="//www.youtube.com/embed/VJo5z11rUYQ" frameborder="0" allowfullscreen></iframe>
+  <iframe src="//www.youtube.com/embed/VJo5z11rUYQ" allowfullscreen></iframe>
 </div>
 ```
 
@@ -84,7 +84,7 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 
 ```HTML
 <div class="responsive-googlemaps-iframe">
-  <iframe src="https://www.google.com/maps/embed?..." frameborder="0" style="border:0"></iframe>
+  <iframe src="https://www.google.com/maps/embed?..."></iframe>
 </div>
 ```
 
