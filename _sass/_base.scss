@@ -113,9 +113,6 @@ a {
 
     transition-property: color, opacity;
     transition-duration: $transition-duration;
-    &:hover {
-        text-decoration: underline;
-    }
 }
 
 
