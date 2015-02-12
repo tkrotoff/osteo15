@@ -134,6 +134,7 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 
 ## Minification
 
+- [Octopress Minify Html](https://github.com/octopress/minify-html)
 - [Speeding up Jekyll site](http://dmytro.github.io/2013/10/29/optimizing_jekyll.html)
 - [How I use Reduce to Minify and Optimize Assets for Production](http://davidensinger.com/2013/08/how-i-use-reduce-to-minify-and-optimize-assets-for-production/)
 

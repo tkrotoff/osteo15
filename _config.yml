@@ -27,3 +27,7 @@ exclude: [
 
 gems:
   - jekyll-sitemap
+  - octopress-minify-html
+
+sass:
+  style: compressed
