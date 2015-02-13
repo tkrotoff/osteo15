@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Consultations de sophrologie et d'hypnose au cabinet
-last_modified_at: '2014-11-27'
+last_modified_at: '2015-02-13'
 ---
 
-Depuis le 1er octobre 2013, [Delphine Bourdet](http://delphinebourdet.com/about/), sophrologue et hypnothérapeute,
+Depuis le 1er octobre 2013, [Delphine Bourdet](http://delphinebourdet.com/), sophrologue et hypnothérapeute,
 vous reçoit les mardis et jeudis au sein du [cabinet](/Contact) (8 rue Desnouettes 75015 Paris).
 
 Vous pourrez entre autres :

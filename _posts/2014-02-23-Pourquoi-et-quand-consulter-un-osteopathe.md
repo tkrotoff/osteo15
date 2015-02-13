@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pourquoi et quand consulter un ostéopathe ?
-last_modified_at: '2014-11-27'
+last_modified_at: '2015-02-13'
 ---
 
 Je n'ai pas la prétention de répondre de façon exhaustive à ces questions tant le sujet est vaste, mais je vais tenter d'y répondre de façon claire et simple.
@@ -38,7 +38,7 @@ une simple vertèbre en perte de mobilité peut provoquer douleur(s) et blocage(
 
 - L'ostéopathie accompagne les traitements de pathologies dites organiques (à l'inverse de celles qui sont dites fonctionnelles),
   que ces traitements soient chirurgicaux ou médicamenteux etc...
-  En effet, on peut prendre l'exemple d'une traitement allopathique par un médicament se [métabolisant par le foie][http://www.chups.jussieu.fr/polys/pharmaco/poly/POLY.Chp.4.4.html] :
+  En effet, on peut prendre l'exemple d'une traitement allopathique par un médicament se [métabolisant par le foie](http://www.chups.jussieu.fr/polys/pharmaco/poly/POLY.Chp.4.4.html) :
   il n'est pas rare de retrouver alors en ostéopathie une zone hépato-biliaire informante.
   Il en va de même pour un traitement chirurgical avec son tissu cicatriciel et ses lots d'adhérence...
 
