@@ -18,8 +18,13 @@ var $parallax = $('.parallax-bg');
 var speed = 0.5;
 
 function translate3dY() {
-  // Too slow on mobile devices: uses the CPU instead of the GPU
-  //$parallax.css('background-position', '50% ' + window.pageYOffset * speed + 'px');
+  var scrollY = window.pageYOffset;
 
-  $parallax.css('transform', 'translate3d(0, ' + window.pageYOffset * speed + 'px, 0)');
+  // Too slow on mobile devices: uses the CPU instead of the GPU
+  //$parallax.css('background-position', '50% ' + scrollY * speed + 'px');
+
+  // Avoid ugly background with pull-to-refresh on iOS
+  if (scrollY >= 0) {
+    $parallax.css('transform', 'translate3d(0, ' + scrollY * speed + 'px, 0)');
+  }
 }
