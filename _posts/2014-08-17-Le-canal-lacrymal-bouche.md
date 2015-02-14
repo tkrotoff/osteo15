@@ -17,7 +17,7 @@ le ou les yeux larmoient en permanence, provoquant parfois une infection.
 
 Quels sont les symptômes et les traitements ? Quel est l'intérêt d'un traitement ostéopathique chez les nourrissons présentant un canal lacrymal bouché ?
 
-<div class="responsive-youtube-iframe">
+<div class="responsive-iframe-youtube-560px">
   <iframe src="//www.youtube.com/embed/VJo5z11rUYQ" allowfullscreen></iframe>
 </div>
 

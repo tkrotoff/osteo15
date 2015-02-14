@@ -18,25 +18,33 @@
   }
 }
 
-.responsive-googlemaps-iframe {
+@mixin responsive-iframe-googlemaps($width, $height) {
   @extend %responsive-iframe;
 
-  padding-bottom: 450px + $spacing-unit / 2;
+  padding-bottom: $height + $spacing-unit / 2;
 
   iframe {
-    // Google Maps medium size
-    max-width: 600px;
-    max-height: 450px;
+    max-width: $width;
+    max-height: $height;
   }
 }
+.responsive-iframe-googlemaps-400px {
+  @include responsive-iframe-googlemaps(400px, 300px);
+}
+.responsive-iframe-googlemaps-600px {
+  @include responsive-iframe-googlemaps(600px, 450px);
+}
+.responsive-iframe-googlemaps-800px {
+  @include responsive-iframe-googlemaps(800px, 600px);
+}
 
-.responsive-youtube-iframe {
+// YouTube default size for embedded videos: 560x315
+.responsive-iframe-youtube-560px {
   @extend %responsive-iframe;
 
   padding-bottom: 315px + $spacing-unit / 2;
 
   iframe {
-    // YouTube default size for embedded videos
     max-width: 560px;
     max-height: 315px;
   }

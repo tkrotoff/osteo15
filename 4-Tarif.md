@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tarifs
-permalink: /Tarifs/
+title: Tarif
+permalink: /Tarif/
 ---
 
 Le montant d'une consultation d'ostéopathie est de 60 euros.

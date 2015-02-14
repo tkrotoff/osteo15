@@ -97,7 +97,7 @@ Les matelas en mousse, quant à eux, devraient être évités [19].
 
 Vidéo "Mal au dos : C la Santé" [20] :
 
-<div class="responsive-youtube-iframe">
+<div class="responsive-iframe-youtube-560px">
   <iframe src="//www.youtube.com/embed/lcnJSTwWriM" allowfullscreen></iframe>
 </div>
 

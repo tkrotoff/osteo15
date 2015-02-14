@@ -6,7 +6,7 @@ last_modified_at: '2014-11-27'
 
 Voici une vidéo de la [fondation Yves Cotrel](http://fondationcotrel.org/) à propos du dépistage de la scoliose :
 
-<div class="responsive-youtube-iframe">
+<div class="responsive-iframe-youtube-560px">
   <iframe src="//www.youtube.com/embed/Z2Yi_skqhGQ" allowfullscreen></iframe>
 </div>
 

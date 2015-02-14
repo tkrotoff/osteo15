@@ -77,7 +77,7 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 ## Intégration d'une video YouTube
 
 ```HTML
-<div class="responsive-youtube-iframe">
+<div class="responsive-iframe-youtube-560px">
   <iframe src="//www.youtube.com/embed/VJo5z11rUYQ" allowfullscreen></iframe>
 </div>
 ```
@@ -85,7 +85,7 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 ## Intégration d'une carte Google Maps
 
 ```HTML
-<div class="responsive-googlemaps-iframe">
+<div class="responsive-iframe-googlemaps-600px">
   <iframe src="https://www.google.com/maps/embed?..."></iframe>
 </div>
 ```
