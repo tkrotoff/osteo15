@@ -4,9 +4,11 @@ s3_bucket: your.blog.bucket.com
 
 site: _site
 
+# In seconds
 max_age:
-  "assets/*": 6000
-  "*": 300
+  "assets/*": 263000 # 1 month
+  "*.html": 300 # 5 minutes
+  "*": 864000 # 1 day
 
 gzip:
   - .html
@@ -14,6 +16,8 @@ gzip:
   - .js
   - .txt
   - .ico
+  - .json
+  - .xml
 
 # See http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region for valid endpoints
 s3_endpoint: eu-west-1
