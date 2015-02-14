@@ -99,21 +99,14 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 
 ## Favicon
 
-- https://github.com/audreyr/favicon-cheat-sheet
-- [Apple - Configuring Web Applications](https://developer.apple.com/library/iad/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
-- [Chrome - Add to Homescreen](https://developer.chrome.com/multidevice/android/installtohomescreen)
-- [W3C HTML5 - Link type "icon"](http://www.w3.org/TR/html5/links.html#rel-icon)
-
-```Shell
-# Pour créer une image ICO avec ImageMagick
-convert hand-16.png hand-32.png hand-48.png hand-16-32-48.ico
-```
+- [FaviconTest](https://github.com/tkrotoff/FaviconTest)
 
 ## Sitemap
 
-- https://github.com/jekyll/jekyll-sitemap
+- [Jekyll Sitemap Generator Plugin](https://github.com/jekyll/jekyll-sitemap)
 - [Building a Better Sitemap.xml with Jekyll](http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/)
 - [Sitemaps XML format](http://www.sitemaps.org/protocol.html)
+- [Rakefile example for Jekyll](https://github.com/chrisanthropic/slim-pickins-jekyll-theme/blob/master/Rakefile)
 
 ## Hébergement
 
@@ -127,12 +120,18 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 
 ## SEO
 
-- [Google Webmaster Tools](https://www.google.com/webmasters/tools/other-links)
-- [SEOquake](http://www.seoquake.com/)
-- [Search Engine Optimization (SEO) Basics](https://www.njimedia.com/search-engine-optimization-seo-basics/)
-- [Actualités SEO et réseaux sociaux](http://www.arobasenet.com/)
-- [OpenClassrooms - Améliorez la visibilité de votre site grâce au référencement](http://openclassrooms.com/courses/ameliorez-la-visibilite-de-votre-site-grace-au-referencement)
+### Outils
+
+- [Google Webmaster](https://www.google.com/webmasters/)
+- [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 - [WebPage Test - Test a website's performance](http://www.webpagetest.org/)
+- [GTmetric - Perfomance Analysis](http://gtmetrix.com/)
+
+### Documentation
+
+- [Google - Search Engine Optimization Starter Guide](https://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+- [OpenClassrooms - Améliorez la visibilité de votre site grâce au référencement](http://openclassrooms.com/courses/ameliorez-la-visibilite-de-votre-site-grace-au-referencement)
+- [SEO Best Practices 2014](http://www.slideshare.net/PierreMFioriniPhD/seo-best-practices-for-2014-beyond-dd)
 
 ## Minification
 
@@ -140,7 +139,14 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 - [Speeding up Jekyll site](http://dmytro.github.io/2013/10/29/optimizing_jekyll.html)
 - [How I use Reduce to Minify and Optimize Assets for Production](http://davidensinger.com/2013/08/how-i-use-reduce-to-minify-and-optimize-assets-for-production/)
 
-## Images optimization
+## Optimisation des images
 
 - [ImageOptim](https://imageoptim.com/)
+- [image_optim](https://github.com/toy/image_optim)
+- [image_optim-jekyll-plugin](https://github.com/chrisanthropic/image_optim-jekyll-plugin)
 
+## Validation du site
+
+- [Jekyll - The Test script](http://jekyllrb.com/docs/continuous-integration/#the-test-script)
+- [HTML::Proofer](https://github.com/gjtorikian/html-proofer)
+- [validate-website](https://github.com/spk/validate-website)
