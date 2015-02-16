@@ -21,8 +21,10 @@ exclude: [
   "vendor",
   "README.md",
   "s3_website.yml",
+  ".env*",
   "Gemfile",
-  "Gemfile.lock"
+  "Gemfile.lock",
+  "Rakefile"
 ]
 
 gems:
