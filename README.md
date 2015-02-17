@@ -4,13 +4,16 @@ Jekyll version 2.5.1
 
 ```Shell
 sudo gem install bundler
-bundle install --path vendor/bundle
+bundle install
 bundle update
+
 bundle exec jekyll serve --host 0.0.0.0 --port 4000
 open http://localhost:4000
 
-bundle exec rake test # Lance un build + HTML::Proofer
-bundle exec s3_website push # Déploiement sur Amazon S3
+bundle exec rake build # Build sans minification (=dev)
+bundle exec rake build[production] # Build avec minification du code HTML et CSS (=production)
+bundle exec rake test # Lance The Nu HTML Checker (v.Nu), validate-website et HTML::Proofer
+bundle exec rake deploy # Déploiement sur Amazon S3
 ```
 
 ## Utilisation de post_url

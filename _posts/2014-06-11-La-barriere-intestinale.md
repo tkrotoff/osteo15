@@ -108,7 +108,7 @@ Il y aura une trop grande entrée de macro-molécules dans le milieu intérieur 
 Pour un bilan en micro-nutrition, un programme de traitement de votre barrière intestinale ou de votre microbiote,
 n'hésitez pas à contacter [Karine de la Rouère](http://www.dietetique.delarouere.com/), diététicienne-nutritionniste et spécialisée en micro-nutrition.
 
-# Sources
+## Sources
 
 - Lamprecht M, Bogner S, Schippinger G, Steinbauer K, Fankhauser F, Hallstroem S, Schuetz B, Greilberger JF :
   ["Probiotic supplementation affects markers of intestinal barrier, oxidation, and inflammation in trained men; a randomized, double-blinded, placebo-controlled trial"](http://www.ncbi.nlm.nih.gov/pubmed/22992437)

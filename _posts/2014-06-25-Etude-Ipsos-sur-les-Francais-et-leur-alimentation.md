@@ -34,5 +34,5 @@ Pour vous faire votre propre opinion je vous conseille ce livre : [Santé, menso
 <iframe class="scribd_iframe_embed"
         src="https://www.scribd.com/embeds/231139287/content?start_page=1&view_mode=scroll&access_key=key-vMk4Slo1PGKHhxzCcnw3&show_recommendations=false"
         data-auto-height="false" data-aspect-ratio="1.3323485967503692"
-        scrolling="no" id="doc_86829" width="100%" height="600" frameborder="0">
+        height="600">
 </iframe>

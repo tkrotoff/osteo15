@@ -31,5 +31,4 @@ gems:
   - jekyll-sitemap
   - octopress-minify-html
 
-sass:
-  style: compressed
+minify_html: false
