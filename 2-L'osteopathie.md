@@ -2,6 +2,7 @@
 layout: page
 title: L'ostéopathie
 permalink: /L'osteopathie/
+sitenav: true
 ---
 
 ## Qu'est ce que l'ostéopathie ?

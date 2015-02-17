@@ -2,6 +2,7 @@
 layout: page
 title: Votre ostéopathe
 permalink: /Votre-osteopathe/
+sitenav: true
 ---
 
 <div class="row">

@@ -26,7 +26,7 @@
         </a>
 
         {% for p in site.pages %}
-          {% if p.title and p.sitenav != false %}
+          {% if p.title and p.sitenav %}
           <a class="page-link roll {% if page.url == p.url %}current{% endif %}" href="{{ p.url | prepend: site.baseurl }}">
             <span data-title="{{ p.title }}">{{ p.title }}</span>
           </a>
