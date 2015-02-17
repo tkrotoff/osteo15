@@ -2,6 +2,7 @@
 layout: page
 title: Liens
 permalink: /Liens/
+sitenav: false
 ---
 
 ## Gymboree : l'activité des petits
