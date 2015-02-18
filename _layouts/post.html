@@ -14,6 +14,15 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+
+  <div class="post-nav">
+    {% if page.previous.url %}
+      <a class="previous-post" href="{{ page.previous.url }}" title="Article précédent">← {{ page.previous.title }}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next-post" href="{{ page.next.url }}" title="Article suivant">{{ page.next.title }} →</a>
+    {% endif %}
+  </div>
 </div>
 
 {% include Disqus.html %}

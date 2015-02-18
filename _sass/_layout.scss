@@ -277,3 +277,17 @@ a.site-title {
         }
     }
 }
+
+.post-nav {
+  font-weight: bold;
+  margin-bottom: $spacing-unit;
+  @extend %clearfix;
+
+  .previous-post {
+    float: left;
+  }
+
+  .next-post {
+    float: right;
+  }
+}
