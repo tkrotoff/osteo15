@@ -6,16 +6,22 @@ layout: default
 
   <h1 class="page-heading">Blog</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | localize: "%-d %b %Y" }}</span>
+  {% for post in site.posts %}
+    {% capture month %}{{ post.date | date: '%b' }}{% endcapture %}
+    {% capture next_month %}{{ post.next.date | date: '%b' }}{% endcapture %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+    {% if month != next_month %}
+      {% if forloop.first == false %}</ul>{% endif %}
+      <h2 style="text-transform: capitalize; margin-top: 30px">{{ post.date | localize: '%b %Y' }}</h2>
+      <ul>
+    {% endif %}
+
+    <li>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      &nbsp;
+      <span class="post-meta">{{ post.date | localize: '%-d %b' }}</span>
+    </li>
+  {% endfor %}
   </ul>
 
   <p class="rss-subscribe">Flux <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
