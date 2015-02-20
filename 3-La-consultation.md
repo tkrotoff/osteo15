@@ -1,6 +1,7 @@
 ---
 layout: page
 title: La consultation
+tags: [ostéopathie]
 permalink: /La-consultation/
 sitenav: true
 ---

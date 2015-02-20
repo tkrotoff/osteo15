@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bébé : quand consulter un ostéopathe ?"
+tags: [ostéopathie, bébé]
 last_modified_at: '2014-11-27'
 ---
 

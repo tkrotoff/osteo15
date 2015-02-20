@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prise en charge ostéopathique de la lombalgie
+tags: [ostéopathie, dos]
 last_modified_at: '2014-11-27'
 ---
 

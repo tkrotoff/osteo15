@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les étirements
+tags: [sport]
 last_modified_at: '2014-11-27'
 ---
 

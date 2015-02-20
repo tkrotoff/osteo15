@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les bienfaits de l'allaitement
+tags: [bébé]
 last_modified_at: '2015-01-24'
 ---
 
@@ -140,9 +141,8 @@ une erreur serait d'allaiter à tout prix au détriment de ce lien ou, au contra
 Il existe de nombreuses associations qui pourront répondre à vos questions et vous aider en cas de besoin. Liste non exhaustive :
 
 - Association Française des Consultants en Lactation, site web : <http://consultants-lactation.org/>
-- Réseau Solidarilait, site web : <http://www.solidarilait.org>, téléphone : 01 40 44 70 70
+- Réseau Solidarilait, site web : <http://www.solidarilait.org>
 - La Leche League France, site web : <http://www.lllfrance.org>
-- Crèche parentale associative Capucine et papillons, adresse : 35-37 rue Clisson 75013 Paris, téléphone : 01 45 86 60 72, site web : <http://equipement.paris.fr/creche-parentale-capucine-et-papillons-associative-2376>
 
 ## Sources
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prévention et gestion des troubles musculosquelettiques (TMS)
+tags: [ostéopathie, TMS]
 last_modified_at: '2014-11-27'
 ---
 

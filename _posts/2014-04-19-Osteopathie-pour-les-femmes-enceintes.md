@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ostéopathie pour les femmes enceintes
+tags: [ostéopathie, FemmeEnceinte]
 last_modified_at: '2014-11-27'
 ---
 

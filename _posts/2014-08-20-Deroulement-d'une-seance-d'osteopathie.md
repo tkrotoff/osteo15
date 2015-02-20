@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Déroulement d'une séance d'ostéopathie
+tags: [ostéopathie]
 last_modified_at: '2014-11-27'
 ---
 

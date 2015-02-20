@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Comment savoir si mon bébé à besoin de consulter un ostéopathe ?
+tags: [ostéopathie, bébé]
 last_modified_at: '2014-11-27'
 ---
 
@@ -17,14 +18,14 @@ même si l'accouchement se passe bien il ne serait pas étonnant de retrouver de
 On ne peut donc pas se fier au seul motif de l'accouchement pour savoir si un bébé à besoin de consulter
 un ostéopathe (sauf pour les accouchements par siège).
 
-## Nous trouverons pendant la grossesse :
+## Nous trouverons pendant la grossesse
 
 - grossesse multiple,
 - [oligoamnios](https://fr.wikipedia.org/wiki/Oligoamnios) (pas assez de liquide amniotique) car les pressions sur le foetus sont augmentées,
 - foetus bas placé ou en position de siège,
 - douleurs de la mère pouvant suspecter une mauvaise adaptation réciproque entre le corps de la mère et le foetus...
 
-## Nous trouverons pour les accouchements :
+## Nous trouverons pour les accouchements
 
 - expression utérine
   ([la HAS souhaite l'abandon de cette technique](http://www.has-sante.fr/portail/upload/docs/application/pdf/ea-_recommandations_.pdf) et si cette technique est utilisée;
@@ -39,7 +40,7 @@ Je rajouterai que c'est autant la position fœtale pendant la grossesse que l'ac
 C'est pour cela que les positons par siège, quel que soit le mode d'accouchement (voie basse ou césarienne),
 devraient systématiquement faire consulter un ostéopathe.
 
-## D'autres signes peuvent donner "la puce à l'oreille" et amener à consulter un ostéopathe :
+## D'autres signes peuvent donner "la puce à l'oreille" et amener à consulter un ostéopathe
 
 - pleurs incessants, sursauts,
 - problèmes de succion ou de tétée,

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Le ventre, notre deuxième cerveau
+tags: [alimentation]
 last_modified_at: '2014-11-27'
 ---
 

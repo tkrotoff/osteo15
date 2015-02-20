@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Stress et tension au travail : pensez à l'ostéopathie !"
+tags: [ostéopathie, stress, entreprise]
 last_modified_at: '2014-11-27'
 ---
 

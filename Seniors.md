@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Seniors
+tags: [ostéopathie, senior]
 ---
 
 Avec le temps, certaines pathologies prennent place et perturbent l'équilibre du corps,

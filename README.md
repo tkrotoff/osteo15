@@ -99,6 +99,20 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 - “ ” « » -> "
 - … -> ...
 - oe -> œ
+- °
+
+Voir Character Entities Cheat Sheet: http://brajeshwar.github.io/entities/
+
+## Tags/hashtags
+
+Règles sur Twitter :
+- 1 seul mot court en lowercase : #sport
+- Accents autorisés : #ostéopathie #osteopathie
+- Mot composé sans espace ni ponctuation : #FemmeEnceinte
+- Les hashtags sont insensibles à la case : #sport #Sport
+- Pas plus de 2 tags par tweet
+- Ne pas utiliser un hashtag controversé ou lié à une polémique
+- Jekyll YAML Front Matter: `tags: [ostéopathie, TMS]`
 
 ## Favicon
 

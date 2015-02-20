@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Femmes enceintes
+tags: [ostéopathie, FemmeEnceinte]
 ---
 
 Je propose au sein du cabinet des consultations pour femmes enceintes et un suivi ostéopathique de la grossesse afin de préparer au mieux le corps à l'accouchement.

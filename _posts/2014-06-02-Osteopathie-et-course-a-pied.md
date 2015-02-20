@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ostéopathie et course à pied
+tags: [ostéopathie, sport]
 last_modified_at: '2014-11-27'
 ---
 

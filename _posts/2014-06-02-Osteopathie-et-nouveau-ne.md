@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Ostéopathie et nouveau né
+title: Ostéopathie et nouveau-né
+tags: [ostéopathie, bébé]
 last_modified_at: '2014-11-27'
 ---
 

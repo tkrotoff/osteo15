@@ -1,6 +1,7 @@
 ---
 layout: post
 title: La plagiocéphalie positionnelle
+tags: [bébé]
 last_modified_at: '2014-11-27'
 ---
 
@@ -96,7 +97,7 @@ Cependant, plus de 3/4 des bébés présentant une plagiocéphalie positionnelle
 Chez les adolescents entre 12 et 17 ans, on retrouve ainsi 2% de déformation du crâne dont plus de 38% avec des anomalies de la face [11].
 
 Selon une étude, _"Pour beaucoup de ces enfants non traités, la correction spontanée attendue ne se produira pas.
-Pour cette raison, la détection précoce et le traitement de la plagiocéphalie sont indispensables à l'obtention du résultat clinique optimale" [12]
+Pour cette raison, la détection précoce et le traitement de la plagiocéphalie sont indispensables à l'obtention du résultat clinique optimale"_ [12]
 
 Il semble donc essentiel de mettre en place un traitement précoce, sans attendre une amélioration spontanée de la plagiocéphalie,
 car certaines conséquences sur le long terme peuvent être regrettables.
@@ -195,7 +196,7 @@ l'on appelle le syndrome du bébé moulé :
 _"Les forces de tractions et/ou de compressions capables de créer une asymétrie crânienne sont absorbées et transmises
 dans le corps du nourrisson avant, pendant et/ou après la naissance prédisposant ainsi certains enfants à développer,
 entre autres, une plagiocéphalie. La spécificité de l'ostéopathie nous permet de traiter l'enfant dans sa globalité en remontant
-aux causes responsables des principaux symptômes et en libérant les dysfonctions de l'ensemble du corps par ordre de primarité." [23]
+aux causes responsables des principaux symptômes et en libérant les dysfonctions de l'ensemble du corps par ordre de primarité."_ [23]
 
 Le traitement ostéopathique ne s'arrête pas à la seule déformation visible du crâne, mais s'occupe de la globalité du
 corps du nourrisson et de l'asymétrie posturale dans son ensemble. Le traitement ostéopathique dans les premiers mois de

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Traitement ostéopathique de l'inertie colique
+tags: [ostéopathie]
 last_modified_at: '2014-11-27'
 ---
 

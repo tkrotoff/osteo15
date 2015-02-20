@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Recommandations sur la sortie de maternité
+tags: [bébé]
 last_modified_at: '2014-11-27'
 ---
 

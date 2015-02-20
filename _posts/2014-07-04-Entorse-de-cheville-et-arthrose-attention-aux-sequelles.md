@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Entorse de cheville et arthrose : attention aux séquelles"
+tags: [ostéopathie, sport]
 last_modified_at: '2014-11-27'
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lombalgie : paracétamol et ostéopathie"
+tags: [ostéopathie, dos, paracétamol]
 last_modified_at: '2014-11-27'
 ---
 

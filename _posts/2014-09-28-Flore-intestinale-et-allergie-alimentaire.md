@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Flore intestinale et allergie alimentaire
+tags: [alimentation, allergie]
 last_modified_at: '2015-02-13'
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Médicaments, grossesse et allaitement
+tags: [bébé]
 last_modified_at: '2014-11-27'
 ---
 

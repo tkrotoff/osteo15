@@ -1,6 +1,7 @@
 ---
 layout: page
 title: L'ostéopathie
+tags: [ostéopathie]
 permalink: /L'osteopathie/
 sitenav: true
 ---

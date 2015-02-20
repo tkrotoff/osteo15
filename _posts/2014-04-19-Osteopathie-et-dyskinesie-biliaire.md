@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ostéopathie et dyskinésie biliaire
+tags: [ostéopathie]
 last_modified_at: '2014-11-27'
 ---
 

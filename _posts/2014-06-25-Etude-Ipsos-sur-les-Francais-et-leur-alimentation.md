@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Etude Ipsos sur les Français et leur alimentation
+tags: [alimentation]
 last_modified_at: '2014-11-27'
 ---
 

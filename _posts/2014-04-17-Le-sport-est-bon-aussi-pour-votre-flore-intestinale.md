@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Le sport est bon aussi pour votre flore intestinale
+tags: [sport, alimentation]
 last_modified_at: '2014-11-27'
 ---
 

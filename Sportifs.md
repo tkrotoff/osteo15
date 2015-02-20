@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sportifs
+tags: [ostéopathie, sport]
 ---
 
 Le sport permet d'entretenir le corps, d'améliorer l'état de santé et de compenser une mauvaise ergonomie au travail.

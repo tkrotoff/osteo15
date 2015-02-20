@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nourrissons
+tags: [ostéopathie, bébé]
 ---
 
 Je propose au sein du cabinet une prise en charge ostéopathique des nourrissons pour le traitement de différents troubles fonctionnels ainsi que pour un bilan global.

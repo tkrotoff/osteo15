@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Le canal lacrymal bouché
+tags: [ostéopathie, bébé]
 last_modified_at: '2015-01-20'
 ---
 
@@ -51,7 +52,7 @@ Voici les principaux traitements du canal lacrymal bouché :
   Cette intervention laisse une petite cicatrice au coin du nez sauf si on passe par l'intérieur du nez
   (on parle alors d'abord endo-nasal mais il faut alors attendre les 4-5 ans de l'enfant avant de tenter une telle intervention).
 
-D'après une étude de 2000 [6], un traitement conservateur (c'est-à-dire sans sondage ni pose d'un tube en silicone) a un succès de plus de 90% chez les enfants âgés de 0 à 6 mois et de 60% ​​chez les enfants âgés de 7-12 mois.
+D'après une étude de 2000 [6], un traitement conservateur (c'est-à-dire sans sondage ni pose d'un tube en silicone) a un succès de plus de 90% chez les enfants âgés de 0 à 6 mois et de 60% chez les enfants âgés de 7-12 mois.
 Or, plus on attend avant de faire un sondage du canal et plus les chances de réussite de cette technique diminuent [1] [3] [4] [5].
 Le traitement du canal lacrymal bouché ne fait donc pas l'unanimité [5].
 Certains pensent qu'il est souhaitable de réaliser un sondage précoce alors que d'autres pensent qu'il vaut mieux attendre la résolution spontanée avant d'utiliser une telle technique.
