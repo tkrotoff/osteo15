@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Questions-réponses sur l'hypnose avec Delphine Bourdet
-tags: [hypnose]
+tags: [hypnose, interview]
 last_modified_at: '2014-11-27'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interview sur l'ostéopathie et les femmes enceintes
-tags: [ostéopathie, FemmeEnceinte]
+tags: [ostéopathie, FemmeEnceinte, interview]
 last_modified_at: '2015-01-20'
 ---
 
