@@ -98,8 +98,16 @@ Les matelas en mousse, quant à eux, devraient être évités [19].
 
 Vidéo "Mal au dos : C la Santé" [20] :
 
-<div class="responsive-iframe-youtube-560px">
-  <iframe src="//www.youtube.com/embed/lcnJSTwWriM" allowfullscreen></iframe>
+<div class="row">
+  <div class="col-sm-2"></div>
+  <div class="col-sm-8">
+    <p>
+      <div class="embed-responsive embed-responsive-4by3">
+        <iframe src="https://www.youtube.com/embed/lcnJSTwWriM" allowfullscreen></iframe>
+      </div>
+    </p>
+  </div>
+  <div class="col-sm-2"></div>
 </div>
 
 La lombalgie commune est fréquente mais très invalidante. De nombreux facteurs influencent sa survenue : ce sont autant

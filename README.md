@@ -77,19 +77,35 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 - Le format non destructeur [PNG](http://fr.wikipedia.org/wiki/Portable_Network_Graphics) (.png) adapté pour les images simples comprenant des aplats de couleurs
 - Le format destructeur [JPEG](http://fr.wikipedia.org/wiki/JPEG) (.jpg) pour la photographie
 
+## Grille HTML
+
+Voir la documentation de Bootstrap : http://getbootstrap.com/css/#grid
+
 ## Intégration d'une video YouTube
 
 ```HTML
-<div class="responsive-iframe-youtube-560px">
-  <iframe src="//www.youtube.com/embed/VJo5z11rUYQ" allowfullscreen></iframe>
+<div class="row">
+  <div class="col-sm-2"></div>
+  <div class="col-sm-8">
+    <p>
+      <div class="embed-responsive embed-responsive-4by3">
+        <iframe src="https://www.youtube.com/embed/VJo5z11rUYQ" allowfullscreen></iframe>
+      </div>
+    </p>
+  </div>
+  <div class="col-sm-2"></div>
 </div>
 ```
 
 ## Intégration d'une carte Google Maps
 
 ```HTML
-<div class="responsive-iframe-googlemaps-600px">
-  <iframe src="https://www.google.com/maps/embed?..."></iframe>
+<div class="row">
+  <div class="col-md-10">
+    <div class="embed-responsive embed-responsive-4by3">
+      <iframe src="https://www.google.com/maps/embed?..."></iframe>
+    </div>
+  </div>
 </div>
 ```
 
@@ -167,3 +183,7 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 - [Jekyll - The Test script](http://jekyllrb.com/docs/continuous-integration/#the-test-script)
 - [HTML::Proofer](https://github.com/gjtorikian/html-proofer)
 - [validate-website](https://github.com/spk/validate-website)
+
+## Multilingue
+
+- [Jekyll: Multilingual](http://kleinfreund.de/en/2014/08/jekyll-multilingual/)
