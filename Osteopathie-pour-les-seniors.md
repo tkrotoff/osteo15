@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seniors
+title: Ostéopathie pour les seniors
 tags: [ostéopathie, senior]
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sportifs
+title: Ostéopathie pour les sportifs
 tags: [ostéopathie, sport]
 ---
 

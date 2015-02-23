@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nourrissons
+title: Ostéopathie pour les nourrissons
 tags: [ostéopathie, bébé]
 ---
 

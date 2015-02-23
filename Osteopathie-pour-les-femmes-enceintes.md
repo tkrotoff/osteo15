@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Femmes enceintes
+title: Ostéopathie pour les femmes enceintes
 tags: [ostéopathie, FemmeEnceinte]
 ---
 
