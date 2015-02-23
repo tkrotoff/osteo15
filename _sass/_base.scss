@@ -40,6 +40,9 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+h2, h3, h4, h5, h6 {
+    padding-top: $spacing-unit / 2;
+}
 
 
 /**
@@ -49,8 +52,7 @@ img {
     max-width: 100%;
     vertical-align: middle;
 
-    -webkit-box-shadow: 0 0 1px 1px $grey-color-dark;
-            box-shadow: 0 0 1px 1px $grey-color-dark;
+    box-shadow: 0 0 1px 1px $grey-color-dark;
 }
 
 
@@ -64,6 +66,8 @@ figure > img {
 
 figcaption {
     font-size: $small-font-size;
+    color: $grey-color;
+    margin-top: $spacing-unit / 4;
 }
 
 

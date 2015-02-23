@@ -5,18 +5,11 @@ tags: [ostéopathie, bébé]
 last_modified_at: '2014-11-27'
 ---
 
-Il n'y a pas de règle en la matière car un accouchement peut se passer bien médicalement alors que
-l'ostéopathe aura beaucoup d'éléments à travailler sur le bébé.
+Il n'y a pas de règle en la matière car un accouchement peut se passer bien médicalement alors que l'ostéopathe aura beaucoup d'éléments à travailler sur le bébé.
 
-Il faut comprendre que les pertes de mobilité et dysfonctions ostéopathiques ne sont pas du seul fait de l'accouchement. 
-En effet, pendant la grossesse il y a une adaptation réciproque entre le contenant = l'utérus et le contenu = le fœtus. 
-Prenons l'exemple d'un fœtus bas placé dans le ventre de sa mère et ayant un appui prolongé sur les structures osseuses
-(comme le pubis ou un iliaque par exemple) :
-même si l'accouchement se passe bien il ne serait pas étonnant de retrouver des pertes de mobilités dans les tissus du nouveau-né
-(ces pertes pouvant provenir de la position in utero en elle-même).
+Il faut comprendre que les pertes de mobilité et dysfonctions ostéopathiques ne sont pas du seul fait de l'accouchement. En effet, pendant la grossesse il y a une adaptation réciproque entre le contenant = l'utérus et le contenu = le fœtus. Prenons l'exemple d'un fœtus bas placé dans le ventre de sa mère et ayant un appui prolongé sur les structures osseuses (comme le pubis ou un iliaque par exemple) : même si l'accouchement se passe bien il ne serait pas étonnant de retrouver des pertes de mobilités dans les tissus du nouveau-né (ces pertes pouvant provenir de la position in utero en elle-même).
 
-On ne peut donc pas se fier au seul motif de l'accouchement pour savoir si un bébé à besoin de consulter
-un ostéopathe (sauf pour les accouchements par siège).
+On ne peut donc pas se fier au seul motif de l'accouchement pour savoir si un bébé à besoin de consulter un ostéopathe (sauf pour les accouchements par siège).
 
 ## Nous trouverons pendant la grossesse
 
@@ -36,9 +29,7 @@ un ostéopathe (sauf pour les accouchements par siège).
 - arrêt de la descente du fœtus pendant le travail,
 - temps de travail (très long ou très court)...
 
-Je rajouterai que c'est autant la position fœtale pendant la grossesse que l'accouchement en lui-même qui provoque les dysfonctions ostéopathiques.
-C'est pour cela que les positons par siège, quel que soit le mode d'accouchement (voie basse ou césarienne),
-devraient systématiquement faire consulter un ostéopathe.
+Je rajouterai que c'est autant la position fœtale pendant la grossesse que l'accouchement en lui-même qui provoque les dysfonctions ostéopathiques. C'est pour cela que les positons par siège, quel que soit le mode d'accouchement (voie basse ou césarienne), devraient systématiquement faire consulter un ostéopathe.
 
 ## D'autres signes peuvent donner "la puce à l'oreille" et amener à consulter un ostéopathe
 

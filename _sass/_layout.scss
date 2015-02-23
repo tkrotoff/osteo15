@@ -13,8 +13,6 @@
         padding-top: $spacing-unit / 2;
     }
 
-    box-shadow: 0 2px 2px rgba(0,0,0,.5);
-
     color: $inverted-text-color;
     text-shadow: 0 1px 4px rgba(0,0,0,.6);
     a {
@@ -228,10 +226,11 @@ a.site-title {
 }
 
 .post-link {
-    display: block;
-    font-size: 24px;
 }
 
+.rss-subscribe {
+  margin-top: $spacing-unit * 2;
+}
 
 
 /**
@@ -283,10 +282,12 @@ a.site-title {
         margin-left: auto;
         margin-right: auto;
     }
+    figcaption {
+        text-align: center;
+    }
 }
 
 .post-nav {
-  font-weight: bold;
   margin-bottom: $spacing-unit;
   @extend %clearfix;
 

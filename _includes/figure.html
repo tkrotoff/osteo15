@@ -1,0 +1,16 @@
+<!-- Taken from https://github.com/programminghistorian/jekyll/blob/gh-pages/_includes/figure.html -->
+
+<!-- Figure tags without plugin: http://stackoverflow.com/questions/19331362 -->
+
+<figure>
+  {% if include.href %}
+  <a href="{{ include.link }}">
+  {% endif %}
+    <img src="{{ include.src }}" alt="{{ include.caption }}">
+  {% if include.href %}
+  </a>
+  {% endif %}
+  <figcaption>
+    {{ include.caption }}
+  </figcaption>
+</figure>

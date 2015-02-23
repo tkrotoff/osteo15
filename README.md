@@ -77,24 +77,20 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 - Le format non destructeur [PNG](http://fr.wikipedia.org/wiki/Portable_Network_Graphics) (.png) adapté pour les images simples comprenant des aplats de couleurs
 - Le format destructeur [JPEG](http://fr.wikipedia.org/wiki/JPEG) (.jpg) pour la photographie
 
+## Figures
+
+```HTML
+{% include figure.html src="/assets/2014-03-15/Le-ventre-notre-deuxieme-cerveau.jpg" caption="Affiche du documentation 'Le ventre, notre deuxième cerveau'" href="http://future.arte.tv/fr/le-ventre" %}
+```
+
 ## Grille HTML
 
 Voir la documentation de Bootstrap : http://getbootstrap.com/css/#grid
 
-## Intégration d'une video YouTube
+## Intégration d'une vidéo
 
 ```HTML
-<div class="row">
-  <div class="col-sm-2"></div>
-  <div class="col-sm-8">
-    <p>
-      <div class="embed-responsive embed-responsive-4by3">
-        <iframe src="https://www.youtube.com/embed/VJo5z11rUYQ" allowfullscreen></iframe>
-      </div>
-    </p>
-  </div>
-  <div class="col-sm-2"></div>
-</div>
+{% include embed-responsive-4by3.html src="https://www.youtube.com/embed/VJo5z11rUYQ" %}
 ```
 
 ## Intégration d'une carte Google Maps

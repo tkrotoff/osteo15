@@ -5,9 +5,7 @@ tags: [ostéopathie, FemmeEnceinte]
 last_modified_at: '2015-01-20'
 ---
 
-Delphine Bourdet m'a interviewé à propos de
-[l'ostéopathie et les femmes enceintes](http://delphinebourdet.com/blogs/news/18334499-osteopathie-pour-les-femmes-enceintes-interview-de-fabienne-krotoff),
-au sommaire :
+Delphine Bourdet m'a interviewé à propos de [l'ostéopathie et les femmes enceintes](http://delphinebourdet.com/blogs/news/18334499-osteopathie-pour-les-femmes-enceintes-interview-de-fabienne-krotoff), au sommaire :
 
 - Qu'est-ce que l'ostéopathie et pourquoi est-ce bénéfique pour les femmes enceintes ?
 - A partir de quel mois de grossesse peut-on faire de l'ostéopathie ?

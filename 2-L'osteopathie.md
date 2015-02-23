@@ -6,8 +6,6 @@ permalink: /L'osteopathie/
 sitenav: true
 ---
 
-## Qu'est ce que l'ostéopathie ?
-
 L'ostéopathie est une thérapie manuelle dite de premier ordre : il n'y a pas besoin d'ordonnance pour entamer une prise en charge ostéopathique.
 
 Le Référentiel Métier Ostéopathe donne une définition de l'ostéopathie : 
