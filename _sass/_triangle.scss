@@ -7,8 +7,7 @@
   content: "";
   position: absolute;
 
-  left: -webkit-calc(50% - 15px);
-  left:         calc(50% - 15px);
+  left: calc(50% - 15px);
 
   border-color: $color transparent;
   border-style: solid;
