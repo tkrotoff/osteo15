@@ -4,8 +4,8 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 
@@ -14,18 +14,18 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $text-color;
 
-    // The body should take the background wanted for the footer
-    // in case the page is smaller than the web browser window
-    // This is also the color used for pull-to-refresh on iOS
-    background-color: $background-color;
+  // The body should take the background wanted for the footer
+  // in case the page is smaller than the web browser window
+  // This is also the color used for pull-to-refresh on iOS
+  background-color: $background-color;
 
-    -webkit-text-size-adjust: 100%;
-    -webkit-font-feature-settings: "kern" 1;
-            font-feature-settings: "kern" 1;
-    font-kerning: normal;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+          font-feature-settings: "kern" 1;
+  font-kerning: normal;
 }
 
 
@@ -37,11 +37,11 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
 }
 
 h2, h3, h4, h5, h6 {
-    padding-top: $spacing-unit / 2;
+  padding-top: $spacing-unit / 2;
 }
 
 
@@ -49,10 +49,10 @@ h2, h3, h4, h5, h6 {
  * Images
  */
 img {
-    max-width: 100%;
-    vertical-align: middle;
+  max-width: 100%;
+  vertical-align: middle;
 
-    box-shadow: 0 0 1px 1px $grey-color-dark;
+  box-shadow: 0 0 1px 1px $grey-color-dark;
 }
 
 
@@ -61,13 +61,13 @@ img {
  * Figures
  */
 figure > img {
-    display: block;
+  display: block;
 }
 
 figcaption {
-    font-size: $small-font-size;
-    color: $grey-color;
-    margin-top: $spacing-unit / 4;
+  font-size: $small-font-size;
+  color: $grey-color;
+  margin-top: $spacing-unit / 4;
 }
 
 
@@ -76,14 +76,14 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+  margin-left: $spacing-unit;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
 }
 
 
@@ -92,7 +92,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
+  font-weight: $base-font-weight;
 }
 
 
@@ -101,21 +101,21 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 @mixin a-colors($color: $brand-color, $visited-color: $link-visited-color, $hover-color: $text-color) {
-    color: $color;
-    &:visited {
-        color: $visited-color;
-    }
-    &:hover {
-        color: $hover-color;
-    }
+  color: $color;
+  &:visited {
+    color: $visited-color;
+  }
+  &:hover {
+    color: $hover-color;
+  }
 }
 
 a {
-    @include a-colors;
-    text-decoration: none;
+  @include a-colors;
+  text-decoration: none;
 
-    transition-property: color, opacity;
-    transition-duration: $transition-duration;
+  transition-property: color, opacity;
+  transition-duration: $transition-duration;
 }
 
 
@@ -124,15 +124,15 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    font-style: italic;
+  color: $grey-color;
+  border-left: 4px solid $grey-color-light;
+  padding-left: $spacing-unit / 2;
+  font-size: 18px;
+  font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+  > :last-child {
+    margin-bottom: 0;
+  }
 }
 
 
@@ -142,25 +142,25 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+  font-size: 15px;
+  border: 1px solid $grey-color-light;
+  border-radius: 3px;
+  background-color: #eef;
 }
 
 code {
-    padding: 1px 5px;
+  padding: 1px 5px;
 }
 
 pre {
-    padding: 8px 12px;
-    overflow-x: scroll;
+  padding: 8px 12px;
+  overflow-x: scroll;
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
 
 
@@ -169,20 +169,20 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    @extend %clearfix;
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  @extend %clearfix;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
 }
 
 
@@ -191,11 +191,11 @@ pre {
  * Clearfix
  */
 %clearfix {
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
 
 
@@ -204,13 +204,13 @@ pre {
  * Icons
  */
 .icon {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    vertical-align: middle;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
 
-    path {
-        // See The color for the SVG icons are defined 2 times https://github.com/jekyll/jekyll/issues/2944
-        fill: $grey-color-icon;
-    }
+  path {
+    // See The color for the SVG icons are defined 2 times https://github.com/jekyll/jekyll/issues/2944
+    fill: $grey-color-icon;
+  }
 }
