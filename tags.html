@@ -4,14 +4,27 @@ title: Liste des tags
 permalink: /tags/
 ---
 
-<!-- Code adapted from https://github.com/kleinfreund/kleinfreund.github.io -->
+<!--
+  See https://github.com/kleinfreund/kleinfreund.github.io/blob/master/_layouts/tags.html
+  See https://github.com/LanyonM/lanyonm.github.io/blob/master/tags.html
+-->
 
-{% assign tags_sorted = site.tags | sort %}
+{% assign posts_tags_sorted = site.tags | sort %}
 
-{% for tag in tags_sorted %}
-  {% assign posts = tag[1] %}
+<ul class="tag-box">
+  {% for tag in posts_tags_sorted %}
+    {% assign word = tag | first %}
+    <li>
+      <a href="#{{ word }}">{{ word }} <span>{{ site.tags[word].size }}</span></a>
+    </li>
+  {% endfor %}
+</ul>
 
-  <h2 id="{{ tag[0] }}">#{{ tag[0] }}</h2>
+{% for tag in posts_tags_sorted %}
+  {% assign word = tag | first %}
+  {% assign posts = tag | last %}
+
+  <h2 id="{{ word }}">{{ word }}</h2>
   <ul>
     {% for post in posts %}
     <li>
@@ -21,6 +34,4 @@ permalink: /tags/
     </li>
     {% endfor %}
   </ul>
-
-  {% assign posts = nil %}
 {% endfor %}
