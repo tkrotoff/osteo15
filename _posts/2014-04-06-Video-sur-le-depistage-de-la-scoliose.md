@@ -7,17 +7,7 @@ last_modified_at: '2014-11-27'
 
 Voici une vidéo de la [fondation Yves Cotrel](http://fondationcotrel.org/) à propos du dépistage de la scoliose :
 
-<div class="row">
-  <div class="col-sm-2"></div>
-  <div class="col-sm-8">
-    <p>
-      <div class="embed-responsive embed-responsive-4by3">
-        <iframe src="https://www.youtube.com/embed/Z2Yi_skqhGQ" allowfullscreen></iframe>
-      </div>
-    </p>
-  </div>
-  <div class="col-sm-2"></div>
-</div>
+{% include embed-responsive-4by3.html src="https://www.youtube.com/embed/Z2Yi_skqhGQ" %}
 
 La scoliose est une déviation de la colonne vertébrale dans les 3 plans de l'espace et elle touche 1 à 3% des enfants (majoritairement les filles).
 

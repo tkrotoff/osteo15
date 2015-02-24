@@ -7,7 +7,7 @@ last_modified_at: '2015-01-20'
 
 Le canal lacrymal ou canal naso-lacrymal est un canal situé au niveau de la base du nez, au coin de l'œil. Il y en a un à droite et un à gauche. Il permet l'évacuation de l'excédent de [liquide lacrymal](http://fr.wikipedia.org/wiki/Liquide_lacrymal) (ou larme) vers la cavité nasale, c'est-à-dire le nez. Le canal lacrymal peut être bouché dès la naissance (en général par imperforation de la valve de Hasner), ou se boucher par la suite au cours de la première année de vie du bébé.
 
-Cette obstruction est présente, selon certains auteurs, chez 20 à 30% [1] des nouveaux nés au cours de la première année, d'autres trouvent 5 à 6% [^2]. Cette obstruction est bénigne dans la majorité des cas et se résout de façon spontanée dans la première année. Lorsque ce canal est bouché, l'excédent de larme du nouveau-né ne peut plus s'évacuer par le nez et les larmes restent donc dans l'œil : le ou les yeux larmoient en permanence, provoquant parfois une infection.
+Cette obstruction est présente, selon certains auteurs, chez 20 à 30% [^1] des nouveaux nés au cours de la première année, d'autres trouvent 5 à 6% [^2]. Cette obstruction est bénigne dans la majorité des cas et se résout de façon spontanée dans la première année. Lorsque ce canal est bouché, l'excédent de larme du nouveau-né ne peut plus s'évacuer par le nez et les larmes restent donc dans l'œil : le ou les yeux larmoient en permanence, provoquant parfois une infection.
 
 Quels sont les symptômes et les traitements ? Quel est l'intérêt d'un traitement ostéopathique chez les nourrissons présentant un canal lacrymal bouché ?
 

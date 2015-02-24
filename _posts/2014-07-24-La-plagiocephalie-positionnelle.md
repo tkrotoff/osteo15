@@ -10,7 +10,7 @@ La plagiocéphalie est une déformation du crâne qui peut avoir deux origines :
 - La plagiocéphalie vraie : par synostose (fermeture) prématurée d'une ou plusieurs sutures du crâne : heureusement exceptionnelle, le traitement est chirurgical.
 - La plagiocéphalie positionnelle (= posturale = fonctionnelle) : qui est une déformation du crâne fréquente depuis la campagne du couchage sur le dos. C'est cette déformation du crâne que nous allons détailler dans cet article.
 
-La fréquence des plagiocéphalies positionnelles a tellement augmenté depuis la campagne du dodo sur le dos en 1992 (très efficace car cette campagne a tout de même permis une diminution près de la moitié des morts subites du nourrisson) que l'on parle maintenant d'épidémie [2] [43].
+La fréquence des plagiocéphalies positionnelles a tellement augmenté depuis la campagne du dodo sur le dos en 1992 (très efficace car cette campagne a tout de même permis une diminution près de la moitié des morts subites du nourrisson) que l'on parle maintenant d'épidémie [^2] [^43].
 
 Elle touche préférentiellement les garçons et concerne selon les études : 46,6% des bébés de 7-12 semaines et 20% des bébés à 4 mois puis diminue pour tomber à 3,3% à l'âge de 2 ans [^1] [^45] [^46].
 
