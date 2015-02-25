@@ -57,7 +57,7 @@ La littérature sur le traitement ostéopathique d'un canal lacrymal bouché est
 - une étude de 2009 [^7] qui a mis en évidence l'efficacité du traitement ostéopathique en comparaison à un massage simple.
 - un mémoire de 2012 [^9] qui met en évidence l'efficacité de l'ostéopathie. Les bébés qui avaient suivi le protocole de traitement d'ostéopathie n'avaient pas eu besoin d'un sondage médical du canal lacrymal et n'avait pas fait de récidive.
 
-D'ailleurs, il est intéressant de noter que [M. Perchepied](http://www.bretagne-osteopathie.com/pdf/Memoire_PERCHEPIED_Gilles.pdf), dans ce mémoire, pointe du doigt l'approche différente (entre médecine allopathique et ostéopathie) d'un canal lacrymal bouché :
+D'ailleurs, il est intéressant de noter que M. Perchepied, dans son mémoire [^9], pointe du doigt l'approche différente (entre médecine allopathique et ostéopathie) d'un canal lacrymal bouché :
 
 _"La médecine conçoit l'obstruction comme une membrane immature qui bouche le canal et qu'il faut perforer afin que le canal puisse remplir sa fonction. Dans notre étude, nous n'avons pas été confrontés à ces situations si elles existent car dans ces cas notre mode d'action serait inefficace. Selon notre point de vue ostéopathique, nous concevons ces obstructions comme une congestion vasculaire de la muqueuse (œdème de la muqueuse) qu'il faut drainer par voie réflexe neurovasculaire. Cette obstruction est congestive car nous constatons à posteriori du traitement une disparition conjointe des LTR et consécutivement des troubles de la fonction."_
 

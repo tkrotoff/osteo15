@@ -8,7 +8,15 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-meta">
       <p>
-        {{ page.date | localize: '%-d %b %Y' }} · {% include SharePage.html %}
+        {{ page.date | localize: '%-d %b %Y' }}
+        <span class="social-media-list">
+          &nbsp;|&nbsp;
+          Partager : {% include SharePage.html %}
+        </span>
+        <span class="github-links">
+          &nbsp;|&nbsp;
+          GitHub : {% include GitHubLinks.html %}
+        </span>
       </p>
       {% include PageTags.html %}
     </div>

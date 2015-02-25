@@ -10,7 +10,13 @@ layout: default
     {% if page.name != '404.html' %}
       <div class="post-meta">
         <p>
-          Partager cette page : {% include SharePage.html %}
+          <span class="social-media-list">
+            Partager : {% include SharePage.html %}
+          </span>
+          <span class="github-links">
+            &nbsp;|&nbsp;
+            GitHub : {% include GitHubLinks.html %}
+          </span>
         </p>
         {% include PageTags.html %}
       </div>
