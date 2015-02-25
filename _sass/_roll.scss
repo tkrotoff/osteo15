@@ -59,8 +59,8 @@
 
 .site-nav {
   .roll span:after {
-    color: $grey-color-dark;
-    background: $inverted-text-color;
+    color: $grey-dark;
+    background: $inverse-text-color;
     text-shadow: none;
   }
 
@@ -71,8 +71,8 @@
     }
 
     .roll span:after {
-      color: $inverted-text-color;
-      background: $grey-color-dark;
+      color: $inverse-text-color;
+      background: $grey-dark;
       text-shadow: none;
     }
   }

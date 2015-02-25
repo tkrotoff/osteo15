@@ -13,17 +13,17 @@
   border-style: solid;
 }
 
-@mixin triangle-after($color) {
+@mixin triangle-after($color, $size: 20px) {
   &:after {
     @include triangle($color);
-    border-width: 20px 20px 0;
+    border-width: $size $size 0;
   }
 }
 
-@mixin triangle-before($color) {
+@mixin triangle-before($color, $size: 20px) {
   &:before {
     @include triangle($color);
-    top: -10px;
-    border-width: 0 10px 10px;
+    top: -$size;
+    border-width: 0 $size $size;
   }
 }

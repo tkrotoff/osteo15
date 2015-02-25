@@ -13,10 +13,10 @@
     padding-top: $spacing-unit / 2;
   }
 
-  color: $inverted-text-color;
+  color: $inverse-text-color;
   text-shadow: 0 1px 4px rgba(0,0,0,.6);
   a {
-    @include a-colors($color: $inverted-text-color, $visited-color: $inverted-text-color, $hover-color: $inverted-text-color);
+    @include a-colors($color: $inverse-text-color, $visited-color: $inverse-text-color, $hover-color: $inverse-text-color);
     opacity: .75;
 
     &:hover {
@@ -39,9 +39,10 @@
 }
 
 .intro {
-  background-color: $grey-color-lighter;
+  background-color: $grey-lightest;
+  border-bottom: 1px solid $grey-lighter;
 
-  @include triangle-after($grey-color-lighter);
+  @include triangle-after($grey-lightest);
 
   padding-top: $spacing-unit;
 
@@ -101,7 +102,7 @@ a.site-title {
     top: 9px;
     right: $spacing-unit / 2;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $grey-light;
     border-radius: 5px;
     text-align: right;
 
@@ -123,7 +124,7 @@ a.site-title {
         height: 15px;
 
         path {
-          fill: $grey-color-dark;
+          fill: $grey-dark;
         }
       }
     }
@@ -161,16 +162,17 @@ a.site-title {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
-  padding-top: $spacing-unit / 2;
-
-  background-color: $background-color;
+  background-color: $grey-lightest;
+  border-top: 1px solid $grey-lighter;
+  padding: $spacing-unit 0;
 
   position: relative;
+
+  @include triangle-before($grey-lightest, 15px);
 }
 
 .footer-heading {
-  font-size: 16px;
+  font-size: $base-font-size;
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -189,8 +191,7 @@ a.site-title {
 }
 
 .footer-content {
-  font-size: 14px;
-  color: $grey-color;
+  font-size: $small-font-size;
 }
 
 
@@ -222,7 +223,7 @@ a.site-title {
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $grey;
 
   @include media-query($on-palm) {
     .github-links {

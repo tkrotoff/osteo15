@@ -5,26 +5,28 @@
 @charset "utf-8";
 
 
-// Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 300;
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size:  14px;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:          #111;
-$inverted-text-color: white;
-$background-color:    #fdfdfd;
-$brand-color:         #2a7ae2;
-$link-visited-color:  darken($brand-color, 15%); // #1756a9
+// See https://github.com/twbs/bootstrap/blob/v3.3.2/less/variables.less#L10
+$grey-darker:        #222; // $text-color
+$grey-dark:          #444; // .site-nav .roll color, .site-nav burger SVG icon
+$grey:               #777; // figcaption, blockquote, .post-meta
+$grey-light:         #bbb; // SVG icons, .site-nav burger border
+$grey-lighter:       #eee; // blockquote border, pre border, code border, .intro border, .site-footer border, .tag-box a background
+$grey-lightest:      whitesmoke; // body background, .intro background, .site-footer background
 
-$grey-color:          #828282;
-$grey-color-icon:     lighten($grey-color, 20%); // #b5b5b5
-$grey-color-light:    lighten($grey-color, 40%); // #e8e8e8
-$grey-color-lighter:  lighten($grey-color, 45%); // whitesmoke / #f5f5f5
-$grey-color-dark:     darken($grey-color, 25%); // #424242
+$text-color:         $grey-darker;
+$inverse-text-color: white;
+$background-color:   #fff;
+
+$link-color:         #2a7ae2;
+$link-visited-color: #1756a9;
 
 $transition-duration: .3s;
 
@@ -46,7 +48,6 @@ $on-laptop:        800px;
     @content;
   }
 }
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
