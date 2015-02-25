@@ -46,10 +46,14 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-  max-width: 100%;
-  vertical-align: middle;
+  box-sizing: border-box;
 
-  box-shadow: 0 0 1px 1px $grey-color-dark;
+  max-width: 100%;
+
+  // Nice white border around the images
+  padding: 3px;
+  background-color: white;
+  border: 1px solid #ddd;
 }
 
 
