@@ -9,4 +9,4 @@ Chouette vidéo de l'émission [Allô docteurs](http://www.allodocteurs.fr/) de 
 
 {% include embed-responsive-4by3.html src="https://www.youtube.com/embed/nuZtQkIgc9g" %}
 
-Sur le même sujet, j'ai écrit un article sur [comment savoir si mon bébé à besoin de consulter un ostéopathe ?]({% post_url 2014-02-15-Comment-savoir-si-mon-bebe-a-besoin-de-consulter-un-osteopathe %}).
+Sur le même sujet, j'ai écrit un article sur [comment savoir si mon bébé à besoin de consulter un ostéopathe ?]({% post_url 2014-02-15-Comment-savoir-si-mon-bebe-a-besoin-de-consulter-un-osteopathe %})

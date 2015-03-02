@@ -11,18 +11,25 @@ Dans 90% des cas, la lombalgie est fonctionnelle : tous les examens complémenta
 
 ## Causes
 
-Selon [l'INRS](http://www.inrs.fr/accueil/produits/mediatheque/doc/publications.html?refINRS=DW%2030), il faudrait parler de lombalgies au pluriel car : _"[...] les lombalgies c'est : raideur au réveil, lourdeur, douleurs diffuses, douleurs franches et précises, lumbago, impression d'instabilité... Ces formes multiples ne sont toutefois pas représentatives de la gravité de la lésion à l'origine de la douleur."_
+Selon l'INRS [^22], il faudrait parler de lombalgies au pluriel car :
+
+> [...] les lombalgies c'est : raideur au réveil, lourdeur, douleurs diffuses, douleurs franches et précises, lumbago, impression d'instabilité... Ces formes multiples ne sont toutefois pas représentatives de la gravité de la lésion à l'origine de la douleur.
 
 Il faut faire la différence entre 3 types de lombalgie :
 
 - Les lombalgies avec compression radiculaire (5 à 15%). Sur le nerf crural on parlera de cruralgie et sur le nerf sciatique on parlera de sciatalgie,
 - Les lombalgies symptomatiques avec pathologies sous-jacentes (1 à 5%) dont le suivi et le traitement seront particuliers.
 
-[![Lombalgies symptomatiques](/assets/2014-07-30/Lombalgies-symptomatiques.png)](http://www.has-sante.fr/portail/upload/docs/application/pdf/lombalgie_dec2000_recos.pdf)
+<figure>
+  <img src="/assets/2014-07-30/Lombalgies-symptomatiques.png" alt="Lombalgies symptomatiques">
+  <figcaption markdown="1">
+  Lombalgies symptomatiques [^2]
+  </figcaption>
+</figure>
 
 - Les lombalgies communes sans pathologie à l'origine de la douleur : c'est cette lombalgie que l'on va détailler dans cet article.
 
-Concernant les examens d'imagerie (radio, IRM...) : il n'y a pas forcément d'association entre une anomalie dans les imageries et la survenue de lombalgie : les anomalies d'imagerie sont aussi répandues chez les patients asymptomatiques que chez ceux présentant des douleurs lombaires. D'ailleurs, entre 40% et 50% des personnes qui n'ont pas de douleur dans le bas du dos présentent des dégénérescences et arthrose sur leur radio [^1].
+Concernant les examens d'imagerie (radio, IRM...), il n'y a pas forcément d'association entre une anomalie dans les imageries et la survenue de lombalgie : les anomalies d'imagerie sont aussi répandues chez les patients asymptomatiques que chez ceux présentant des douleurs lombaires. D'ailleurs, entre 40% et 50% des personnes qui n'ont pas de douleur dans le bas du dos présentent des dégénérescences et arthrose sur leur radio [^1].
 
 Les causes de survenue d'une lombalgie commune peuvent être très variées (liste non exhaustive) :
 
@@ -31,9 +38,14 @@ Les causes de survenue d'une lombalgie commune peuvent être très variées (lis
 - Psychosocial : somatisation, stress, angoisse...
 - Viscérale : constipation, adhérence cicatricielle, menstruation...
 - Faiblesse des muscles du dos et des abdominaux par manque d'exercices physiques,
-- [Vibrations](http://www.inrs.fr/accueil/risques/phenomene-physique/vibration/vibration-corps-entier/effets-sante.html) : machines agricoles, tondeuses...
+- [Vibrations](http://www.inrs.fr/risques/vibration-corps-entier/effets-sante.html) : machines agricoles, tondeuses...
 
-[![Principaux facteurs de risques de lombalgie aigue ou chronique](/assets/2014-07-30/Principaux-facteurs-de-risques-de-lombalgie-aigue-ou-chronique.png)](http://www.inrs.fr/accueil/produits/mediatheque/doc/publications.html?refINRS=DW%2030)
+<figure>
+  <img src="/assets/2014-07-30/Principaux-facteurs-de-risques-de-lombalgie-aigue-ou-chronique.png" alt="Lombalgies symptomatiques">
+  <figcaption markdown="1">
+  Principaux facteurs de risques de lombalgie aiguë ou chronique [^22]
+  </figcaption>
+</figure>
 
 ## Durée
 
@@ -80,8 +92,9 @@ La lombalgie commune est fréquente mais très invalidante. De nombreux facteurs
       [Diagnosis and treatment of low back pain](http://www.bmj.com/content/bmj/332/7555/1430.full.pdf).
       British Medical Journal (2006) 332:1430
 
-[^2]: Agence Nationale d'Accréditation et d'Evaluation en Santé, Service des recommandations et références professionnelles, Décembre 2000.
+[^2]: Agence Nationale d'Accréditation et d'Evaluation en Santé, Service des recommandations et références professionnelles.
       [Diagnostic, prise en charge et suivi des malades atteints de lombalgie chroniques](http://www.has-sante.fr/portail/upload/docs/application/pdf/lombalgie_dec2000_recos.pdf)
+      Décembre 2000
 
 [^3]: John C Licciardone, Angela K Brimhall and Linda N King.
       [Osteopathic manipulative treatment for low back pain: a systematic review and meta-analysis of randomized controlled trials](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1208896/).
@@ -112,11 +125,11 @@ La lombalgie commune est fréquente mais très invalidante. De nombreux facteurs
       BMC Musculoskeletal Disorders (2014) Vol 15, N°140
 
 [^10]: Yves Henchoz.
-       [Lombalgies non spécifiques : faut-il recommander l'exercice et les activités sportives ?](http://rms.medhyg.ch/numero-286-page-612.htm).
+       [Lombalgies non spécifiques : faut-il recommander l'exercice et les activités sportives ?](http://rms.medhyg.ch/numero-286-page-612.htm)
        Revue Médicale Suisse (2011) N°7 - p 612-616
 
 [^11]: Ribaud A1, Tavares I, Viollet E, Julia M, Hérisson C, Dupeyron A.
-       [Which physical activities and sports can be recommended to chronic low back pain patients after rehabilitation?](http://www.ncbi.nlm.nih.gov/pubmed/24140440).
+       [Which physical activities and sports can be recommended to chronic low back pain patients after rehabilitation?](http://www.ncbi.nlm.nih.gov/pubmed/24140440)
        Annal of Physical and Rehabilitation Medecine (2013) Vol 56, N°7 - p 576-594.
 
 [^12]: Wells C, Kolt GS, Marshall P, Hill B, Bialocerkowski A.
@@ -131,8 +144,8 @@ La lombalgie commune est fréquente mais très invalidante. De nombreux facteurs
        [Influence of body mass index on low back pain](http://www.ncbi.nlm.nih.gov/pubmed/24584385).
        Mymensingh Medical Journal (2014) Vol 23, N°1 - p 125-129
 
-[^15]: Goldberg, Mark S. PhD; Scott, Susan C. MSc; Mayo, Nancy E. PhD.
-       [A Review of the Association Between Cigarette Smoking and the Development of Nonspecific Back Pain and Related Outcomes](http://journals.lww.com/spinejournal/Abstract/2000/04150/A_Review_of_the_Association_Between_Cigarette.16.aspx).
+[^15]: Goldberg MS, Scott SC, Mayo NE.
+       [A Review of the Association Between Cigarette Smoking and the Development of Nonspecific Back Pain and Related Outcomes](http://www.ncbi.nlm.nih.gov/pubmed/10767814).
        Spine (2000) Vol 25, N°8 - p 995-1014
 
 [^16]: Fahad Alkherayf, Eugene K Wai, Eve C Tsai, and Charles Agbi.
@@ -158,3 +171,7 @@ La lombalgie commune est fréquente mais très invalidante. De nombreux facteurs
 [^21]: Prinsen JK, Hensel KL, Snow RJ.
        [OMT associated with reduced analgesic prescribing and fewer missed work days in patients with low back pain: an observational study](http://www.ncbi.nlm.nih.gov/pubmed/24481801).
        The Journal of the American Osteopathic Association (2014) Vol 114, N°2 - p 90-98
+
+[^22]: INRS.
+       [Les lombalgies](http://www.inrs.fr/accueil/produits/mediatheque/doc/publications.html?refINRS=DW%2030).
+       2010

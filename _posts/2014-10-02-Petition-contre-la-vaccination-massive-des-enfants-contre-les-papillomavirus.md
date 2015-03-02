@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pétition contre la vaccination massive des enfants contre les papillomavirus
-tags: [pétition, vaccination, papillomavirus]
+tags: [pétition, vaccination]
 last_modified_at: '2014-10-02'
 ---
 

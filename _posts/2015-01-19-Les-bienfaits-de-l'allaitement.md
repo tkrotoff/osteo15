@@ -5,62 +5,49 @@ tags: [bébé]
 last_modified_at: '2015-01-24'
 ---
 
-Les bienfaits de l'allaitement maternel sont nombreux.
-La plupart des études mettent en évidence que les avantages de l'allaitement maternel sont en relation avec sa durée et son exclusivité.
-D'ailleurs l'OMS recommande l'allaitement exclusif au sein :
+Les bienfaits de l'allaitement maternel sont nombreux. La plupart des études mettent en évidence que les avantages de l'allaitement maternel sont en relation avec sa durée et son exclusivité. D'ailleurs l'OMS recommande l'allaitement exclusif au sein :
 
 - Pendant les 6 premiers mois de vie
-- De 6 mois à 2 ans, voire plus, l'allaitement devrait être complété par des aliments solides tels que des fruits ou des légumes en purée :
-  c'est ce que l'on appelle la diversification alimentaire.
+- De 6 mois à 2 ans, voire plus, l'allaitement devrait être complété par des aliments solides tels que des fruits ou des légumes en purée : c'est ce que l'on appelle la diversification alimentaire.
 
-Cependant, a propos de certains bénéfices ou bienfaits, il semble que les conclusions des études soient contradictoires.
-Je vous propose de regarder en détail ces bénéfices, au regard des études scientifiques, et de vous faire votre propre idée sur la question.
+Cependant, à propos de certains bénéfices ou bienfaits, il semble que les conclusions des études soient contradictoires. Je vous propose de regarder en détail ces bénéfices, au regard des études scientifiques, et de vous faire votre propre idée sur la question.
 
 ## Diminution du risque d'asthme
 
-Les études semblent contradictoires quant à leurs conclusions : une étude de 2007 [^1] conclue qu'il n'y a pas d'effet protecteur,
-d'autres suggèrent qu'il y a une augmentation du risque d'asthme [^2] [^3] et notamment si la mère est asthmatique et présente une atopie [^3].
-Cependant, deux méta-analyses concluent que l'allaitement exclusif protège contre l'asthme [^4] [^5] et notamment si des antécédents familiaux d'atopie existent [^4].
+Les études semblent contradictoires quant à leurs conclusions : une étude de 2007 [^1] conclue qu'il n'y a pas d'effet protecteur, d'autres suggèrent qu'il y a une augmentation du risque d'asthme [^2] [^3] et notamment si la mère est asthmatique et présente une atopie [^3]. Cependant, deux méta-analyses concluent que l'allaitement exclusif protège contre l'asthme [^4] [^5] et notamment si des antécédents familiaux d'atopie existent [^4].
 
 ## Diminution du risque allergique
 
-Comme pour l'asthme, les conclusions des études sont contradictoires.
-Une étude trouve une augmentation du risque d'allergie en cas d'allaitement maternel [^2] alors que d'autres concluent à une diminution de ce risque [^6] [^7].
+Comme pour l'asthme, les conclusions des études sont contradictoires. Une étude trouve une augmentation du risque d'allergie en cas d'allaitement maternel [^2] alors que d'autres concluent à une diminution de ce risque [^6] [^7].
 
 ## Diminution des pathologies infectieuses
 
-L'allaitement maternel permet une diminution des pathologies infectieuses de la petite enfance :
-diarrhées aiguës, infections ORL et respiratoires, maladies infectieuses gastro-intestinales, méningites bactériennes, infections des voies urinaires...
+L'allaitement maternel permet une diminution des pathologies infectieuses de la petite enfance : diarrhées aiguës, infections ORL et respiratoires, maladies infectieuses gastro-intestinales, méningites bactériennes, infections des voies urinaires...
 
 Toutes les études retrouvent un lien entre la durée de l'allaitement exclusif et l'effet protecteur :
 
 - Un allaitement d'au moins 15 semaines donne un effet protecteur jusqu'à l'âge de 7 ans sur les infections respiratoires [^8]
 - Diminution des infections urinaires : plus l'allaitement maternel exclusif est long et plus l'effet protecteur est présent [^9]
-- L'allaitement maternel exclusif permet une protection contre les infections courantes de la petite enfance et
-  une diminution de la fréquence et de la gravité des épisodes infectieux, et cela, même dans les populations où la couverture vaccinale est bonne.
-  L'allaitement partiel ne semble pas offrir cet effet protecteur [^10]
-- L'allaitement maternel exclusif diminue le risque de maladies infectieuses dans la petite enfance :
-  maladies infectieuses respiratoires et maladies gastro-intestinales.
-  Comme dans les autres études, cette protection est en lien avec la durée de l'exclusivité de l'allaitement maternel [^11]
+- L'allaitement maternel exclusif permet une protection contre les infections courantes de la petite enfance et une diminution de la fréquence et de la gravité des épisodes infectieux, et cela, même dans les populations où la couverture vaccinale est bonne. L'allaitement partiel ne semble pas offrir cet effet protecteur [^10]
+- L'allaitement maternel exclusif diminue le risque de maladies infectieuses dans la petite enfance : maladies infectieuses respiratoires et maladies gastro-intestinales. Comme dans les autres études, cette protection est en lien avec la durée de l'exclusivité de l'allaitement maternel [^11]
 - Diminution du risque de diarrhée et du taux de mortalité due aux diarrhées pendant les 2 premières années de vie [^12]
 
 ## Diminution de la pression artérielle
 
-L'allaitement maternel permettrait une diminution de la pression artérielle à l'âge adulte et notamment de la pression systolique.
-Une méta-analyse de 2003 [^13] conclue que ces résultats seraient exagérés et que
-_"l'alimentation en bas âge a, au plus, un effet modeste sur la pression artérielle"_.
-En effet, les conclusions des études peuvent être biaisées par différents facteurs [^14].
-Une méta-analyse de 2005 conclue dans ce sens :
-_"L'allaitement maternel est inversement associée à la tension artérielle, mais la possibilité d'un biais de publication et de confusion résiduelle ne peuvent être exclus"_ [^15].
+L'allaitement maternel permettrait une diminution de la pression artérielle à l'âge adulte et notamment de la pression systolique. Une méta-analyse de 2003 [^13] conclue que ces résultats seraient exagérés et que _"l'alimentation en bas âge a, au plus, un effet modeste sur la pression artérielle"_. En effet, les conclusions des études peuvent être biaisées par différents facteurs [^14]. Une méta-analyse de 2005 [^15] conclue dans ce sens :
+
+> L'allaitement maternel est inversement associée à la tension artérielle, mais la possibilité d'un biais de publication et de confusion résiduelle ne peuvent être exclus.
 
 ## Amélioration de l'acquisition du langage et du développement psychomoteur
 
-D'après une étude de l'Inserm [^16], les enfants allaités prononcent davantage de mots à 2 ans que ceux qui n'ont pas été allaités
-et ils semblent avoir un meilleur développement cognitif global à l'âge de 3 ans.
-Ce bénéfice est réel mais reste modeste :
-_"L'avantage de l'allaitement maternel pour l'acquisition du langage est plus faible que celui observé entre les enfants dont les parents lisent une histoire tous les jours et les autres"_.
+D'après une étude de l'Inserm [^16], les enfants allaités prononcent davantage de mots à 2 ans que ceux qui n'ont pas été allaités et ils semblent avoir un meilleur développement cognitif global à l'âge de 3 ans. Ce bénéfice est réel mais reste modeste :
+
+> L'avantage de l'allaitement maternel pour l'acquisition du langage est plus faible que celui observé entre les enfants dont les parents lisent une histoire tous les jours et les autres.
+
 Comme dans les autres études, ces avantages sont en lien avec la durée et l'exclusivité de l'allaitement maternel :
-_"Plus l'allaitement est long, meilleurs sont les scores. Et ce lien est renforcé en cas d'allaitement exclusif"_.
+
+> Plus l'allaitement est long, meilleurs sont les scores. Et ce lien est renforcé en cas d'allaitement exclusif.
+
 D'autres études corroborent ces résultats et montrent une association positive entre allaitement maternel et le développement cognitif ainsi que le QI [^14] [^17] [^18] [^19] [^20].
 
 ## Diminution du risque d'obésité
@@ -68,47 +55,32 @@ D'autres études corroborent ces résultats et montrent une association positive
 J'ai commencé ma recherche par deux méta-analyses de 2005 qui parviennent à des conclusions inverses :
 
 - L'une retrouve un faible lien entre allaitement maternel et diminution de l'IMC et suggère des biais dans les études :
-  _"L'IMC moyen est plus faible chez les sujets allaités. Cependant, la différence est faible et est susceptible d'être fortement influencée par les biais de publication et les facteurs de confusion"_ [^21]
-- L'autre méta-analyse conclut que
-  _"[...] la durée de l'allaitement est inversement et linéairement associée au risque de surpoids.
-  Le risque de surpoids a été réduit de 4 % pour chaque mois d'allaitement maternel et ce, jusqu'à 9 mois d'allaitement.
-  [...] il peut être conclu que [...] même l'allaitement partiel jusqu'à 9 mois conduit à une plus grande diminution du risque de surpoids à l'âge adulte"_ [^22].
 
-En poursuivant mes recherches, j'ai trouvé que les résultats et conclusions étaient divergents selon les études et les méta-analyses :
-certaines trouvent une diminution du risque d'obésité ou une diminution de l'IMC grâce à l'allaitement maternel [^22] [^23]
-alors que d'autres ne trouvent pas ou alors très peu d'effet protecteur de l'allaitement maternel [^14] [^21] [^24] [^25].
+> L'IMC moyen est plus faible chez les sujets allaités. Cependant, la différence est faible et est susceptible d'être fortement influencée par les biais de publication et les facteurs de confusion. [^21]
 
-Ces différences de résultats peuvent s'expliquer par des biais d'études et des facteurs confondants [^14] [^21].
-Il faut aussi se pencher sur les effets du lait maternisé : celui-ci modifie la proportion de masse grasse et de masse maigre dans la petite enfance si on le compare à l'allaitement maternel [^26].
-On sait aussi qu'il y a un apport calorique plus élevé chez les enfants nourris au biberon or, un gain de poids inférieur du nouveau-né est un facteur de protection contre l'obésité [^22].
-Une étude met en évidence que _"l'introduction d'un lait autre que le lait maternel avant l'âge de 6 mois est un facteur de risque pour la survenue de surpoids ou d'obésité à l'âge de 20 ans"_ [^27].
+- L'autre méta-analyse conclut que :
 
-Dans un article de 2014 [^28], l'Inserm conclue que l'allaitement maternel diminue le risque d'obésité à l'âge de 20 ans,
-mais cet effet protecteur peut être restreint par une mauvaise alimentation après l'âge de 2 ans.
-L'alimentation après la période d'allaitement est donc essentielle pour la prévention de l'obésité.
-Il ne faut cependant pas oublier les autres facteurs de risque d'obésité :
-surpoids de la mère avant la grossesse, poids de naissance élevé, prise de poids rapide au cours de la première année de vie du bébé, mère fumeuse, introduction précoce d'aliments solides... [^29]
-Ainsi, l'allaitement maternel peut jouer un rôle dans la prévention de l'obésité, mais n'est pas le critère principal.
+> [...] la durée de l'allaitement est inversement et linéairement associée au risque de surpoids. Le risque de surpoids a été réduit de 4 % pour chaque mois d'allaitement maternel et ce, jusqu'à 9 mois d'allaitement. [...] il peut être conclu que [...] même l'allaitement partiel jusqu'à 9 mois conduit à une plus grande diminution du risque de surpoids à l'âge adulte. [^22]
+
+En poursuivant mes recherches, j'ai trouvé que les résultats et conclusions étaient divergents selon les études et les méta-analyses : certaines trouvent une diminution du risque d'obésité ou une diminution de l'IMC grâce à l'allaitement maternel [^22] [^23] alors que d'autres ne trouvent pas ou alors très peu d'effet protecteur de l'allaitement maternel [^14] [^21] [^24] [^25].
+
+Ces différences de résultats peuvent s'expliquer par des biais d'études et des facteurs confondants [^14] [^21]. Il faut aussi se pencher sur les effets du lait maternisé : celui-ci modifie la proportion de masse grasse et de masse maigre dans la petite enfance si on le compare à l'allaitement maternel [^26]. On sait aussi qu'il y a un apport calorique plus élevé chez les enfants nourris au biberon or, un gain de poids inférieur du nouveau-né est un facteur de protection contre l'obésité [^22]. Une étude [^27] met en évidence que
+
+> L'introduction d'un lait autre que le lait maternel avant l'âge de 6 mois est un facteur de risque pour la survenue de surpoids ou d'obésité à l'âge de 20 ans.
+
+Dans un article de 2014 [^28], l'Inserm conclue que l'allaitement maternel diminue le risque d'obésité à l'âge de 20 ans, mais cet effet protecteur peut être restreint par une mauvaise alimentation après l'âge de 2 ans. L'alimentation après la période d'allaitement est donc essentielle pour la prévention de l'obésité. Il ne faut cependant pas oublier les autres facteurs de risque d'obésité : surpoids de la mère avant la grossesse, poids de naissance élevé, prise de poids rapide au cours de la première année de vie du bébé, mère fumeuse, introduction précoce d'aliments solides... [^29] Ainsi, l'allaitement maternel peut jouer un rôle dans la prévention de l'obésité, mais n'est pas le critère principal.
 
 ## Diminution de l'incidence du diabète
 
-L'allaitement maternel, par son exclusivité et sa durée, serait un facteur protecteur contre le diabète :
-il contient des substances qui favorisent la maturation du système immunitaire et protègent contre la survenue du diabète du type 1 et 2.
-Plusieurs études mettent en évidence cet effet protecteur [^30] [^31] [^32].
-Il faut garder à l'esprit que l'introduction précoce du lait de vache dans l'alimentation est un facteur de risque important pour le développement du diabète.
+L'allaitement maternel, par son exclusivité et sa durée, serait un facteur protecteur contre le diabète : il contient des substances qui favorisent la maturation du système immunitaire et protègent contre la survenue du diabète du type 1 et 2. Plusieurs études mettent en évidence cet effet protecteur [^30] [^31] [^32]. Il faut garder à l'esprit que l'introduction précoce du lait de vache dans l'alimentation est un facteur de risque important pour le développement du diabète.
 
 ## Diminution des reflux et des coliques
 
-L'allaitement maternel ne protège ni contre les reflux (RGO), ni contre les coliques infantiles.
-Pour les coliques infantiles, l'allaitement maternel semble retarder le moment d'apparition des symptômes, mais ne diminue pas le risque d'apparition.
-Concernant les reflux, l'allaitement maternel n'en protège pas [^33] [^34], même si certaines études mettent en évidence une résolution
-plus rapide des reflux chez les enfants nourris au sein par rapport à ceux nourris au biberon [^35] [^36].
+L'allaitement maternel ne protège ni contre les reflux (RGO), ni contre les coliques infantiles. Pour les coliques infantiles, l'allaitement maternel semble retarder le moment d'apparition des symptômes, mais ne diminue pas le risque d'apparition. Concernant les reflux, l'allaitement maternel n'en protège pas [^33] [^34], même si certaines études mettent en évidence une résolution plus rapide des reflux chez les enfants nourris au sein par rapport à ceux nourris au biberon [^35] [^36].
 
 ## Troubles d'orthodontie et malocclusion
 
-L'allaitement maternel n'a pas qu'une utilité nutritionnelle et affective :
-par les mécanismes de la succion, il permet le développement des muscles faciaux.
-Or, les mécanismes de la succion au biberon et de la succion non nutritive (pouce ou tétine) ne sont pas les mêmes que pour la succion au sein [^37].
+L'allaitement maternel n'a pas qu'une utilité nutritionnelle et affective : par les mécanismes de la succion, il permet le développement des muscles faciaux. Or, les mécanismes de la succion au biberon et de la succion non nutritive (pouce ou tétine) ne sont pas les mêmes que pour la succion au sein [^37].
 
 Il a été mis en évidence qu'un temps d'allaitement trop court ou inexistant est un facteur de risque :
 
@@ -117,24 +89,21 @@ Il a été mis en évidence qu'un temps d'allaitement trop court ou inexistant e
 
 En effet, un allaitement maternel de moins de 6 mois est associé à une augmentation d'habitudes néfastes dont les principales sont la succion non nutritive et l'interposition linguale [^42] [^49].
 
-Une étude de 2012 évoque aussi l'impact positif de l'allaitement maternel sur la mastication :
-_"La durée de l'allaitement maternel est associée positivement à la qualité de la fonction masticatoire à l'âge pré-scolaire"_ [^50].
+Une étude de 2012 [^50] évoque aussi l'impact positif de l'allaitement maternel sur la mastication :
 
-Une étude suggère cependant que l'allaitement seul ne semble pas directement associé à des malocclusions,
-mais que c'est plutôt la synergie entre l'absence d'allaitement maternel et les habitudes orales délétères qui provoquent les problèmes d'occlusion dentaire [^51].
+> La durée de l'allaitement maternel est associée positivement à la qualité de la fonction masticatoire à l'âge pré-scolaire.
+
+Une étude suggère cependant que l'allaitement seul ne semble pas directement associé à des malocclusions, mais que c'est plutôt la synergie entre l'absence d'allaitement maternel et les habitudes orales délétères qui provoquent les problèmes d'occlusion dentaire [^51].
 
 ## Conclusion
 
-Pour plus d'informations, vous pouvez consulter la [brochure d'information du PNNS](http://www.mangerbouger.fr/pro/IMG/pdf/SyntheseAllaitement.pdf)
-et le [dossier informatif de l'INPES](http://www.inpes.sante.fr/CFESBases/catalogue/pdf/1310-3n.pdf).
+Pour plus d'informations, vous pouvez consulter la [brochure d'information du PNNS](http://www.mangerbouger.fr/pro/IMG/pdf/SyntheseAllaitement.pdf) et le [dossier informatif de l'INPES](http://www.inpes.sante.fr/CFESBases/catalogue/pdf/1310-3n.pdf).
 
 Quoi qu'il en soit, l'allaitement maternel doit rester un choix personnel.
 
-Comme nous venons de la voir, il existe des avantages pour les nourrissons,
-même si les résultats des études sur certains critères peuvent être contradictoires (asthme, allergie, pression artérielle, IMC...) et biaisés par des facteurs confondants.
+Comme nous venons de la voir, il existe des avantages pour les nourrissons, même si les résultats des études sur certains critères peuvent être contradictoires (asthme, allergie, pression artérielle, IMC...) et biaisés par des facteurs confondants.
 
-Il faut vous rappeler que le plus important est le lien que vous tissez avec votre enfant :
-une erreur serait d'allaiter à tout prix au détriment de ce lien ou, au contraire, ne pas chercher d'aide en cas de difficultés alors que vous souhaitez allaiter.
+Il faut vous rappeler que le plus important est le lien que vous tissez avec votre enfant : une erreur serait d'allaiter à tout prix au détriment de ce lien ou, au contraire, ne pas chercher d'aide en cas de difficultés alors que vous souhaitez allaiter.
 
 ## Quelques associations en rapport avec l'allaitement
 

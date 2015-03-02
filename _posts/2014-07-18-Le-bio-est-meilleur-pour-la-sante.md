@@ -29,8 +29,12 @@ Un autre label [[1]](http://www.60millions-mag.com/guides_d_achat/conseils_d_exp
 
 ![Bio Cohérence](/assets/2014-07-18/Bio-Coherence.jpg)
 
-Une méta-analyse récente (juillet 2014) met en évidence tout l'intérêt d'une alimentation biologique : _"[...] les cultures biologiques et les aliments transformés produits à partir de ces cultures ont une activité antioxydante plus élevée et contiennent des concentrations plus élevées d'un large éventail d'antioxydants nutritionnellement souhaitables et des concentrations plus faibles de produits potentiellement dangereux [...]. Il y a des différences significatives entre la composition des cultures biologiques et conventionnelles pour une gamme de composés nutritionnellement pertinents."_
+Une méta-analyse récente (juillet 2014) [^1] met en évidence tout l'intérêt d'une alimentation biologique :
 
-Source : [Higher antioxidant and lower cadmium concentrations and lower incidence of pesticide residues in organically grown crops: a systematic literature review and meta-analyses](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141693/)
+> [...] les cultures biologiques et les aliments transformés produits à partir de ces cultures ont une activité antioxydante plus élevée et contiennent des concentrations plus élevées d'un large éventail d'antioxydants nutritionnellement souhaitables et des concentrations plus faibles de produits potentiellement dangereux [...]. Il y a des différences significatives entre la composition des cultures biologiques et conventionnelles pour une gamme de composés nutritionnellement pertinents.
 
 Ainsi, pour une alimentation saine, légumes et fruits frais sont de rigueur pour une haute densité nutritionnelle, et si possible bio.
+
+[^1]: Marcin Barański, Dominika Średnicka-Tober, Nikolaos Volakakis, Chris Seal, Roy Sanderson, Gavin B. Stewart, Charles Benbrook, Bruno Biavati, Emilia Markellou, Charilaos Giotis, Joanna Gromadzka-Ostrowska, Ewa Rembiałkowska, Krystyna Skwarło-Sońta, Raija Tahvonen, Dagmar Janovská, Urs Niggli, Philippe Nicot, Carlo Leifert.
+      [Higher antioxidant and lower cadmium concentrations and lower incidence of pesticide residues in organically grown crops: a systematic literature review and meta-analyses](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141693/).
+      British Journal of Nutrition, 2014 Sep 14

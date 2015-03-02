@@ -6,11 +6,11 @@
   {% if include.href %}
   <a href="{{ include.href }}">
   {% endif %}
-    <img src="{{ include.src }}" alt="{{ include.caption }}">
+    <img src="{{ include.src }}" alt="{{ include.caption | markdownify }}">
   {% if include.href %}
   </a>
   {% endif %}
   <figcaption>
-    {{ include.caption }}
+    {{ include.caption | markdownify }}
   </figcaption>
 </figure>

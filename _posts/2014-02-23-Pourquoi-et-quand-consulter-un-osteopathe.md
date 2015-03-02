@@ -38,7 +38,7 @@ où la "qualité tissulaire" prend tout son sens et permettant un accompagnement
 
 Ici j'entends traumatisme au sens large : traumatisme physique tel que choc, chute... pouvant laisser un impact sur le corps, mais aussi les traumatismes et chocs psychologiques auxquels chacun peut être confronté un jour (deuil, mauvaise nouvelle, annonce de maladie grave...).
 
-Nous sommes à la fois dans une prise en charge somatique = du corps avec par exemple une vertèbre, segment osseux ou espace tissulaire en perte de mobilité (ou de qualité tissulaire) suite à un choc = une énergie cinétique appliquée au corps (_on dira dans le langage courant qu'il y a déplacement mais nous verrons dans un prochain article que ce raccourcit linguistique peut être source d'erreur_). Mais aussi dans une prise en charge émotionnelle et psychologique (je ne parle pas ici d'une consultation chez un psy : je reste ici dans le cadre d'une séance d'ostéo) car il peut y avoir "engrènement" au niveau du corps de souffrance psychologique. C'est le psycho-somatique.
+Nous sommes à la fois dans une prise en charge somatique = du corps avec par exemple une vertèbre, segment osseux ou espace tissulaire en perte de mobilité (ou de qualité tissulaire) suite à un choc = une énergie cinétique appliquée au corps (on dira dans le langage courant qu'il y a déplacement mais nous verrons dans un prochain article que ce raccourcit linguistique peut être source d'erreur). Mais aussi dans une prise en charge émotionnelle et psychologique (je ne parle pas ici d'une consultation chez un psy : je reste ici dans le cadre d'une séance d'ostéo) car il peut y avoir "engrènement" au niveau du corps de souffrance psychologique. C'est le psycho-somatique.
 
 ## Prévention
 

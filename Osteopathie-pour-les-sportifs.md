@@ -4,11 +4,7 @@ title: Ostéopathie pour les sportifs
 tags: [ostéopathie, sport]
 ---
 
-Le sport permet d'entretenir le corps, d'améliorer l'état de santé et de compenser une mauvaise ergonomie au travail.
-Cependant la répétition de certains mouvements, les chocs itératifs voir les micro-traumatismes peuvent entraîner
-des pertes de mobilité et dysfonctions du corps amenant à des troubles fonctionnels et douleurs.
-La prise en charge ostéopathique du sportif aura pour but de corriger les pertes de mobilité (qu'elles soient provoquées ou non par le sport),
-d'améliorer la qualité des tissus (muscles, tendons, viscères, articulations...) afin de retrouver équilibre et confort dans votre pratique sportive.
+Le sport permet d'entretenir le corps, d'améliorer l'état de santé et de compenser une mauvaise ergonomie au travail. Cependant la répétition de certains mouvements, les chocs itératifs voir les micro-traumatismes peuvent entraîner des pertes de mobilité et dysfonctions du corps amenant à des troubles fonctionnels et douleurs. La prise en charge ostéopathique du sportif aura pour but de corriger les pertes de mobilité (qu'elles soient provoquées ou non par le sport), d'améliorer la qualité des tissus (muscles, tendons, viscères, articulations...) afin de retrouver équilibre et confort dans votre pratique sportive.
 
 - Lors de votre première séance d'ostéopathie, pensez à apporter vos comptes-rendu d'examen et d'imagerie médicale (même ancienne) si vous en avez
 - N'oubliez pas d'apporter vos semelles orthopédiques à chaque consultation

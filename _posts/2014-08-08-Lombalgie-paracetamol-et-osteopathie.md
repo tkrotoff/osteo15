@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lombalgie : paracétamol et ostéopathie"
-tags: [ostéopathie, dos, paracétamol]
+tags: [ostéopathie, dos, lombalgie]
 last_modified_at: '2014-11-27'
 ---
 
@@ -25,19 +25,25 @@ Une [revue systématique](http://wikipedia.qwika.com/en2fr/Systematic_review) de
 
 D'après cette étude, le traitement de la lombalgie commune par le paracétamol ne changeait rien :
 
-- "Ces analyses n'ont montré aucun effet du traitement" et "le paracétamol a également eu aucun effet sur la douleur, le handicap, la fonction, le changement global des symptômes, le sommeil, ou la qualité de vie."
+- _"Ces analyses n'ont montré aucun effet du traitement"_ et _"le paracétamol a également eu aucun effet sur la douleur, le handicap, la fonction, le changement global des symptômes, le sommeil, ou la qualité de vie."_
 
-- "Le délai de récupération, la douleur et le nombre de jours de douleur ne différaient pas"
+- _"Le délai de récupération, la douleur et le nombre de jours de douleur ne différaient pas"_
 
-- Il est à noté que cette même étude trouvait aussi la même proportion d'effets indésirables : "Les événements indésirables entre les groupes de traitement ne diffèrent pas."
+- Il est à noté que cette même étude trouvait aussi la même proportion d'effets indésirables : _"Les événements indésirables entre les groupes de traitement ne diffèrent pas."_
 
 Ainsi, on comprend que le paracétamol n'écourte pas le temps de la lombalgie, ne diminue pas l'intensité de la douleur et ne redonne pas de la mobilité si le dos est "bloqué".
 
 ## L'intérêt de l'ostéopathie dans la lombalgie commune
 
-Le problème de la lombalgie commune (la majorité des cas de lombalgie) est que son origine peut avoir plusieurs causes (qui se recoupent) et que son passage à la chronicité est très mal compris [^3] : _"[...] Le processus semble être multifactoriel : impliquant une potentielle interaction complexe entre la structure anatomique, la fonction biomécanique, les impératifs environnementaux et ses réponses psychosociales. [...] 40% des patients atteints de lombalgies ont des récurrences dans les 6 mois, et jusqu'à 60% ont des récidives dans l'année"_. Forcément, si la cause n'est pas traitée, le mal revient...
+Le problème de la lombalgie commune (la majorité des cas de lombalgie) est que son origine peut avoir plusieurs causes (qui se recoupent) et que son passage à la chronicité est très mal compris [^3] :
 
-Je pense que l'échec du paracétamol dans le traitement de la lombalgie commune vient du fait qu'il ne traite pas la cause : les douleurs sont toujours présentes car la dysfonction à l'origine de la douleur est toujours présente [^15] : _"[...] La dysfonction somatique, en particulier dans les régions lombaire et le sacrum / bassin, est fréquente chez les patients atteints de lombalgie chronique."_
+> [...] Le processus semble être multifactoriel : impliquant une potentielle interaction complexe entre la structure anatomique, la fonction biomécanique, les impératifs environnementaux et ses réponses psychosociales. [...] 40% des patients atteints de lombalgies ont des récurrences dans les 6 mois, et jusqu'à 60% ont des récidives dans l'année.
+
+Forcément, si la cause n'est pas traitée, le mal revient...
+
+Je pense que l'échec du paracétamol dans le traitement de la lombalgie commune vient du fait qu'il ne traite pas la cause : les douleurs sont toujours présentes car la dysfonction à l'origine de la douleur est toujours présente [^15] :
+
+> [...] La dysfonction somatique, en particulier dans les régions lombaire et le sacrum / bassin, est fréquente chez les patients atteints de lombalgie chronique.
 
 L'ostéopathie est donc un traitement de choix dans les lombalgies : c'est une thérapie qui recherche la cause et n'a pas pour but final de traiter le symptôme mais de traiter l'individu, dans toute sa globalité, en lui redonnant ses capacités de compensation.
 
@@ -53,7 +59,7 @@ Compte tenu de ses faibles risques [^4], la prise en charge ostéopathique devra
 
 Nous venons de le voir : l'ostéopathie est efficace en terme de résultat sur la douleur chez les patients ayant une lombalgie. D'ailleurs, une étude [^11] conclue que les concentrations de plusieurs bio-marqueurs circulatoires de la douleur sont modifiées après un traitement ostéopathique.
 
-Une autre étude [^10] conclue  que l'ostéopathie à un effet analgésique (= anti-douleur) comparable aux médicaments [anti-inflammatoires non-stéroïdiens (AINS)](https://fr.wikipedia.org/wiki/Anti-inflammatoire_non_st%C3%A9ro%C3%AFdien).
+Une autre étude [^10] conclue que l'ostéopathie à un effet analgésique (= anti-douleur) comparable aux médicaments [anti-inflammatoires non-stéroïdiens (AINS)](https://fr.wikipedia.org/wiki/Anti-inflammatoire_non_st%C3%A9ro%C3%AFdien).
 
 Or, avoir un résultat comparable aux AINS ne veut pas dire que le traitement ostéopathique diminue l'[inflammation](https://fr.wikipedia.org/wiki/Inflammation) : quand est-il des bio-marqueurs de l'inflammation avec l'ostéopathie ?
 
@@ -83,9 +89,9 @@ Je pense que l'ostéopathie est un traitement de choix pour les douleurs lombair
 
 ## Sources
 
-[^1]: Dr Christopher M Williams PhD, Prof Christopher G Maher PhD, Prof Jane Latimer, Prof Andrew J McLachlan PhD, Mark J Hancock PhD, Prof Richard O Day MD, Chung-Wei Christine Lin PhD.
+[^1]: Christopher M Williams, Christopher G Maher, Jane Latimer, Andrew J McLachlan, Mark J Hancock, Richard O Day, Chung-Wei Christine Lin.
       [Efficacy of paracetamol for acute low-back pain: a double-blind, randomised controlled trial](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)60805-9/abstract).
-      The Lancet (2014) doi:10.1016/S0140-6736(14)60805-9
+      The Lancet, Volume 384, No. 9954, p1586–1596, 1 November 2014
 
 [^2]: Reece A. Davies, Christopher G. Maher, and Mark J. Hancock.
       [A systematic review of paracetamol for non-specific low back pain](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2583194/).
@@ -103,11 +109,11 @@ Je pense que l'ostéopathie est un traitement de choix pour les douleurs lombair
       [Osteopathic manipulative treatment for low back pain: a systematic review and meta-analysis of randomized controlled trials](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1208896/).
       BMC Musculoskeletal Disorders (2005) Vol 6, N°43
 
-[^6]: Cruser dA, Maurer D, Hensel K, Brown SK, White K, Stoll ST.
+[^6]: des Anges Cruser, Douglas Maurer, Kendi Hensel, Sarah K Brown, Kathryn White, Scott T Stoll.
       [A randomized, controlled trial of osteopathic manipulative treatment for acute low back pain in active duty military personnel](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3267441/).
       The Journal of Manual and Manipulative Therapy (2012) Vol 20, N°1- p 5-15
 
-[^7]: Licciardone JC, Kearns CM, Minotti DE.Man Ther.
+[^7]: John C. Licciardone, Cathleen M. Kearns, Dennis E. Minotti.
       [Outcomes of osteopathic manual treatment for chronic low back pain according to baseline pain severity: results from the OSTEOPATHIC Trial](http://www.manualtherapyjournal.com/article/S1356-689X(13)00084-2/fulltext).
       Manual Therapy Journal (2013) Vol 18, N° 6 - p 533-540
 
@@ -123,7 +129,7 @@ Je pense que l'ostéopathie est un traitement de choix pour les douleurs lombair
        [American Osteopathic Association guidelines for osteopathic manipulative treatment (OMT) for patients with low back pain](http://www.jaoa.osteopathic.org/content/110/11/653.long).
        The Journal of the American Osteopathic Association (2011) Vol 110, N°11 - p 653-666
 
-[^11]: Brian F. Degenhardt, DO; Nissar A. Darmani, PhD; Jane C. Johnson, MA;Lex C. Towns, PhD; Diana C. J. Rhodes, DVM,PhD; Chung Trinh, BS;Bryan McClanahan, BS; Vincenzo DiMarzo, PhD.
+[^11]: Brian F. Degenhardt, Nissar A. Darmani, Jane C. Johnson, Lex C. Towns, Diana C. J. Rhodes, Chung Trinh, Bryan McClanahan, Vincenzo DiMarzo.
        [Role of Osteopathic Manipulative Treatment in Altering Pain Biomarkers: A Pilot Study](http://www.jaoa.osteopathic.org/content/107/9/387.full.pdf+html).
        The Journal of the American Osteopathic Association (2007) Vol 107, N°9 - p 387-400
 
@@ -131,19 +137,19 @@ Je pense que l'ostéopathie est un traitement de choix pour les douleurs lombair
        [Associations of cytokine concentrations with key osteopathic lesions and clinical outcomes in patients with nonspecific chronic low back pain: results from the OSTEOPATHIC Trial](http://www.jaoa.osteopathic.org/content/112/9/596.long).
        The Journal of the American Osteopathic Association (2012) Vol 112, N°9 - p 596-605
 
-[^13]: Kate R. Meltzer, MS; Paul R. Standley, PhD.
+[^13]: Kate R. Meltzer, Paul R. Standley.
        [Modeled Repetitive Motion Strain and Indirect Osteopathic Manipulative Techniques in Regulation of Human Fibroblast Proliferation and Interleukin Secretion](http://www.jaoa.osteopathic.org/content/107/12/527.full.pdf+html).
        The Journal of the American Osteopathic Association (2007) Vol 107, N°12 - p 527-536
 
-[^14]: John G. Dodd, BS; Meadow Maze Good, BS; Tammy L. Nguyen, BS;Andersen I. Grigg, BS; Lyn M. Batia, BS; Paul R. Standley, PhD.
+[^14]: John G. Dodd, Meadow Maze Good, Tammy L. Nguyen, Andersen I. Grigg, Lyn M. Batia, Paul R. Standley.
        [In Vitro Biophysical Strain Model for Understanding Mechanisms of Osteopathic Manipulative Treatment](http://www.jaoa.osteopathic.org/content/106/3/157.full.pdf+html).
        The Journal of the American Osteopathic Association (2006) Vol 106, N°3 - p 157-166
 
-[^15]: John M. McPartland, DO; Andrea Giuffrida, PhD; Jeremy King, MSc; Evelyn Skinner, DO; John Scotter, MSc; Richard E. Musty, PhD.
+[^15]: John M. McPartland, Andrea Giuffrida, Jeremy King, Evelyn Skinner, John Scotter, Richard E. Musty.
        [Cannabimimetic Effects of Osteopathic Manipulative Treatment](http://www.jaoa.osteopathic.org/content/105/6/283.full.pdf+html).
        The Journal of the American Osteopathic Association (2005) Vol 105, N°6 - p 283-291
 
-[^16]: Licciardone JC, M. Kearns C,.
+[^16]: John C. Licciardone, Cathleen M. Kearns.
        [Somatic Dysfunction and Its Association With Chronic Low Back Pain, Back-Specific Functioning, and General Health: Results From the Osteopathic Trial](http://www.jaoa.osteopathic.org/content/112/7/420.full).
        The Journal of the American Osteopathic Association (2012) Vol 112, N°7 - p 420-428
 

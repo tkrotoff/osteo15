@@ -21,7 +21,7 @@ On ne peut donc pas se fier au seul motif de l'accouchement pour savoir si un b�
 ## Nous trouverons pour les accouchements
 
 - expression utérine
-  ([la HAS souhaite l'abandon de cette technique](http://www.has-sante.fr/portail/upload/docs/application/pdf/ea-_recommandations_.pdf) et si cette technique est utilisée;
+  ([la HAS souhaite l'abandon de cette technique](http://www.has-sante.fr/portail/upload/docs/application/pdf/ea-_recommandations_.pdf) et si cette technique est utilisée ;
   elle doit impérativement être notée dans le dossier de la patiente),
 - mauvaise présentation,
 - extraction instrumentale,
@@ -31,21 +31,16 @@ On ne peut donc pas se fier au seul motif de l'accouchement pour savoir si un b�
 
 Je rajouterai que c'est autant la position fœtale pendant la grossesse que l'accouchement en lui-même qui provoque les dysfonctions ostéopathiques. C'est pour cela que les positons par siège, quel que soit le mode d'accouchement (voie basse ou césarienne), devraient systématiquement faire consulter un ostéopathe.
 
-## D'autres signes peuvent donner "la puce à l'oreille" et amener à consulter un ostéopathe
+## Signes pouvant amener à consulter un ostéopathe
 
 - pleurs incessants, sursauts,
 - problèmes de succion ou de tétée,
 - troubles digestifs, de sommeil,
 - besoin de succion ou de tétée pour se calmer,
-- déformation du crâne à type de [plagiocéphalie positionnelle]({% post_url 2014-07-24-La-plagiocephalie-positionnelle %})
-(je ne parle pas ici de [craniosynostose](https://fr.wikipedia.org/wiki/Craniosynostose)) ou de chevauchement de sutures,
+- déformation du crâne à type de [plagiocéphalie positionnelle]({% post_url 2014-07-24-La-plagiocephalie-positionnelle %}) (je ne parle pas ici de [craniosynostose](https://fr.wikipedia.org/wiki/Craniosynostose)) ou de chevauchement de sutures,
 - yeux qui pleurent ou qui larmoient en permanance : [canal lacrymal bouché]({% post_url 2014-08-17-Le-canal-lacrymal-bouche %}),
-- Et surtout : une position "de confort" du bébé toujours la même :
-  tête penchée sur le côté ou un membre dans une certaine position.
-  Le plus souvent le corps du bébé est en inclinaison comme un haricot (cf la photo de l'article).
-  Ces positions dites "d'aisance" font souvent sourire les parents qui disent :
-  "il ne dort que dans cette position" ou "il est toujours positionné comme ça"
+- Et surtout : une position "de confort" du bébé toujours la même : tête penchée sur le côté ou un membre dans une certaine position. Le plus souvent le corps du bébé est en inclinaison comme un haricot (cf photo ci-dessus). Ces positions dites "d'aisance" font souvent sourire les parents qui disent : "il ne dort que dans cette position" ou "il est toujours positionné comme ça"
 
-![Bébé incurvé](/assets/2014-02-15/Bebe-incurve.jpg)
+{% include figure.html src="/assets/2014-02-15/Bebe-incurve.jpg" caption="Bébé incurvé" %}
 
 Dans tous les cas, sans un bilan ostéopathique avec des tests palpatoires précis on ne peut pas exclure la nécessité d'une séance d'ostéopathie.

@@ -128,7 +128,6 @@ blockquote {
   color: $grey;
   border-left: 4px solid $grey-lighter;
   padding-left: $spacing-unit / 2;
-  font-size: 18px;
   font-style: italic;
 
   > :last-child {
@@ -185,6 +184,15 @@ pre {
     padding-left: $spacing-unit / 2;
     padding-right: $spacing-unit / 2;
   }
+}
+
+
+
+/**
+ * Post footnotes
+ */
+.footnotes {
+  font-size: $small-font-size;
 }
 
 

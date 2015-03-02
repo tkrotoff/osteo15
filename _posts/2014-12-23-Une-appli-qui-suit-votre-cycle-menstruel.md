@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Une appli qui suit votre cycle menstruel
-tags: [appli, CycleMenstruel]
+tags: [appli]
 last_modified_at: '2014-12-23'
 ---
 

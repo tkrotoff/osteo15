@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le canal lacrymal bouché
-tags: [ostéopathie, bébé, CanalLacrymal]
+tags: [ostéopathie, bébé]
 last_modified_at: '2015-01-20'
 ---
 
@@ -27,26 +27,28 @@ Plusieurs signes peuvent être présents, les larmes ne pouvant plus s'écouler 
 
 Voici les principaux traitements du canal lacrymal bouché :
 
-- **Lavage** des yeux au sérum physiologique associés à des **massages** (4 à 6 fois par jour) doux du coin interne de l'œil peuvent aider à 'déboucher' le conduit, mais dans de rares cas cela ne suffit pas...
+- Lavage des yeux au sérum physiologique associés à des massages (4 à 6 fois par jour) doux du coin interne de l'œil peuvent aider à "déboucher" le conduit, mais dans de rares cas cela ne suffit pas...
+
 - Le pédiatre pourra prescrire à votre nourrisson un traitement antibiotique local en plus du lavage des yeux lorsqu'une infection est présente,
-- Lorsque les massages ne suffisent pas, le médecin peut proposer 2 types d'intervention : le sondage ou la pose d'un tube en silicone.
-  **Le sondage** consiste à passer une fine sonde dans le canal afin de le déboucher. Son taux de réussite dépend de l'âge de l'enfant [^5]
-  (sondage avant 6 mois : efficace dans  90 à 98 % des cas / sondage entre 6 et 12 mois : efficace dans 60 à 70 % des cas selon les études / sondage après 12 mois : n'est efficace que dans 40 % des cas et moins). Cette intervention ne nécessite pas forcément l'utilisation d'une anesthésie générale. La seconde est une opération sous anesthésie générale qui consiste à insérer un **tube en silicone** dans le canal afin que celui-ci ne se rebouche pas (99% de réussite à 1 an [^3]).
+
+- Lorsque les massages ne suffisent pas, le médecin peut proposer 2 types d'intervention : le sondage ou la pose d'un tube en silicone. Le sondage consiste à passer une fine sonde dans le canal afin de le déboucher. Son taux de réussite dépend de l'âge de l'enfant [^5] (sondage avant 6 mois : efficace dans 90 à 98 % des cas / sondage entre 6 et 12 mois : efficace dans 60 à 70 % des cas selon les études / sondage après 12 mois : n'est efficace que dans 40 % des cas et moins). Cette intervention ne nécessite pas forcément l'utilisation d'une anesthésie générale. La seconde est une opération sous anesthésie générale qui consiste à insérer un tube en silicone dans le canal afin que celui-ci ne se rebouche pas (99% de réussite à 1 an [^3]).
+
 - La [dacryocystorhinostomies](http://www.voies-lacrymales.com/52+dacryocystorhinostomie-par-voie-externe.html) est une technique utilisée pour créer artificiellement un passage entre le canal lacrymal et [les cavités nasales](http://fr.wikipedia.org/wiki/Cavit%C3%A9_nasale). C'est une intervention chirurgicale réalisée sous anesthésie locale ou générale, parfois associée au tubage siliconé. Cette intervention laisse une petite cicatrice au coin du nez sauf si on passe par l'intérieur du nez (on parle alors d'abord endo-nasal mais il faut alors attendre les 4-5 ans de l'enfant avant de tenter une telle intervention).
 
 D'après une étude de 2000 [^6], un traitement conservateur (c'est-à-dire sans sondage ni pose d'un tube en silicone) a un succès de plus de 90% chez les enfants âgés de 0 à 6 mois et de 60% chez les enfants âgés de 7-12 mois. Or, plus on attend avant de faire un sondage du canal et plus les chances de réussite de cette technique diminuent [^1] [^3] [^4] [^5]. Le traitement du canal lacrymal bouché ne fait donc pas l'unanimité [^5]. Certains pensent qu'il est souhaitable de réaliser un sondage précoce alors que d'autres pensent qu'il vaut mieux attendre la résolution spontanée avant d'utiliser une telle technique.
 
 ![Canal lacrymal bouché bébé](/assets/2014-08-17/Canal-lacrymal-bouche-bebe.png)
 
-_"Une ligne directrice peut être établie [^5] :
-- Avant 3 mois : soins locaux sauf s'il existe une dilatation importante du sac lacrymal.
-- De 3 à 6 mois : sondage si larmoiement et/ou conjonctivites lacrymales à répétition.
-- De 6 à 12 mois : c'est une période charnière intermédiaire ; souvent sondage encore, éventuellement 2ème sondage dans les cas particuliers. Si possible, attendre que l'enfant ait atteint 1 an, et dès lors :
-- Après 12 mois : l'anesthésie générale devient nécessaire et fait envisager l'intubation siliconée."_
+> Une ligne directrice peut être établie [^5] :
+>
+> - Avant 3 mois : soins locaux sauf s'il existe une dilatation importante du sac lacrymal.
+> - De 3 à 6 mois : sondage si larmoiement et/ou conjonctivites lacrymales à répétition.
+> - De 6 à 12 mois : c'est une période charnière intermédiaire ; souvent sondage encore, éventuellement 2ème sondage dans les cas particuliers. Si possible, attendre que l'enfant ait atteint 1 an, et dès lors :
+> - Après 12 mois : l'anesthésie générale devient nécessaire et fait envisager l'intubation siliconée.
 
 ## Traitement ostéopathique
 
-Comme nous venons de le voir, le traitement médical du canal lacrymal bouché chez l'enfant dépendra de son âge et il ne faut pas attendre le dernier moment pour mettre en place un traitement ostéopathique du bébé. 
+Comme nous venons de le voir, le traitement médical du canal lacrymal bouché chez l'enfant dépendra de son âge et il ne faut pas attendre le dernier moment pour mettre en place un traitement ostéopathique du bébé.
 
 Les contraintes mécaniques in utéro (pendant la grossesse) et lors de l'accouchement s'appliquent sur le corps entier du bébé, altérant la qualité des tissus et provoquant en ostéopathie ce que l'on appelle des pertes de mobilité des tissus (quand je parle de tissus, j'entends tous les tissus du corps : os, ligaments, tendons, muscles, sutures du crâne, articulations, fascias... Tous les tissus du corps peuvent donc être concernés). _Nous reviendrons dans un prochain article sur la notion de qualité des tissus et le mouvement respiratoire tissulaire._
 
@@ -59,11 +61,9 @@ La littérature sur le traitement ostéopathique d'un canal lacrymal bouché est
 
 D'ailleurs, il est intéressant de noter que M. Perchepied, dans son mémoire [^9], pointe du doigt l'approche différente (entre médecine allopathique et ostéopathie) d'un canal lacrymal bouché :
 
-_"La médecine conçoit l'obstruction comme une membrane immature qui bouche le canal et qu'il faut perforer afin que le canal puisse remplir sa fonction. Dans notre étude, nous n'avons pas été confrontés à ces situations si elles existent car dans ces cas notre mode d'action serait inefficace. Selon notre point de vue ostéopathique, nous concevons ces obstructions comme une congestion vasculaire de la muqueuse (œdème de la muqueuse) qu'il faut drainer par voie réflexe neurovasculaire. Cette obstruction est congestive car nous constatons à posteriori du traitement une disparition conjointe des LTR et consécutivement des troubles de la fonction."_
+> La médecine conçoit l'obstruction comme une membrane immature qui bouche le canal et qu'il faut perforer afin que le canal puisse remplir sa fonction. Dans notre étude, nous n'avons pas été confrontés à ces situations si elles existent car dans ces cas notre mode d'action serait inefficace. Selon notre point de vue ostéopathique, nous concevons ces obstructions comme une congestion vasculaire de la muqueuse (œdème de la muqueuse) qu'il faut drainer par voie réflexe neurovasculaire. Cette obstruction est congestive car nous constatons à posteriori du traitement une disparition conjointe des LTR et consécutivement des troubles de la fonction.
 
 Je rajouterai que toutes les causes modifiant la qualité des tissus, leur vascularisation et drainage, leur mobilité... peuvent être la cause d'un canal lacrymal bouché (que ce soit localement ou à distance). Le canal lacrymal bouché est, pour l'ostéopathie, l'expression d'une ou plusieurs dysfonctions ostéopathiques : c'est pour cela que l'on traite le corps entier du bébé et non pas localement que le canal bouché.
-
-- **Lavage** des yeux au sérum physiologique associés à des massages (4 à 6 fois par jour) doux du coin interne de l'œil peuvent aider à 'déboucher' le conduit, mais dans de rares cas cela ne suffit pas...
 
 **Dans ma pratique courante en cabinet d'ostéopathie, 2 ou 3 séances d'ostéopathie suffisent en général.**
 

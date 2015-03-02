@@ -105,4 +105,4 @@ Pour aller plus loin, consultez le guide de formation de Sylvie Montreuil : ["Er
 
 ## Sources
 
-Images : <http://www.travailsecuritairenb.ca/docs/officefrdist.pdf>
+Images : [Travail sécuritaire NB](http://travailsecuritairenb.ca/docs/officefrdist.pdf)

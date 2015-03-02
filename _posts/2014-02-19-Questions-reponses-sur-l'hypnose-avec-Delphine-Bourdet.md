@@ -27,13 +27,13 @@ C'est aussi dans le très sérieux journal The Lancet que parait en 2000 une ét
 
 ## L'hypnose peut-elle aider à gérer la douleur ?
 
-  Une étude de 2002 démontre que l'hypnose réduit la douleur ressentie par les patients de plus de 50% en quatre semaines. Elle permet ainsi de réduire les doses de médicaments en cas de douleurs.
+Une étude de 2002 démontre que l'hypnose réduit la douleur ressentie par les patients de plus de 50% en quatre semaines. Elle permet ainsi de réduire les doses de médicaments en cas de douleurs.
 
 Son mécanisme est simple : l'hypnose agit sur deux aspects distincts de la douleur, à savoir la sensation et l'émotion. Un caillou dans une basket va faire mal mais ne va pas entrainer de peur tandis qu'une migraine peut susciter de l'anxiété. C'est sur la douleur mais aussi l'émotion liée aux stimuli douloureux que le travail va se faire. Il est essentiel de comprendre que les composantes sensorielle et affective de la douleur sont dissociables, tant sur le plan subjectif que sur le plan neurologique.
 
 ## Qu'est-ce que l'inconscient ?
 
- Tout ce dont vous n'avez pas conscience. Tout ce que vous faites sans y penser (respirer par exemple ou encore sélectionner des informations lors d'une ballade ou encore un lapsus). La sensation que l'inconscient est un danger, une menace n'est rien d'autre que l'angoisse du moi conscient qui réalise qu'il ne peut pas tout contrôler.
+Tout ce dont vous n'avez pas conscience. Tout ce que vous faites sans y penser (respirer par exemple ou encore sélectionner des informations lors d'une ballade ou encore un lapsus). La sensation que l'inconscient est un danger, une menace n'est rien d'autre que l'angoisse du moi conscient qui réalise qu'il ne peut pas tout contrôler.
 
 Au niveau du cerveau, 3 zones sont impliquées dans les processus inconscients :
 

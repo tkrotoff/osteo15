@@ -20,8 +20,10 @@ Freud utilisera d'abord l'hypnose qu'il abandonnera rapidement pour mettre en pl
 ### Le cadre psychanalytique créé par Freud reste valable aujourd'hui
 
 - **La parole** fonctionne d'une manière particulière : le patient doit dire tout ce qui lui vient à l'esprit, même si cela lui paraît honteux ou sans importance. C'est ce que l'on appelle la libre association.
+
 - **Le dispositif** (l'analysant est étendu sur le divan sans voir son thérapeute) permet à cette parole de se déployer plus aisément et aux éléments refoulés (des pensées insupportables pour le psychisme, chassées de la conscience, mais qui font retour dans la vie du sujet sous forme de douleurs physiques ou psychiques et de symptômes) de pouvoir ressurgir.
-- **Le refoulement** est au cœur de la pensée freudienne. Un conflit psychique se révèle dans l'opposition de deux forces contraires : le désir de savoir et la résistance qui s'y oppose. C'est ce que rappelle C. Hoffmann, psychanalyste et professeur à Paris Diderot, dans son [Introduction à Freud (Le refoulement de la vérité)](http://livre.fnac.com/a2228990/Christian-Hoffmann-Introduction-a-Freud) : "c'est ce barrage du moi contre l'apparition de la pulsion que Freud nomme refoulement".
+
+- **Le refoulement** est au cœur de la pensée freudienne. Un conflit psychique se révèle dans l'opposition de deux forces contraires : le désir de savoir et la résistance qui s'y oppose. C'est ce que rappelle C. Hoffmann, psychanalyste et professeur à Paris Diderot, dans son ["Introduction à Freud (Le refoulement de la vérité)"](http://livre.fnac.com/a2228990/Christian-Hoffmann-Introduction-a-Freud) : "c'est ce barrage du moi contre l'apparition de la pulsion que Freud nomme refoulement".
 
 L'analyste écoute son patient avec bienveillance. Cette idée me semble essentielle, car il ne s'agit jamais de porter un jugement ou de savoir mieux que le patient comment il doit se comporter. L'expérience personnelle du divan invite ainsi à l'humilité.
 
@@ -33,8 +35,11 @@ La séance d'analyse est donc un espace d'expression et d'écoute où il est pos
 Plusieurs points :
 
 - **Sur l'interaction patient-thérapeute :** car l'analyste ne va pas conseiller le patient ni intervenir dans sa vie. L'analyse n'est pas un coaching : l'analyste ne va pas orienter le patient ni se poser en directeur de conscience. L'analyste cherche à faire émerger un sujet capable de trouver son désir.
+
 - **L'autre différence est que l'analyste ne va pas chercher à accorder une importance au moi, à l'ego, au sujet conscient**, mais va s'intéresser à, ce qui dans le sujet, parle sans qu'il en ait conscience, à un réseau de signifiants qui ont des effets sur le sujet. La parole est constitutive de l'être humain, avant même de naître nous sommes parlés par ceux qui nous ont précédés et ces mots (ces signifiants) ont des effets considérables sur l'individu.
+
 - **La considération du symptôme :** il ne s'agit pas de chercher à le faire taire, de se précipiter pour le supprimer, mais au contraire, il est une réponse à un conflit intrapsychique qui mérite d'être entendu et reconnu car il "dit" quelque chose. A l'heure où il s'agit de toujours être performant, le psychanalyste ne cherche pas à produire des sujets capables de répondre à une injonction sociale, au risque de les conduire à ce qu'il est convenu d'appeler le burning out !
+
 - **L'analyse suppose un travail approfondi** et parfois douloureux. Le patient traverse des moments d'exaltation mais aussi des phases de découragements. Il a l'impression de ne pas avancer, de ne rien dire, de se répéter, pourtant un travail se fait. Cela ne signifie pas pour autant qu'il doit passer des années sur un divan.
 
 ## Comment se déroule une séance d'analyse ?
@@ -46,7 +51,7 @@ Une séance dure en moyenne une demi-heure et la fréquence des séances est var
 
 ## Qu'est-ce qui peut être traité en psychanalyse ?
 
-De manière générale, beaucoup de patients souffrent car ils ont le sentiment de ne pas être écoutés et ils se sentent seuls. Ils peuvent dire : "je m'adressais à mon père. Il était là mais pas présent...". La parole circule sans qu'un échange réel ait lieu, sans qu'existe une écoute véritable. J'aime beaucoup la phrase d'Anne Dufourmantelle (voir bibliographie) "la possibilité d'accueillir l'inespéré".
+De manière générale, beaucoup de patients souffrent car ils ont le sentiment de ne pas être écoutés et ils se sentent seuls. Ils peuvent dire : "je m'adressais à mon père. Il était là mais pas présent...". La parole circule sans qu'un échange réel ait lieu, sans qu'existe une écoute véritable. J'aime beaucoup la phrase d'Anne Dufourmantelle (voir bibliographie) _"la possibilité d'accueillir l'inespéré"_.
 
 Il n'y a pas d'âge pour entreprendre une analyse et permettre de lever des phobies, des angoisses paralysantes, pour échapper à certaines répétitions, à un sentiment d'échec... Il est difficile de faire une liste de ce qui peut être traiter en analyse, mais je peux essayer de donner quelques exemples :
 
@@ -77,9 +82,14 @@ Il est à noter que le travail avec des adolescents se fait la plupart du temps 
 
 Je peux conseiller des auteurs qui parlent de psychanalyse sans utiliser de termes trop techniques et qui ont, selon moi, "une plume" :
 
-- **Anne Dufourmantelle :** ["Eloge du risque"](http://livre.fnac.com/a7552044/Anne-Dufourmantelle-Eloge-du-risque), ["Se trouver"](http://livre.fnac.com/a6526356/Anne-Dufourmantelle-Se-trouver), ["En cas d'amour"](http://livre.fnac.com/a3780708/Anne-Dufourmantelle-En-cas-d-amour-psychopathologie-de-la-vie-amoureuse)...
-- **Sabine Prokhoris :** elle réfléchit notamment aux nouveaux liens de la parentalité. Elle mène également une réflexion sur la danse contemporaine. Elle vient de publier une histoire de la psychanalyse : ["L'insaisissable histoire de la psychanalyse"](http://livre.fnac.com/a7360117/Sabine-Prokhoris-L-insaisissable-histoire-de-la-psychanalyse#st=Prokhoris%20Sabine%20l'insaisissable%20histoire&ct=Livre&t=p)
-- **Jean-Baptiste Pontalis** est l'auteur de l'incontournable ["Vocabulaire de la psychanalyse"](http://livre.fnac.com/a1963195/Jean-Laplanche-Vocabulaire-de-la-psychanalyse), mais aussi de textes proches de la littérature : ["Ce temps qui ne passe pas"](http://livre.fnac.com/a1228109/Jean-Bertrand-Pontalis-Ce-temps-qui-ne-passe-pas) , ["Avant"](http://livre.fnac.com/a6096484/J-B-Pontalis-Avant)... Certains de ces livres sont des fictions alors que d'autres sont des réflexions sur la psychanalyse. Il a toujours fait preuve d'une grande modestie et refusé d'adopter le discours du maître. Son livre ["Le laboratoire central"](http://livre.fnac.com/a4425509/Jean-Bertrand-Pontalis-Le-laboratoire-central#st=%C3%B4ntalis%20Le%20laboratoire%20central&ct=Livre&t=p) est un recueil d'entretiens (de 1970 à 2012) particulièrement intéressant
-- **Charles Melman :** ["L'homme sans gravité"](http://recherche.fnac.com/SearchResult/ResultList.aspx?SCat=2%211&Search=+L%E2%80%99homme+sans+gravit%C3%A9&sft=1&sa=0&submitbtn=OK) est une réflexion sur la société d'aujourd'hui (lien entre psychanalyse et société). Charles Melman soutient la thèse d'une nouvelle économie psychique qui n'est plus le plaisir mais la jouissance. Elle est liée aux changements radicaux survenus au début du XXIe siècle (importance du virtuel, multiplication spectaculaire des états dépressifs...) le sous-titre "jouir à tout prix" est assez explicite.
+- Anne Dufourmantelle : ["Eloge du risque"](http://livre.fnac.com/a7552044/Anne-Dufourmantelle-Eloge-du-risque), ["Se trouver"](http://livre.fnac.com/a6526356/Anne-Dufourmantelle-Se-trouver), ["En cas d'amour"](http://livre.fnac.com/a3780708/Anne-Dufourmantelle-En-cas-d-amour-psychopathologie-de-la-vie-amoureuse)...
+
+- Sabine Prokhoris : elle réfléchit notamment aux nouveaux liens de la parentalité. Elle mène également une réflexion sur la danse contemporaine. Elle vient de publier une histoire de la psychanalyse : ["L'insaisissable histoire de la psychanalyse"](http://livre.fnac.com/a7360117/Sabine-Prokhoris-L-insaisissable-histoire-de-la-psychanalyse#st=Prokhoris%20Sabine%20l'insaisissable%20histoire&ct=Livre&t=p)
+
+- Jean-Baptiste Pontalis est l'auteur de l'incontournable ["Vocabulaire de la psychanalyse"](http://livre.fnac.com/a1963195/Jean-Laplanche-Vocabulaire-de-la-psychanalyse), mais aussi de textes proches de la littérature : ["Ce temps qui ne passe pas"](http://livre.fnac.com/a1228109/Jean-Bertrand-Pontalis-Ce-temps-qui-ne-passe-pas) , ["Avant"](http://livre.fnac.com/a6096484/J-B-Pontalis-Avant)... Certains de ces livres sont des fictions alors que d'autres sont des réflexions sur la psychanalyse. Il a toujours fait preuve d'une grande modestie et refusé d'adopter le discours du maître. Son livre ["Le laboratoire central"](http://livre.fnac.com/a4425509/Jean-Bertrand-Pontalis-Le-laboratoire-central#st=%C3%B4ntalis%20Le%20laboratoire%20central&ct=Livre&t=p) est un recueil d'entretiens (de 1970 à 2012) particulièrement intéressant
+
+- Charles Melman : ["L'homme sans gravité"](http://recherche.fnac.com/SearchResult/ResultList.aspx?SCat=2%211&Search=+L%E2%80%99homme+sans+gravit%C3%A9&sft=1&sa=0&submitbtn=OK) est une réflexion sur la société d'aujourd'hui (lien entre psychanalyse et société). Charles Melman soutient la thèse d'une nouvelle économie psychique qui n'est plus le plaisir mais la jouissance. Elle est liée aux changements radicaux survenus au début du XXIe siècle (importance du virtuel, multiplication spectaculaire des états dépressifs...) le sous-titre "jouir à tout prix" est assez explicite.
+
 - Et bien sûr, je recommande la lecture des textes fondateurs de Freud, et notamment : ["Psychopathologie de la vie quotidienne"](http://livre.fnac.com/a1189903/Sigmund-Freud-Psychopathologie-de-la-vie-quotidienne), ["Malaise dans la culture"](http://livre.fnac.com/a2748397/Sigmund-Freud-Le-malaise-dans-la-culture)...
+
 - Pour la psychanalyse des enfants je conseille les auteurs suivants : Winnicott, Dolto (lecture assez aisée), Mélanie Klein ainsi que Lacan.

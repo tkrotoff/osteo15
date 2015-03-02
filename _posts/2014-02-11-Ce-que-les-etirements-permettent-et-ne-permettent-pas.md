@@ -9,7 +9,7 @@ Les étirements devraient faire partie intégrante d'un programme sportif, que c
 
 ## Les étirements permettent :
 
-- d'augmenter votre amplitude articulaire et donc votre souplesse, 
+- d'augmenter votre amplitude articulaire et donc votre souplesse,
 
 - de réharmoniser les tonus des chaînes musculaires et donc d'améliorer sa posture : quand on étire une chaîne musculaire il faut systématiquement étirer son antagoniste (= la chaîne contraire),
 
@@ -51,7 +51,7 @@ Vous l'aurez maintenant compris : surtout pas d'étirements. Pour diminuer les c
 ## Sources
 
 - Shrier I.
-  ["Stretching before exercise does not reduce the risk of local muscle injury: a critical review of the clinical and basic science literature"](http://www.ncbi.nlm.nih.gov/pubmed/10593217).
+  [Stretching before exercise does not reduce the risk of local muscle injury: a critical review of the clinical and basic science literature](http://www.ncbi.nlm.nih.gov/pubmed/10593217).
   Clinical Journal of Sport Medicine, Oct 1999
 
 - Rob D Herbert, Michael Gabriel.
@@ -59,17 +59,17 @@ Vous l'aurez maintenant compris : surtout pas d'étirements. Pour diminuer les c
   British Medical Journal, 31 August 2002
 
 - G. Gremion.
-  ["Les exercices d'étirement dans la pratique sportive ont-ils encore leur raison d'être ? Une revue de la littérature"](http://titan.medhyg.ch/mh/formation/article.php3?sid=30581).
+  [Les exercices d'étirement dans la pratique sportive ont-ils encore leur raison d'être ? Une revue de la littérature](http://titan.medhyg.ch/mh/formation/article.php3?sid=30581).
   Revue Médicale Suisse N° 28, 27/07/2005
 
 - Young WB, Behm DG.
-  ["Effects of running, static stretching and practice jumps on explosive force production and jumping performance"](http://www.ncbi.nlm.nih.gov/pubmed/12629458).
+  [Effects of running, static stretching and practice jumps on explosive force production and jumping performance](http://www.ncbi.nlm.nih.gov/pubmed/12629458).
   The Journal of Sports Medicine and Physical Fitness, Mar 2003
 
 - Herbert RD, de Noronha M.
-  ["Stretching to prevent or reduce muscle soreness after exercise"](http://www.ncbi.nlm.nih.gov/pubmed/17943822).
+  [Stretching to prevent or reduce muscle soreness after exercise](http://www.ncbi.nlm.nih.gov/pubmed/17943822).
   Cochrane Database Syst Rev. 2007 Oct 17
 
 - Katalinic OM, Harvey LA, Herbert RD, Moseley AM, Lannin NA, Schurr K.
-  ["Stretch for the treatment and prevention of contractures"](http://www.ncbi.nlm.nih.gov/pubmed/20824861).
+  [Stretch for the treatment and prevention of contractures](http://www.ncbi.nlm.nih.gov/pubmed/20824861).
   Cochrane Database Syst Rev. 2010 Sep 8

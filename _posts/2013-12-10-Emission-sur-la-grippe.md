@@ -15,4 +15,6 @@ Si vous-vous interrogez sur :
 
 Alors cette émission pourra certainement vous éclairer. Ne zappez pas non plus les débats : ils mettent en évidence une grande partie de la problématique des campagnes de vaccination.
 
-Résumé : _"Chaque hiver, la grippe touche des millions de Français. Parfois, ce virus peut devenir très virulent et provoquer des millions de victimes, comme en 1918. Comment se prémunir contre une éventuelle épidémie, dans un contexte où la vaccination éveille parfois la méfiance et où les antibiotiques perdent de leur efficacité ?"_
+Résumé :
+
+> Chaque hiver, la grippe touche des millions de Français. Parfois, ce virus peut devenir très virulent et provoquer des millions de victimes, comme en 1918. Comment se prémunir contre une éventuelle épidémie, dans un contexte où la vaccination éveille parfois la méfiance et où les antibiotiques perdent de leur efficacité ?

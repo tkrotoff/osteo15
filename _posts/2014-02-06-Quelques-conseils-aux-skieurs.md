@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quelques conseils aux skieurs
-tags: [sport, ski, étirements]
+tags: [sport, étirements]
 last_modified_at: '2014-11-27'
 ---
 
@@ -13,7 +13,7 @@ Il est important d'accorder votre effort sportif à vos capacités réelles, mai
 
 - Prenez des chaussures avec peu de flex si vous êtes débutant et avez un style peu agressif sur les pistes. N'hésitez pas à retourner au magasin de location si le matériel ne vous convient pas : les professionnels sont là pour vous conseiller.
 
-- Allez y doucement lors de votre première descente, comme pour un échauffement.
+- Allez-y doucement lors de votre première descente, comme pour un échauffement.
 
 - Hydratez vous bien pendant et après l'effort (avec de l'eau hein...)
 

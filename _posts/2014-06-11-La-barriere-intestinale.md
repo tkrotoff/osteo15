@@ -97,7 +97,7 @@ Pour un bilan en micro-nutrition, un programme de traitement de votre barrière 
   The Lancet (1984), Vol 324, N°8413 - p 1171 - 1174
 
 - S. de Kort, D. Keszthelyi, A. A. M. Masclee.
-  [Leaky gut and diabetes mellitus: what is the link?](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-789X.2010.00845.x/abstract).
+  [Leaky gut and diabetes mellitus: what is the link?](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-789X.2010.00845.x/abstract)
   Obesity Reviews (2011) Vol 12, N°6 - p 449-458
 
 - Thierry Souccar.
@@ -139,6 +139,6 @@ Pour un bilan en micro-nutrition, un programme de traitement de votre barrière 
   [Influence de la présence et de la composition du microbiote intestinal sur le développement et la prévention des allergies alimentaires](https://tel.archives-ouvertes.fr/file/index/docid/772775/filename/va_morin_stephanie.pdf).
   Thèse 2012 Présentée et soutenue publiquement le 29 Octobre 2012 Directeur de thèse : Jean-Michel WAL Travail réalisé au Laboratoire INRA d'Immuno-Allergie Alimentaire
 
-- Rapport du groupe de travail AFFSA
-  [Alimentation infantile et modification de la flore intestinale](http://www.mangerbouger.fr/pro/IMG/pdf/Affsa-FloreIntestinale.pdf).
+- Agence française de sécurité sanitaire des aliments (Afssa).
+  [Rapport du groupe de travail "Alimentation infantile et modification de la flore intestinale"](http://www.mangerbouger.fr/pro/IMG/pdf/Affsa-FloreIntestinale.pdf).
   Juin 2003

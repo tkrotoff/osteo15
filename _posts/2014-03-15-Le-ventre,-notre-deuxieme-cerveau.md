@@ -7,7 +7,7 @@ last_modified_at: '2014-11-27'
 
 Voici un très bon documentaire de Cécile Denjean diffusé sur Arte : ["Le ventre, notre deuxième cerveau"](http://future.arte.tv/fr/le-ventre).
 
-{% include figure.html src="/assets/2014-03-15/Le-ventre-notre-deuxieme-cerveau.jpg" caption="Affiche du documentation 'Le ventre, notre deuxième cerveau'" href="http://future.arte.tv/fr/le-ventre" %}
+{% include figure.html src="/assets/2014-03-15/Le-ventre-notre-deuxieme-cerveau.jpg" caption='Affiche du documentation "Le ventre, notre deuxième cerveau"' href="http://future.arte.tv/fr/le-ventre" %}
 
 Notre ventre possède pas moins de 200 millions de neurones dans ce que l'on appelle [le système nerveux entérique](https://fr.wikipedia.org/wiki/Syst%C3%A8me_nerveux_ent%C3%A9rique). Neurologiquement parlant, ce système nerveux s'est développé en premier au cours de l'évolution. On peut donc dire que notre ventre est un peu comme notre deuxième cerveau, surtout qu'il produit 95% de notre [sérotonine](https://fr.wikipedia.org/wiki/S%C3%A9rotonine), [neurotransmetteur](https://fr.wikipedia.org/wiki/Neurotransmetteur) utilisé par notre [encéphale](https://fr.wikipedia.org/wiki/Enc%C3%A9phale) (il est notamment le neurotransmetteur du "bien-être").
 

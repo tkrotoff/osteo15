@@ -80,7 +80,20 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 ## Figures
 
 ```HTML
-{% include figure.html src="/assets/2014-03-15/Le-ventre-notre-deuxieme-cerveau.jpg" caption="Affiche du documentation 'Le ventre, notre deuxième cerveau'" href="http://future.arte.tv/fr/le-ventre" %}
+{% include figure.html src="/assets/2014-03-15/Le-ventre-notre-deuxieme-cerveau.jpg" caption='Affiche du documentation "Le ventre, notre deuxième cerveau"' href="http://future.arte.tv/fr/le-ventre" %}
+```
+
+```HTML
+{% include figure.html src="/assets/2014-04-15/Gel-douche,-peaux-sensibles-s'abstenir.jpg" caption="Affiche du documentation \"Gel douche, peaux sensibles s'abstenir\"" href="http://www.france5.fr/emission/gel-douche-peaux-sensibles-sabstenir/diffusion-du-13-04-2014-20h35" %}
+```
+
+```HTML
+<figure>
+  <img src="/assets/2014-07-30/Lombalgies-symptomatiques.png" alt="Lombalgies symptomatiques">
+  <figcaption markdown="1">
+  Lombalgies symptomatiques [^2]
+  </figcaption>
+</figure>
 ```
 
 ## Grille HTML
