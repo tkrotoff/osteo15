@@ -10,9 +10,11 @@ bundle update
 bundle exec jekyll serve --host 0.0.0.0 --port 4000
 open http://localhost:4000
 
+bundle exec rake -T # Liste des tasks Rake
 bundle exec rake build # Build sans minification (=dev)
+bundle exec rake checkstyle # Vérifie diverses règles en rapport avec le style
 bundle exec rake build[production] # Build avec minification du code HTML et CSS (=production)
-bundle exec rake test # Lance The Nu HTML Checker (v.Nu), validate-website et HTML::Proofer
+bundle exec rake test # Lance tous les outils de test
 bundle exec rake deploy # Déploiement sur Amazon S3
 ```
 
@@ -27,7 +29,7 @@ Pour générer un lien vers un post, il faut utiliser la fonction [post_url](htt
 
 ### Nom des fichiers
 
-Windows interdit les caractères `\/:*?"<>|`, exemple :
+Windows interdit les caractères [`\/:*?"<>|`](https://msdn.microsoft.com/en-us/library/aa365247), exemple :
 - OK : `2014-04-18-La-methode-De-Gasquet-pour-se-preparer-a-l'accouchement-et-retrouver-la-forme-apres.md`
 - KO : `2014-04-18-La-methode-"De-Gasquet"-pour-se-preparer-a-l'accouchement-et-retrouver-la-forme-apres.md`
 
@@ -38,6 +40,8 @@ Le caractère `?` est replacé par `%3F` dans les URLs, ce qui est à éviter :
 [Jekyll crash](https://github.com/jekyll/jekyll/issues/2834) si le nom d'un fichier comporte `:` :
 - OK : `2014-02-10-Jogging-le-pied-amortisseur.md`
 - KO : `2014-02-10-Jogging-:-le-pied-amortisseur.md`
+
+Liste des caractères valides pour une URL : [`ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-._~:/?#[]@!$&'()*+,;=`](http://stackoverflow.com/questions/1547899)
 
 ### URLs
 
@@ -127,6 +131,11 @@ Voir la documentation de Bootstrap : http://getbootstrap.com/css/#grid
 - °
 
 Voir Character Entities Cheat Sheet: http://brajeshwar.github.io/entities/
+
+## Conventions de style
+
+- http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Conventions_de_style
+- http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style
 
 ## Tags/hashtags
 
