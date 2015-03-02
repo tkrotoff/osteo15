@@ -14,15 +14,15 @@ layout: default
         <span class="post-meta">{{ post.date | localize: '%-d %b %Y' }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
         </h2>
 
-        {{ post.excerpt | strip_html }}
-        <a href="{{ post.url | prepend: site.baseurl }}">[...]</a>
+        {{ post.excerpt }}
+        <a href="{{ post.url }}">Lire la suite →</a>
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">Flux <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
+  <p class="rss-subscribe">Flux <a href="/feed.xml">RSS</a></p>
 
 </div>

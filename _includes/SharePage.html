@@ -1,5 +1,5 @@
 <a title="Partager cette page sur Twitter"
-   href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.baseurl | prepend: site.url }}&amp;text={{ page.title | cgi_escape }}&amp;via={{ site.twitter_username }}"
+   href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.url }}&amp;text={{ page.title | cgi_escape }}&amp;via={{ site.twitter_username }}"
    rel="nofollow"
    onclick="openNewWindow(this.href, 550, 420); return false">
   <svg class="icon icon-twitter" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
@@ -8,7 +8,7 @@
 </a>
 
 <a title="Partager cette page sur Facebook"
-   href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}"
+   href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url }}"
    rel="nofollow"
    onclick="openNewWindow(this.href, 670, 506); return false">
   <svg class="icon icon-facebook" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
@@ -18,7 +18,7 @@
 </a>
 
 <a title="Partager cette page sur Google+"
-   href="https://plus.google.com/share?url={{ page.url | prepend: site.baseurl | prepend: site.url }}"
+   href="https://plus.google.com/share?url={{ page.url | prepend: site.url }}"
    rel="nofollow"
    onclick="openNewWindow(this.href, 512, 650); return false">
   <svg class="icon icon-googleplus" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
@@ -28,7 +28,7 @@
 </a>
 
 <a title="Partager cette page par email"
-   href="mailto:?subject={{ page.title | cgi_escape }}&amp;body=Lien+%3A+{{ page.url | prepend: site.baseurl | prepend: site.url }}"
+   href="mailto:?subject={{ page.title | cgi_escape }}&amp;body=Lien+%3A+{{ page.url | prepend: site.url }}"
    rel="nofollow"
    onclick="openNewWindow(this.href, 600, 600); return false"
    data-proofer-ignore> <!-- See https://github.com/gjtorikian/html-proofer/issues/173 -->

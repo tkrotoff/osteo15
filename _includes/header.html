@@ -2,7 +2,7 @@
   <div class="parallax-bg"></div>
 
   <div class="wrapper">
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="/">{{ site.title }}</a>
 
     <p class="site-meta">
       <a href="http://maps.apple.com/?q={{ site.title | append: ' ' | append: site.address | cgi_escape }}">{{ site.address }}</a>
@@ -27,7 +27,7 @@
 
         {% for p in site.pages %}
           {% if p.title and p.sitenav %}
-          <a class="page-link roll {% if page.url == p.url %}current{% endif %}" href="{{ p.url | prepend: site.baseurl }}">
+          <a class="page-link roll {% if page.url == p.url %}current{% endif %}" href="{{ p.url }}">
             <span data-title="{{ p.title }}">{{ p.title }}</span>
           </a>
           {% endif %}

@@ -1,4 +1,3 @@
-# Site settings
 title: Fabienne Krotoff Ostéopathe D.O.
 address: 8 rue Desnouettes Paris 15
 tel: 01 45 31 98 48
@@ -6,16 +5,16 @@ email: krotoffosteo@gmail.com
 description: Cabinet d'ostéopathie de Fabienne Krotoff 75015 Paris
 lang: fr
 
-twitter_username: osteopathe75015
+twitter_username: Osteo15
 facebook_username: KrotoffFabienneOsteopathe75015
 googleplus_username: 104301362970770277035
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://osteo15.com" # the base hostname & protocol for your site
+url: "https://osteo15.com"
 permalink: pretty
 
-# Build settings
 markdown: kramdown
+#kramdown:
+#  input: GFM # Github Flavored Markdown
 
 exclude: [
   "vendor",
