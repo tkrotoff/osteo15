@@ -9,7 +9,7 @@ permalink: /tags/
   See https://github.com/LanyonM/lanyonm.github.io/blob/master/tags.html
 -->
 
-{% assign posts_tags_sorted = site.tags | sort %}
+{% assign posts_tags_sorted = site.tags | sort_casecmp %}
 
 <ul class="tag-box">
   {% for tag in posts_tags_sorted %}
