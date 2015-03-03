@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Médicaments, grossesse et allaitement
-tags: [bébé, médicaments, CRAT]
+tags: [bébé, médicaments, FemmeEnceinte]
 last_modified_at: '2014-11-27'
 ---
 
