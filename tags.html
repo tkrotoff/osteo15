@@ -9,28 +9,30 @@ permalink: /tags/
   See https://github.com/LanyonM/lanyonm.github.io/blob/master/tags.html
 -->
 
-{% assign posts_tags_sorted = site.tags | sort_casecmp %}
+{% assign tags_sorted = page.all_tags | sort_casecmp %}
 
 <ul class="tag-box">
-  {% for tag in posts_tags_sorted %}
+  {% for tag in tags_sorted %}
     {% assign word = tag | first %}
     <li>
-      <a href="#{{ word }}">{{ word }} <span>{{ site.tags[word].size }}</span></a>
+      <a href="#{{ word }}">{{ word }} <span>{{ page.all_tags[word].size }}</span></a>
     </li>
   {% endfor %}
 </ul>
 
-{% for tag in posts_tags_sorted %}
+{% for tag in tags_sorted %}
   {% assign word = tag | first %}
-  {% assign posts = tag | last %}
+  {% assign pages = tag | last %}
 
   <h2 id="{{ word }}">{{ word }}</h2>
   <ul>
-    {% for post in posts %}
+    {% for page in pages %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      &nbsp;
-      <span class="post-meta">{{ post.date | localize: '%-d %b %Y' }}</span>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+      {% if page.date %}
+        &nbsp;
+        <span class="post-meta">{{ page.date | localize: '%-d %b %Y' }}</span>
+      {% endif %}
     </li>
     {% endfor %}
   </ul>
