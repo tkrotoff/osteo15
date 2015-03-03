@@ -70,6 +70,9 @@
 
       <div class="col-sm-12 col-md-5">
         <p>{{ site.description }}</p>
+
+        <input id="search" type="search" placeholder="Recherche"
+               onkeydown="if (event.keyCode === 13) location = 'https://www.google.fr/search?q=site:osteo15.com ' + document.getElementById('search').value">
       </div>
     </div>
 

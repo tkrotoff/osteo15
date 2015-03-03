@@ -192,6 +192,12 @@ a.site-title {
 
 .footer-content {
   font-size: $small-font-size;
+
+  #search {
+    -webkit-appearance: textfield;
+    font-size: $small-font-size;
+    outline-style: none;
+  }
 }
 
 
