@@ -6,9 +6,10 @@ site: _site
 
 # In seconds
 max_age:
-  "assets/*": 263000 # 1 month
-  "*.html": 300 # 5 minutes
-  "*": 864000 # 1 day
+  "assets/*": 604800 # 1 week
+  "*.html": 600 # 10 minutes
+  "*.css": 86400 # 1 day
+  "*": 86400 # 1 day
 
 gzip:
   - .html
