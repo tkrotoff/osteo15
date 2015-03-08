@@ -19,6 +19,7 @@ markdown: kramdown
 exclude: [
   "vendor",
   "README.md",
+  "blogger-redirections.md",
   "s3_website.yml",
   ".env*",
   "Gemfile",
