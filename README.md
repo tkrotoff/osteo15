@@ -1,9 +1,11 @@
 # Osteo15 blog
 
-Jekyll version 2.5.1
+[osteo15.com](https://osteo15.com/)
 
 ```Shell
+xcode-select --install # Installation de Xcode command line developer tools
 sudo gem install bundler
+
 bundle install
 bundle update
 
