@@ -8,17 +8,12 @@ site: _site
 max_age:
   "assets/*": 604800 # 1 week
   "*.html": 600 # 10 minutes
+  "*.atom": 600 # 10 minutes
+  "*.rss": 600 # 10 minutes
   "*.css": 86400 # 1 day
   "*": 86400 # 1 day
 
-gzip:
-  - .html
-  - .css
-  - .js
-  - .txt
-  - .ico
-  - .json
-  - .xml
+gzip: true
 
 # See http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region for valid endpoints
 s3_endpoint: eu-west-1

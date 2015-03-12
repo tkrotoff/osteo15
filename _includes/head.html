@@ -11,6 +11,8 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ site.description }}">
 
+  <link rel="alternative" type="application/rss+xml" title="{{ site.title }}" href="/blog.rss">
+
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
