@@ -24,26 +24,32 @@ sitenav: true
 
 Pour vous proposer la meilleure des prises en charge, je continue de me former régulièrement par différents stages pratiques, séminaires et diplômes universitaires.
 
+### 2015
+- [FCOP](http://www.fcop-formation-osteopathe.fr/) : "Approche tissulaire" avec Alain Andrieux ostéopathe D.O.
+
 ### 2014
 - Laboratoire Oligosanté : "Glycation"
 - Laboratoire Nutergia : "Du stress chronique aux troubles métaboliques", "Terrain acide"
+- Conférences UFOF : Approche pluridisciplinaire autour de l'ostéopathie
 
 ### 2013
 - [DU de périnatalité "Thérapeutiques alternatives en antalgie périnatale"](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite), université Paris Diredot
 - Laboratoire Nutergia : "Ecosytème intestinal", "Nutrition et sport" et "bien-être hépatique et phytothérapie"
 
 ### 2012
-- [FCOP](http://www.fcop-formation-osteopathe.fr/) : "Femmes enceintes et accouchement" avec [Michèle Dangréau-Mussat](http://micheledangreau-mussat.org/osteo.html) ostéopathe DO et Dr Emmanuelle Antonetti gynécologue-obstétricienne
-- FCOP : "La naissance et le nouveau né, prise en charge ostéopathique" avec Michèle Dangréau-Mussat ostéopathe DO, Dr Emmanuelle Antonetti gynécologue-obstétricienne et Dr Florence Peyrefitte pédiatre homéopathe
-- [Ostéo bébé](http://www.osteo-bebe.com/) : "Approche Ostéopathique des bébés" avec Eric Simon ostéopathe DO et Dany Heintz-Blondy ostéopathe DO
+- FCOP : "Femmes enceintes et accouchement" avec [Michèle Dangréau-Mussat](http://micheledangreau-mussat.org/osteo.html) ostéopathe D.O. et Dr Emmanuelle Antonetti gynécologue-obstétricienne
+- FCOP : "La naissance et le nouveau né, prise en charge ostéopathique" avec Michèle Dangréau-Mussat ostéopathe D.O., Dr Emmanuelle Antonetti gynécologue-obstétricienne et Dr Florence Peyrefitte pédiatre homéopathe
+- [Ostéo bébé](http://www.osteo-bebe.com/) : "Approche Ostéopathique des bébés" avec Eric Simon ostéopathe D.O. et Dany Heintz-Blondy ostéopathe D.O.
 - Laboratoire Nutergia : "La nutrition autour de la naissance"
+- Conférences UFOF : Approche pluridisciplinaire autour de l'ostéopathie
 
 ### 2011
 - FCOP : "Tests et techniques ostéopathiques du membre inférieur"
-- FCOP : "Micronutrition" avec Dr Véronique Chartroule ostéopathe DO médecin du sport et nutritionniste, Alain Bédouet ostéopathe DO, Dr Rodrigue Pignel ostéopathe DO médecin du sport et en collaboration avec le laboratoire Lescuyer
+- FCOP : "Micronutrition" avec Dr Véronique Chartroule ostéopathe D.O. médecin du sport et nutritionniste, Alain Bédouet ostéopathe D.O., Dr Rodrigue Pignel ostéopathe DO médecin du sport et en collaboration avec le laboratoire Lescuyer
+- 4ème Edition du colloque IFSO-EFOM : "Lombalgie et ostéopathie"
 
 ### 2010
-- FCOP : "Pathologies du nourrisson et ostéopathie" avec Rodrigue Pinel médecin du sport et Alain Bédouet ostéopathe DO
+- FCOP : "Pathologies du nourrisson et ostéopathie" avec Rodrigue Pinel médecin du sport et Alain Bédouet ostéopathe D.O.
 - [DU de Psychosomatique](http://www.parisdescartes.fr/fre/FORMATION), université Paris Descartes
 
 ### 2009
