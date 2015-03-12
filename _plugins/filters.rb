@@ -1,12 +1,6 @@
 module Jekyll
   module Filters
 
-    # Remove all links <a href="...">...</a>
-    def strip_links(input)
-      empty = ''.freeze
-      input.to_s.gsub(/<a.*?>/m, empty).gsub(/<\/a>/m, empty)
-    end
-
     # Remove <sup id="fnref:...">...</sup> and <div class="footnotes">...</div>
     def strip_footnotes(input)
       empty = ''.freeze
@@ -20,6 +14,14 @@ module Jekyll
 
       # Other solution:
       #input.sort_by { |hash| hash.first.downcase }
+    end
+
+    def end_with_dots(input)
+      text = input.to_s.dup
+      text.delete!("\n")
+      text.gsub!(/ :$/, '')
+      text.gsub!(/\.$/, '')
+      text << '...'
     end
   end
 end

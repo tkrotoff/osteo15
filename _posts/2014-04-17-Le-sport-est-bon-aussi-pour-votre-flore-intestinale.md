@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Le sport est bon aussi pour votre flore intestinale
+image: /assets/2014-04-17/Gut-microbiota.jpg
 tags: [sport, alimentation]
 last_modified_at: '2014-11-27'
 ---

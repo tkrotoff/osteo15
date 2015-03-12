@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prise en charge ostéopathique de la lombalgie
+image: /assets/2014-07-30/Lombalgie-cercle-vicieux-de-la-douleur.png
 tags: [ostéopathie, dos, lombalgie]
 last_modified_at: '2014-11-27'
 ---

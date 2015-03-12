@@ -207,3 +207,17 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 ## Multilingue
 
 - [Jekyll: Multilingual](http://kleinfreund.de/en/2014/08/jekyll-multilingual/)
+
+## Meta data
+
+- [GitHub davidensinger.github.io](https://github.com/davidensinger/davidensinger.github.io/blob/source/app/_includes/header.html)
+- [Adding schema.org metadata to Jekyll](http://veithen.github.io/2014/11/17/jekyll-schema-org-metadata.html)
+
+### Tools
+
+- [Google Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/)
+- [Google+ Snippet](https://developers.google.com/+/web/snippet/)
+- [Facebook Debugger](https://developers.facebook.com/tools/debug/)
+- [Twitter card validator](https://cards-dev.twitter.com/validator)
+- [Structured Data Linter](http://linter.structured-data.org/)
+- [Yandex Structured data validator](https://webmaster.yandex.com/microtest.xml)

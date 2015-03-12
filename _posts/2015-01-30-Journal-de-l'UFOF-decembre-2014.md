@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Journal de l'UFOF décembre 2014
+image: /assets/2015-01-30/Journal-de-l'UFOF-decembre-2014.png
 tags: [UFOF]
 last_modified_at: '2015-01-30'
 ---

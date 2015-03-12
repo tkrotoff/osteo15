@@ -1,6 +1,7 @@
 ---
 layout: post
 title: La méthode "De Gasquet" pour se préparer à l'accouchement et retrouver la forme après
+image: /assets/2014-08-18/Accouchement-la-methode-de-Gasquet.png
 tags: [FemmeEnceinte]
 last_modified_at: '2014-11-27'
 ---

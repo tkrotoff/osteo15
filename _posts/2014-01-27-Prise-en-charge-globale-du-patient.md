@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prise en charge globale du patient
+image: /assets/2014-01-27/Patient.png
 last_modified_at: '2014-11-27'
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vidéo sur le dépistage de la scoliose
+video: https://www.youtube.com/embed/Z2Yi_skqhGQ
 tags: [dos, scoliose]
 last_modified_at: '2014-11-27'
 ---

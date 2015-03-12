@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ce qu'il faut savoir sur la césarienne
+image: /assets/2014-03-21/HAS-La-cesarienne.png
 tags: [FemmeEnceinte, HAS]
 last_modified_at: '2014-11-27'
 ---

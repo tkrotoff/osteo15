@@ -1,6 +1,7 @@
 ---
 layout: post
 title: L'ergonomie au bureau
+image: /assets/2015-02-05/Position.png
 tags: [ostéopathie, TMS, entreprise]
 last_modified_at: '2015-02-19'
 ---

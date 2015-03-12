@@ -17,7 +17,9 @@ layout: default
           <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
         </h2>
 
-        {{ post.excerpt | strip_links | strip_footnotes }}
+        <p>
+          {{ post.excerpt | strip_footnotes | strip_html | end_with_dots }}
+        </p>
         <a href="{{ post.url }}">Lire la suite →</a>
       </li>
     {% endfor %}

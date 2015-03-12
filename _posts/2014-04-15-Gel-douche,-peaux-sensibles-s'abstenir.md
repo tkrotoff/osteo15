@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gel douche, peaux sensibles s'abstenir
+image: /assets/2014-04-15/Gel-douche,-peaux-sensibles-s'abstenir.jpg
 tags: [allergie, TV]
 last_modified_at: '2015-02-13'
 ---

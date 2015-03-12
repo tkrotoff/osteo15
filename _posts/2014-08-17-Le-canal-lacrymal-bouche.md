@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Le canal lacrymal bouché
+video: https://www.youtube.com/embed/VJo5z11rUYQ
 tags: [ostéopathie, bébé]
 last_modified_at: '2015-01-20'
 ---

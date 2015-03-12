@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vidéo sur le traitement ostéopathique d'un nouveau-né"
+video: https://www.youtube.com/embed/nuZtQkIgc9g
 tags: [ostéopathie, bébé, TV]
 last_modified_at: '2015-03-08'
 ---

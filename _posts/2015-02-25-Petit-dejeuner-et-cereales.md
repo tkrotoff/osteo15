@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Petit déjeuner et céréales
+image: /assets/2015-02-25/Cereales,-pas-de-bol-pour-le-petit-dej-!.jpg
 tags: [alimentation, TV]
 last_modified_at: '2015-02-25'
 ---

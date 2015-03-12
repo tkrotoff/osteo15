@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Le bio est meilleur pour la santé
+image: /assets/2014-07-18/Bio-Coherence.jpg
 tags: [alimentation]
 last_modified_at: '2014-11-27'
 ---

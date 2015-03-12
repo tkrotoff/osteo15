@@ -3,19 +3,83 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+
+  <!-- Name/title -->
+
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% if page.title %}
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta property="og:title" content="{{ page.title }}">
+  {% else %}
+    <title>{{ site.title }}</title>
+    <meta property="og:title" content="{{ site.title }}">
+  {% endif %}
+
+
+  <!-- Description -->
+
+  {% if page.excerpt %}
+    <meta name="description" content="{{ page.excerpt | strip_footnotes | strip_html | end_with_dots }}">
+    <meta property="og:description" content="{{ page.excerpt | strip_footnotes | strip_html | end_with_dots }}">
+  {% else %}
+    <meta name="description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ site.description }}">
+  {% endif %}
+
+
+  <!-- Author -->
+
+  <meta name="author" content="{{ site.author }}">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@{{ site.twitter_username }}">
+  <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+
+  <meta property="article:author" content="https://facebook.com/{{ site.facebook_username }}">
+
+
+  <!-- URL -->
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+
+
+  <!-- Other Open Graph datas -->
+
+  {% if page.title %}
+    <meta property="og:type" content="article">
+  {% else %}
+    <meta property="og:type" content="website">
+  {% endif %}
+  {% if page.date %}
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  {% endif %}
+  {% if page.image %}
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+  {% endif %}
+  {% if page.video %}
+    <meta property="og:video" content="{{ page.video }}">
+  {% endif %}
+  {% for tag in page.tags %}
+    <meta property="article:tag" content="{{ tag }}">
+  {% endfor %}
+
+
+  <!-- Icons -->
+
   <link rel="shortcut icon" href="/assets/hand-16-32-48.ico?v=1">
   <link rel="icon" sizes="192x192" href="/assets/hand-192.png?v=1">
   <link rel="manifest" href="/manifest.json?v=1">
   <link rel="apple-touch-icon" sizes="152x152" href="/assets/hand-background-152.png?v=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
 
   <link rel="alternative" type="application/rss+xml" title="{{ site.title }}" href="/blog.rss">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+
 
   <!-- Microsoft Bing ownership verification code -->
   <meta name="msvalidate.01" content="9DCBE2343403EFB8CE582FD2A3A3D786">
+  <!-- Yandex ownership verification code -->
+  <meta name="yandex-verification" content="40e3f63236e0af47">
 </head>

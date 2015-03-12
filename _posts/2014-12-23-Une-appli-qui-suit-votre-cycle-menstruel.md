@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Une appli qui suit votre cycle menstruel
+image: /assets/2014-12-23/Clue-iPhone-Android.png
 tags: [appli]
 last_modified_at: '2014-12-23'
 ---

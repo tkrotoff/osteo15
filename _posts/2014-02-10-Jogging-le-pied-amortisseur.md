@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jogging : le pied amortisseur"
+video: https://www.youtube.com/embed/-MAxyf6SzVE
 tags: [sport, jogging]
 last_modified_at: '2014-11-27'
 ---

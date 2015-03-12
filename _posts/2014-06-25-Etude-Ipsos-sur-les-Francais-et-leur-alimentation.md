@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Etude Ipsos sur les Français et leur alimentation
+image: /assets/2014-06-25/Sante-mensonges-et-propagande.jpg
 tags: [alimentation]
 last_modified_at: '2014-11-27'
 ---

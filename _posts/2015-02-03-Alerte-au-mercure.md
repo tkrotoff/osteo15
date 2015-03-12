@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Alerte au mercure
+image: /assets/2015-02-03/Alerte-au-mercure.jpg
 tags: [TV]
 last_modified_at: '2015-03-08'
 ---

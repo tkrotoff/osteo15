@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Comment savoir si mon bébé à besoin de consulter un ostéopathe ?
+image: /assets/2014-02-15/Bebe-incurve.jpg
 tags: [ostéopathie, bébé]
 last_modified_at: '2014-11-27'
 ---

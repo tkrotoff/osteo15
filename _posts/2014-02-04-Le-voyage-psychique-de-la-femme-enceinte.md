@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Le voyage psychique de la femme enceinte
+image: /assets/2014-02-04/Ce-bebe-qui-change-votre-vie-tome-1.png
 tags: [FemmeEnceinte, bébé]
 last_modified_at: '2014-11-27'
 ---

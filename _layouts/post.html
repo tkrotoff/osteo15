@@ -2,13 +2,19 @@
 layout: default
 ---
 
-<div class="post">
+<div class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <div class="post-meta">
       <p>
-        {{ page.date | localize: '%-d %b %Y' }}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <meta itemprop="name" content="{{ site.author }}">
+        </span>
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | localize: '%-d %b %Y' }}
+        </time>
+        <meta itemprop="description" content="{{ page.excerpt | strip_footnotes | strip_html | end_with_dots }}">
         <span class="social-media-list">
           &nbsp;|&nbsp;
           Partager : {% include SharePage.html %}
@@ -22,7 +28,7 @@ layout: default
     </div>
   </header>
 
-  <article class="post-content">
+  <article class="post-content" itemprop="articleBody">
     {{ content }}
   </article>
 

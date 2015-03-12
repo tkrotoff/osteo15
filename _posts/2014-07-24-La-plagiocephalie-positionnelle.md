@@ -1,6 +1,7 @@
 ---
 layout: post
 title: La plagiocéphalie positionnelle
+image: /assets/2014-07-24/Deformations-crane-bebe.png
 tags: [bébé]
 last_modified_at: '2014-11-27'
 ---

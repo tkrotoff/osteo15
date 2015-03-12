@@ -1,5 +1,5 @@
 <a title="Partager cette page sur Twitter"
-   href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.url }}&amp;text={{ page.title | cgi_escape }}&amp;via={{ site.twitter_username }}"
+   href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.url }}&amp;text={{ page.title | cgi_escape }}&amp;via={{ site.twitter_username }}{% for tag in page.tags %}+%23{{ tag }}{% endfor %}"
    rel="nofollow"
    onclick="openNewWindow(this.href, 550, 420); return false">
   <svg class="icon icon-twitter" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
