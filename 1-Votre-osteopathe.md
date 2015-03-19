@@ -11,12 +11,13 @@ sitenav: true
   </div>
 
   <div class="col-md-10" markdown="1">
-  Je suis ostéopathe D.O. issue d'une formation à temps plein de 5 ans (RNCP 1) et diplômée du [COE](http://www.osteo-coe.fr/).
+  Je suis ostéopathe D.O. issue d'une formation à temps plein de 5 ans (RNCP niveau I).
 
-  - Titulaire du [DU de psychosomatique, université Paris Descartes](http://www.parisdescartes.fr/fre/FORMATION)
-  - Titulaire du [DU d'ostéopathie appliquée à la périnatalité, université Paris Diderot](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite)
-  - Titulaire du [label Eur Ost DO](http://www.osteofrance.com/eur-ost-do/), je réponds à son [code de déontologie](http://www.osteofrance.com/assets/pdf/ufof_deontologie.pdf)
-  - Membre de l'[UFOF](http://www.osteofrance.com/ufof/presentation/) (Union Fédérale des Ostéopathes de France)
+  - Diplômée du [Collège Ostéopathique Européen (COE)](http://www.osteo-coe.fr/)
+  - Diplôme universitaire (DU) de [psychosomatique, université Paris Descartes](http://formations.parisdescartes.fr/fr-FR/1/diplome/P5-PROG5304/DIU%20Dermatologie%20psychosomatique)
+  - Diplôme universitaire de [thérapeutiques alternatives en antalgie périnatale, université Paris Diderot](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite)
+  - Titulaire du [label Eur Ost DO](http://www.osteofrance.com/eur-ost-do/)
+  - Membre de l'[Union Fédérale des Ostéopathes de France (UFOF)](http://www.osteofrance.com/ufof/presentation/)
   </div>
 </div>
 
@@ -25,36 +26,45 @@ sitenav: true
 Pour vous proposer la meilleure des prises en charge, je continue de me former régulièrement par différents stages pratiques, séminaires et diplômes universitaires.
 
 ### 2015
+
 - [FCOP](http://www.fcop-formation-osteopathe.fr/) : "Approche tissulaire" avec Alain Andrieux ostéopathe D.O.
 
 ### 2014
+
 - Laboratoire Oligosanté : "Glycation"
 - Laboratoire Nutergia : "Du stress chronique aux troubles métaboliques", "Terrain acide"
-- Conférences UFOF : Approche pluridisciplinaire autour de l'ostéopathie
+- Conférences UFOF : Approches pluridisciplinaires autour de l'ostéopathie
 
 ### 2013
-- [DU de périnatalité "Thérapeutiques alternatives en antalgie périnatale"](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite), université Paris Diredot
+
+- [Diplôme universitaire de thérapeutiques alternatives en antalgie périnatale](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite), université Paris Diderot
 - Laboratoire Nutergia : "Ecosytème intestinal", "Nutrition et sport" et "bien-être hépatique et phytothérapie"
 
 ### 2012
-- FCOP : "Femmes enceintes et accouchement" avec [Michèle Dangréau-Mussat](http://micheledangreau-mussat.org/osteo.html) ostéopathe D.O. et Dr Emmanuelle Antonetti gynécologue-obstétricienne
+
+- FCOP : "Femmes enceintes et accouchement" avec Michèle Dangréau-Mussat ostéopathe D.O. et Dr Emmanuelle Antonetti gynécologue-obstétricienne
 - FCOP : "La naissance et le nouveau né, prise en charge ostéopathique" avec Michèle Dangréau-Mussat ostéopathe D.O., Dr Emmanuelle Antonetti gynécologue-obstétricienne et Dr Florence Peyrefitte pédiatre homéopathe
-- [Ostéo bébé](http://www.osteo-bebe.com/) : "Approche Ostéopathique des bébés" avec Eric Simon ostéopathe D.O. et Dany Heintz-Blondy ostéopathe D.O.
+- [Ostéo bébé](http://www.osteo-bebe.com/) : "Approche ostéopathique des bébés" avec Eric Simon ostéopathe D.O. et Dany Heintz-Blondy ostéopathe D.O.
 - Laboratoire Nutergia : "La nutrition autour de la naissance"
-- Conférences UFOF : Approche pluridisciplinaire autour de l'ostéopathie
+- Conférences UFOF : Approches pluridisciplinaires autour de l'ostéopathie
 
 ### 2011
+
 - FCOP : "Tests et techniques ostéopathiques du membre inférieur"
-- FCOP : "Micronutrition" avec Dr Véronique Chartroule ostéopathe D.O. médecin du sport et nutritionniste, Alain Bédouet ostéopathe D.O., Dr Rodrigue Pignel ostéopathe DO médecin du sport et en collaboration avec le laboratoire Lescuyer
-- 4ème Edition du colloque IFSO-EFOM : "Lombalgie et ostéopathie"
+- FCOP : "Micronutrition" avec Dr Véronique Chartroule ostéopathe D.O. médecin du sport et nutritionniste, Alain Bédouet ostéopathe D.O., Dr Rodrigue Pignel ostéopathe D.O. médecin du sport et en collaboration avec le laboratoire Lescuyer
+- 4ème édition du colloque IFSO-EFOM : "Lombalgie et ostéopathie"
 
 ### 2010
+
+- [Diplôme universitaire de psychosomatique](http://formations.parisdescartes.fr/fr-FR/1/diplome/P5-PROG5304/DIU%20Dermatologie%20psychosomatique), université Paris Descartes
 - FCOP : "Pathologies du nourrisson et ostéopathie" avec Rodrigue Pinel médecin du sport et Alain Bédouet ostéopathe D.O.
-- [DU de Psychosomatique](http://www.parisdescartes.fr/fre/FORMATION), université Paris Descartes
 
 ### 2009
+
+- Diplôme d'ostéopathie du [Collège Ostéopathique Européen (COE)](http://www.osteo-coe.fr/) agréé par le ministère de la Santé (formation de 5 ans - RNCP niveau I). Mentions très bien aux mémoires (cas clinique et recherche de littérature).
+  Mon diplôme d'ostéopathie est inscrit au fichier ADELI (N° 750004061) de la DRASS référençant toutes les professions médicales et paramédicales.
+  N° SIRET : 5151163900029
 - Titulaire du [label Eur Ost DO](http://www.osteofrance.com/eur-ost-do/), je réponds à son [code de déontologie](http://www.osteofrance.com/assets/pdf/ufof_deontologie.pdf)
-- Diplôme d'ostéopathie du [COE](http://www.osteo-coe.fr/) agréé par le ministère de la Santé (formation de 5 ans). Mentions très bien aux mémoires (cas clinique et recherche de littérature). Mon diplôme d'ostéopathie est inscrit au fichier ADELI (N° 750004061) de la DRASS référençant toutes les professions médicales et paramédicales. N° SIRET : 5151163900029
 
 <div class="row" style="margin-top: 60px">
   <div class="col-md-2"></div>
