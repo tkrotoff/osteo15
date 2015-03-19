@@ -14,7 +14,8 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  font: $font-weight-base #{$font-size-base}/#{$line-height-base} $font-family;
+
   color: $text-color;
 
   // The body should take the background wanted for the footer
@@ -33,7 +34,10 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
+h1 {
+  margin-bottom: $spacing-unit;
+}
+h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
@@ -66,7 +70,7 @@ figure > img {
 }
 
 figcaption {
-  font-size: $small-font-size;
+  font-size: $font-size-small;
   color: $grey;
   margin-top: $spacing-unit / 4;
 }
@@ -93,7 +97,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-weight: $font-weight-base;
 }
 
 
@@ -192,7 +196,7 @@ pre {
  * Post footnotes
  */
 .footnotes {
-  font-size: $small-font-size;
+  font-size: $font-size-small;
 }
 
 

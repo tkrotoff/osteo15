@@ -5,13 +5,24 @@
 @charset "utf-8";
 
 
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 300;
-$small-font-size:  14px;
-$base-line-height: 1.5;
+$font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-weight-base: 300;
+$line-height-base: 1.5;
 
-$spacing-unit:     30px;
+$font-size-base:  16px; // Same as Chrome 41 default font size
+$font-size-large: 18px;
+$font-size-small: 14px;
+
+// Default Chrome 41 font sizes
+// See also Bootstrap font-size variables https://github.com/twbs/bootstrap/blob/v3.3.4/less/variables.less#L55
+$font-size-h1:    2em;    // 32px
+$font-size-h2:    1.5em;  // 24px
+$font-size-h3:    1.17em; // ~18.72px
+$font-size-h4:    1.12em; // 16px
+$font-size-h5:    .83em;  // ~13.28px
+$font-size-h6:    .75em;  // ~10.72px
+
+$spacing-unit: 30px;
 
 // See https://github.com/twbs/bootstrap/blob/v3.3.2/less/variables.less#L10
 $grey-darker:        #222; // $text-color
@@ -31,10 +42,10 @@ $link-visited-color: #1756a9;
 $transition-duration: .3s;
 
 // Width of the content area
-$content-width:    1000px;
+$content-width: 1000px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$on-palm:       600px;
+$on-laptop:     800px;
 
 // Using media queries with like this:
 // @include media-query($palm) {

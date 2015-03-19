@@ -60,19 +60,25 @@
 }
 
 .site-title {
-  font-size: 34px;
+  font-size: 30px;
   font-weight: bold;
+
+  @include media-query($on-laptop) {
+    // So it looks good (title not under the burger menu on the right)
+    // on 320px large mobile devices (iPhone up to 5S, iPhone 6 is 375px large)
+    font-size: 28px;
+  }
 }
 a.site-title {
   opacity: 1;
 }
 
 .site-meta {
-  font-size: 18px;
+  font-size: $font-size-large;
 }
 
 .site-nav {
-  font-size: $small-font-size;
+  font-size: $font-size-small;
   font-weight: bold;
   text-transform: uppercase;
   line-height: 46px;
@@ -84,7 +90,7 @@ a.site-title {
   }
 
   .page-link {
-    line-height: $base-line-height;
+    line-height: $line-height-base;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -172,7 +178,7 @@ a.site-title {
 }
 
 .footer-heading {
-  font-size: $base-font-size;
+  font-size: $font-size-base;
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -191,11 +197,11 @@ a.site-title {
 }
 
 .footer-content {
-  font-size: $small-font-size;
+  font-size: $font-size-small;
 
   #search {
     -webkit-appearance: textfield;
-    font-size: $small-font-size;
+    font-size: $font-size-small;
     outline-style: none;
   }
 }
@@ -212,7 +218,6 @@ a.site-title {
 }
 
 .page-heading {
-  font-size: 32px;
 }
 
 .post-list {
@@ -228,7 +233,7 @@ a.site-title {
 }
 
 .post-meta {
-  font-size: $small-font-size;
+  font-size: $font-size-small;
   color: $grey;
 
   @include media-query($on-palm) {
@@ -255,12 +260,7 @@ a.site-title {
 }
 
 .post-title {
-  font-size: 42px;
   line-height: 1;
-
-  @include media-query($on-laptop) {
-    font-size: 36px;
-  }
 }
 
 .post-content {
@@ -268,30 +268,6 @@ a.site-title {
 
   h2, h3 {
     padding-top: $spacing-unit / 2;
-  }
-
-  h2 {
-    font-size: 32px;
-
-    @include media-query($on-laptop) {
-      font-size: 28px;
-    }
-  }
-
-  h3 {
-    font-size: 26px;
-
-    @include media-query($on-laptop) {
-      font-size: 22px;
-    }
-  }
-
-  h4 {
-    font-size: 20px;
-
-    @include media-query($on-laptop) {
-      font-size: 18px;
-    }
   }
 
   // See Center image using text-align center? http://stackoverflow.com/questions/7055393
