@@ -25,6 +25,7 @@ bundle exec rake deploy # Déploiement sur Amazon S3
 Pour générer un lien vers un post, il faut utiliser la fonction [post_url](http://jekyllrb.com/docs/templates/#post-url) de Jekyll :
 ```HTML
 {% post_url 2014-08-08-Lombalgie-paracetamol-et-osteopathie %}
+voir [l'article sur la lombalgie et le paracétamol]({% post_url 2014-08-08-Lombalgie-paracetamol-et-osteopathie %})
 ```
 
 ## Le problème des caractères spéciaux
@@ -179,6 +180,7 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 - [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 - [WebPage Test - Test a website's performance](http://www.webpagetest.org/)
 - [GTmetric - Perfomance Analysis](http://gtmetrix.com/)
+- [24 outils pour mesurer et optimiser les temps de chargement de votre site web](http://korben.info/23-outils-pour-mesurer-et-optimiser-les-temps-de-chargement-de-votre-site-web.html)
 
 ### Documentation
 
@@ -213,7 +215,7 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 - [GitHub davidensinger.github.io](https://github.com/davidensinger/davidensinger.github.io/blob/source/app/_includes/header.html)
 - [Adding schema.org metadata to Jekyll](http://veithen.github.io/2014/11/17/jekyll-schema-org-metadata.html)
 
-### Tools
+### Outils
 
 - [Google Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/)
 - [Google+ Snippet](https://developers.google.com/+/web/snippet/)
