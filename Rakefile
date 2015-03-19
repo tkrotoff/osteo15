@@ -31,8 +31,8 @@ task :htmlproof do |t|
   begin
     HTML::Proofer.new("./_site", {check_favicon: true, check_html: false, verbose: false}).run
   rescue => e
-    puts e.message
-    puts e.backtrace
+    #puts e.message
+    #puts e.backtrace
   end
 end
 
@@ -56,7 +56,7 @@ task 'validate-website' do |t|
   system "bundle exec validate-website --site 'https://osteo15.com' --verbose --markup --not-found"
 end
 
-desc "Validate _site using The Nu HTML Checker (v.Nu) - installation: `brew install vnu`"
+desc "Validate _site using The Nu HTML Checker (v.Nu - https://github.com/validator/validator) - installation: `brew install vnu`"
 task :vnu do |t|
   puts t.comment
 
@@ -67,12 +67,17 @@ desc "Validate osteo15.com using site_validator"
 task :site_validator do |t|
   puts t.comment
 
-  system "bundle exec site_validator https://osteo15.com report.html"
-  system "open report.html"
+  report_file = File.join(Dir.tmpdir, 'site_validator-report.html')
+
+  system "bundle exec site_validator https://osteo15.com #{report_file}"
+  system "open #{report_file}"
 end
 
-desc "Validate using all available tools"
-task test: [:checkstyle, :vnu, :htmlproof, 'validate-website-static', 'validate-website', :site_validator]
+desc "Validate local website"
+task 'test-local' => [:checkstyle, :htmlproof, 'validate-website-static', :vnu]
+
+desc "Validate osteo15.com"
+task 'test-osteo15.com' => ['validate-website', :site_validator]
 
 desc "Deploy on Amazon S3 using s3_website"
 task :deploy do |t|
@@ -181,7 +186,7 @@ def check_filename(file)
   end
 
   ext = File.extname(basename)
-  unless ext.match(/^$|^(.lock)|(.yml)|(.css)|(.scss)|(.html)|(.md)|(.js)|(.txt)|(.xml)|(.svg)|(.png)|(.jpg)|(.ico)$/)
+  unless ext.match(/^$|^(.lock)|(.yml)|(.css)|(.scss)|(.html)|(.md)|(.js)|(.txt)|(.xml)|(.atom)|(.rss)|(.svg)|(.png)|(.jpg)|(.ico)$/)
     puts "#{file} '#{ext}' KO"
   end
 end
