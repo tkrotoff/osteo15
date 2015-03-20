@@ -97,8 +97,8 @@ task :checkstyle do |t|
   subdirs = %w[_includes _layouts _posts _sass assets css]
 
   all = find_files(root, subdirs, '.env,.gitignore,html,md,yml,xml,Gemfile,json,Rakefile,txt')
-  html_md = find_files(root, subdirs, 'html,md')
-  md = find_files(root, subdirs, 'md')
+  html_md = find_files(root, subdirs, 'html,md', 'README.md')
+  md = find_files(root, subdirs, 'md', 'README.md')
 
   filenames = find_files(root, subdirs, '')
   filenames.each do |file|
@@ -134,8 +134,8 @@ task :checkstyle do |t|
   #check(/\w;/, md)
   check(/;\w/, md)
 
-  check(' PhD', md)
-  check(' MSc', md)
+  check(' PhD', html_md)
+  check(' MSc', html_md)
 
   # '##bonjour', 'bonjour##', 'bonjour ##'
   check(/##+\w/, md)
@@ -145,27 +145,50 @@ task :checkstyle do |t|
   # 'android', 'iphone'
   #check('android', md)
   check('iphone', md)
+
+  # '{%"' => '{% "'
+  # '"%}' => '" %}'
+  check('{%"', md)
+  check('"%}', md)
+
+  # 'alt= "' => 'alt="'
+  # 'src= "' => 'src="'
+  check('alt= "', html_md)
+  check('src= "', html_md)
+
+  # '] (' => ']('
+  #check('] (', md)
+
+  # '"[^2]' => '" [^2]'
+  check(/\S\[\^\w+\]/, md)
+
+  # '[^2][^3]' => '[^2] [^3]'
+  check(/\[\^\w+\]\[\^\w+\]/, md)
 end
 
-def find_files(root, subdirs, extensions)
+def find_files(root, subdirs, extensions, reject_pattern = nil)
   # Current directory
-  files = Dir.glob("#{root}/*{#{extensions}}").select { |path| File.file?(path) }
+  files = Dir.glob("#{root}/*{#{extensions}}")
+             .reject { |path| reject_pattern.nil? ? false : path[reject_pattern] }
+             .select { |path| File.file?(path) }
 
   subdirs.each do |subdir|
-    files += Dir.glob("#{root}/#{subdir}/**/*{#{extensions}}").select { |path| File.file?(path) }
+    files += Dir.glob("#{root}/#{subdir}/**/*{#{extensions}}")
+                .reject { |path| reject_pattern.nil? ? false : path[reject_pattern] }
+                .select { |path| File.file?(path) }
   end
 
   return files
 end
 
-def check(regex, files)
-  #puts "Check for #{regex.inspect}"
+def check(pattern, files)
+  #puts "Check for #{pattern.inspect}"
 
   files.each do |file|
     #puts "#{file}"
     File.foreach(file).with_index do |line, line_num|
-      line.match(regex) do |match|
-        puts "#{file}:#{line_num} match: '#{match}'"
+      line.match(pattern) do |match|
+        puts "#{file}:#{line_num+1} match: '#{match}'"
       end
     end
   end
