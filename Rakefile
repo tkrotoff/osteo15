@@ -105,8 +105,11 @@ task :checkstyle do |t|
     check_filename(file)
   end
 
-  # tab
-  check('\t', all)
+  # Tabs instead of spaces
+  check(/\t/, all)
+
+  # Windows line separator
+  check(/\r\n/, all)
 
   # Trailing spaces
   check(/ +$/, all)
@@ -157,7 +160,7 @@ task :checkstyle do |t|
   check('src= "', html_md)
 
   # '] (' => ']('
-  #check('] (', md)
+  check(/\[[^\^\]]+\] \(/, md)
 
   # '"[^2]' => '" [^2]'
   check(/\S\[\^\w+\]/, md)

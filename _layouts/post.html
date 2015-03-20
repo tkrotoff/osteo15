@@ -15,6 +15,9 @@ layout: default
           {{ page.date | localize: '%-d %b %Y' }}
         </time>
         <meta itemprop="description" content="{{ page.excerpt | strip_footnotes | strip_html | end_with_dots }}">
+        {% if page.image %}
+          <meta itemprop="image" content="{{ site.url }}{{ page.image }}">
+        {% endif %}
         <span class="social-media-list">
           &nbsp;|&nbsp;
           Partager : {% include SharePage.html %}
