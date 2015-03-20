@@ -6,13 +6,13 @@
 
   <!-- Name/title -->
 
-  <meta property="og:site_name" content="{{ site.title | cgi_escape }}">
+  <meta property="og:site_name" content="{{ site.title | xml_escape }}">
   {% if page.title %}
     <title>{{ page.title }} - {{ site.title }}</title>
-    <meta property="og:title" content="{{ page.title | cgi_escape }}">
+    <meta property="og:title" content="{{ page.title | xml_escape }}">
   {% else %}
     <title>{{ site.title }}</title>
-    <meta property="og:title" content="{{ site.title | cgi_escape }}">
+    <meta property="og:title" content="{{ site.title | xml_escape }}">
   {% endif %}
 
 
