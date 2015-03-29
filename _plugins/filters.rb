@@ -18,10 +18,16 @@ module Jekyll
 
     def end_with_dots(input)
       text = input.to_s.dup
-      text.delete!("\n")
+
+      text.gsub!(/\n/, ' ')
+      text.strip!
+
       text.gsub!(/ :$/, '')
+      text.gsub!(/\.\.\.$/, '')
+      text.gsub!(/…$/, '')
       text.gsub!(/\.$/, '')
-      text << '...'
+
+      text << '…'
     end
   end
 end
