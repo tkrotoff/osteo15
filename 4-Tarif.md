@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tarif
+description: Tarif d'une consultation, cabinet de Fabienne Krotoff 75015 Paris - 01 45 31 98 48
 permalink: /Tarif/
 sitenav: true
 ---

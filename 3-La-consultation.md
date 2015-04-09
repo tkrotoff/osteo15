@@ -1,6 +1,7 @@
 ---
 layout: page
 title: La consultation
+description: Déroulement d'une consultation, cabinet d'ostéopathie de Fabienne Krotoff 75015 Paris - 01 45 31 98 48
 tags: [ostéopathie]
 permalink: /La-consultation/
 sitenav: true

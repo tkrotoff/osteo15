@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ostéopathie pour les seniors
+description: Prise en charge des seniors, cabinet de Fabienne Krotoff 75015 Paris - 01 45 31 98 48
 tags: [ostéopathie, senior]
 ---
 

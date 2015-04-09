@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: Cabinet d'ostéopathie de Fabienne Krotoff 8 rue Desnouettes 75015 Paris - 01 45 31 98 48
 permalink: /Contact/
 sitenav: true
 ---

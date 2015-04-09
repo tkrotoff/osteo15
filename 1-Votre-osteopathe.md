@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Votre ostéopathe
+description: Présentation de votre ostéopathe, cabinet de Fabienne Krotoff 75015 Paris - 01 45 31 98 48
 permalink: /Votre-osteopathe/
 sitenav: true
 ---

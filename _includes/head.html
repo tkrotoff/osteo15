@@ -18,7 +18,10 @@
 
   <!-- Description -->
 
-  {% if page.excerpt %}
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    <meta property="og:description" content="{{ page.description }}">
+  {% elsif page.excerpt %}
     <meta name="description" content="{{ page.excerpt | strip_footnotes | strip_html | end_with_dots }}">
     <meta property="og:description" content="{{ page.excerpt | strip_footnotes | strip_html | end_with_dots }}">
   {% else %}
