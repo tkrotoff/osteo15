@@ -156,8 +156,10 @@ task :checkstyle do |t|
 
   # 'alt= "' => 'alt="'
   # 'src= "' => 'src="'
+  # 'caption= "' => 'caption="'
   check('alt= "', html_md)
   check('src= "', html_md)
+  check('caption= "', html_md)
 
   # '] (' => ']('
   check(/\[[^\^\]]+\] \(/, md)
@@ -167,6 +169,9 @@ task :checkstyle do |t|
 
   # '[^2][^3]' => '[^2] [^3]'
   check(/\[\^\w+\]\[\^\w+\]/, md)
+
+  # Sauts de ligne incohérents
+  check_global(/[^\-\-\-].*?\.\n[[:word:]].*?[^\-\-\-]/, md)
 end
 
 def find_files(root, subdirs, extensions, reject_pattern = nil)
@@ -193,6 +198,17 @@ def check(pattern, files)
       line.match(pattern) do |match|
         puts "#{file}:#{line_num+1} match: '#{match}'"
       end
+    end
+  end
+end
+
+def check_global(pattern, files)
+  #puts "Check for #{pattern.inspect}"
+
+  files.each do |file|
+    #puts "#{file}"
+    File.read(file).scan(pattern) do |match|
+      puts "#{file} match: '#{match}'"
     end
   end
 end
