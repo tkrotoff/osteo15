@@ -173,8 +173,6 @@ a.site-title {
   padding: $spacing-unit 0;
 
   position: relative;
-
-  @include triangle-before($grey-lightest, 15px);
 }
 
 .footer-heading {
