@@ -6,7 +6,7 @@ permalink: /Contact/
 sitenav: true
 ---
 
-Consultation sur rendez-vous du lundi au vendredi 9h - 19h et le samedi 9h - 13h.
+Consultations sur rendez-vous du lundi au vendredi 9h - 19h et le samedi 9h - 13h.
 
 <div class="row">
   <div class="col-md-5" markdown="1">

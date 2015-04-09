@@ -5,8 +5,6 @@ description: Prise en charge des nourrissons/bébés, cabinet de Fabienne Krotof
 tags: [ostéopathie, bébé]
 ---
 
-Je propose au sein du cabinet une prise en charge ostéopathique des nourrissons pour le traitement de différents troubles fonctionnels ainsi que pour un bilan global.
-
 L'ostéopathie ne prend pas seulement en charge les adultes : elle est efficace aussi sur les bébés et utilise des techniques douces et adaptées au jeune âge des nourrissons. La prise en charge ostéopathique de votre bébé aura pour objectif de traiter les pertes de mobilité du corps et d'harmoniser les tissus afin de l'aider à se développer au mieux. Ces dysfonctions ostéopathiques ne sont pas dues seulement à un accouchement difficile : il faut se rappeler que votre enfant a passé 9 mois à l'intérieur de l'utérus et a dû s'adapter aux différentes contraintes et forces intra-utérines. Ces contraintes ont pu laisser leur "empreinte" sur le corps de votre bébé.
 
 Les motifs de consultation pour les nourrissons sont variés, l'ostéopathie pourra aider en cas de :
