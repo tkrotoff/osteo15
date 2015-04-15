@@ -200,8 +200,8 @@ Pas de redirection spécifique pour :
                                                                                   <meta http-equiv="refresh" content="0; url=https://osteo15.com/2015/01/24/Principes-et-techniques-de-l'osteopathie/"/>
                                                                                 <b:else/>
                                                                                   <b:if cond='data:blog.url == "http://osteopatheparis15.blogspot.com/2015/01/psychanalyse-linterview-de-mme-ramos.html"'>
-                                                                                    <link rel="canonical" href="https://osteo15.com/2015/01/30/Interview-de-la-psychanaliste-Cecile-Ramos/"/>
-                                                                                    <meta http-equiv="refresh" content="0; url=https://osteo15.com/2015/01/30/Interview-de-la-psychanaliste-Cecile-Ramos/"/>
+                                                                                    <link rel="canonical" href="https://osteo15.com/2015/01/30/Interview-de-la-psychanalyste-Cecile-Ramos/"/>
+                                                                                    <meta http-equiv="refresh" content="0; url=https://osteo15.com/2015/01/30/Interview-de-la-psychanalyste-Cecile-Ramos/"/>
                                                                                   <b:else/>
                                                                                     <b:if cond='data:blog.url == "http://osteopatheparis15.blogspot.com/2015/01/nouveau-journal-de-lufof.html"'>
                                                                                       <link rel="canonical" href="https://osteo15.com/2015/01/30/Journal-de-l'UFOF-decembre-2014/"/>

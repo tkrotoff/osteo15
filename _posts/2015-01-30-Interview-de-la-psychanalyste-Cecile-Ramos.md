@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview de la psychanaliste Cécile Ramos
+title: Interview de la psychanalyste Cécile Ramos
 tags: [interview, psychanalyse]
 last_modified_at: '2015-01-30'
 ---
