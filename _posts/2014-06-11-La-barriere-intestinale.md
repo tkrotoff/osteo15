@@ -2,7 +2,7 @@
 layout: post
 title: La barrière intestinale
 tags: [alimentation]
-last_modified_at: '2014-11-27'
+last_modified_at: '2015-04-17'
 ---
 
 Pour que votre alimentation vous apporte tous les macro et micro-nutriments dont votre corps a besoin, encore faut-il que votre système digestif soit capable de les absorber tout en se protégeant. Cet article fait suite au précédent sur [la micronutrition]({% post_url 2014-03-25-Introduction-a-la-micronutrition %}). J'aborde ici un sujet important : la paroi de l'intestin, un véritable organe.
@@ -64,15 +64,15 @@ Il y aura une trop grande entrée de macro-molécules dans le milieu intérieur 
 
 - Rééquilibrer son alimentation, voir adopter un régime hypo-toxique (Dr J. Seignalet) quand la ou les pathologies sont ancrées (pathologies auto-immunes, pathologies d'encrassage, inflammation chronique...)
 - Supprimer les aliments allergisants ou provoquant une intolérance ([blé moderne](http://www.thierrysouccar.com/nutrition/livre/gluten-comment-le-ble-moderne-nous-intoxique-59), [lactose](http://fr.wikipedia.org/wiki/Lactose), [caséine](http://fr.wikipedia.org/wiki/Cas%C3%A9ine), soja...)
-- Apporter des [fibres solubles](http://fr.wikipedia.org/wiki/Fibre_alimentaire), des pre et probiotiques, intégrer du curcuma dans son alimentation avec du poivre noir ou du gingembre (la curcumine s'en trouve mieux absorbée)
-- Sportif : faites attention à l'hyper-perméabilité intestinale lors d'un effort prolongé. En effet, votre sang irriguera en priorité vos muscles, poumons et cœur au lieu de votre système digestif (l'afflux sanguin vers vos intestins diminue de 20%) ce qui provoque une légère [ischémie](http://fr.wikipedia.org/wiki/Isch%C3%A9mie). Lors de la re-perfusion de votre système digestif (après l'effort sportif) il y aura un apport massif en oxygène avec production de radicaux libres. Ces mécanismes peuvent abimer vos cellules et provoquer une hyper-perméabilité intestinale.  Vous prendrez donc soin de ne pas manger lourd avant l'effort (privilégiez des aliments très digestes), de bien vous hydrater pendant celui-ci et surtout, de prendre une boisson de récupération vous aidant à maintenir une bonne barrière intestinale après votre séance sportive
+- Apporter des [fibres solubles](http://fr.wikipedia.org/wiki/Fibre_alimentaire), intégrer des pre et probiotiques ainsi que des compléments alimentaires à base de curcumine combinée à des phospholipides (et non pas du poivre noir qui augmente la perméabilité intestinale)
+- Sportif : faites attention à l'hyper-perméabilité intestinale lors d'un effort prolongé. En effet, votre sang irriguera en priorité vos muscles, poumons et cœur au lieu de votre système digestif (l'afflux sanguin vers vos intestins diminue de 20%) ce qui provoque une légère [ischémie](http://fr.wikipedia.org/wiki/Isch%C3%A9mie). Lors de la re-perfusion de votre système digestif (après l'effort sportif) il y aura un apport massif en oxygène avec production de radicaux libres. Ces mécanismes peuvent abimer vos cellules et provoquer une hyper-perméabilité intestinale. Vous prendrez donc soin de ne pas manger lourd avant l'effort (privilégiez des aliments très digestes), de bien vous hydrater pendant celui-ci et surtout, de prendre une boisson de récupération vous aidant à maintenir une bonne barrière intestinale après votre séance sportive
 
 ## Comment préserver votre barrière intestinale ?
 
-- Prendre soin de votre microbiote intestinal en prenant des pre et pro biotiques lors d'une attaque virale ou bactérienne de votre système digestifs (ex : gastro-entérite) ou lorsque vous avez un traitement anti-biotique,
+- Prendre soin de votre microbiote intestinal en prenant des pre et pro biotiques en cas de dysbiose ou lors d'une attaque virale ou bactérienne de votre système digestif (ex : gastro-entérite) et lorsque vous avez un traitement anti-biotique,
 - Prendre un traitement en micro-nutrition pour aider à la reconstitution de votre barrière intestinale lorsque vous avez une dysbiose, une pathologie digestive fonctionnelle, un traitement anti-inflammatoire par des [Anti-Inflammatoire Non Stéroïdien (AINS)](http://fr.wikipedia.org/wiki/Anti-inflammatoire_non_st%C3%A9ro%C3%AFdien),
 - Maintenir une alimentation équilibrée,
-- Sport : [le sport permet d'améliorer la flore intestinale]({% post_url 2014-04-17-Le-sport-est-bon-aussi-pour-votre-flore-intestinale %}) malgré une alimentation déséquilibrée, mais un effort d'endurance prolongé (comme un marathon ou semi-marathon par exemple) peut mettre à mal la barrière intestinale par une hypo-perfusion sanguine du tube digestif (source de désagrément intestinal bien connu des joggeurs). Une boisson de récupération avec de la curcumine ou de L-glutamate peut aider à reconstituer votre barrière intestinale.
+- Sport : [le sport permet d'améliorer la flore intestinale]({% post_url 2014-04-17-Le-sport-est-bon-aussi-pour-votre-flore-intestinale %}) malgré une alimentation déséquilibrée, mais un effort d'endurance prolongé (comme un marathon ou semi-marathon par exemple) peut mettre à mal la barrière intestinale par une hypo-perfusion sanguine du tube digestif (source de désagrément intestinal bien connu des joggeurs). Une boisson de récupération avec de la curcumine combinée à des phospholipides ou à base de L-glutamate peut aider à reconstituer votre barrière intestinale.
 - Arrêter le tabac,
 - Éviter le [bisphénol A](http://fr.wikipedia.org/wiki/Bisph%C3%A9nol_A) et autres [perturbateurs endocriniens](http://fr.wikipedia.org/wiki/Perturbateur_endocrinien) qui augmentent la perméabilité intestinale...
 
@@ -121,7 +121,7 @@ Pour un bilan en micro-nutrition, un programme de traitement de votre barrière 
 
 - Alessio Fasano.
   [Leaky Gut and Autoimmune Diseases](http://link.springer.com/article/10.1007/s12016-011-8291-x).
-  Clinical Reviews in Allergy & Immunology (2012) Vol42, N°1 - p71-78
+  Clinical Reviews in Allergy & Immunology (2012) Vol 42, N°1 - p71-78
 
 - Sya N. Ukena, Anurag Singh, Ulrike Dringenberg, Regina Engelhardt, Ursula Seidler, Wiebke Hansen, André Bleich, Dunja Bruder, Anke Franzke, Gerhard Rogler, Sebastian Suerbaum, Jan Buer, Florian Gunzer, Astrid M. Westendorf.
   [Probiotic Escherichia coli Nissle 1917 Inhibits Leaky Gut by Enhancing Mucosal Integrity](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001308).
@@ -142,3 +142,7 @@ Pour un bilan en micro-nutrition, un programme de traitement de votre barrière 
 - Agence française de sécurité sanitaire des aliments (Afssa).
   [Rapport du groupe de travail "Alimentation infantile et modification de la flore intestinale"](http://www.mangerbouger.fr/pro/IMG/pdf/Affsa-FloreIntestinale.pdf).
   Juin 2003
+
+- Julien Venesson.
+  [Pourquoi le curcuma ne marche pas](http://www.julienvenesson.fr/pourquoi-le-curcuma-ne-marche-pas/).
+  25 avril 2014
