@@ -133,7 +133,7 @@ Pas de redirection spécifique pour :
                                               <b:else/>
                                                 <b:if cond='data:blog.url == "http://osteopatheparis15.blogspot.com/2014/04/osteopathie-pour-les-femmes-enceintes.html"'>
                                                   <link rel="canonical" href="https://osteo15.com/Osteopathie-pour-les-femmes-enceintes/"/>
-                                                  <meta http-equiv="refresh" content="0; url=https://osteo15.com/2014/04/19/Osteopathie-pour-les-femmes-enceintes/"/>
+                                                  <meta http-equiv="refresh" content="0; url=https://osteo15.com/Osteopathie-pour-les-femmes-enceintes/"/>
                                                 <b:else/>
                                                   <b:if cond='data:blog.url == "http://osteopatheparis15.blogspot.com/2014/06/osteopathie-et-course-pied.html"'>
                                                     <link rel="canonical" href="https://osteo15.com/2014/06/02/Osteopathie-et-jogging/"/>
