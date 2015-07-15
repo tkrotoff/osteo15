@@ -181,6 +181,8 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 - [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 - [WebPage Test - Test a website's performance](http://www.webpagetest.org/)
 - [GTmetric - Perfomance Analysis](http://gtmetrix.com/)
+- [Pingdom Speed Test](http://tools.pingdom.com/fpt/)
+- [Improving your Blog visibility](http://blog.penso.info/2015/03/21/improve-blog-visibility/)
 - [24 outils pour mesurer et optimiser les temps de chargement de votre site web](http://korben.info/23-outils-pour-mesurer-et-optimiser-les-temps-de-chargement-de-votre-site-web.html)
 
 ### Documentation
