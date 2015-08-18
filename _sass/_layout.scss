@@ -237,12 +237,6 @@ a.site-title {
 .post-meta {
   font-size: $font-size-small;
   color: $grey;
-
-  @include media-query($on-palm) {
-    .github-links {
-      display: none;
-    }
-  }
 }
 
 .post-link {
