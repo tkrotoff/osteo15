@@ -134,7 +134,7 @@ Voir la documentation de Bootstrap : http://getbootstrap.com/css/#grid
 - oe -> œ
 - °
 
-Voir Character Entities Cheat Sheet: http://brajeshwar.github.io/entities/
+Voir Character Entities Cheat Sheet : http://brajeshwar.github.io/entities/
 
 ## Conventions de style
 
@@ -226,3 +226,12 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 - [Twitter card validator](https://cards-dev.twitter.com/validator)
 - [Structured Data Linter](http://linter.structured-data.org/)
 - [Yandex Structured data validator](https://webmaster.yandex.com/microtest.xml)
+
+## Emuler Android stock browser
+
+Installer Android Studio
+
+```Shell
+./Library/Android/sdk/tools/android
+./Library/Android/sdk/tools/android avd
+```

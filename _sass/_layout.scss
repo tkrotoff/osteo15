@@ -33,8 +33,12 @@
     height: 100%;
     top: 0;
 
+    /* Does not work under Android browser <= 4.3.1
     background: url(/assets/8-rue-Desnouettes/Cabinet3-header-bg.jpg)
                 top center/cover no-repeat;
+    */
+    background-image: url(/assets/8-rue-Desnouettes/Cabinet3-header-bg.jpg);
+    background-size: cover;
   }
 }
 
