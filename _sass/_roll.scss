@@ -5,7 +5,9 @@
 
 .roll {
   display: inline-block;
-  overflow: hidden;
+
+  // Provokes strange CSS behaviors
+  //overflow: hidden;
 
   // Fix Safari 8.1 weird stuffs with font below
   -webkit-perspective: 400px;
@@ -57,23 +59,8 @@
 }
 
 
-.site-nav {
-  .roll span:after {
-    color: $grey-dark;
-    background: $inverse-text-color;
-    text-shadow: none;
-  }
-
-  @include media-query($on-palm) {
-    .roll {
-      color: $text-color;
-      text-shadow: none;
-    }
-
-    .roll span:after {
-      color: $inverse-text-color;
-      background: $grey-dark;
-      text-shadow: none;
-    }
-  }
+.roll span:after {
+  color: $grey-dark;
+  background: $inverse-text-color;
+  text-shadow: none;
 }

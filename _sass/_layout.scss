@@ -5,12 +5,11 @@
   font-weight: 400;
   letter-spacing: 1px; // Make Helvetica Neue more readable
 
-  // Positioning context for the mobile navigation icon
-  position: relative;
-
   padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
   @include media-query($on-palm) {
     padding-top: $spacing-unit / 2;
+    padding-bottom: $spacing-unit / 2;
   }
 
   color: $inverse-text-color;
@@ -23,6 +22,8 @@
       opacity: 1;
     }
   }
+
+  position: relative;
 
   .parallax-bg {
     position: absolute;
@@ -54,103 +55,40 @@
 .site-title {
   font-size: 30px;
   font-weight: bold;
-
-  @include media-query($on-laptop) {
-    // So it looks good (title not under the burger menu on the right)
-    // on 320px large mobile devices (iPhone up to 5S, iPhone 6 is 375px large)
-    font-size: 28px;
-  }
 }
 a.site-title {
   opacity: 1;
 }
 
+.nav-separator {
+  // Keep the separator with the words, i.e do not break "words /" into "words" "/"
+  // See Specifying a preferred line break point in HTML text in a responsive design http://stackoverflow.com/questions/18222409
+  white-space: nowrap;
+
+  &:not(:last-child):after {
+    content: '/';
+    opacity: .4;
+  }
+}
+
 .site-meta {
-  font-size: $font-size-large;
+  font-size: $font-size-small;
+  font-weight: bold;
+
+  margin-top: $spacing-unit / 2;
 }
 
 .site-nav {
   font-size: $font-size-small;
   font-weight: bold;
   text-transform: uppercase;
-  line-height: 46px;
 
-  margin-top: $spacing-unit;
-
-  .menu-icon {
-    display: none;
-  }
+  margin-top: $spacing-unit / 2;
 
   .page-link {
-    line-height: $line-height-base;
-
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
-    }
   }
-
   .page-link.current {
     opacity: 1;
-  }
-
-  @include media-query($on-palm) {
-    position: absolute;
-    margin-top: $spacing-unit / 2;
-    top: 9px;
-    right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-light;
-    border-radius: 5px;
-    text-align: right;
-
-    z-index: 1; // Above everything else
-
-    .menu-icon {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
-      text-align: center;
-
-      opacity: 1;
-
-      > svg {
-        width: 18px;
-        height: 15px;
-
-        path {
-          fill: $grey-dark;
-        }
-      }
-    }
-
-    .trigger {
-      clear: both;
-      display: none;
-    }
-
-    &:hover .trigger, .trigger-hover {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-
-      &:not(:last-child) {
-        margin-right: 0;
-      }
-      margin-left: 20px;
-    }
-
-    a.page-link {
-      opacity: 1;
-      color: $text-color;
-    }
   }
 }
 
@@ -163,8 +101,6 @@ a.site-title {
   background-color: $grey-lightest;
   border-top: 1px solid $grey-lighter;
   padding: $spacing-unit 0;
-
-  position: relative;
 }
 
 .footer-heading {
@@ -202,7 +138,10 @@ a.site-title {
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding-top: $spacing-unit;
+  @include media-query($on-palm) {
+    padding-top: $spacing-unit / 2;
+  }
 
   background-color: $background-color;
 }
