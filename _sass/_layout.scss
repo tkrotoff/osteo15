@@ -49,18 +49,6 @@
   @include triangle-after($grey-lightest);
 
   padding-top: $spacing-unit;
-
-  @include media-query($on-palm) {
-    img {
-      // Resize the images to fit their container on mobile devices
-      // => take the full window width
-      width: 100%;
-    }
-  }
-
-  .photos {
-    margin-bottom: $spacing-unit / 2;
-  }
 }
 
 .site-title {
