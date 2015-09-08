@@ -105,6 +105,6 @@ Pour aller plus loin, vous pouvez consulter le [site des Drs Bruno Fayet et Emma
       [Etude des effets du traitement ostéopathique sur l'obstruction du canal lacrymal chez le nourrisson](http://www.bretagne-osteopathie.com/pdf/Memoire_PERCHEPIED_Gilles.pdf).
       2011/2012
 
-[^10]: Theresa E. Apoznanski, Reem Abu-Sbaih, Michael J. Terzella, Sheldon Yao. 
+[^10]: Theresa E. Apoznanski, Reem Abu-Sbaih, Michael J. Terzella, Sheldon Yao.
        [Resolution of dacryostenosis after osteopathic manipulative treatment](http://download.pdaverticals.com/jreader/aoa/jaoa/42C6AEBE-A57D-11E4-8A97-BB11EE72C7C7/document.pdf).
        The Journal of the American Osteopathic Association Vol 115, N°2, 2015, p. 110-114
