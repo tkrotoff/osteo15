@@ -34,16 +34,16 @@ voir [l'article sur la lombalgie et le paracétamol]({% post_url 2014-08-08-Lomb
 ### Nom des fichiers
 
 Windows interdit les caractères [`\/:*?"<>|`](https://msdn.microsoft.com/en-us/library/aa365247), exemple :
-- OK : `2014-04-18-La-methode-De-Gasquet-pour-se-preparer-a-l'accouchement-et-retrouver-la-forme-apres.md`
 - KO : `2014-04-18-La-methode-"De-Gasquet"-pour-se-preparer-a-l'accouchement-et-retrouver-la-forme-apres.md`
+- OK : `2014-04-18-La-methode-De-Gasquet-pour-se-preparer-a-l'accouchement-et-retrouver-la-forme-apres.md`
 
 Le caractère `?` est replacé par `%3F` dans les URLs, ce qui est à éviter :
-- OK : `2014-08-21-Bebe-:-quand-consulter-un-osteopathe-?.md` => `/2014/08/21/Bebe-:-quand-consulter-un-osteopathe-%3F/`
-- KO : `2014-08-21-Bebe-quand-consulter-un-osteopathe.md` => `/2014/08/21/Bebe-quand-consulter-un-osteopathe/`
+- KO : `2014-08-21-Bebe-:-quand-consulter-un-osteopathe-?.md` => `/2014/08/21/Bebe-:-quand-consulter-un-osteopathe-%3F/`
+- OK : `2014-08-21-Bebe-quand-consulter-un-osteopathe.md` => `/2014/08/21/Bebe-quand-consulter-un-osteopathe/`
 
 [Jekyll crash](https://github.com/jekyll/jekyll/issues/2834) si le nom d'un fichier comporte `:` :
-- OK : `2014-02-10-Jogging-le-pied-amortisseur.md`
 - KO : `2014-02-10-Jogging-:-le-pied-amortisseur.md`
+- OK : `2014-02-10-Jogging-le-pied-amortisseur.md`
 
 Liste des caractères valides pour une URL : [`ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-._~:/?#[]@!$&'()*+,;=`](http://stackoverflow.com/questions/1547899)
 
@@ -64,20 +64,20 @@ Exemple :
 
 post_url ne fonctionne pas avec des accents, exemple :
 ```Markdown
-<!-- OK -->
-[la micronutrition]({% post_url 2014-03-25-Introduction-a-la-micronutrition %})
-
 <!-- KO -->
 [la micronutrition]({% post_url 2014-03-25-Introduction-à-la-micronutrition %})
+
+<!-- OK -->
+[la micronutrition]({% post_url 2014-03-25-Introduction-a-la-micronutrition %})
 ```
 
 Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubuntu 14.10 x64, Ruby 2.1.0, Jekyll 2.4.0) :
 ```Markdown
-<!-- OK -->
-![Schéma déroulement consultation](/assets/2014-08-20/Deroulement-consultation.png)
-
 <!-- KO -->
 ![Schéma déroulement consultation](/assets/2014-08-20/Déroulement consultation.png)
+
+<!-- OK -->
+![Schéma déroulement consultation](/assets/2014-08-20/Deroulement-consultation.png)
 ```
 
 ## Formats des images
