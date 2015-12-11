@@ -28,7 +28,7 @@ Pour vous proposer la meilleure des prises en charge, je continue de me former r
 
 ### 2015
 
-- [FCOP](http://www.fcop-formation-osteopathe.fr/) : "Approche tissulaire" avec Alain Andrieux ostéopathe D.O.
+- [FCOP](http://www.fcop-formation-osteopathe.fr/) : "Approche tissulaire" niveau I et II avec Alain Andrieux ostéopathe D.O.
 
 ### 2014
 
