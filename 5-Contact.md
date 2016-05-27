@@ -6,9 +6,28 @@ permalink: /Contact/
 sitenav: true
 ---
 
+<div class="row">
+  <div class="col-md-3"></div>
+  <a class="btn btn-primary-outline btn-lg" href="https://www.clicrdv.com/932-osteopathe" role="button">Prendre rendez-vous en ligne</a>
+</div>
+
+<p></p>
+
 Consultations sur rendez-vous du lundi au vendredi 9h - 19h et le samedi 9h - 13h.
 
 <div class="row">
+  <!--
+    See Module de prise de RDV http://developers.clicrdv.com/fr/api-module-prise-rdv.html
+    Testing URL : https://www.clicrdv.com/932-osteopathe?nologo=1&popin=1&mobile=1
+  -->
+  <!--
+  <div class="col-md-10">
+    <div class="embed-responsive" style="padding-bottom: 100%">
+      <iframe src="https://www.clicrdv.com/932-osteopathe?websource=osteo15.com&nologo=1&popin=1&mobile=1&styles=transparent"></iframe>
+    </div>
+  </div>
+  -->
+
   <div class="col-md-5" markdown="1">
   - {{ site.address }}
   - <a href="tel:{{ site.tel | cgi_escape }}">{{ site.tel }}</a>
