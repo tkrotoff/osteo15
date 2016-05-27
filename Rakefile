@@ -22,7 +22,7 @@ task :build, :env do |t, args|
   site.process # Builds the Jekyll site
 end
 
-require "html/proofer"
+require "html-proofer"
 
 desc "Validate _site using HTML::Proofer"
 task :htmlproof do |t|
