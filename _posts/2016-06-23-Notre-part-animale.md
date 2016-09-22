@@ -11,7 +11,7 @@ last_modified_at: '2016-06-23'
 
 Notre espèce, [Homo sapiens](https://fr.wikipedia.org/wiki/Homo_sapiens) ou "homme moderne", est maintentant apparue voilà presque 200 000 ans. Mais l'homme que nous connaissons aujourd'hui est le fruit d'une évolution commencée il y a plus de 3 milliards d'années, avec les tous premiers organismes vivants.
 
-Chaque acquisition évolutive des espèces qui nous ont précédées nous a laissé un patrimoine génétique et des acquisitions évolutives qui restent gravés au plus profond de notre corps : nous partageons un lien évolutionnaire avec ces ancêtres. C'est ce que nous fait découvrir le documentaire "Notre part animale". Cette série de 3 épisodes à recue le prix du meilleur programme Science et la mention spéciale du jury au Wildscreen Film Festival 2014 :
+Chaque acquisition évolutive des espèces qui nous ont précédées nous a laissé un patrimoine génétique et des acquisitions évolutives qui restent gravés au plus profond de notre corps : nous partageons un lien évolutionnaire avec ces ancêtres. C'est ce que nous fait découvrir le documentaire "Notre part animale". Cette série de 3 épisodes a reçu le prix du meilleur programme Science et la mention spéciale du jury au Wildscreen Film Festival 2014 :
 
 ## [Le poisson en nous](http://www.vodeo.tv/documentaire/notre-part-animale-1-3)
 
