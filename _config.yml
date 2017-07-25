@@ -29,7 +29,7 @@ exclude: [
   "Rakefile"
 ]
 
-gems:
+plugins:
   - jekyll-sitemap
   - octopress-minify-html
 
