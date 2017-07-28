@@ -3,7 +3,7 @@ layout: post
 title: La plagiocéphalie positionnelle
 image: /assets/2014-07-24/Deformations-crane-bebe.png
 tags: [bébé]
-last_modified_at: '2014-11-27'
+last_modified_at: '2017-07-28'
 ---
 
 La plagiocéphalie est une déformation du crâne qui peut avoir deux origines :
@@ -77,18 +77,18 @@ Il semble donc essentiel de mettre en place un traitement précoce, sans attendr
 
 ### Conséquence esthétique
 
-La première conséquence visible de la plagiocéphalie positionnelle est avant tout esthétique, surtout pour les plagiocéphalies positionnelles encore présentes après 18 mois [^6] car elles n'évolueront plus
+La première conséquence visible de la plagiocéphalie positionnelle est avant tout esthétique, surtout pour les plagiocéphalies positionnelles encore présentes après 18 mois [^6] car elles n'évolueront plus.
 
 Des asymétries du crâne et du visage peuvent perdurer ultérieurement [^5] et ces asymétries auront des conséquences sur le plan neurologique, mais aussi sur la mandibule et les articulations temporo-mandibulaires (cf ci-après).
 
 ### Conséquences neurologiques
 
-Il est communément admis que le pronostic est très bon sur le plan neurologique et qu'il n'y a pas de retard mental associé à la plagiocéphalie [^6]. D'autre part, il n'a pas été montré de différence de volume de cerveau entre les enfants présentant une plagiocéphalie et les autres bien que le cerveau présente une déformation semblable aux déformations des os du crâne [^15].
+Il est communément admis que le pronostic est très bon sur le plan neurologique et qu'il n'y a pas de retard mental associé à la plagiocéphalie [^6]. D'autre part, il n'a pas été montré de différence de volume de cerveau entre les enfants présentant une plagiocéphalie et les autres, bien que le cerveau présente une déformation semblable aux déformations des os du crâne [^15].
 
-Cependant, il y a toujours débat sur l'association entre plagiocéphalie et retards de développement [^18] et certaines études mettent en évidence un lien entre plagiocéphalie positionnelle et :
+Cependant, il y a toujours débat sur l'association entre plagiocéphalie et retard de développement [^18] et certaines études mettent en évidence un lien entre plagiocéphalie positionnelle et :
 
 - une diminution dans l'acquisition des compétences spécifiques motrices en fonction de la gravité de la plagiocéphalie positionnelle [^13],
-- un moins bon score au BSID-III (sans savoir si ces retards de développement suivent ou précèdent les déformations du cerveau) [^15],
+- un moins bon score au [BSID-III](https://en.wikipedia.org/wiki/Bayley_Scales_of_Infant_Development), mais sans savoir si ces retards de développement suivent ou précèdent les déformations du cerveau [^15],
 - un traitement altéré du son par le cerveau [^16],
 - une augmentation du risque de problème de développement avec augmentation à l'âge scolaire de prises en charge spécifiques : orthophonie, aide spéciale à l'éducation, physiothérapie, ergothérapie... [^17].
 
@@ -106,7 +106,7 @@ Chez les enfants ayant une plagiocéphalie résiduelle après 18 mois, il existe
 
 ### Autres conséquences
 
-Une étude conclue sur un lien probable entre plagiocéphalie et scoliose [^19] : on retrouve dans la genèse de la scoliose certains facteurs de risque communs à la plagiocéphalie.
+Une étude conclut sur un lien probable entre plagiocéphalie et scoliose [^19] : on retrouve dans la genèse de la scoliose certains facteurs de risque communs à la plagiocéphalie. D'autres études sont nécessaires pour confirmer ou infirmer ce lien de causalité.
 
 ## Traitements
 
@@ -122,31 +122,46 @@ Le premier traitement de la plagiocéphalie positionnelle est avant tout préven
 
 - Stimuler la rotation de la tête et la motricité du nourrisson le plus tôt possible et alterner la position de l'enfant avec la tête tournée à droite et à gauche quand il est couché sur le dos. Placer le lit de l'enfant ou les mobiles de telle sorte que l'enfant soit obligé de tourner la tête du côté qui lui est le plus difficile s'il présente une position préférentielle ou une perte de mobilité, donner le biberon des deux côtés...,
 
-- Pendant les phases d'éveil : mettre le bébé en position sur le ventre pendant 10-15 minutes et ce, au moins 3 fois par jour, TOUJOURS SOUS SURVEILLANCE et privilégier la position sur le côté (en alternant à droite et à gauche) le premier mois puis sur le ventre après 6 mois lorsque l'enfant a les capacités de se retourner tout seul,
+- Pendant les phases d'éveil : mettre le bébé en position sur le ventre et ce, au moins 3 fois par jour, TOUJOURS SOUS SURVEILLANCE et privilégier la position sur le côté (en alternant à droite et à gauche) le premier mois puis sur le ventre après 6 mois lorsque l'enfant a les capacités de se retourner tout seul,
 
-- Pendant les phases de sommeil : éviter les surfaces dures et n'utiliser le cosy que pour les déplacements, utiliser des coussins ou matelas spéciaux type bibed ou cocoonababy en faisant attention au risque d'étouffement. Bien que la position de sommeil sur le dos augmente les déformations du crâne, cette recommandation est à respecter pour prévenir la mort subite du nourrisson.
+- Pendant les phases de sommeil : éviter les surfaces dures et n'utiliser le cosy que pour les déplacements. L'utilisation de coussins ou de matelas spécifiques comme le [Bibed](http://www.bibed.fr/matelas-bebe.html) peuvent aider en évitant l'appui sur la zone plate du crâne [^36]. Cependant, de nombreux professionnels déconseillent ce genre de matériel car ils limitent les mouvements du bébé. On peut cependant conseiller un [coussin de latéralisation](https://www.physiomat.com/PBSCProduct.asp?ItmID=13724260) (avant les 4 mois du bébé ou avant qu'il puisse se retourner tout seul) pour éviter l'appui sur la zone aplatie : en veillant à alterner la position D/G si le méplat est postérieur (brachycéphalie) ou en plaçant le bébé du côté opposé au méplat si le crâne est asymétrique (plagiocéphalie).
 
-La plagiocéphalie est améliorée chez 77% des nourrissons après 2 mois de mesure de stimulation et de positionnement [^38]. L'utilisation de coussins ou de matelas spécifiques comme le [Bibed](http://www.bibedconcept.com/fr/content/10-les-principes-du-bibed) peut aider en évitant l'appui sur la zone plate du crâne [^36].
+La plagiocéphalie est améliorée chez 77% des nourrissons après 2 mois de mesure de stimulation et de positionnement [^38].
 
 ### Kinésithérapie
 
-Quand un torticolis est présent, la prise en charge chez le kinésithérapeute doit être mise en place le plus tôt possible [^7] [^8]. Cela évite, à cause de la perte de mobilité et de la position préférentielle, que la tête du nourrisson appui toujours sur la même zone du crâne provoquant ou aggravant la déformation. Dans les cas les moins graves, la déformation peut être corrigée par des exercices d'étirements [^20]. Une prise en charge chez le kinésithérapeute à 4 mois, lorsque le nourrisson présente une préférence de position, réduit le risque de plagiocéphalie grave par rapport aux soins habituels [^37].
+Quand un [torticolis congénital](http://pap-pediatrie.fr/orthopedie-sport/torticolis-congenital) est présent, la prise en charge chez le kinésithérapeute doit être mise en place le plus tôt possible [^7] [^8]. Une telle prise en charge à 4 mois réduit le risque de plagiocéphalie grave par rapport aux soins habituels [^37]. Cela évite, à cause de la perte de mobilité et de la position préférentielle, que la tête du nourrisson appuie toujours sur la même zone du crâne (provoquant ou aggravant la déformation). Dans les cas les moins graves, la déformation peut être corrigée par des exercices d'étirement [^20].
+
+Je ne reviens pas sur la différence entre torticolis congénital et torticolis postural, néamoins, il faut être attentif en cas de torticolis postural et celui-ci doit impérativement être pris en charge : 1/ s'il ne se résoud pas de façcon spontanée et / ou 2/ si une déformation du crâne est présente ou commence à apparaitre. Il faut éviter le cercle vicieux : position préférentielle de la tête (toujours du même côté à cause du torticoli postural) -> apparition d'une plagiocéphalie positionnelle -> maintien de la position préférentielle (à cause du méplat sur le crâne) et donc du raccourcissement musculaire toujours du même côté -> entretien du torticolis postural.
 
 ### Ostéopathie
 
-L'ostéopathie est un traitement de la plagiocéphalie positionnelle et prend en compte la globalité du corps dans ce que l'on appelle le syndrome du bébé moulé :
+L'ostéopathie ne remodèle pas l'os du crâne comme de la pâte à modeler, mais c'est la croissance des os du crâne et la poussée de la croissance du cerveau sur les os du crâne qui permettent ce "remodelage". Une prise en charge ostéopathique permet de traiter les pertes de mobilité du corps (et pas seulement des os du crâne) et notamment dans ce que l'on appelle le syndrome du bébé moulé, ces pertes de mobilité pouvant être à l'origine de la plagiocéphalie :
 
-> Les forces de tractions et/ou de compressions capables de créer une asymétrie crânienne sont absorbées et transmises dans le corps du nourrisson avant, pendant et/ou après la naissance prédisposant ainsi certains enfants à développer, entre autres, une plagiocéphalie. La spécificité de l'ostéopathie nous permet de traiter l'enfant dans sa globalité en remontant aux causes responsables des principaux symptômes et en libérant les dysfonctions de l'ensemble du corps par ordre de primarité. [^23]
+> Les forces de tractions et/ou de compressions capables de créer une asymétrie crânienne sont absorbées et transmises dans le corps du nourrisson avant, pendant et/ou après la naissance, prédisposant ainsi certains enfants à développer, entre autres, une plagiocéphalie. La spécificité de l'ostéopathie nous permet de traiter l'enfant dans sa globalité en remontant aux causes responsables des principaux symptômes et en libérant les dysfonctions de l'ensemble du corps par ordre de primarité. [^23]
 
-Le traitement ostéopathique ne s'arrête pas à la seule déformation visible du crâne, mais s'occupe de la globalité du corps du nourrisson et de l'asymétrie posturale dans son ensemble. Le traitement ostéopathique dans les premiers mois de vie améliore de façon significative les asymétries [^24] [^26] [^27]. Une étude conclus que :
+Le traitement ostéopathique s'occupe de la globalité du corps du nourrisson et de l'asymétrie posturale dans son ensemble. Le traitement ostéopathique dans les premiers mois de vie améliore de façon significative les asymétries [^24] [^26] [^27]. Une étude conclut que :
 
 > deux indications semblent raisonnables (pour le traitement ostéopathique) : les déformations fœtales sévères dès la naissance d'une part, celles qui s'aggravent au cours des premiers mois de la vie malgré la prise en charge classique d'autre part. [^25]
 
-### Casque
+Par ailleurs, le traitement ostéopathie complète le traitement de la pagiocéphalie positionelle lorsqu'une orthèse crânienne (voir ci-dessous) est mise en place : l'ostéopathe travaillera, entre autres, à améliorer la qualité des tissus et la mobilité de la base du crâne.
 
-Dans les cas les plus graves ou non améliorés par les traitements précédemment décrits, la thérapie par casque peut être envisagée [^20] [^22] [^30] [^34] [^40]. C'est un traitement orthopédique controversé [^29] [^34] voir déconseillé [^39] bien qu'il n'entrave pas la croissance du crâne [^32] [^35] et qu'il soit efficace [^29] [^30] [^33] [^34] [^35]. C'est un traitement cher, long et contraignant [^6] mais qui peut encore bénéficier aux enfants âgés de 12 mois [^29] même si les résultats sont plus modestes. Le traitement par casque est considéré comme à faible risque par certaines études, les complications importantes étant rares (irritations de la peau, escarres, érythème local, infection de la peau, abcès sous-cutané...) [^28] [^33] [^39] [^40] [^41].
+### Casque = orthèse crânienne
 
-Comme dans les autres traitements, plus la mise en place du casque se fait précocement et meilleur est le résultat :
+Dans les cas les plus graves ou non améliorés par les traitements précédemment décrits, la thérapie par casque (= orthèse crânienne) peut être envisagée [^20] [^22] [^30] [^34] [^40] dès 4,5 - 5 mois. Notez que maintenant, seuls les casques dits "dynamiques" sont proposés : le remodelage du crâne se fait grâce à la poussée de la croissance du cerveau sur les os de la voûte du crâne, le casque prenant appui sur les zones convexes (et laissant libre les zones aplaties).
+
+On trouve des informations contradictoires selon les études scientifiques :
+
+- ce traitement est controversé dans certaines études [^29] [^34] voir déconseillé [^39]
+- dans d'autres études, ce traitement est considéré comme à faible risque : les complications importantes étant rares (irritations de la peau, escarres, érythème local, infection de la peau, abcès sous-cutané...) [^28] [^33] [^39] [^40] [^41]
+- il n'entrave pas la croissance du crâne [^32] [^35]
+- il est efficace [^29] [^30] [^33] [^34] [^35].
+
+Une étude datant de 2015 [^47] et portant sur plus de 4000 patients montre "[...] Une correction complète a été réalisée chez 94,4% des patients traités par thérapie de casque en première intention et chez 96,1% de nourrissons ayant reçu un casque après un traitement conservateur échoué."
+
+C'est un traitement cher car non remboursé par la sécurité sociale, long et contraignant (le casque est porté 23h/24) [^6]. Ce traitement peut encore bénéficier aux enfants âgés de 12 mois [^29] même si les résultats sont plus modestes. Il faut savoir que l'âge limite de sa mise en place est de 18 mois.
+
+Comme dans les autres traitements, plus la mise en place du casque se fait précocement et meilleur sera le résultat :
 
 > Le traitement est particulièrement efficace quand il est débuté à 4 mois [...] pour les formes légères quand il est commencé avant 6 mois. [...] Des effets plus modestes sont observés lorsqu'il est utilisé après 8 mois. [^31]
 
@@ -156,7 +171,10 @@ Elle reste l'exception pour les formes majeures qui persistent après 18 mois. C
 
 > La correction chirurgicale de plagiocéphalie positionnelle est une procédure potentiellement mortelle qui doit être indiquée que dans les cas très graves après épuisement de toutes les autres méthodes non chirurgicales [...] [^41].
 
-Pour aller plus loin, vous pouvez consulter le blog [Plagiocéphalie, têtes plates et têtes bornées](http://plagiocephalie-moncombat.blogspot.fr/p/plagiocephalie-prevention-traitement.html).
+## Pour aller plus loin :
+
+- vous pouvez consulter le blog [Plagiocéphalie, têtes plates et têtes bornées](http://plagiocephalie-moncombat.blogspot.fr/p/plagiocephalie-prevention-traitement.html)
+- je conseille la lecture du livre "[Mon bébé n'aura pas la tête plate. Prévenir et traiter la plagiocéphalie](http://livre.fnac.com/a8194584/Bernadette-de-Gasquet-Mon-bebe-n-aura-pas-la-tete-plate)" de Bernadette de Gasquet et Thierry Marck.
 
 ## Sources
 
@@ -336,3 +354,7 @@ Pour aller plus loin, vous pouvez consulter le blog [Plagiocéphalie, têtes pla
 [^46]: Mawji A, Vollman AR, Hatfield J, McNeil DA, Sauvé R.
        [The incidence of positional plagiocephaly: a cohort study](http://www.ncbi.nlm.nih.gov/pubmed/23837184).
        Pediatrics (2013) Vol 132, N°2 - p 298-304
+
+[^47]: Steinberg JP, Rawlani R, Humphries LS, Rawlani V, Vicari FA.
+       [Effectiveness of conservative therapy and helmet therapy for positional cranial deformation](http://insights.ovid.com/pubmed?pmid=25415272).
+       Plastic and Reconstructive Surgery (2015) Vol 135, n°3 - p 833-842
