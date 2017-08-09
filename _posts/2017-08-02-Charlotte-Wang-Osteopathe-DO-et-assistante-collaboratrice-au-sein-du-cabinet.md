@@ -24,7 +24,7 @@ Outre ses nombreuses expériences professionnelles, tant en cabinet que lors d'�
   - intervention hebdomadaire en entreprise (Paris 15e)
   - remplacements multiples en cabinet libéraux (Paris et provinces), dont un cabinet spécialisé dans la prise en charge des nourrissons et rattaché à la [maternité de Laon](http://maternite.ch-laon.fr/)
   - consultations d'ostéopathie à domicile (Paris)
-- Depuis 2014 : enseignante d’anatomie – EPSS & IFSI Saint Joseph (Paris 14e)
+- Depuis 2014 : enseignante d'anatomie – EPSS & IFSI Saint Joseph (Paris 14e)
 - De 2012 à 2014 : consultations ostéopathiques au [Centre Ostéopathique des Halles](http://www.centre-osteopathique-des-halles.fr/) ainsi qu'au [PUC](http://puc.paris/) (Paris Université Clubs)
 - Suivis de sportifs et interventions lors d'évènements, compétitions et tournois :
   - 2014 : championnat de France de natation (Paris 20e)

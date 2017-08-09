@@ -32,7 +32,7 @@ Pour vous proposer la meilleure des prises en charge, je continue de me former r
 
 ### 2016
 
-- UFOF formation : "[Intégration sensori-Motrice Primordiale : l’alphabet du mouvement](https://osteofrance.com/formation/archives/2016/09/integration-sensori-motrice-primordiale)" avec Paul Landon
+- UFOF formation : "[Intégration sensori-Motrice Primordiale : l'alphabet du mouvement](https://osteofrance.com/formation/archives/2016/09/integration-sensori-motrice-primordiale)" avec Paul Landon
 - Conférences de l'[AO](http://academie-osteopathie.fr/) : "Une vision historique, phylosophique et ostéopathique du thème fascia" et "Logique thérapeutique expliquée par la paléontologie"
 - Conférences UFOF : [Approche pluridisciplinaire autour de l'ostéopathie - 2016](https://osteofrance.com/assets/pdf/osteofrance_congres_2016.pdf)
 
