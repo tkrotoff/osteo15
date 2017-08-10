@@ -12,10 +12,9 @@ permalink: /tags/
   See Add sort_natural to jekyll/filters.rb https://github.com/jekyll/jekyll/issues/6290
 -->
 
-{% assign tags_sorted = page.all_tags | sort_natural %}
-
 <ul class="tag-box">
-  {% for tag in tags_sorted %}
+  {% assign popular_tags = page.all_tags | sort_tags_by_size %}
+  {% for tag in popular_tags %}
     {% assign word = tag | first %}
     {% assign pages = tag | last %}
     <li>
@@ -24,7 +23,8 @@ permalink: /tags/
   {% endfor %}
 </ul>
 
-{% for tag in tags_sorted %}
+{% assign alphabetical_tags = page.all_tags | sort_natural %}
+{% for tag in alphabetical_tags %}
   {% assign word = tag | first %}
   {% assign pages = tag | last %}
 

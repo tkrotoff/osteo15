@@ -17,6 +17,13 @@ module Jekyll
       #input.sort_by { |hash| hash.first.downcase }
     end
 
+    def sort_tags_by_size(tags)
+      tags.sort_by { |tag| tag.last.length }.reverse
+
+      # Other solution:
+      #tags.sort { |tag1, tag2| tag2.last.length <=> tag1.last.length }
+    end
+
     def end_with_dots(input)
       text = input.to_s.dup
 
