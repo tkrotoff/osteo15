@@ -8,15 +8,18 @@ permalink: /tags/
 <!--
   See https://github.com/kleinfreund/kleinfreund.github.io/blob/master/_layouts/tags.html
   See https://github.com/LanyonM/lanyonm.github.io/blob/master/tags.html
+  See https://mindthecode.com/sorting-tags-in-jekyll/
+  See Add sort_natural to jekyll/filters.rb https://github.com/jekyll/jekyll/issues/6290
 -->
 
-{% assign tags_sorted = page.all_tags | sort_casecmp %}
+{% assign tags_sorted = page.all_tags | sort_natural %}
 
 <ul class="tag-box">
   {% for tag in tags_sorted %}
     {% assign word = tag | first %}
+    {% assign pages = tag | last %}
     <li>
-      <a href="#{{ word }}">{{ word }} <span>{{ page.all_tags[word].size }}</span></a>
+      <a href="#{{ word }}">{{ word }} <span>{{ pages | size }}</span></a>
     </li>
   {% endfor %}
 </ul>
