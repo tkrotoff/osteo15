@@ -105,73 +105,39 @@ task :checkstyle do |t|
     check_filename(file)
   end
 
-  # Tabs instead of spaces
-  check(/\t/, all)
-
-  # Windows line separator
-  check(/\r\n/, all)
-
-  # Trailing spaces
-  check(/ +$/, all)
-
-  check('’', html_md)
-  check('“', html_md)
-  check('”', html_md)
-  check('«', html_md)
-  check('»', html_md)
-  check('…', html_md)
-
-  # Double spaces
-  check(/\w  \w/, html_md)
-
-  # ',...', ', ...'
-  check(/,[.][.][.]/, html_md)
-  check(/, [.][.][.]/, html_md)
-
-  check(' etc.', html_md)
-
-  # 'bonjour ,'
-  check(/\w ,\w/, html_md)
-
-  # 'bonjour;', ';bonjour'
-  #check(/\w;/, md)
-  check(/;\w/, md)
-
-  check(' PhD', html_md)
-  check(' MSc', html_md)
-
-  # '##bonjour', 'bonjour##', 'bonjour ##'
-  check(/##+\w/, md)
-  check(/\w##+/, md)
-  check(/\w ##+/, md)
-
-  # 'android', 'iphone'
-  #check('android', md)
-  check('iphone', md)
-
-  # '{%"' => '{% "'
-  # '"%}' => '" %}'
-  check('{%"', md)
-  check('"%}', md)
-
-  # 'alt= "' => 'alt="'
-  # 'src= "' => 'src="'
-  # 'caption= "' => 'caption="'
-  check('alt= "', html_md)
-  check('src= "', html_md)
-  check('caption= "', html_md)
-
-  # '] (' => ']('
-  check(/\[[^\^\]]+\] \(/, md)
-
-  # '"[^2]' => '" [^2]'
-  check(/\S\[\^\w+\]/, md)
-
-  # '[^2][^3]' => '[^2] [^3]'
-  check(/\[\^\w+\]\[\^\w+\]/, md)
-
-  # Sauts de ligne incohérents
-  check_global(/[^\-\-\-].*?\.\n[[:word:]].*?[^\-\-\-]/, md)
+  check(/\t/, all, 'tab instead of space')
+  check(/\r\n/, all, 'Windows line separator')
+  check(/ +$/, all, 'trailing space')
+  check('’', html_md, "’ => '")
+  check('“', html_md, '“ => "')
+  check('”', html_md, '” => "')
+  check('«', html_md, '« => "', ['2016-06-23-Notre-part-animale.md'])
+  check('»', html_md, '» => "', ['2016-06-23-Notre-part-animale.md'])
+  check('…', html_md, '… => ...')
+  check(/\w  \w/, html_md, 'double space')
+  check(/,[.][.][.]/, html_md, ',... => ...')
+  check(/, [.][.][.]/, html_md, ', ... => ...')
+  check(' etc.', html_md, ' etc. => ...')
+  check(/\w ,\w/, html_md, 'bonjour , => bonjour,')
+  check(/(?![^\[]*\])\w;/, md, 'bonjour; => bonjour ;', ['blogger-redirections.md'])
+  check(/(?![^\[]*\]);\w/, md, ';bonjour => ; bonjour')
+  check(' PhD', html_md, ' PhD')
+  check(' MSc', html_md, ' MSc')
+  check(/##+\w/, md, '##bonjour => ## bonjour')
+  check(/\w##+/, md, 'bonjour## => bonjour ##')
+  check(/\w ##+/, md, 'bonjour ## => bonjour')
+  check(/(?![^\(]*\))android/, md, 'android => Android')
+  check('iphone', md, 'iphone => iPhone')
+  check('{%"', md, '{%" => {% "')
+  check('"%}', md, '"%} => " %}')
+  check('href= "', html_md, 'href= " => href="')
+  check('alt= "', html_md, 'alt= " => alt="')
+  check('src= "', html_md, 'src= " => src="')
+  check('caption= "', html_md, 'caption= " => caption="')
+  check(/\[[^\^\]]+\] \(/, md, '] ( => ](')
+  check(/\S\[\^\w+\]/, md, '"[^2] => " [^2]')
+  check(/\[\^\w+\]\[\^\w+\]/, md, '[^2][^3] => [^2] [^3]')
+  check_global(/[^\-\-\-].*?\.\n[[:word:]].*?[^\-\-\-]/, md, 'saut de ligne incohérent')
 end
 
 def find_files(root, subdirs, extensions, reject_pattern = nil)
@@ -189,26 +155,24 @@ def find_files(root, subdirs, extensions, reject_pattern = nil)
   return files
 end
 
-def check(pattern, files)
-  #puts "Check for #{pattern.inspect}"
-
+def check(pattern, files, description, ignore = [])
   files.each do |file|
-    #puts "#{file}"
-    File.foreach(file).with_index do |line, line_num|
-      line.match(pattern) do |match|
-        puts "#{file}:#{line_num+1} match: '#{match}'"
+    if !ignore.include? File.basename(file)
+      File.foreach(file).with_index do |line, line_num|
+        line.match(pattern) do |match|
+          puts "#{File.basename(file)}:#{line_num+1}, #{description}, match: '#{match}'"
+        end
       end
     end
   end
 end
 
-def check_global(pattern, files)
-  #puts "Check for #{pattern.inspect}"
-
+def check_global(pattern, files, description, ignore = [])
   files.each do |file|
-    #puts "#{file}"
-    File.read(file).scan(pattern) do |match|
-      puts "#{file} match: '#{match}'"
+    if !ignore.include? file
+      File.read(file).scan(pattern) do |match|
+        puts "#{File.basename(file)}, #{description}, match: '#{match}'"
+      end
     end
   end
 end
