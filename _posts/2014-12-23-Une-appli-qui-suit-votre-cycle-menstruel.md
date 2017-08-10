@@ -6,8 +6,7 @@ tags: [appli]
 last_modified_at: '2014-12-23'
 ---
 
-On entend souvent parler de santé connectée et il existe pléthore de nouvelles applications pour suivre notre sommeil, nos performances sportives, nos pas dans la journée, notre alimentation ou encore notre poids...
-Voici une application pour smartphone gratuite, utile et bien conçue : [Clue](http://www.helloclue.com/fr.html).
+On entend souvent parler de santé connectée et il existe pléthore de nouvelles applications pour suivre notre sommeil, nos performances sportives, nos pas dans la journée, notre alimentation ou encore notre poids... Voici une application pour smartphone gratuite, utile et bien conçue : [Clue](http://www.helloclue.com/fr.html).
 
 ![Clue iPhone et Android](/assets/2014-12-23/Clue-iPhone-Android.png)
 

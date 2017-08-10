@@ -23,8 +23,7 @@ Au delà de la chute avec fracture, une trop grande sollicitation du corps par r
 
 Vous trouverez plein d'informations sur les sports d'hiver sur [le site de l'IRBMS (Institut de Recherche du Bien-être, de la Médecine et du Sport Santé)](http://www.irbms.com/sport/sports-hiver/).
 
-Pour rappel, [les courbatures musculaires](https://fr.wikipedia.org/wiki/Courbature) après un effort n'ont pas pour origine l'acidité produite par le muscle pendant l'effort (cette acidité disparait 1 heure environ après l'effort) mais les microtraumatismes du muscle (micro déchirures des muscles et rupture des capillaires sanguins) quand les capacités du muscle ont été dépassées.
-Les étirements pour une reprise sportive ne peuvent donc pas être conseillés : après l'effort si on étire les muscles alors on étire aussi les micro déchirures.
+Pour rappel, [les courbatures musculaires](https://fr.wikipedia.org/wiki/Courbature) après un effort n'ont pas pour origine l'acidité produite par le muscle pendant l'effort (cette acidité disparait 1 heure environ après l'effort) mais les microtraumatismes du muscle (micro déchirures des muscles et rupture des capillaires sanguins) quand les capacités du muscle ont été dépassées. Les étirements pour une reprise sportive ne peuvent donc pas être conseillés : après l'effort si on étire les muscles alors on étire aussi les micro déchirures.
 
 ## Sources
 

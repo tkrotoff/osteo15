@@ -5,9 +5,7 @@ tags: [ostéopathie]
 last_modified_at: '2015-02-19'
 ---
 
-L'ostéopathie est une médecine manuelle qui s'intéresse à comprendre l'organisation globale du patient, à diagnostiquer et traiter les dysfonctions des tissus du corps. C'est une thérapie qui est exclusivement palpatoire : elle n'utilise pas d'outil.
-La prise en charge ostéopathique a pour but de lever les dysfonctions de votre corps et à prévenir leurs apparitions : elle permet alors à votre corps de se réguler de lui-même et de retrouver toute son harmonie.
-L'ostéopathie s'adresse à tout le monde : du nourrisson au sénior, du sédentaire au sportif de haut niveau...  Par ses techniques multiples, elle s'adapte à chacun.
+L'ostéopathie est une médecine manuelle qui s'intéresse à comprendre l'organisation globale du patient, à diagnostiquer et traiter les dysfonctions des tissus du corps. C'est une thérapie qui est exclusivement palpatoire : elle n'utilise pas d'outil. La prise en charge ostéopathique a pour but de lever les dysfonctions de votre corps et à prévenir leurs apparitions : elle permet alors à votre corps de se réguler de lui-même et de retrouver toute son harmonie. L'ostéopathie s'adresse à tout le monde : du nourrisson au sénior, du sédentaire au sportif de haut niveau... Par ses techniques multiples, elle s'adapte à chacun.
 
 ## Les principes
 

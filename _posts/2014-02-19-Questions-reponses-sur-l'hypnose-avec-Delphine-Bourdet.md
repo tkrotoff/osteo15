@@ -55,9 +55,7 @@ Il y a des personnes plus réceptives que d'autres aux suggestions hypnotiques, 
 
 La sophrologie est très proche de l'état d'hypnose et s'inspire d'ailleurs de cette dernière. Le vocabulaire est différent. Par exemple, en hypnose on appelle le fait de partir en état d'hypnose une transe, tandis qu'en sophrologie on appelle cela un état sophro-liminal. Mais c'est un état de conscience modifié assez similaire.
 
-La sophrologie propose une partie appelée relaxation dynamique (mouvements doux issus du yoga), ainsi que des exercices respiratoires à refaire chez soi tandis que l'hypnose ne contient pas d'exercices à refaire chez soi, il n'y a pas de notion d'entrainement.
-L'hypnose offre de nombreuses métaphores, des techniques de confusion mentale qui vont permettre aux personnes d'aller parfois plus loin dans leur transe et accéder ainsi plus rapidement à leurs ressources.
-Mais la force de la sophrologie réside en sa simplicité et la possibilité d'apprendre à se détendre. C'est très réconfortant, très rassurant de savoir comment faire, comment se débrouiller seul.
+La sophrologie propose une partie appelée relaxation dynamique (mouvements doux issus du yoga), ainsi que des exercices respiratoires à refaire chez soi tandis que l'hypnose ne contient pas d'exercices à refaire chez soi, il n'y a pas de notion d'entrainement. L'hypnose offre de nombreuses métaphores, des techniques de confusion mentale qui vont permettre aux personnes d'aller parfois plus loin dans leur transe et accéder ainsi plus rapidement à leurs ressources. Mais la force de la sophrologie réside en sa simplicité et la possibilité d'apprendre à se détendre. C'est très réconfortant, très rassurant de savoir comment faire, comment se débrouiller seul.
 
 ## Que penser des séances d'hypnose sur CD ?
 

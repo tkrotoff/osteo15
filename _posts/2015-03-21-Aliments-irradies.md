@@ -8,10 +8,9 @@ last_modified_at: '2015-03-21'
 
 Pour améliorer la sécurité sanitaire des denrées alimentaires, certains produits sont exposés à des rayons ionisants afin de réduire la quantité de micro-organismes. Cette méthode détruit les molécules d'[ADN](http://fr.wikipedia.org/wiki/Acide_d%C3%A9soxyribonucl%C3%A9ique) et d'[ARN](http://fr.wikipedia.org/wiki/Acide_ribonucl%C3%A9ique) des cellules contenues dans le produit et donc des parasites pouvant s'y trouver, des micro-organismes comme les levures ou les bactéries (dont les bactéries pathogènes comme [les salmonelles](http://fr.wikipedia.org/wiki/Salmonella) qui peuvent être mortelles), mais aussi des cellules vivantes du produits en lui-même. Ainsi, les graines ionisées et bulbes ne peuvent plus germer. Cette méthode à l'avantage d'augmenter considérablement la durée de conservation des aliments mais diminue leur teneur en micronutriments (comme les vitamines E, A et K ainsi que la thiamine) et d'augmenter les radicaux libres. [^3] [^4]
 
-{% include figure.html src="/assets/2015-03-21/Radura-logo.png" caption="Logo indiquant que le produit a été irradié (ionisé). La loi oblige à l'étiquetage de ce traitement sur les aliments et on peut trouver les mentions suivantes : \"traité par rayonnements ionisants\" ou \"traité par ionisation\". Dans la pratique, ce logo n'est jamais utilisé en France." alt="Logo des aliments irradiés" %}
+{% include figure.html src="/assets/2015-03-21/Radura-logo.png" caption="Logo indiquant que le produit a été irradié (ionisé). La loi oblige à l'étiquetage de ce traitement sur les aliments et on peut trouver les mentions suivantes : \"traité par rayonnements ionisants\" ou \"traité par ionisation\". Dans la pratique, ce logo n'est jamais utilisé en France." %}
 
-Cependant, des études ont pointé du doigt les effets probables sur la santé et notamment cancérigène [^2].
-La question qui se pose est toujours celle de la balance bénéfice - risque. Le risque de l'utilisation de la ionisation est-il plus faible que celui de consommer des produits non ionisés par la population ? Pour cela, il faudrait que de réels contrôles sur la quantité d'irradiation subite par les produits soient faits, pour ne pas risquer un scandale comme il y en a eu sur les croquettes pour chats [^6] en Australie (provoquant de graves paralysies). Les seuls contrôles existants sont actuellement sur le respect de l'étiquetage...
+Cependant, des études ont pointé du doigt les effets probables sur la santé et notamment cancérigène [^2]. La question qui se pose est toujours celle de la balance bénéfice - risque. Le risque de l'utilisation de la ionisation est-il plus faible que celui de consommer des produits non ionisés par la population ? Pour cela, il faudrait que de réels contrôles sur la quantité d'irradiation subite par les produits soient faits, pour ne pas risquer un scandale comme il y en a eu sur les croquettes pour chats [^6] en Australie (provoquant de graves paralysies). Les seuls contrôles existants sont actuellement sur le respect de l'étiquetage...
 
 > (...) aucune technique ne permet d'estimer la dose d'irradiation et la date. C'est une aberration que d'autoriser une technique, l'irradiation, sans même savoir s'il existe un moyen de contrôler a posteriori. [^5]
 
@@ -26,7 +25,7 @@ Si vous avez raté le documentaire ["Aliments irradiés, mauvaises ondes dans no
 - Dimanche 22 mars à 16h10
 - Jeudi 2 avril à 16h35
 
-{% include figure.html src="/assets/2015-03-21/Aliments-irradies-mauvaises-ondes-dans-nos-assiettes.jpg" caption='Affiche du documentation "Aliments irradiés, mauvaises ondes dans nos assiettes ?"' alt="Aliments irradiés, mauvaises ondes dans nos assiettes ?" %}
+{% include figure.html src="/assets/2015-03-21/Aliments-irradies-mauvaises-ondes-dans-nos-assiettes.jpg" caption='Affiche du documentation "Aliments irradiés, mauvaises ondes dans nos assiettes ?"' %}
 
 Résumé :
 

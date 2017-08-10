@@ -8,9 +8,7 @@ last_modified_at: '2016-02-22'
 
 On entend souvent parler d'ergonomie, de prévention des douleurs ainsi que des [TMS (troubles musculo-squelettiques)]({% post_url 2014-02-11-Prevention-et-gestion-des-troubles-musculosquelettiques-(TMS) %}). Pourtant, peu de personnes savent réellement comment agencer leur poste de travail pour minimiser l'impact des mauvaises positions sur leur corps et leur santé. Je constate que beaucoup de mes patients présentent des pertes de mobilité liées aux mauvaises positions : le corps s'adapte au poste de travail par des positions statiques non physiologiques. Ces adaptations, maintenues trop longtemps, se fixent et créent de nouvelles pertes de mobilités et tensions que le corps devra à son tour compenser : c'est un cercle vicieux.
 
-L'ostéopathie pourra vous aider, mais si vous ne changez pas vos habitudes et postures ; ces pertes de mobilités et tensions dans le corps reviendront inévitablement...
-Je vous propose ici un récapitulatif des points importants pour améliorer votre ergonomie au travail.
-N'hésitez pas à faire intervenir un ergonome dans vos locaux ou demander un changement de matériel si nécessaire.
+L'ostéopathie pourra vous aider, mais si vous ne changez pas vos habitudes et postures ; ces pertes de mobilités et tensions dans le corps reviendront inévitablement... Je vous propose ici un récapitulatif des points importants pour améliorer votre ergonomie au travail. N'hésitez pas à faire intervenir un ergonome dans vos locaux ou demander un changement de matériel si nécessaire.
 
 ## Position
 

@@ -67,25 +67,21 @@ Or, avoir un résultat comparable aux AINS ne veut pas dire que le traitement os
 
 Concernant l'inflammation, une étude [^12] tout à fait intéressante a évalué les concentrations de [TNF-α ("Tumor Necrosis Factor")](https://fr.wikipedia.org/wiki/Facteur_de_n%C3%A9crose_tumorale) chez les patients souffrant de lombalgie chronique. Cette étude a trouvé une diminution de la concentration de TNF-α chez les patients souffrants de lombalgie ayant eu un traitement ostéopathique.
 
-Or ce TNF-α est une molécule (de la famille des [interleukines](https://fr.wikipedia.org/wiki/Interleukine)s) produite par le corps au cours de l'inflammation.
-Une étude de 2007 [^13] montre que les techniques indirectes ostéopathiques inversent les effets inflammatoire dans les cellules par l'intermédiaire des interleukines et que ce mécanisme serait peut-être l'un des facteurs à l'origine de l'effet antalgique (= anti-douleur) de l'ostéopathie.
+Or ce TNF-α est une molécule (de la famille des [interleukines](https://fr.wikipedia.org/wiki/Interleukines) produite par le corps au cours de l'inflammation. Une étude de 2007 [^13] montre que les techniques indirectes ostéopathiques inversent les effets inflammatoire dans les cellules par l'intermédiaire des interleukines et que ce mécanisme serait peut-être l'un des facteurs à l'origine de l'effet antalgique (= anti-douleur) de l'ostéopathie.
 
 Ainsi, on pourrait penser que l'ostéopathie diminue l'inflammation dans le cadre des lombalgies...
 
-Cependant, une étude in vitro [^14] avance l'hypothèse que [les dysfonctions somatiques](http://www.osteopathie-france.net/formation-continue/1016-comeaux) peuvent provoquer la sécrétion de cytokines inflammatoires par les [fibroblastes](https://fr.wikipedia.org/wiki/Fibroblaste) : en levant les dysfonctions somatiques par un traitement ostéopathique, on diminue alors les contraintes que subissent ces
-cellules et donc leur sécrétion de cytokines.
+Cependant, une étude in vitro [^14] avance l'hypothèse que [les dysfonctions somatiques](http://www.osteopathie-france.net/formation-continue/1016-comeaux) peuvent provoquer la sécrétion de cytokines inflammatoires par les [fibroblastes](https://fr.wikipedia.org/wiki/Fibroblaste) : en levant les dysfonctions somatiques par un traitement ostéopathique, on diminue alors les contraintes que subissent ces cellules et donc leur sécrétion de cytokines.
 
 Il faut néanmoins savoir que l'ostéopathie ne traite pas l'inflammation et ne se substitut pas à traitement anti-inflammatoire : l'ostéopathe ne prend pas en charge un patient en phase aiguë inflammatoire (poussée inflammatoire d'[arthrose](http://www.inserm.fr/thematiques/circulation-metabolisme-nutrition/dossiers-d-information/arthrose), arthrite, capsulite rétractile dans sa "phase chaude"...) car le traitement est alors médical. Cependant, l'ostéopathie peut aider (en dehors des périodes d'inflammation), en travaillant sur les causes de l'inflammation lorsque celle-ci a une origine fonctionnelle (par exemple : une tendinite par contrainte mécanique du tendon...).
 
 ## Effets psychotrope de l'ostéopathie ?
 
-Une étude [^15] à chercher l'origine des effets psychotropes du traitement ostéopathique (anxiolytique, analgésique, sédation) et émet l'hypothèse que cet effet provient des cannabinoïdes endogènes (produits par le corps et qui activent les récepteurs du même nom dans le cerveau).
-La somatisation, le stress et les angoisses peuvent avoir un impact conséquent sur les douleurs lombaires. Ainsi, il est intéressant de voir que l'ostéopathie peut avoir une influence sur ces ressentis : qui ne s'est pas senti "au pays des bisounours" après une séance ?
+Une étude [^15] à chercher l'origine des effets psychotropes du traitement ostéopathique (anxiolytique, analgésique, sédation) et émet l'hypothèse que cet effet provient des cannabinoïdes endogènes (produits par le corps et qui activent les récepteurs du même nom dans le cerveau). La somatisation, le stress et les angoisses peuvent avoir un impact conséquent sur les douleurs lombaires. Ainsi, il est intéressant de voir que l'ostéopathie peut avoir une influence sur ces ressentis : qui ne s'est pas senti "au pays des bisounours" après une séance ?
 
 ![Paracétamol vs ostéopathie](/assets/2014-08-08/Paracetamol-vs-osteopathie.png)
 
-Je pense que l'ostéopathie est un traitement de choix pour les douleurs lombaires communes. L'ostéopathie, par des manipulations douces sur le corps, doit redonner de la mobilité, mais aussi et surtout permettre la production de composés endogènes afin de favoriser l'[homéostasie](https://fr.wikipedia.org/wiki/Hom%C3%A9ostasie) et la [guérison](https://fr.wikipedia.org/wiki/Gu%C3%A9rison) du corps comme le pensait
-[Andrew Taylor Still](http://www.osteopathie-france.net/associations/956-bio-still). Comme nous venons de le constater, l'action de l'ostéopathie ne s'arrête pas à ses seuls effets mécaniques.
+Je pense que l'ostéopathie est un traitement de choix pour les douleurs lombaires communes. L'ostéopathie, par des manipulations douces sur le corps, doit redonner de la mobilité, mais aussi et surtout permettre la production de composés endogènes afin de favoriser l'[homéostasie](https://fr.wikipedia.org/wiki/Hom%C3%A9ostasie) et la [guérison](https://fr.wikipedia.org/wiki/Gu%C3%A9rison) du corps comme le pensait [Andrew Taylor Still](http://www.osteopathie-france.net/associations/956-bio-still). Comme nous venons de le constater, l'action de l'ostéopathie ne s'arrête pas à ses seuls effets mécaniques.
 
 ## Sources
 

@@ -32,9 +32,7 @@ Les étirements devraient faire partie intégrante d'un programme sportif, que c
 - avant l'activité sportive : uniquement si celle-ci nécessite une grande amplitude articulaire et de la souplesse comme la danse par exemple
 - après l'activité sportive : uniquement s'il n'y a pas de risque de courbature car les étirements permettent une meilleure relaxation musculaire.
 
-En effet, les courbatures sont dues à des microtraumatismes des muscles et non pas à l'acide lactique qui lui se forme quand le muscle fonctionne en anaérobie c'est-à-dire sans oxygène.
-Le métabolisme anaérobie produit de l'acide lactique que l'on a longtemps considéré comme à l'origine des courbatures.
-Il n'en est rien, car l'acide lactique est éliminé au bout d'une heure alors que les courbatures apparaissent 24 à 48 heures après l'effort.
+En effet, les courbatures sont dues à des microtraumatismes des muscles et non pas à l'acide lactique qui lui se forme quand le muscle fonctionne en anaérobie c'est-à-dire sans oxygène. Le métabolisme anaérobie produit de l'acide lactique que l'on a longtemps considéré comme à l'origine des courbatures. Il n'en est rien, car l'acide lactique est éliminé au bout d'une heure alors que les courbatures apparaissent 24 à 48 heures après l'effort.
 
 Ainsi, c'est un non sens physiologique que d'étirer un muscle ayant des microtraumatismes : au lieu d'augmenter la vascularisation du muscle on la diminue et en plus on aggrave les microtraumatismes.
 

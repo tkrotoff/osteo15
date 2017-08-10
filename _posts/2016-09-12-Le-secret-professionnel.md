@@ -9,7 +9,7 @@ Suite à la parution d'un [décret le 20 juillet 2016](https://www.legifrance.go
 
 > Art. R. 1110-1
 Les professionnels participant à la prise en charge d'une même personne peuvent, en application de l'article L. 1110-4, échanger ou partager des informations relatives à la personne prise en charge dans la double limite :
-1) des seules informations strictement nécessaires à la coordination ou à la continuité des soins, à la prévention, ou au suivi médico-social et social de ladite personne;
+1) des seules informations strictement nécessaires à la coordination ou à la continuité des soins, à la prévention, ou au suivi médico-social et social de ladite personne ;
 2) du périmètre de leurs missions.
 
 Le cadre juridique précise dans quelles conditions les informations peuvent être échangées et partagées : l'ostéopathe doit informer le patient "*de la nature des informations devant faire l'objet de l'échange*" ainsi que de "*l'identité du destinataire et de la catégorie dont il relève ou de sa qualité au sein d'une structure précisément définie*".

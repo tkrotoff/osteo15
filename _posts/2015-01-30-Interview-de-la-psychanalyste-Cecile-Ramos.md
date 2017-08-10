@@ -9,13 +9,11 @@ Il y a peu, j'ai rencontré Cécile Ramos afin d'échanger sur nos expériences 
 
 ## Quel a été votre parcours et comment devient-on psychanalyste ?
 
-J'ai fait des études de philosophie puis de Lettres modernes. Je suis d'abord devenue professeur puis psychanalyste. Dans ma pratique, je m'intéresse plus précisément à la question du nom propre, à la difficulté pour certains sujets de parler en leur nom.
-La formation du psychanalyste est à la fois théorique et pratique. En effet, il faut tout d'abord avoir été analysé(e) pendant plusieurs années : c'est une condition nécessaire mais non suffisante pour devenir psychanalyste. Ensuite, le futur analyste travaille sous le contrôle d'un analyste confirmé : c'est ce que l'on appelle une analyse didactique. Parallèlement, il devra étudier les textes fondateurs de la psychanalyse afin d'acquérir une connaissance clinique.
+J'ai fait des études de philosophie puis de Lettres modernes. Je suis d'abord devenue professeur puis psychanalyste. Dans ma pratique, je m'intéresse plus précisément à la question du nom propre, à la difficulté pour certains sujets de parler en leur nom. La formation du psychanalyste est à la fois théorique et pratique. En effet, il faut tout d'abord avoir été analysé(e) pendant plusieurs années : c'est une condition nécessaire mais non suffisante pour devenir psychanalyste. Ensuite, le futur analyste travaille sous le contrôle d'un analyste confirmé : c'est ce que l'on appelle une analyse didactique. Parallèlement, il devra étudier les textes fondateurs de la psychanalyse afin d'acquérir une connaissance clinique.
 
 ## Qu'est-ce que la psychanalyse ?
 
-La psychanalyse a été inventée par Freud à la fin du XIXe siècle. Il a découvert, grâce à ses premières patientes, l'existence de l'inconscient. Il comprend que certains contenus psychiques ne sont accessibles à la conscience qu'une fois les résistances surmontées : le sujet (= le patient) n'est donc pas seulement constitué d'une conscience qui lui permettrait d'être transparent à lui-même, mais il est au contraire divisé.
-Freud utilisera d'abord l'hypnose qu'il abandonnera rapidement pour mettre en place une pratique fondée sur la parole et l'écoute.
+La psychanalyse a été inventée par Freud à la fin du XIXe siècle. Il a découvert, grâce à ses premières patientes, l'existence de l'inconscient. Il comprend que certains contenus psychiques ne sont accessibles à la conscience qu'une fois les résistances surmontées : le sujet (= le patient) n'est donc pas seulement constitué d'une conscience qui lui permettrait d'être transparent à lui-même, mais il est au contraire divisé. Freud utilisera d'abord l'hypnose qu'il abandonnera rapidement pour mettre en place une pratique fondée sur la parole et l'écoute.
 
 ### Le cadre psychanalytique créé par Freud reste valable aujourd'hui
 
@@ -27,8 +25,7 @@ Freud utilisera d'abord l'hypnose qu'il abandonnera rapidement pour mettre en pl
 
 L'analyste écoute son patient avec bienveillance. Cette idée me semble essentielle, car il ne s'agit jamais de porter un jugement ou de savoir mieux que le patient comment il doit se comporter. L'expérience personnelle du divan invite ainsi à l'humilité.
 
-Le psychanalyste travaille à partir des rêves, des lapsus (un mot pour un autre), des actes manqués (envoyer une lettre à un mauvais destinataire par exemple), des oublis (oublier l'heure de la séance par exemple), des symptômes ou troubles psychosomatiques (eczéma...), des associations de mots... Il tente de dénouer ce qui a été noué dans la parole par un travail d'interprétation.
-La séance d'analyse est donc un espace d'expression et d'écoute où il est possible de tout dire, de tout exprimer, de pleurer, de se taire...
+Le psychanalyste travaille à partir des rêves, des lapsus (un mot pour un autre), des actes manqués (envoyer une lettre à un mauvais destinataire par exemple), des oublis (oublier l'heure de la séance par exemple), des symptômes ou troubles psychosomatiques (eczéma...), des associations de mots... Il tente de dénouer ce qui a été noué dans la parole par un travail d'interprétation. La séance d'analyse est donc un espace d'expression et d'écoute où il est possible de tout dire, de tout exprimer, de pleurer, de se taire...
 
 ## Quelles sont les différences avec les autres thérapies ?
 
@@ -44,8 +41,7 @@ Plusieurs points :
 
 ## Comment se déroule une séance d'analyse ?
 
-Lors des premiers entretiens, on détermine quelle est la demande du patient.
-Il faut savoir que le travail peut se dérouler en face à face (le travail est alors proche d'une psychothérapie) ou sur le divan ; le premier dispositif pouvant conduire au second (mais pas nécessairement).
+Lors des premiers entretiens, on détermine quelle est la demande du patient. Il faut savoir que le travail peut se dérouler en face à face (le travail est alors proche d'une psychothérapie) ou sur le divan ; le premier dispositif pouvant conduire au second (mais pas nécessairement).
 
 Une séance dure en moyenne une demi-heure et la fréquence des séances est variable en fonction des patients (2 ou 3 séances par semaine, mais ce peut être une séance par semaine voire moins) de même que les tarifs. Encore une fois, il n'y a pas de règles figées. Il est important que certains patients (les personnes traversant une période de chômage ou vivant une séparation douloureuse, les étudiants, par exemple) puissent avoir accès à une analyse ou à défaut à un soutien psychique.
 
@@ -73,8 +69,7 @@ Par ailleurs, ce n'est pas un âge où on se livre facilement à une introspecti
 
 L'adolescence est une période difficile (importance de la sexualité, indépendance par rapport au milieu familial...) et beaucoup de jeunes gens ploient sous le silence et la peur de mettre des mots sur ce qu'ils vivent parfois comme une anormalité (l'homosexualité par exemple). Ils ont parfois beaucoup de difficultés pour trouver des repères, pour ne pas se sentir obligés de céder aux demandes des autres. En venant me consulter, ils ne sont plus obligés de jouer un rôle. La parole, les dessins, les silences, les larmes..., adressés à une tierce personne (l'analyste), vont les amener à soulager des douleurs cachées, lever des inhibitions et savoir donner du sens à leur vie.
 
-Parfois, les parents ne parviennent pas à trouver un moyen pour "parler vrai" à leurs enfants et ils peuvent être eux-mêmes écrasés par un secret ou une histoire familiale douloureuse... En s'adressant à un analyste, l'adolescent échappe à une relation duelle qui peut être mortifère pour lui et sa famille.
-Dans tous les cas, il ne s'agit pas de culpabiliser les parents, quelle que soit l'histoire familiale ou les éventuelles maladresses qu'ils auraient pu ou cru commettre.
+Parfois, les parents ne parviennent pas à trouver un moyen pour "parler vrai" à leurs enfants et ils peuvent être eux-mêmes écrasés par un secret ou une histoire familiale douloureuse... En s'adressant à un analyste, l'adolescent échappe à une relation duelle qui peut être mortifère pour lui et sa famille. Dans tous les cas, il ne s'agit pas de culpabiliser les parents, quelle que soit l'histoire familiale ou les éventuelles maladresses qu'ils auraient pu ou cru commettre.
 
 Il est à noter que le travail avec des adolescents se fait la plupart du temps en face à face.
 
