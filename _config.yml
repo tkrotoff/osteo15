@@ -19,7 +19,8 @@ markdown: kramdown
 #  input: GFM # Github Flavored Markdown
 
 exclude: [
-  "vendor",
+  "git-hooks/",
+  "vendor/",
   "README.md",
   "blogger-redirections.md",
   "s3_website.yml",

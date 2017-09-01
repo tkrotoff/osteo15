@@ -21,6 +21,12 @@ bundle exec rake test-osteo15.com # Lance tous les outils de test sur le site we
 bundle exec rake deploy # Déploiement sur Amazon S3
 ```
 
+Git hooks:
+```Shell
+ln -s -f ../../git-hooks/pre-commit .git/hooks/pre-commit
+ln -s -f ../../git-hooks/pre-push .git/hooks/pre-push
+```
+
 ## Utilisation de post_url
 
 Pour générer un lien vers un post, il faut utiliser la fonction [post_url](http://jekyllrb.com/docs/templates/#post-url) de Jekyll :
