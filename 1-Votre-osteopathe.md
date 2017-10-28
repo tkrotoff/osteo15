@@ -28,17 +28,19 @@ Pour vous proposer la meilleure des prises en charge, je continue de me former r
 
 ### 2017
 
+- [UFOF formation](https://osteofrance.com/formation/) : "[Posturologie clinique](https://osteofrance.com/formation/2017/10/posturologie-clinique)" avec [Jean Vercellotti](http://www.vercellotti-belot.fr/crbst_20.html) ostéopathe D.O.
+- Conférence de l'[AO](http://academie-osteopathie.fr/) : "Vers de nouveaux modèles pour l'ostéopathie ? Les systèmes complexes, l'intelligence collective et la mécanobiologie" avec [François Delcourt](http://www.francoisdelcourt.com/) ostéopathe D.O.
 - [Institut de Gasquet](http://www.degasquet.com/) : "[Plagiocéphalie](http://www.degasquet.com/maternite/30-invites-plagiocephalie.html)" avec Thierry Marck médecin pédiatre et Laurent Merlet kinésithérapeute M.K.D.E. et ostéopathe D.O.
 
 ### 2016
 
 - UFOF formation : "[Intégration sensori-Motrice Primordiale : l'alphabet du mouvement](https://osteofrance.com/formation/archives/2016/09/integration-sensori-motrice-primordiale)" avec Paul Landon
-- Conférences de l'[AO](http://academie-osteopathie.fr/) : "Une vision historique, phylosophique et ostéopathique du thème fascia" et "Logique thérapeutique expliquée par la paléontologie"
+- Conférences de l'AO : "Une vision historique, phylosophique et ostéopathique du thème fascia" et "Logique thérapeutique expliquée par la paléontologie"
 - Conférences UFOF : [Approche pluridisciplinaire autour de l'ostéopathie - 2016](https://osteofrance.com/assets/pdf/osteofrance_congres_2016.pdf)
 
 ### 2015
 
-- [FCOP](http://www.fcop-formation-osteopathe.fr/) : "Approche tissulaire" I et II avec Alain Andrieux ostéopathe D.O.
+- [FCOP](http://www.fcop-formation-osteopathe.fr/) : "[Approche tissulaire](https://osteo15.com/2015/03/19/Stage-approche-tissulaire/)" I et II avec [Alain Andrieux](http://www.enfantsdestill.com/) ostéopathe D.O.
 - Conférences UFOF : [Approche pluridisciplinaire autour de l'ostéopathie - 2015](https://osteofrance.com/services/congres/2015)
 
 ### 2014
@@ -54,7 +56,7 @@ Pour vous proposer la meilleure des prises en charge, je continue de me former r
 
 ### 2012
 
-- FCOP : "Femmes enceintes et accouchement" avec Michèle Dangréau-Mussat ostéopathe D.O. et Dr Emmanuelle Antonetti gynécologue-obstétricienne
+- FCOP : "Femmes enceintes et accouchement" avec [Michèle Dangréau-Mussat](http://www.osteo-formation.fr/) ostéopathe D.O. et Dr Emmanuelle Antonetti gynécologue-obstétricienne
 - FCOP : "La naissance et le nouveau né, prise en charge ostéopathique" avec Michèle Dangréau-Mussat ostéopathe D.O., Dr Emmanuelle Antonetti gynécologue-obstétricienne et Dr Florence Peyrefitte pédiatre homéopathe
 - [Ostéo bébé](http://www.osteo-bebe.com/) : "Approche ostéopathique des bébés" avec Eric Simon ostéopathe D.O. et Dany Heintz-Blondy ostéopathe D.O.
 - Laboratoire Nutergia : "La nutrition autour de la naissance"
