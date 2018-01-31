@@ -1,8 +1,11 @@
-# Taken from https://github.com/gacha/gacha.id.lv/blob/master/_plugins/i18n_filter.rb
+# Taken from https://github.com/gacha/gacha.id.lv/blob/27bdaa0358030d1776d96e4a44f6639b4051f4f1/_plugins/i18n_filter.rb
 
 require 'i18n'
 
-LOCALE = :fr # set your locale
+# FIXME Liquid Exception: Liquid error: "fr" is not a valid locale in ...
+I18n.config.available_locales = [:en, :fr]
+
+LOCALE = Jekyll.configuration({})['lang'] # set your locale from config var
 
 # Create folder "_locales" and put some locale file from https://github.com/svenfuchs/rails-i18n/tree/master/rails/locale
 module Jekyll
@@ -13,17 +16,15 @@ module Jekyll
     def localize(input, format=nil)
       load_translations
       format = (format =~ /^:(\w+)/) ? $1.to_sym : format
-
-      # Force the locale each time otherwise `jekyll serve` will fail with
-      # "Liquid Exception: :en is not a valid locale" each time a regeneration happens
-      I18n.locale = LOCALE
-
       I18n.l input, :format => format
+    # rescue
+    #   "error"
     end
 
     def load_translations
       if I18n.backend.send(:translations).empty?
         I18n.backend.load_translations Dir[File.join(File.dirname(__FILE__),'../_locales/*.yml')]
+        I18n.locale = LOCALE
       end
     end
   end
