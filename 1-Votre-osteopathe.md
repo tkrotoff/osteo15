@@ -26,9 +26,13 @@ sitenav: true
 
 Pour vous proposer la meilleure des prises en charge, je continue de me former régulièrement par différents stages pratiques, séminaires et diplômes universitaires.
 
+### 2018
+
+- [UFOF formation](https://osteofrance.com/formation/) : "[L'ostéopathie abdominale, quand et comment la pratiquer pour être efficace](https://osteofrance.com/formation/archives/2018/01/losteopathie-abdominale-quand-et-comment-la-pratiquer-pour-etre-efficece)" avec Bruno Donatini, gastro-entérologue et ostéopathe
+
 ### 2017
 
-- [UFOF formation](https://osteofrance.com/formation/) : "[Posturologie clinique](https://osteofrance.com/formation/2017/10/posturologie-clinique)" avec [Jean Vercellotti](http://www.vercellotti-belot.fr/crbst_20.html) ostéopathe D.O.
+- UFOF formation : "[Posturologie clinique](https://osteofrance.com/formation/2017/10/posturologie-clinique)" avec [Jean Vercellotti](http://www.vercellotti-belot.fr/crbst_20.html) ostéopathe D.O.
 - Conférence de l'[AO](http://academie-osteopathie.fr/) : "Vers de nouveaux modèles pour l'ostéopathie ? Les systèmes complexes, l'intelligence collective et la mécanobiologie" avec [François Delcourt](http://www.francoisdelcourt.com/) ostéopathe D.O.
 - [Institut de Gasquet](http://www.degasquet.com/) : "[Plagiocéphalie](http://www.degasquet.com/maternite/30-invites-plagiocephalie.html)" avec Thierry Marck médecin pédiatre et Laurent Merlet kinésithérapeute M.K.D.E. et ostéopathe D.O.
 
