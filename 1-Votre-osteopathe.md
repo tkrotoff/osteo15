@@ -28,7 +28,8 @@ Pour vous proposer la meilleure des prises en charge, je continue de me former r
 
 ### 2018
 
-- [UFOF formation](https://osteofrance.com/formation/) : "[L'ostéopathie abdominale, quand et comment la pratiquer pour être efficace](https://osteofrance.com/formation/archives/2018/01/losteopathie-abdominale-quand-et-comment-la-pratiquer-pour-etre-efficece)" avec Bruno Donatini, gastro-entérologue et ostéopathe
+- [UFOF formation](https://osteofrance.com/formation/) : "[Dysfonctions cervico-maxillo-faciales](https://osteofrance.com/formation/2018/05/dysfonctions-cervico-maxillo-faciales)" avec Alain Piron, ostéopathe D.O.
+- UFOF formation : "[L'ostéopathie abdominale, quand et comment la pratiquer pour être efficace](https://osteofrance.com/formation/archives/2018/01/losteopathie-abdominale-quand-et-comment-la-pratiquer-pour-etre-efficece)" avec Bruno Donatini, gastro-entérologue et ostéopathe
 
 ### 2017
 
