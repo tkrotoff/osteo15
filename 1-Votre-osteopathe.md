@@ -45,7 +45,7 @@ Pour vous proposer la meilleure des prises en charge, je continue de me former r
 
 ### 2015
 
-- [FCOP](http://www.fcop-formation-osteopathe.fr/) : "[Approche tissulaire](https://osteo15.com/2015/03/19/Stage-approche-tissulaire/)" I et II avec [Alain Andrieux](http://www.enfantsdestill.com/) ostéopathe D.O.
+- [FCOP](http://www.fcop-formation-osteopathe.fr/) : "[Approche tissulaire]({% post_url 2015-03-19-Stage-approche-tissulaire %})" I et II avec [Alain Andrieux](http://www.enfantsdestill.com/) ostéopathe D.O.
 - Conférences UFOF : [Approche pluridisciplinaire autour de l'ostéopathie - 2015](https://osteofrance.com/services/congres/2015)
 
 ### 2014
