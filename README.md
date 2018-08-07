@@ -60,11 +60,11 @@ Il faut utiliser [cgi_escape](http://jekyllrb.com/docs/templates/).
 
 Exemple :
 ```HTML
-<!-- site.address = "8 rue Desnouettes Paris 15" -->
+<!-- site.address = "7 rue de Langeac Paris 15" -->
 <a href="http://maps.apple.com/?q={{ site.address | cgi_escape }}">{{ site.address }}</a>
 <!--
-  URL générée : "http://maps.apple.com/?q=8+rue+Desnouettes+Paris+15"
-  au lieu de : "http://maps.apple.com/?q=8 rue Desnouettes Paris 15"
+  URL générée : "http://maps.apple.com/?q=7+rue+de+Langeac+Paris+15"
+  au lieu de : "http://maps.apple.com/?q=7 rue de Langeac Paris 15"
 -->
 ```
 

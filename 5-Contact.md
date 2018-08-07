@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Cabinet d'ostéopathie de Fabienne Krotoff 8 rue Desnouettes 75015 Paris - 01 45 31 98 48
+description: Cabinet d'ostéopathie de Fabienne Krotoff 7 rue de Langeac 75015 Paris - 01 45 31 98 48
 permalink: /Contact/
 sitenav: true
 ---
@@ -38,7 +38,7 @@ Consultations sur rendez-vous du lundi au vendredi 9h - 19h et le samedi 9h - 13
   - Métro : Convention [ligne 12](/assets/8-rue-Desnouettes/RATP/m12.png)
   - Tram : Porte de Versailles [T2](/assets/8-rue-Desnouettes/RATP/t2.png) et [T3](/assets/8-rue-Desnouettes/RATP/t3.png)
   - Bus : [39](/assets/8-rue-Desnouettes/RATP/39.png), [80](/assets/8-rue-Desnouettes/RATP/80.png) et [62](/assets/8-rue-Desnouettes/RATP/62.png)
-  - Voir aussi le [plan RATP du quartier](http://www.ratp.fr/itineraires/fr/ratp/quartier/plan?address=8%2C+Rue+Desnouettes%2C+75015%2C+Paris)
+  - Voir aussi le [plan RATP du quartier](https://www.ratp.fr/plan-quartier?address=7%2C+Rue+de+Langeac%2C+75015%2C+Paris)
   </div>
 </div>
 
