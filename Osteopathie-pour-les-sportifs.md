@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ostéopathie pour les sportifs
-description: Prise en charge des sportifs, cabinet de Fabienne Krotoff 75015 Paris - 01 45 31 98 48
+description: Prise en charge des sportifs, cabinet de Fabienne Krotoff & Charlotte Wang 75015 Paris - 01 45 31 98 48
 tags: [ostéopathie, sport]
 ---
 

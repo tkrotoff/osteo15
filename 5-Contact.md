@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Cabinet d'ostéopathie de Fabienne Krotoff 7 rue de Langeac 75015 Paris - 01 45 31 98 48
+description: Cabinet d'ostéopathie de Fabienne Krotoff & Charlotte Wang 7 rue de Langeac 75015 Paris - 01 45 31 98 48
 permalink: /Contact/
 sitenav: true
 ---

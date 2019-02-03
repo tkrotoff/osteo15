@@ -174,7 +174,7 @@ Elle reste l'exception pour les formes majeures qui persistent après 18 mois. C
 ## Pour aller plus loin :
 
 - vous pouvez consulter le blog [Plagiocéphalie, têtes plates et têtes bornées](http://plagiocephalie-moncombat.blogspot.fr/p/plagiocephalie-prevention-traitement.html)
-- je conseille la lecture du livre "[Mon bébé n'aura pas la tête plate. Prévenir et traiter la plagiocéphalie](http://livre.fnac.com/a8194584/Bernadette-de-Gasquet-Mon-bebe-n-aura-pas-la-tete-plate)" de Bernadette de Gasquet et Thierry Marck.
+- je conseille la lecture du livre ["Mon bébé n'aura pas la tête plate. Prévenir et traiter la plagiocéphalie"](http://livre.fnac.com/a8194584/Bernadette-de-Gasquet-Mon-bebe-n-aura-pas-la-tete-plate) de Bernadette de Gasquet et Thierry Marck.
 
 ## Sources
 

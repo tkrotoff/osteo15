@@ -15,7 +15,7 @@ Certains des parents qui m'amènent leur bébé pour plagiocéphalie se sont vu 
 
 Il m'est arrivé de voir en premier rendez-vous des enfants présentant des plagiocéphalies sévères (nécessitant un traitement par orthèse crânienne) tardivement car il leur avait été dit que le crâne se "remettrait tout seul", mais l'amélioration spontanée attendue n'avait pas eu lieu. Pour ces enfants, il y a un risque de "perte de chance" d'amélioration si on attend passivement le rétablissement de la déformation du crâne : plus le traitement est mis en place tôt et plus celui-ci est efficace (et inversement).
 
-J'ai remarqué aussi que les parents peinent à trouver des informations sur la plagiocéphalie, ses conséquences possibles et les traitements qui peuvent être mis en place. J'avais donc écrit un article de fond sur le sujet en 2014 : "[La plagiocéphalie positionnelle]({% post_url 2014-07-24-La-plagiocephalie-positionnelle %})".
+J'ai remarqué aussi que les parents peinent à trouver des informations sur la plagiocéphalie, ses conséquences possibles et les traitements qui peuvent être mis en place. J'avais donc écrit un article de fond sur le sujet en 2014 : ["La plagiocéphalie positionnelle"]({% post_url 2014-07-24-La-plagiocephalie-positionnelle %}).
 
 {% include figure.html src="/assets/2014-07-24/Consequences-plagiocephalie-positionnelle.png" caption="Conséquences des plagiocéphalies positionnelles. Cliquez sur l'image pour accéder à l'article." href="https://osteo15.com/2014/07/24/La-plagiocephalie-positionnelle/" %}
 
