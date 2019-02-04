@@ -140,6 +140,7 @@ task :checkstyle do |t|
   result &&= check(/\S\[\^\w+\]/, md, '"[^2] => " [^2]')
   result &&= check(/\[\^\w+\]\[\^\w+\]/, md, '[^2][^3] => [^2] [^3]')
   result &&= check_global(/[^\-\-\-].*?\.\n[[:word:]].*?[^\-\-\-]/, md, 'saut de ligne incohérent')
+  result &&= check(/"\[.*\]\(.*\)"/, md, '"[...](...)" => ["..."](...)')
 
   raise 'checkstyle task failed' if !result
 end
