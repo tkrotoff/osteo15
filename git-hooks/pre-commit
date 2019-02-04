@@ -6,6 +6,10 @@
 
 # See SourceTree : Hook failing because paths don't seem to be set correctly https://community.atlassian.com/t5/Bitbucket-questions/SourceTree-Hook-failing-because-paths-don-t-seem-to-be-set/qaq-p/274792
 export PATH=/usr/local/bin:$PATH
+
+# GitKraken fails with "ArgumentError: invalid byte sequence in US-ASCII"
+export LANG=en_US.UTF-8
+
 source ~/.bash_profile
 
 exec bundle exec rake checkstyle
