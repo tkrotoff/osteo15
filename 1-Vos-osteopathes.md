@@ -11,8 +11,10 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 ## Fabienne Krotoff, ostéopathe D.O. diplômée du [Collège Ostéopathique Européen (COE)](http://www.osteo-coe.fr/)
 
 <div class="row">
-  <div class="col-md-2" markdown="1">
-  ![Fabienne Krotoff](/assets/Fabienne-Krotoff/Fabienne-Krotoff-1.jpg)
+  <div class="col-md-2">
+    <p>
+      <img src="/assets/Fabienne-Krotoff/Fabienne-Krotoff-1.jpg" alt="Fabienne Krotoff" width="158">
+    </p>
   </div>
   <div class="col-md-10" markdown="1">
   - Diplôme universitaire (DU) de [psychosomatique, université Paris Descartes](http://formations.parisdescartes.fr/fr-FR/1/diplome/P5-PROG5304/DIU%20Dermatologie%20psychosomatique)
@@ -92,8 +94,10 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 ## Charlotte Wang, ostéopathe D.O. diplômée de l'[Institut Dauphine d'Ostéopathie](http://www.institutdauphine.com/)
 
 <div class="row">
-  <div class="col-md-2" markdown="1">
-  ![Charlotte Wang](/assets/Charlotte-Wang/Charlotte-Wang-1.jpg)
+  <div class="col-md-2">
+    <p>
+      <img src="/assets/Charlotte-Wang/Charlotte-Wang-1.jpg" alt="Charlotte Wang" width="158">
+    </p>
   </div>
   <div class="col-md-10" markdown="1">
   - Formée à la prise en charge des femmes enceintes et des nourrissons
