@@ -88,32 +88,6 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
   N° SIRET : 5151163900029
 - Titulaire du [label Eur Ost DO](http://www.osteofrance.com/eur-ost-do/), je réponds à son [code de déontologie](http://www.osteofrance.com/assets/pdf/ufof_deontologie.pdf)
 
-<div class="row" style="margin-top: 20px">
-  <div class="col-md-2"></div>
-  <div class="col-md-3" style="margin-bottom: 30px">
-    <a href="http://www.osteofrance.com/ufof/presentation/">
-      <img
-        src="/assets/UFOF.jpg"
-        alt="Union Fédérale des Ostéopathes de France"
-        title="Union Fédérale des Ostéopathes de France"
-        style="width: 80px"
-      >
-    </a>
-  </div>
-  <div class="col-md-2"></div>
-  <div class="col-md-3">
-    <a href="http://www.academie-osteopathie.fr/">
-      <img
-        src="/assets/Academie-osteopathie-france.jpg"
-        alt="Académie d'Ostéopathie de France"
-        title="Académie d'Ostéopathie de France"
-        style="width: 80px"
-      >
-    </a>
-  </div>
-  <div class="col-md-2"></div>
-</div>
-
 
 ## Charlotte Wang, ostéopathe D.O. diplômée de l'[Institut Dauphine d'Ostéopathie](http://www.institutdauphine.com/)
 
