@@ -3,6 +3,8 @@
 .btn {
   display: inline-block;
   font-weight: 400;
+  padding: .375rem .75rem;
+  border-radius: .3rem;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
@@ -10,8 +12,8 @@
   border: 1px solid transparent;
 
   // Reset transition-* defined on a
-  transition-property: all;
-  transition-duration: 0s;
+  // Taken from https://github.com/twbs/bootstrap/blob/v4.3.1/scss/_variables.scss#L444
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
 
 .btn-primary-outline {
@@ -25,10 +27,12 @@
   background-color: $link-color;
   color: $background-color;
 }
+.btn-primary-outline:focus {
+  box-shadow: 0 0 0 3px rgba($link-color, .25);
+}
 
 .btn-lg {
   padding: .75rem 1.25rem;
   font-size: $font-size-large;
   line-height: 1.333333;
-  border-radius: .3rem;
 }
