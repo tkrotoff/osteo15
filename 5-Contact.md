@@ -29,7 +29,7 @@ Consultations sur rendez-vous du lundi au vendredi 9h - 19h et le samedi 9h - 13
   -->
 
   <div class="col-md-5" markdown="1">
-  - {{ site.address }}
+  - {{ site.address_long }}
   - <a href="tel:{{ site.tel | cgi_escape }}">{{ site.tel }}</a>
   - <a href="mailto:{{ site.email }}">{{ site.email }}</a>
   </div>
