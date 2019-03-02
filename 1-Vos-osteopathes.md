@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vos ostéopathes
-description: Présentation de vos ostéopathes, cabinet de Fabienne Krotoff & Charlotte Wang 75015 Paris - 01 45 31 98 48
+description: Présentation de vos ostéopathes, cabinet de Fabienne Krotoff & Charlotte Wang, 75015 Paris - 01 45 31 98 48
 permalink: /Vos-osteopathes/
 sitenav: true
 ---

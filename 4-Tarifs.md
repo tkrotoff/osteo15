@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tarifs
-description: Tarifs d'une consultation, cabinet de Fabienne Krotoff & Charlotte Wang 75015 Paris - 01 45 31 98 48
+description: Tarifs d'une consultation, cabinet de Fabienne Krotoff & Charlotte Wang, 75015 Paris - 01 45 31 98 48
 permalink: /Tarifs/
 sitenav: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: L'ostéopathie
-description: Présentation de l'ostéopathie, cabinet de Fabienne Krotoff & Charlotte Wang 75015 Paris - 01 45 31 98 48
+description: Présentation de l'ostéopathie, cabinet de Fabienne Krotoff & Charlotte Wang, 75015 Paris - 01 45 31 98 48
 tags: [ostéopathie]
 permalink: /L'osteopathie/
 sitenav: true
