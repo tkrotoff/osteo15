@@ -3,6 +3,13 @@ require "jekyll"
 # See task.comment and friends are nil https://github.com/ruby/rake/issues/31
 Rake::TaskManager.record_task_metadata = true
 
+desc "Clean generated files"
+task :clean do |t|
+  puts t.comment
+
+  system "rm -rf Gemfile.lock vendor/ _site/ .sass-cache/"
+end
+
 desc "Build _site using 'jekyll build'"
 task :build, :env do |t, args|
   puts t.comment
@@ -22,63 +29,6 @@ task :build, :env do |t, args|
   site = Jekyll::Site.new(config)
   site.process # Builds the Jekyll site
 end
-
-require "html-proofer"
-
-desc "Validate _site using HTML::Proofer"
-task :htmlproof do |t|
-  puts t.comment
-
-  begin
-    HTML::Proofer.new("./_site", {check_favicon: true, check_html: false, verbose: false}).run
-  rescue => e
-    #puts e.message
-    #puts e.backtrace
-  end
-end
-
-desc "Validate _site using validate-website-static"
-task 'validate-website-static' do |t|
-  puts t.comment
-
-  Dir.chdir './_site' do
-    system "bundle exec validate-website-static --site 'https://osteo15.com' --verbose --markup --not-found" do |ok, res|
-      unless ok
-        puts "validate error (status = #{res.exitstatus})"
-      end
-    end
-  end
-end
-
-desc "Validate osteo15.com using validate-website"
-task 'validate-website' do |t|
-  puts t.comment
-
-  system "bundle exec validate-website --site 'https://osteo15.com' --verbose --markup --not-found"
-end
-
-desc "Validate _site using The Nu HTML Checker (v.Nu - https://github.com/validator/validator) - installation: `brew install vnu`"
-task :vnu do |t|
-  puts t.comment
-
-  system "vnu --skip-non-html _site"
-end
-
-desc "Validate osteo15.com using site_validator"
-task :site_validator do |t|
-  puts t.comment
-
-  report_file = File.join(Dir.tmpdir, 'site_validator-report.html')
-
-  system "bundle exec site_validator https://osteo15.com #{report_file}"
-  system "open #{report_file}"
-end
-
-desc "Validate local website"
-task 'test-local' => [:checkstyle, :htmlproof, 'validate-website-static', :vnu]
-
-desc "Validate osteo15.com"
-task 'test-osteo15.com' => ['validate-website', :site_validator]
 
 desc "Deploy on Amazon S3 using s3_website"
 task :deploy do |t|

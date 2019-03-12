@@ -13,12 +13,27 @@ bundle exec jekyll serve --host 0.0.0.0 --port 4000
 open http://localhost:4000
 
 bundle exec rake -T # Liste des tasks Rake
+bundle exec rake clean # Supprime les fichiers générés
 bundle exec rake build # Build sans minification (=dev)
 bundle exec rake checkstyle # Vérifie diverses règles en rapport avec le style
 bundle exec rake build[production] # Build avec minification du code HTML et CSS (=production)
-bundle exec rake test-local # Lance tous les outils de test sur le site web local
-bundle exec rake test-osteo15.com # Lance tous les outils de test sur le site web en ligne
 bundle exec rake deploy # Déploiement sur Amazon S3
+```
+
+```Shell
+brew install vnu
+vnu --skip-non-html _site
+
+sudo gem install html-proofer
+htmlproofer ./_site --check-html --check-favicon --check-opengraph
+
+sudo gem install validate-website
+cd _site && validate-website-static --site 'https://osteo15.com' --verbose --markup --not-found && cd ..
+validate-website --site 'https://osteo15.com' --verbose --markup --not-found
+
+sudo gem install site_validator
+site_validator https://osteo15.com site_validator-report.html
+open site_validator-report.html
 ```
 
 Git hooks:
