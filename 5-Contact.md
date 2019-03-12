@@ -45,7 +45,7 @@ Consultations sur rendez-vous du lundi au vendredi 9h - 19h et le samedi 9h - 13
 <div class="row">
   <div class="col-md-10">
     <div class="embed-responsive embed-responsive-4by3">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5252.316460462815!2d2.2948188401153518!3d48.83612046224319!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x471b308af929718f!2sFabienne+Krotoff+Ost%C3%A9opathe+D.O.!5e0!3m2!1sfr!2s!4v1421353919120"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d70639.83850478643!2d2.2755480712881155!3d48.85499536098863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6706cdd644c35%3A0x471b308af929718f!2sFabienne+Krotoff+Ost%C3%A9opathe+D.O.!5e0!3m2!1sfr!2sfr!4v1552431953683"></iframe>
     </div>
   </div>
 </div>
