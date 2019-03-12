@@ -99,6 +99,10 @@ li {
 h1, h2, h3, h4, h5, h6 {
   font-weight: $font-weight-base;
 }
+// See https://stackoverflow.com/a/26291186/990356
+article h1 {
+  font-size: 2em;
+}
 
 
 
