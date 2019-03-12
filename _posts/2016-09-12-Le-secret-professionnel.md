@@ -14,7 +14,7 @@ Les professionnels participant à la prise en charge d'une même personne peuven
 
 Le cadre juridique précise dans quelles conditions les informations peuvent être échangées et partagées : l'ostéopathe doit informer le patient "*de la nature des informations devant faire l'objet de l'échange*" ainsi que de "*l'identité du destinataire et de la catégorie dont il relève ou de sa qualité au sein d'une structure précisément définie*".
 
-Avant ce décret, les ostéopathes étaient soumis au [secret **professionnel**](https://osteofrance.com/actualites/news/2010/09/secret-professionnel) et ne pouvaient échanger directement avec les autres professionnels :
+Avant ce décret, les ostéopathes étaient soumis au [secret professionnel](https://osteofrance.com/actualites/news/2010/09/secret-professionnel) et ne pouvaient échanger directement avec les autres professionnels :
 
 > [...] un ostéopathe qui transmettrait directement à un professionnel ou établissement de santé des informations relatives à son patient enfreindrait la législation et serait passible d'une sanction pénale. Parallèlement, le professionnel de santé qui communiquerait directement à l'ostéopathe non professionnel de santé de telles informations se placerait également en situation irrégulière, tant au regard de la loi que, le cas échéant, de son instance ordinale. [...]
 Cette situation, source d'insécurité juridique pour les ostéopathes et toutes les professions de santé amenées à travailler en collaboration, conduit ces acteurs à s'abstenir de communiquer entre eux. Cette abstention nuit à la sécurité et à la qualité de la prise en charge des patients. [^1]
