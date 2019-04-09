@@ -1,18 +1,12 @@
 ---
 layout: page
-title: Tarifs
-description: Tarifs d'une consultation, cabinet de Fabienne Krotoff & Charlotte Wang, 75015 Paris - 01 45 31 98 48
-permalink: /Tarifs/
+title: Tarif
+description: Tarif d'une consultation, cabinet de Fabienne Krotoff & Charlotte Wang, 75015 Paris - 01 45 31 98 48
+permalink: /Tarif/
 sitenav: true
 ---
 
-- Consultation au cabinet avec Fabienne Krotoff ou Charlotte Wang (env. 1 heure) : <b>65€</b>
-
-- Consultation à domicile (15ème et 14ème arrondissements de Paris) avec Charlotte Wang : <b>80€</b>
-
-<br>
-
-Le paiement se fait par chèque ou espèces
+Le montant d'une [consultation](/La-consultation/) d'ostéopathie (env. 1 heure) est de **65 €** (en espèces ou par chèque).
 
 ## Remboursement
 
