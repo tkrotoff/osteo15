@@ -17,8 +17,8 @@ Consultations sur rendez-vous du lundi au vendredi 9h - 19h et le samedi 9h - 13
 
 <div class="row">
   <!--
-    See Module de prise de RDV http://developers.clicrdv.com/fr/api-module-prise-rdv.html
-    Testing URL : https://www.clicrdv.com/932-osteopathe?nologo=1&popin=1&mobile=1
+    [Module de prise de RDV](http://developers.clicrdv.com/fr/api-module-prise-rdv.html)
+    Testing URL: https://www.clicrdv.com/932-osteopathe?nologo=1&popin=1&mobile=1
   -->
   <!--
   <div class="col-md-10">

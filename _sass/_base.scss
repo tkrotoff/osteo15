@@ -99,7 +99,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
   font-weight: $font-weight-base;
 }
-// See https://stackoverflow.com/a/26291186/990356
+// https://stackoverflow.com/a/26291186/990356
 article h1 {
   font-size: 2em;
 }
@@ -228,7 +228,7 @@ pre {
   vertical-align: middle;
 
   path {
-    // See The color for the SVG icons are defined 2 times https://github.com/jekyll/jekyll/issues/2944
+    // [The color for the SVG icons are defined 2 times](https://github.com/jekyll/jekyll/issues/2944)
     fill: $grey-light;
   }
 }

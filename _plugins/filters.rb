@@ -9,7 +9,7 @@ module Jekyll
 
     # Sort a hash using String#casecmp the case-insensitive version of String#<=>
     # By default, Enumerable#sort uses <=>
-    # See Add sort_natural to jekyll/filters.rb https://github.com/jekyll/jekyll/issues/6290
+    # [Add sort_natural to jekyll/filters.rb](https://github.com/jekyll/jekyll/issues/6290)
     def sort_natural(input)
       input.sort { |apple, orange| apple.first.casecmp(orange.first) }
 

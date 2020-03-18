@@ -2,11 +2,11 @@
 
 ## Documentation
 
-- [Adding meta tags to individual Blogger posts](http://webapps.stackexchange.com/questions/18468)
-- [Setting rel=canonical for an individual Blogger post](http://webapps.stackexchange.com/questions/45454)
+- [Adding meta tags to individual Blogger posts](https://webapps.stackexchange.com/q/18468)
+- [Setting rel=canonical for an individual Blogger post](https://webapps.stackexchange.com/q/45454)
 - [301 Redirect Your Old Blogger Blog to New Address](http://salman-w.blogspot.fr/2013/04/301-redirect-old-blogger-blog-to-new-address.html)
 - [Cross-Domain Canonical the New 301 Redirect? - Whiteboard Friday](https://www.youtube.com/watch?v=O8drPXudZZc)
-- [SEO consequences of redirecting with META REFRESH](http://stackoverflow.com/questions/5392001)
+- [SEO consequences of redirecting with META REFRESH](https://stackoverflow.com/q/5392001)
 
 ## Template vide
 

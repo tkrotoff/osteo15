@@ -14,7 +14,7 @@ $font-size-large: 18px;
 $font-size-small: 14px;
 
 // Default Chrome 41 font sizes
-// See also Bootstrap font-size variables https://github.com/twbs/bootstrap/blob/v3.3.4/less/variables.less#L55
+// https://github.com/twbs/bootstrap/blob/v3.3.4/less/variables.less#L55
 $font-size-h1:    2em;    // 32px
 $font-size-h2:    1.5em;  // 24px
 $font-size-h3:    1.17em; // ~18.72px
@@ -24,7 +24,7 @@ $font-size-h6:    .75em;  // ~10.72px
 
 $spacing-unit: 30px;
 
-// See https://github.com/twbs/bootstrap/blob/v3.3.2/less/variables.less#L10
+// https://github.com/twbs/bootstrap/blob/v3.3.2/less/variables.less#L10
 $grey-darker:        #222; // $text-color
 $grey-dark:          #444; // .site-nav .roll color, .site-nav burger SVG icon
 $grey:               #777; // figcaption, blockquote, .post-meta

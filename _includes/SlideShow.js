@@ -1,4 +1,4 @@
-// See Simplest jQuery slideshow http://snook.ca/archives/javascript/simplest-jquery-slideshow
+// [Simplest jQuery slideshow](http://snook.ca/archives/javascript/simplest-jquery-slideshow)
 setInterval(
   function() {
     $('.fadein :first-child')

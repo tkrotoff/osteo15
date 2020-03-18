@@ -1,6 +1,6 @@
 require "jekyll"
 
-# See task.comment and friends are nil https://github.com/ruby/rake/issues/31
+# [task.comment and friends are nil](https://github.com/ruby/rake/issues/31)
 Rake::TaskManager.record_task_metadata = true
 
 desc "Clean generated files"

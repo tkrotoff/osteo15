@@ -4,7 +4,7 @@
 # exit with non-zero status after issuing an appropriate message if
 # it wants to stop the commit.
 
-# See SourceTree : Hook failing because paths don't seem to be set correctly https://community.atlassian.com/t5/Bitbucket-questions/SourceTree-Hook-failing-because-paths-don-t-seem-to-be-set/qaq-p/274792
+# [SourceTree : Hook failing because paths don't seem to be set correctly](https://community.atlassian.com/t5/Bitbucket-questions/SourceTree-Hook-failing-because-paths-don-t-seem-to-be-set/qaq-p/274792)
 export PATH=/usr/local/bin:$PATH
 
 # GitKraken fails with "ArgumentError: invalid byte sequence in US-ASCII"

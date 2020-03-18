@@ -66,11 +66,11 @@ Le caractère `?` est replacé par `%3F` dans les URLs, ce qui est à éviter :
 - KO : `2014-02-10-Jogging-:-le-pied-amortisseur.md`
 - OK : `2014-02-10-Jogging-le-pied-amortisseur.md`
 
-Liste des caractères valides pour une URL : [`ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-._~:/?#[]@!$&'()*+,;=`](http://stackoverflow.com/questions/1547899)
+Liste des caractères valides pour une URL : [`ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-._~:/?#[]@!$&'()*+,;=`](https://stackoverflow.com/q/1547899)
 
 ### URLs
 
-Par exemple, les espaces ne sont pas autorisés : [HTML href syntax: is it okay to have space in file name?](http://stackoverflow.com/questions/4172579).
+Par exemple, les espaces ne sont pas autorisés : [HTML href syntax: is it okay to have space in file name?](https://stackoverflow.com/q/4172579).
 Il faut utiliser [cgi_escape](http://jekyllrb.com/docs/templates/).
 
 Exemple :

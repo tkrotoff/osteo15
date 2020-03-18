@@ -62,7 +62,7 @@ a.site-title {
 
 .nav-separator {
   // Keep the separator with the words, i.e do not break "words /" into "words" "/"
-  // See Specifying a preferred line break point in HTML text in a responsive design http://stackoverflow.com/questions/18222409
+  // [Specifying a preferred line break point in HTML text in a responsive design](https://stackoverflow.com/q/18222409)
   white-space: nowrap;
 
   &:not(:last-child):after {
@@ -193,7 +193,7 @@ a.site-title {
     padding-top: $spacing-unit / 2;
   }
 
-  // See Center image using text-align center? http://stackoverflow.com/questions/7055393
+  // [Center image using text-align center?](https://stackoverflow.com/q/7055393)
   img {
     display: block;
     margin-left: auto;
