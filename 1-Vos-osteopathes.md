@@ -25,13 +25,21 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 
 ### Formations et diplômes
 
-#### 2019
+### 2020
 
+- [CFPCO](https://www.cfpco.fr/Workshop) : ["Ostéopathie, hypnose et douleur"](https://www.cfpco.fr/workshop/389/osteopathie,-hypnose-et-douleur---theo-chaumeil) avec [Théo Chaumeil](https://www.cfpco.fr/workshop/teacher/127/theo--chaumeil), kinésithérapeute D.E., praticien et formateur en hypnose
+- [UFOF formation](https://osteofrance.com/formation/) : ["Cerveau abdominal et pelvien"](https://osteofrance.com/formation/archives/2020/02/cerveau-abdominal-et-pelvien) avec Nathalie Camirand, ostéopathe D.O.
+- UFOF Formation : ["Dysfonctions glandulaires et nerveuses en ostéopathie"](https://osteofrance.com/formation/archives/2019/06/dysfonctions-neuro-endocriniennes-diagnostic-et-traitement) avec Nathalie Camirand, ostéopathe D.O.
+
+### 2019
+
+- CFPCO : "La sphère gynécologique en ostéopathie : de l'adolescente à la femme ménopausée" avec [Isabelle Tousch](https://www.cfpco.fr/workshop/teacher/83/isabelle-tousch#formations), ostéopathe D.O.
+- CFPCO : "Réussir la prise en charge du périnée en ostéopathie" avec Isabelle Tousch, ostéopathe D.O.
 - [Institut de Gasquet](http://www.degasquet.com/) : "Approche posturo-respiratoire du périnée"
 
 ### 2018
 
-- [UFOF formation](https://osteofrance.com/formation/) : ["Dysfonctions cervico-maxillo-faciales"](https://osteofrance.com/formation/2018/05/dysfonctions-cervico-maxillo-faciales) avec Alain Piron, ostéopathe D.O.
+- UFOF formation : ["Dysfonctions cervico-maxillo-faciales"](https://osteofrance.com/formation/2018/05/dysfonctions-cervico-maxillo-faciales) avec Alain Piron, ostéopathe D.O.
 - UFOF formation : ["L'ostéopathie abdominale, quand et comment la pratiquer pour être efficace"](https://osteofrance.com/formation/archives/2018/01/losteopathie-abdominale-quand-et-comment-la-pratiquer-pour-etre-efficece) avec Bruno Donatini, gastro-entérologue et ostéopathe
 
 ### 2017
