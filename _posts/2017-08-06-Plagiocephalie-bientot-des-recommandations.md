@@ -2,7 +2,7 @@
 layout: post
 title: Plagiocéphalie, bientôt des recommandations ?
 tags: [bébé, plagiocéphalie]
-last_modified_at: '2017-08-06'
+last_modified_at: '2020-03-27'
 ---
 
 Les choses vont enfin bouger pour les plagiocéphalies (= tête plate des bébés). Actuellement, il n'existe aucun document officiel français sur les plagiocéphalies et les parents se trouvent pour la plupart complètement démunis lorsque leur enfant présente une déformation positionnelle du crâne.
@@ -45,5 +45,4 @@ En tant qu'ostéopathe, j'espère sincèrement que :
 ## Sources
 
 [^1]: [Décision n°2017.0086/DC/MRAPU du 28 juin 2017 du collège de la Haute Autorité de santé portant sur le droit d'alerte prévu à l'article L. 161-37 du code de la sécurité sociale](https://www.has-sante.fr/portail/upload/docs/application/pdf/2017-07/dir33/dc_2017_0086_droit_d_alerte_le_lien_plagiocephalie_cd_2017_06_28_vd.pdf)
-[^2]: [Les morts inattendues des nourrissons de moins de 2 ans. Enquête nationale 2007-2009.](http://invs.santepubliquefrance.fr/publications/2011/morts_nourrissons/morts_inattendues_nourrissons.pdf) Juliette Bloch, Pierre Denis, Delphine Jezewski-Serra et le comité de pilotage - INVS
-
+[^2]: [Les morts inattendues des nourrissons de moins de 2 ans. Enquête nationale 2007-2009.](https://www.santepubliquefrance.fr/docs/les-morts-inattendues-des-nourrissons-de-moins-de-2-ans.-enquete-nationale-2007-2009) Juliette Bloch, Pierre Denis, Delphine Jezewski-Serra et le comité de pilotage - INVS
