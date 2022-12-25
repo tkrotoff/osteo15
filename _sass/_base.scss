@@ -41,7 +41,7 @@ h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: calc($spacing-unit / 2);
 }
 
 
@@ -72,7 +72,7 @@ figure > img {
 figcaption {
   font-size: $font-size-small;
   color: $grey;
-  margin-top: $spacing-unit / 4;
+  margin-top: calc($spacing-unit / 4);
 }
 
 
@@ -135,7 +135,7 @@ a {
 blockquote {
   color: $grey;
   border-left: 4px solid $grey-lighter;
-  padding-left: $spacing-unit / 2;
+  padding-left: calc($spacing-unit / 2);
   font-style: italic;
 
   > :last-child {
@@ -189,8 +189,8 @@ pre {
   @extend %clearfix;
 
   @include media-query($on-laptop) {
-    padding-left: $spacing-unit / 2;
-    padding-right: $spacing-unit / 2;
+    padding-left: calc($spacing-unit / 2);
+    padding-right: calc($spacing-unit / 2);
   }
 }
 

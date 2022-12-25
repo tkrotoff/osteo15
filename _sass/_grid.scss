@@ -1,6 +1,6 @@
 .row {
-  margin-left: - $spacing-unit / 4;
-  margin-right: - $spacing-unit / 4;
+  margin-left: - calc($spacing-unit / 4);
+  margin-right: - calc($spacing-unit / 4);
 
   @extend %clearfix;
 }
@@ -11,9 +11,9 @@
   // Prevent columns from collapsing when empty
   min-height: 1px;
 
-  // Space between columns: 15px = 2 * $spacing-unit / 4 = $spacing-unit / 2
-  padding-left: $spacing-unit / 4;
-  padding-right: $spacing-unit / 4;
+  // Space between columns: 15px = 2 * calc($spacing-unit / 4) = calc($spacing-unit / 2)
+  padding-left: calc($spacing-unit / 4);
+  padding-right: calc($spacing-unit / 4);
 }
 
 
@@ -29,7 +29,7 @@ $grid-columns: 12;
 
 @mixin make-grid($class) {
   @for $i from 1 through $grid-columns {
-    .col-#{$class}-#{$i} { width: percentage($i / $grid-columns) }
+    .col-#{$class}-#{$i} { width: percentage(calc($i / $grid-columns)) }
   }
 }
 
