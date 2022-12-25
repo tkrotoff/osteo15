@@ -3,7 +3,7 @@
 require 'i18n'
 
 # FIXME Liquid Exception: Liquid error: "fr" is not a valid locale in ...
-I18n.config.available_locales = [:en, :fr]
+I18n.config.available_locales = [:fr]
 
 LOCALE = Jekyll.configuration({})['lang'] # set your locale from config var
 
