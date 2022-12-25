@@ -6,7 +6,7 @@ permalink: /Tarif/
 sitenav: true
 ---
 
-Le montant d'une [consultation](/La-consultation/) d'ostéopathie (env. 1 heure) est de **65 €** (en espèces ou par chèque).
+Le montant d'une [consultation](/La-consultation/) d'ostéopathie (env. 1 heure) est de **70 €** (en espèces ou par chèque).
 
 ## Remboursement
 
