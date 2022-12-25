@@ -18,7 +18,7 @@ bundle exec rake -T # Liste des tasks Rake
 bundle exec rake clean # Supprime les fichiers générés
 bundle exec rake build # Build sans minification (=dev)
 bundle exec rake checkstyle # Vérifie diverses règles en rapport avec le style
-bundle exec rake build[production] # Build avec minification du code HTML et CSS (=production)
+bundle exec rake "build[production]" # Build avec minification du code HTML et CSS (=production)
 bundle exec rake deploy # Déploiement sur Amazon S3
 ```
 
