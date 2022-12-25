@@ -6,14 +6,11 @@ tags: [TV]
 last_modified_at: '2015-03-08'
 ---
 
-Le [mercure](http://fr.wikipedia.org/wiki/Mercure_(chimie)) est une substance extrêmement toxique qui fait malheureusement partie de nombreux produits de la vie quotidienne (maquillage, teinture pour les cheveux, amalgame dentaire, jouet pour enfant, poisson...) et dont le corps ne peut malheureusement pas se débarrasser.
+Le [mercure](https://fr.wikipedia.org/wiki/Mercure_(chimie)) est une substance extrêmement toxique qui fait malheureusement partie de nombreux produits de la vie quotidienne (maquillage, teinture pour les cheveux, amalgame dentaire, jouet pour enfant, poisson...) et dont le corps ne peut malheureusement pas se débarrasser.
 
-Si vous avez raté le documentaire ["Alerte au mercure"](http://www.france5.fr/emission/alerte-au-mercure/diffusion-du-08-02-2015-16h05), vous avez encore la possibilité de le regarder en replay jusqu'au dimanche 8 février 2015. Il sera rediffusé sur la chaine France 5 :
+Documentaire sur France 5 ["Alerte au mercure"](https://www.leparisien.fr/culture-loisirs/alerte-au-mercure-01-02-2015-4495835.php).
 
-- le 8 février à 16h05
-- le 19 février à 16h35
-
-{% include figure.html src="/assets/2015-02-03/Alerte-au-mercure.jpg" caption='Affiche du documentation "Alerte au mercure"' href="http://www.france5.fr/emission/alerte-au-mercure/diffusion-du-08-02-2015-16h05" %}
+{% include figure.html src="/assets/2015-02-03/Alerte-au-mercure.jpg" caption='Affiche du documentation "Alerte au mercure"' href="https://www.leparisien.fr/culture-loisirs/alerte-au-mercure-01-02-2015-4495835.php" %}
 
 Résumé :
 

@@ -96,12 +96,12 @@ Essayez de bouger et marcher au travail quotidiennement. Vous pouvez faire ces �
 
 ![Etirements au bureau](/assets/2015-02-05/Etirements.png)
 
-Pour les personnes stressées, vous pouvez pratiquer aussi ce que l'on appelle [la cohérence cardiaque](http://www.thierrysouccar.com/bien-etre/info/comment-entrer-en-coherence-cardiaque-493) afin de diminuer vos tensions corporelles. C'est une respiration lente, profonde, en conscience et avec un rythme de 6 respirations par seconde. Elle se pratique en position assise :
+Pour les personnes stressées, vous pouvez pratiquer aussi ce que l'on appelle [la cohérence cardiaque](https://www.thierrysouccar.com/bien-etre/info/comment-entrer-en-coherence-cardiaque-493) afin de diminuer vos tensions corporelles. C'est une respiration lente, profonde, en conscience et avec un rythme de 6 respirations par seconde. Elle se pratique en position assise :
 
 {% include embed-responsive-4by3.html src="https://player.vimeo.com/video/9868554" %}
 
-Pour aller plus loin, consultez le guide de formation de Sylvie Montreuil : ["Ergonomie : travail de bureau avec écran de visualisation"](http://www.cgsst.com/stock/fra/guide-dergonomie.pdf) qui présente entre autres les différents types d'accessoires ergonomiques.
+Pour aller plus loin, consultez le guide de formation de Sylvie Montreuil : ["Ergonomie : travail de bureau avec écran de visualisation"](https://web.archive.org/web/20160309190301/https://www.cgsst.com/stock/fra/guide-dergonomie.pdf) qui présente entre autres les différents types d'accessoires ergonomiques.
 
 ## Sources
 
-Images : [Travail sécuritaire NB](http://travailsecuritairenb.ca/docs/officefrdist.pdf)
+Images : [Travail sécuritaire NB](https://web.archive.org/web/20160224045117/https://travailsecuritairenb.ca/docs/officefrdist.pdf)

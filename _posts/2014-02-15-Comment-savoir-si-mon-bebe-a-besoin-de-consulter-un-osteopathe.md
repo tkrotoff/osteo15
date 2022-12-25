@@ -20,7 +20,7 @@ Il faut comprendre que les pertes de mobilité et dysfonctions ostéopathiques n
 ## Nous trouverons lors de l'accouchement
 
 - expression utérine
-  ([la HAS souhaite l'abandon de cette technique](http://www.has-sante.fr/portail/upload/docs/application/pdf/ea-_recommandations_.pdf) et si cette technique est utilisée ;
+  ([la HAS souhaite l'abandon de cette technique](https://www.has-sante.fr/portail/upload/docs/application/pdf/ea-_recommandations_.pdf) et si cette technique est utilisée ;
   elle doit impérativement être notée dans le dossier de la patiente),
 - mauvaise présentation,
 - extraction instrumentale,

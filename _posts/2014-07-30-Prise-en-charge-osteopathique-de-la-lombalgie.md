@@ -39,7 +39,7 @@ Les causes de survenue d'une lombalgie commune peuvent être très variées (lis
 - Psychosocial : somatisation, stress, angoisse...
 - Viscérale : constipation, adhérence cicatricielle, menstruation...
 - Faiblesse des muscles du dos et des abdominaux par manque d'exercices physiques,
-- [Vibrations](http://www.inrs.fr/risques/vibration-corps-entier/effets-sante.html) : machines agricoles, tondeuses...
+- [Vibrations](https://www.inrs.fr/risques/vibration-corps-entier/effets-sante.html) : machines agricoles, tondeuses...
 
 <figure>
   <img src="/assets/2014-07-30/Principaux-facteurs-de-risques-de-lombalgie-aigue-ou-chronique.png" alt="Lombalgies symptomatiques">
@@ -69,7 +69,7 @@ Les douleurs lombaires sont les premiers motifs de consultation ostéopathique [
 
 ![Cercle vicieux de la douleur](/assets/2014-07-30/Lombalgie-cercle-vicieux-de-la-douleur.png)
 
-- Bien entendu, il faudra revoir [l'ergonomie](http://www.reseau-lcd.org/html/pdf/Douleur_mal%20de%20dos.pdf) : que ce soit l'agencement du poste de travail au bureau ou les mouvements lors de la manutention, du jardinage ou des gestes quotidiens... Il faut toujours avoir les épaules à l'aplomb du bassin et des hanches (et donc éviter de se courber / se pencher en avant) et toujours utiliser ses jambes en les fléchissant pour ramasser quelque chose au sol.
+- Bien entendu, il faudra revoir [l'ergonomie](https://web.archive.org/web/20180413180917/https://www.reseau-lcd.org/html/pdf/Douleur_mal%20de%20dos.pdf) : que ce soit l'agencement du poste de travail au bureau ou les mouvements lors de la manutention, du jardinage ou des gestes quotidiens... Il faut toujours avoir les épaules à l'aplomb du bassin et des hanches (et donc éviter de se courber / se pencher en avant) et toujours utiliser ses jambes en les fléchissant pour ramasser quelque chose au sol.
 
 - Bien que les semelles orthopédiques n'aient pas montré d'efficacité [^9] dans le traitement et la prévention des douleurs lombaires. Cependant, un certain nombre de mes patients se sont vu améliorés par des semelles orthopédiques après un bilan de posturologie. Je pense que cette piste est à explorer pour les lombalgies chroniques et que les résultats peuvent être concluants quand l'indication est bien portée.
 
@@ -90,79 +90,79 @@ La lombalgie commune est fréquente mais très invalidante. De nombreux facteurs
 ## Sources
 
 [^1]: Koes B W, van Tulder M W, Thomas S.
-      [Diagnosis and treatment of low back pain](http://www.bmj.com/content/bmj/332/7555/1430.full.pdf).
+      [Diagnosis and treatment of low back pain](https://www.bmj.com/content/332/7555/1430).
       British Medical Journal (2006) 332:1430
 
 [^2]: Agence Nationale d'Accréditation et d'Evaluation en Santé, Service des recommandations et références professionnelles.
-      [Diagnostic, prise en charge et suivi des malades atteints de lombalgie chroniques](http://www.has-sante.fr/portail/upload/docs/application/pdf/lombalgie_dec2000_recos.pdf)
+      [Diagnostic, prise en charge et suivi des malades atteints de lombalgie chroniques](https://www.has-sante.fr/portail/upload/docs/application/pdf/lombalgie_dec2000_recos.pdf)
       Décembre 2000
 
 [^3]: John C Licciardone, Angela K Brimhall and Linda N King.
-      [Osteopathic manipulative treatment for low back pain: a systematic review and meta-analysis of randomized controlled trials](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1208896/).
+      [Osteopathic manipulative treatment for low back pain: a systematic review and meta-analysis of randomized controlled trials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1208896/).
       BMC Musculoskeletal Disorders (2005) Vol 6, N°43
 
 [^4]: Clinical Guideline Subcommittee on Low Back Pain, Special Communication.
-      [American Osteopathic Association guidelines for osteopathic manipulative treatment (OMT) for patients with low back pain](http://www.jaoa.org/content/110/11/653.long).
+      [American Osteopathic Association guidelines for osteopathic manipulative treatment (OMT) for patients with low back pain](https://www.degruyter.com/document/doi/10.7556/jaoa.2016.107/html).
       The Journal of the American Osteopathic Association (2011) Vol 110, N°11 - p 653-666
 
 [^5]: Cruser dA, Maurer D, Hensel K, Brown SK, White K, Stoll ST.
-      [A randomized, controlled trial of osteopathic manipulative treatment for acute low back pain in active duty military personnel](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3267441/).
+      [A randomized, controlled trial of osteopathic manipulative treatment for acute low back pain in active duty military personnel](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3267441/).
       Journal of Manual and Manipulative Therapy (2012) Vol 20, N°1 - p 5-15
 
 [^6]: Licciardone JC, Kearns CM, Minotti DE.
-      [Outcomes of osteopathic manual treatment for chronic low back pain according to baseline pain severity: results from the OSTEOPATHIC Trial](http://www.manualtherapyjournal.com/article/S1356-689X(13)00084-2/fulltext).
+      [Outcomes of osteopathic manual treatment for chronic low back pain according to baseline pain severity: results from the OSTEOPATHIC Trial](https://www.sciencedirect.com/science/article/pii/S1356689X13000842).
       Manual Therapy (2013) Vol 18, N°6 - p533-540
 
 [^7]: Licciardone JC.
-      [The Osteopathic Trial Demonstrates Significant Improvement in Patients With Chronic Low Back Pain as Manifested by Decreased Prescription Rescue Medication Use](http://www.jaoa.osteopathic.org/content/114/7/528.full.pdf+html).
+      [The Osteopathic Trial Demonstrates Significant Improvement in Patients With Chronic Low Back Pain as Manifested by Decreased Prescription Rescue Medication Use](https://www.degruyter.com/document/doi/10.7556/jaoa.2014.103/html).
       The Journal of the American Osteopathic Association (2014) Vol 114, N°7 - p 528-529
 
 [^8]: Andersson GB, Lucente T, Davis AM, Kappler RE, Lipton JA, Leurgans S.
-      [A comparison of osteopathic spinal manipulation with standard care for patients with low back pain](http://www.nejm.org/doi/full/10.1056/NEJM199911043411903).
+      [A comparison of osteopathic spinal manipulation with standard care for patients with low back pain](https://www.nejm.org/doi/full/10.1056/NEJM199911043411903).
       The New England Journal of Medicine (1999) Vol4, N°19 - p 1426-1431
 
 [^9]: Chuter V, Spink M, Searle A, Ho A.
-      [The effectiveness of shoe insoles for the prevention and treatment of low back pain: a systematic review and meta-analysis of randomised controlled trials](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4107719/).
+      [The effectiveness of shoe insoles for the prevention and treatment of low back pain: a systematic review and meta-analysis of randomised controlled trials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4107719/).
       BMC Musculoskeletal Disorders (2014) Vol 15, N°140
 
 [^10]: Yves Henchoz.
-       [Lombalgies non spécifiques : faut-il recommander l'exercice et les activités sportives ?](http://rms.medhyg.ch/numero-286-page-612.htm)
+       [Lombalgies non spécifiques : faut-il recommander l'exercice et les activités sportives ?](https://www.revmed.ch/revue-medicale-suisse/2011/revue-medicale-suisse-286/lombalgies-non-specifiques-faut-il-recommander-l-exercice-et-les-activites-sportives)
        Revue Médicale Suisse (2011) N°7 - p 612-616
 
 [^11]: Ribaud A1, Tavares I, Viollet E, Julia M, Hérisson C, Dupeyron A.
-       [Which physical activities and sports can be recommended to chronic low back pain patients after rehabilitation?](http://www.ncbi.nlm.nih.gov/pubmed/24140440)
+       [Which physical activities and sports can be recommended to chronic low back pain patients after rehabilitation?](https://pubmed.ncbi.nlm.nih.gov/24140440)/
        Annal of Physical and Rehabilitation Medecine (2013) Vol 56, N°7 - p 576-594.
 
 [^12]: Wells C, Kolt GS, Marshall P, Hill B, Bialocerkowski A.
-       [The effectiveness of pilates exercise in people with chronic low back pain: a systematic review](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4077575/).
+       [The effectiveness of pilates exercise in people with chronic low back pain: a systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4077575/).
        PLOS One (2014) Vol 9, N°7
 
 [^13]: Dossier médico-technique INRS.
-       [Lombalgie et ceinture lombaire : revue de la littérature](http://www.inrs.fr/accueil/produits/mediatheque/doc/publications.html?refINRS=TC%2079).
+       [Lombalgie et ceinture lombaire : revue de la littérature](https://www.inrs.fr/media.html?refINRS=TC%2079).
        Documents pour le médecin du travail (2000) N° 84
 
 [^14]: Chowdhury D, Sarkar S, Rashid MH, Rahaman A, Sarkar SK, Roy R.
-       [Influence of body mass index on low back pain](http://www.ncbi.nlm.nih.gov/pubmed/24584385).
+       [Influence of body mass index on low back pain](https://pubmed.ncbi.nlm.nih.gov/24584385/).
        Mymensingh Medical Journal (2014) Vol 23, N°1 - p 125-129
 
 [^15]: Goldberg MS, Scott SC, Mayo NE.
-       [A Review of the Association Between Cigarette Smoking and the Development of Nonspecific Back Pain and Related Outcomes](http://www.ncbi.nlm.nih.gov/pubmed/10767814).
+       [A Review of the Association Between Cigarette Smoking and the Development of Nonspecific Back Pain and Related Outcomes](https://pubmed.ncbi.nlm.nih.gov/10767814/).
        Spine (2000) Vol 25, N°8 - p 995-1014
 
 [^16]: Fahad Alkherayf, Eugene K Wai, Eve C Tsai, and Charles Agbi.
-       [Daily smoking and lower back pain in adult Canadians: the Canadian Community Health Survey](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004651/).
+       [Daily smoking and lower back pain in adult Canadians: the Canadian Community Health Survey](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004651/).
        Journal of Pain Research (2010) N°3 - p 155-160
 
 [^17]: Shiri R1, Karppinen J, Leino-Arjas P, Solovieva S, Viikari-Juntura E.
-       [The association between smoking and low back pain: a meta-analysis](http://www.ncbi.nlm.nih.gov/pubmed/20102998).
+       [The association between smoking and low back pain: a meta-analysis](https://pubmed.ncbi.nlm.nih.gov/20102998/).
        The American Journal of Medicine (2010) Vol 123, N°1 - p 87
 
 [^18]: M. Marty, S. Rozenberg, B. Duplan, P. Thomas, B. Duquesnoy, F. Allaert, et la Section Rachis de la Société Française de Rhumatologie.
-       [Qualité du sommeil et lombalgie chronique](http://www.sciencedirect.com/science/article/pii/S1624568704945854).
+       [Qualité du sommeil et lombalgie chronique](https://www.sciencedirect.com/science/article/abs/pii/S1624568704945854).
        Douleurs : Evaluation - Diagnostic - Traitement (2004) Vol 5 suppl 1 - p 29
 
 [^19]: Jacobson BH, Boolani A, Smith DB.
-       [Changes in back pain, sleep quality, and perceived stress after introduction of new bedding systems](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697581/).
+       [Changes in back pain, sleep quality, and perceived stress after introduction of new bedding systems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2697581/).
        Journal of Chiropractic Medicine (2009) Vol 8, N°1 - p 1-8
 
 [^20]: [Emission C la santé - Sujet : mal au dos](https://www.youtube.com/watch?v=lcnJSTwWriM).
@@ -170,9 +170,9 @@ La lombalgie commune est fréquente mais très invalidante. De nombreux facteurs
        Invités : Dr Pierre-Olivier PINELLI (chirurgien orthopédiste) et Pr Jean NAUDIN (psychiatre)
 
 [^21]: Prinsen JK, Hensel KL, Snow RJ.
-       [OMT associated with reduced analgesic prescribing and fewer missed work days in patients with low back pain: an observational study](http://www.ncbi.nlm.nih.gov/pubmed/24481801).
+       [OMT associated with reduced analgesic prescribing and fewer missed work days in patients with low back pain: an observational study](https://pubmed.ncbi.nlm.nih.gov/24481801/).
        The Journal of the American Osteopathic Association (2014) Vol 114, N°2 - p 90-98
 
 [^22]: INRS.
-       [Les lombalgies](http://www.inrs.fr/accueil/produits/mediatheque/doc/publications.html?refINRS=DW%2030).
+       [Les lombalgies](https://www.inrs.fr/media.html?refINRS=DW%2030).
        2010

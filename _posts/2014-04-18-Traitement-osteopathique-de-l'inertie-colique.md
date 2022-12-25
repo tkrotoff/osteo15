@@ -14,9 +14,9 @@ Avant d'envisager une intervention chirurgicale, la prise en charge ostéopathiq
 ## Sources
 
 [^1]: A. Alves, B. Coffin, Y. Panis.
-      [Traitement chirurgical de l'inertie colique](http://www.sciencedirect.com/science/article/pii/S0003394404001646)
+      [Traitement chirurgical de l'inertie colique](https://www.sciencedirect.com/science/article/abs/pii/S0003394404001646)
       Annales de Chirurgie, Volume 129, Issue 8, October 2004, Pages 400–404
 
 [^2]: Cohen-Lewe A.
-      [Osteopathic manipulative treatment for colonic inertia](http://www.ncbi.nlm.nih.gov/pubmed/23485982).
+      [Osteopathic manipulative treatment for colonic inertia](https://pubmed.ncbi.nlm.nih.gov/23485982/).
       The Journal of the American Osteopathic Association, 2013 Jun

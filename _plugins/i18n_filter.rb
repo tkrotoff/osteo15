@@ -7,7 +7,7 @@ I18n.config.available_locales = [:fr]
 
 LOCALE = Jekyll.configuration({})['lang'] # set your locale from config var
 
-# Create folder "_locales" and put some locale file from https://github.com/svenfuchs/rails-i18n/tree/master/rails/locale
+# Create folder "_locales" and put some locale file from https://github.com/svenfuchs/rails-i18n/tree/3602742fb8c9b5f213e9be32a030d39f1062b00d/rails/locale
 module Jekyll
   module I18nFilter
     # Example:

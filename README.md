@@ -44,7 +44,7 @@ ln -s -f ../../git-hooks/pre-push .git/hooks/pre-push
 
 ## Utilisation de post_url
 
-Pour générer un lien vers un post, il faut utiliser la fonction [post_url](http://jekyllrb.com/docs/templates/#post-url) de Jekyll :
+Pour générer un lien vers un post, il faut utiliser la fonction [post_url](https://jekyllrb.com/docs/liquid/tags/#linking-to-posts) de Jekyll :
 ```HTML
 {% post_url 2014-08-08-Lombalgie-paracetamol-et-osteopathie %}
 voir [l'article sur la lombalgie et le paracétamol]({% post_url 2014-08-08-Lombalgie-paracetamol-et-osteopathie %})
@@ -71,15 +71,15 @@ Liste des caractères valides pour une URL : [`ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefg
 ### URLs
 
 Par exemple, les espaces ne sont pas autorisés : [HTML href syntax: is it okay to have space in file name?](https://stackoverflow.com/q/4172579).
-Il faut utiliser [cgi_escape](http://jekyllrb.com/docs/templates/).
+Il faut utiliser [cgi_escape](https://jekyllrb.com/docs/liquid/filters/).
 
 Exemple :
 ```HTML
 <!-- site.address_short = "7 rue de Langeac Paris 15" -->
-<a href="http://maps.apple.com/?q={{ site.address_short | cgi_escape }}">{{ site.address_short }}</a>
+<a href="https://maps.apple.com/?q={{ site.address_short | cgi_escape }}">{{ site.address_short }}</a>
 <!--
-  URL générée : "http://maps.apple.com/?q=7+rue+de+Langeac+Paris+15"
-  au lieu de : "http://maps.apple.com/?q=7 rue de Langeac Paris 15"
+  URL générée : "https://maps.apple.com/?q=7+rue+de+Langeac+Paris+15"
+  au lieu de : "https://maps.apple.com/?q=7 rue de Langeac Paris 15"
 -->
 ```
 
@@ -103,17 +103,17 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 
 ## Formats des images
 
-- Le format non destructeur [PNG](http://fr.wikipedia.org/wiki/Portable_Network_Graphics) (.png) adapté pour les images simples comprenant des aplats de couleurs
-- Le format destructeur [JPEG](http://fr.wikipedia.org/wiki/JPEG) (.jpg) pour la photographie
+- Le format non destructeur [PNG](https://fr.wikipedia.org/wiki/Portable_Network_Graphics) (.png) adapté pour les images simples comprenant des aplats de couleurs
+- Le format destructeur [JPEG](https://fr.wikipedia.org/wiki/JPEG) (.jpg) pour la photographie
 
 ## Figures
 
 ```HTML
-{% include figure.html src="/assets/2014-03-15/Le-ventre-notre-deuxieme-cerveau.jpg" caption='Affiche du documentation "Le ventre, notre deuxième cerveau"' href="http://future.arte.tv/fr/le-ventre" %}
+{% include figure.html src="/assets/2014-03-15/Le-ventre-notre-deuxieme-cerveau.jpg" caption='Affiche du documentation "Le ventre, notre deuxième cerveau"' href="https://boutique.arte.tv/detail/ventre_notre_deuxieme_cerveau" %}
 ```
 
 ```HTML
-{% include figure.html src="/assets/2014-04-15/Gel-douche,-peaux-sensibles-s'abstenir.jpg" caption="Affiche du documentation \"Gel douche, peaux sensibles s'abstenir\"" href="http://www.france5.fr/emission/gel-douche-peaux-sensibles-sabstenir/diffusion-du-13-04-2014-20h35" %}
+{% include figure.html src="/assets/2014-04-15/Gel-douche,-peaux-sensibles-s'abstenir.jpg" caption="Affiche du documentation \"Gel douche, peaux sensibles s'abstenir\"" href="https://web.archive.org/web/20161203061420/https://www.france5.fr/emission/gel-douche-peaux-sensibles-sabstenir/diffusion-du-13-04-2014-20h35" %}
 ```
 
 ```HTML
@@ -127,7 +127,7 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 
 ## Grille HTML
 
-Voir la documentation de Bootstrap : http://getbootstrap.com/css/#grid
+Voir la documentation de Bootstrap : https://getbootstrap.com/docs/3.4/css/#grid
 
 ## Intégration d'une vidéo
 
@@ -155,12 +155,12 @@ Voir la documentation de Bootstrap : http://getbootstrap.com/css/#grid
 - oe -> œ
 - °
 
-Voir Character Entities Cheat Sheet : http://brajeshwar.github.io/entities/
+Voir Character Entities Cheat Sheet : https://oinam.github.io/entities/
 
 ## Conventions de style
 
-- http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Conventions_de_style
-- http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style
+- https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Conventions_de_style
+- https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style
 
 ## Tags/hashtags
 
@@ -180,18 +180,18 @@ Règles sur Twitter :
 ## Sitemap
 
 - [Jekyll Sitemap Generator Plugin](https://github.com/jekyll/jekyll-sitemap)
-- [Building a Better Sitemap.xml with Jekyll](http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/)
-- [Sitemaps XML format](http://www.sitemaps.org/protocol.html)
-- [Rakefile example for Jekyll](https://github.com/chrisanthropic/slim-pickins-jekyll-theme/blob/master/Rakefile)
+- [Building a Better Sitemap.xml with Jekyll](https://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/)
+- [Sitemaps XML format](https://www.sitemaps.org/protocol.html)
+- [Rakefile example for Jekyll](https://github.com/chrisanthropic/slim-pickins-jekyll-theme/blob/b78100385c83d7aa574742fd9494e10c20797147/Rakefile)
 
 ## Hébergement
 
 Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 
-- [Hosting a Static Website on Amazon Web Services](http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html)
-- [Hosting a static (Jekyll) blog on Amazon S3](http://www.savjee.be/2013/02/howto-host-jekyll-blog-on-amazon-s3/)
-- [Enable gzip for Jekyll blogs on Amazon S3](http://www.savjee.be/2014/03/Jekyll-to-S3-deploy-script-with-gzip/)
-- [Static website on S3, CloudFront and Route 53, the right way!](http://www.michaelgallego.fr/blog/2013/08/27/static-website-on-s3-cloudfront-and-route-53-the-right-way/)
+- [Hosting a Static Website on Amazon Web Services](https://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html)
+- [Hosting a static (Jekyll) blog on Amazon S3](https://www.savjee.be/2013/02/howto-host-jekyll-blog-on-amazon-s3/)
+- [Enable gzip for Jekyll blogs on Amazon S3](https://www.savjee.be/2014/03/Jekyll-to-S3-deploy-script-with-gzip/)
+- [Static website on S3, CloudFront and Route 53, the right way!](https://www.michaelgallego.fr/blog/2013/08/27/static-website-on-s3-cloudfront-and-route-53-the-right-way/)
 - [Avoiding the Duplicate Content Penalty with AWS S3 and CloudFront](https://bryce.fisher-fleig.org/blog/avoiding-duplicate-content-penalty-with-aws-s3-and-cloudfront/)
 
 ## SEO
@@ -199,24 +199,24 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 ### Outils
 
 - [Google Webmaster](https://www.google.com/webmasters/)
-- [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
-- [WebPage Test - Test a website's performance](http://www.webpagetest.org/)
-- [GTmetric - Perfomance Analysis](http://gtmetrix.com/)
-- [Pingdom Speed Test](http://tools.pingdom.com/fpt/)
-- [Improving your Blog visibility](http://blog.penso.info/2015/03/21/improve-blog-visibility/)
-- [24 outils pour mesurer et optimiser les temps de chargement de votre site web](http://korben.info/23-outils-pour-mesurer-et-optimiser-les-temps-de-chargement-de-votre-site-web.html)
+- [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster)
+- [WebPage Test - Test a website's performance](https://www.webpagetest.org/)
+- [GTmetric - Perfomance Analysis](https://gtmetrix.com/)
+- [Pingdom Speed Test](https://tools.pingdom.com/fpt/)
+- [Improving your Blog visibility](https://blog.penso.info/2015/03/21/improve-blog-visibility/)
+- [24 outils pour mesurer et optimiser les temps de chargement de votre site web](https://korben.info/23-outils-pour-mesurer-et-optimiser-les-temps-de-chargement-de-votre-site-web.html)
 
 ### Documentation
 
 - [Google - Search Engine Optimization Starter Guide](https://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
-- [OpenClassrooms - Améliorez la visibilité de votre site grâce au référencement](http://openclassrooms.com/courses/ameliorez-la-visibilite-de-votre-site-grace-au-referencement)
-- [SEO Best Practices 2014](http://www.slideshare.net/PierreMFioriniPhD/seo-best-practices-for-2014-beyond-dd)
+- [OpenClassrooms - Améliorez la visibilité de votre site grâce au référencement](https://openclassrooms.com/courses/ameliorez-la-visibilite-de-votre-site-grace-au-referencement)
+- [SEO Best Practices 2014](https://www.slideshare.net/PierreMFioriniPhD/seo-best-practices-for-2014-beyond-dd)
 
 ## Minification
 
 - [Octopress Minify Html](https://github.com/octopress/minify-html)
-- [Speeding up Jekyll site](http://dmytro.github.io/2013/10/29/optimizing_jekyll.html)
-- [How I use Reduce to Minify and Optimize Assets for Production](http://davidensinger.com/2013/08/how-i-use-reduce-to-minify-and-optimize-assets-for-production/)
+- [Speeding up Jekyll site](https://dmytro.github.io/2013/10/29/optimizing_jekyll.html)
+- [How I use Reduce to Minify and Optimize Assets for Production](https://davidensinger.com/2013/08/how-i-use-reduce-to-minify-and-optimize-assets-for-production/)
 
 ## Optimisation des images
 
@@ -226,18 +226,18 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 
 ## Validation du site
 
-- [Jekyll - The Test script](http://jekyllrb.com/docs/continuous-integration/#the-test-script)
+- [Jekyll - The Test script](https://jekyllrb.com/docs/continuous-integration/#the-test-script)
 - [HTML::Proofer](https://github.com/gjtorikian/html-proofer)
 - [validate-website](https://github.com/spk/validate-website)
 
 ## Multilingue
 
-- [Jekyll: Multilingual](http://kleinfreund.de/en/2014/08/jekyll-multilingual/)
+- [Jekyll: Multilingual](https://kleinfreund.de/en/2014/08/jekyll-multilingual/)
 
 ## Meta data
 
-- [GitHub davidensinger.github.io](https://github.com/davidensinger/davidensinger.github.io/blob/source/app/_includes/header.html)
-- [Adding schema.org metadata to Jekyll](http://veithen.github.io/2014/11/17/jekyll-schema-org-metadata.html)
+- [GitHub davidensinger.github.io](https://github.com/davidensinger/davidensinger.github.io/blob/8845520aa2d09d05a8f171c6cff40f5d1bbca657/app/_includes/header.html)
+- [Adding schema.org metadata to Jekyll](https://veithen.github.io/2014/11/17/jekyll-schema-org-metadata.html)
 
 ### Outils
 
@@ -245,7 +245,7 @@ Amazon Simple Storage Service (S3), Route 53 DNS, CloudFront CDN
 - [Google+ Snippet](https://developers.google.com/+/web/snippet/)
 - [Facebook Debugger](https://developers.facebook.com/tools/debug/)
 - [Twitter card validator](https://cards-dev.twitter.com/validator)
-- [Structured Data Linter](http://linter.structured-data.org/)
+- [Structured Data Linter](https://linter.structured-data.org/)
 - [Yandex Structured data validator](https://webmaster.yandex.com/microtest.xml)
 
 ## Emuler Android stock browser

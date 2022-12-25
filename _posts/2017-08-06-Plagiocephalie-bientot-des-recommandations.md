@@ -5,7 +5,7 @@ tags: [bébé, plagiocéphalie]
 last_modified_at: '2020-03-27'
 ---
 
-Les choses vont enfin bouger pour les plagiocéphalies (= tête plate des bébés). Actuellement, il n'existe aucun document officiel français sur les plagiocéphalies et les parents se trouvent pour la plupart complètement démunis lorsque leur enfant présente une déformation positionnelle du crâne.
+Les choses vont enfin bouger pour les plagiocéphalies (= tête plate des bébés). Actuellement, il n'existe aucun document officiel français sur les plagiocéphalies et les parents se trouvent pour la plupart démunis lorsque leur enfant présente une déformation positionnelle du crâne.
 
 Certains des parents qui m'amènent leur bébé pour plagiocéphalie se sont vu entendre dire que : "ce n'est pas grave", que "ce n'est qu'esthétique", que "les cheveux pousseront et cacheront l'asymétrie ou le méplat du crâne"... Oui, certains enfants auront une amélioration spontanée de la forme du crâne (selon le degré de la déformation et le degré d'asymétrie), mais pas tous. D'où l'intrerêt de prendre en considération les effets de la campagne du dodo sur le dos (en prévention de [la mort subite du nourrisson](https://fr.wikipedia.org/wiki/Mort_subite_du_nourrisson)) sur le crâne des bébés et d'informer tant les professionnels que les parents sur la prévention, le traitement et les conséquences des plagiocéphalies.
 
@@ -23,7 +23,7 @@ Une information claire aux parents, l'établissement d'un protocole de prise en 
 
 ## La plagiocéphalie positionnelle au programme de travail de la HAS
 
-Mais les choses vont enfin bouger grâce à l'association [Le LIEN](http://www.lelien-association.fr/asso/?qui-sommes-nous), qui a saisi la HAS (le 4 avril 2017, journée mondiale de la plagiocéphalie) justement sur l'augmentation des plagiocéphalies depuis la campagne du dodo sur le dos (cette campagne a permis une réduction de 75% de mort subite du nourrisson). La HAS a donc demandé à ce que des documents à destination des professionnels et du public soient créés [^1] : "une fiche mémo destinée aux professionnels de santé ; un document d'information destiné au public" et rappelle que les plagiocéphalies positionnelles peuvent être à l'origine de "complications mécaniques, sur le plan maxillo-facial ou cervico-brachial, voire cognitives" [^1].
+Mais les choses vont enfin bouger grâce à l'association [Le LIEN](http://lelien-association.fr/asso/?qui-sommes-nous), qui a saisi la HAS (le 4 avril 2017, journée mondiale de la plagiocéphalie) justement sur l'augmentation des plagiocéphalies depuis la campagne du dodo sur le dos (cette campagne a permis une réduction de 75% de mort subite du nourrisson). La HAS a donc demandé à ce que des documents à destination des professionnels et du public soient créés [^1] : "une fiche mémo destinée aux professionnels de santé ; un document d'information destiné au public" et rappelle que les plagiocéphalies positionnelles peuvent être à l'origine de "complications mécaniques, sur le plan maxillo-facial ou cervico-brachial, voire cognitives" [^1].
 
 La HAS estime donc nécessaire "de mettre en place une évaluation médicale de cette situation pour qu'évoluent les recommandations destinées à lutter contre la mort inattendue du nourrisson tout en veillant à ne pas créer d'autres troubles contraires au bon développement de ceux-ci" [^1].
 
@@ -38,11 +38,11 @@ En tant qu'ostéopathe, j'espère sincèrement que :
 
 ## S'informer sur les plagiocéphalies positionnelles
 
-- [Association Plagiocéphalie Info et Soutien](http://association-plagiocephalie-info-et-soutien.fr/). Association qui a arrêté ses activités en 2015 mais dont les ressources sur leur site sont toujours disponibles.
+- [Association Plagiocéphalie Info et Soutien](https://web.archive.org/web/20201003230829/http://association-plagiocephalie-info-et-soutien.fr/). Association qui a arrêté ses activités en 2015 mais dont les ressources sur leur site sont toujours disponibles.
 - article du blog : [La plagiocéphalie positionnelle]({% post_url 2014-07-24-La-plagiocephalie-positionnelle %})
-- livre : [Mon bébé n'aura pas la tête plate. Prévenir et traiter la plagiocéphalie](https://livre.fnac.com/a8194584/Bernadette-de-Gasquet-Mon-bebe-n-aura-pas-la-tete-plate?Origin=fnac_google) de Bernadette de Gasquet et Thierry Marck - 2015
+- livre : [Mon bébé n'aura pas la tête plate. Prévenir et traiter la plagiocéphalie](https://livre.fnac.com/a8194584/Dr-Bernadette-de-Gasquet-Mon-bebe-n-aura-pas-la-tete-plate) de Bernadette de Gasquet et Thierry Marck - 2015
 
 ## Sources
 
-[^1]: [Décision n°2017.0086/DC/MRAPU du 28 juin 2017 du collège de la Haute Autorité de santé portant sur le droit d'alerte prévu à l'article L. 161-37 du code de la sécurité sociale](https://www.has-sante.fr/portail/upload/docs/application/pdf/2017-07/dir33/dc_2017_0086_droit_d_alerte_le_lien_plagiocephalie_cd_2017_06_28_vd.pdf)
-[^2]: [Les morts inattendues des nourrissons de moins de 2 ans. Enquête nationale 2007-2009.](https://www.santepubliquefrance.fr/docs/les-morts-inattendues-des-nourrissons-de-moins-de-2-ans.-enquete-nationale-2007-2009) Juliette Bloch, Pierre Denis, Delphine Jezewski-Serra et le comité de pilotage - INVS
+[^1]: [Décision n°2017.0086/DC/MRAPU du 28 juin 2017 du collège de la Haute Autorité de santé portant sur le droit d'alerte prévu à l'article L. 161-37 du code de la sécurité sociale](https://www.has-sante.fr/upload/docs/application/pdf/2017-07/dir33/dc_2017_0086_droit_d_alerte_le_lien_plagiocephalie_cd_2017_06_28_vd.pdf)
+[^2]: [Les morts inattendues des nourrissons de moins de 2 ans. Enquête nationale 2007-2009.](https://www.santepubliquefrance.fr/view/content/463192/full/1/543874) Juliette Bloch, Pierre Denis, Delphine Jezewski-Serra et le comité de pilotage - INVS

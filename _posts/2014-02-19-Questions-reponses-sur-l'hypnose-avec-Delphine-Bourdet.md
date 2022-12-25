@@ -6,9 +6,9 @@ tags: [hypnose, interview]
 last_modified_at: '2014-11-27'
 ---
 
-Delphine Bourdet, [sophrologue et hypnothérapeute à Paris 15](http://delphinebourdet.com/) répond aux questions les plus fréquentes que vous vous posez sur l'hypnose.
+Delphine Bourdet, [sophrologue et hypnothérapeute à Paris 15](https://delphinebourdet.com/) répond aux questions les plus fréquentes que vous vous posez sur l'hypnose.
 
-{% include figure.html src="/assets/2014-02-19/Delphine-Bourdet.jpg" caption="Delphine Bourdet" href="http://delphinebourdet.com/" %}
+{% include figure.html src="/assets/2014-02-19/Delphine-Bourdet.jpg" caption="Delphine Bourdet" href="https://delphinebourdet.com/" %}
 
 ## Quel est le but de l'hypnose ?
 
@@ -66,13 +66,13 @@ Souvent quand je pratique une séance, je ne sais pas ce que je vais raconter à
 ## Sources
 
 - Maquet P, Faymonville ME, Degueldre C, Delfiore G, Franck G, Luxen A, Lamy M.
-  [Functional neuroanatomy of hypnotic state](http://www.ncbi.nlm.nih.gov/pubmed/10023510).
+  [Functional neuroanatomy of hypnotic state](https://pubmed.ncbi.nlm.nih.gov/10023510/).
   Biological Psychiatry, vol. XLV, n°3, février 1999
 
 - Lang EV, Benotsch EG, Fick LJ, Lutgendorf S, Berbaum ML, Berbaum KS, Logan H, Spiegel D.
-  [Adjunctive non pharmacological analgesia for invasive medical procedures: A randomised trial](http://www.ncbi.nlm.nih.gov/pubmed/10801169).
+  [Adjunctive non pharmacological analgesia for invasive medical procedures: A randomised trial](https://pubmed.ncbi.nlm.nih.gov/10801169/).
   The Lancet, vol. CCCLV, 29 avril 2000
 
 - Gay MC, Philippot P, Luminet O.
-  [Differential effectiveness of psychological interventions for reducing osteoarthritis pain: A comparison of Erickson hypnosis and Jacobson relaxation](http://www.ncbi.nlm.nih.gov/pubmed/11888223).
+  [Differential effectiveness of psychological interventions for reducing osteoarthritis pain: A comparison of Erickson hypnosis and Jacobson relaxation](https://pubmed.ncbi.nlm.nih.gov/11888223/).
   European Journal of Pain, 2002

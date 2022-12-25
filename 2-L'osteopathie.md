@@ -54,4 +54,4 @@ Mais l'ostéopathie n'est pas une thérapie manuelle juste utile à débloquer u
 - Accompagnement des [seniors](/Osteopathie-pour-les-seniors/)
 - Accompagnement des traitements orthodontiques, de posturologie...
 
-Cette liste d'indications n'est pas exhaustive. Pour plus d'informations, vous pouvez consulter le site de l'[UFOF](http://www.osteofrance.com/), le site de [M. Jean Louis Boutin](http://www.osteopathie-france.net/essai/associations/930-indic-osteo) ou contacter [votre ostéopathe](/Contact/).
+Cette liste d'indications n'est pas exhaustive. Pour plus d'informations, vous pouvez consulter le site de l'[UFOF](https://www.osteofrance.com/) ou contacter [votre ostéopathe](/Contact/).

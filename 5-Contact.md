@@ -17,7 +17,7 @@ Consultations sur rendez-vous du lundi au vendredi 10h - 20h et le samedi 11h - 
 
 <div class="row">
   <!--
-    [Module de prise de RDV](http://developers.clicrdv.com/fr/api-module-prise-rdv.html)
+    [Module de prise de RDV](https://developers.clicrdv.com/fr/api-module-prise-rdv.html)
     Testing URL: https://www.clicrdv.com/932-osteopathe?nologo=1&popin=1&mobile=1
   -->
   <!--
@@ -38,7 +38,7 @@ Consultations sur rendez-vous du lundi au vendredi 10h - 20h et le samedi 11h - 
   - Métro : Convention [ligne 12](/assets/8-rue-Desnouettes/RATP/m12.png)
   - Tram : Porte de Versailles [T2](/assets/8-rue-Desnouettes/RATP/t2.png) et [T3](/assets/8-rue-Desnouettes/RATP/t3.png)
   - Bus : [39](/assets/8-rue-Desnouettes/RATP/39.png), [80](/assets/8-rue-Desnouettes/RATP/80.png) et [62](/assets/8-rue-Desnouettes/RATP/62.png)
-  - Voir aussi le [plan RATP du quartier](https://www.ratp.fr/plan-quartier?address=7%2C+Rue+de+Langeac%2C+75015%2C+Paris)
+  - [Plan RATP du quartier](https://www.ratp.fr/plan-quartier?address=7+Rue+de+Langeac+75015+Paris)
   </div>
 </div>
 

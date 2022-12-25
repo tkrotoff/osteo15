@@ -6,9 +6,9 @@ tags: [FemmeEnceinte, HAS]
 last_modified_at: '2014-11-27'
 ---
 
-La HAS (Haute Autorité de Santé) a rédigé un document d'information destiné aux femmes enceintes qui explique de façon claire les indications de césarienne ainsi que le déroulement d'un accouchement sous césarienne : ["La césarienne : ce que toute femme enceinte devrait savoir..."](http://www.has-sante.fr/portail/jcms/c_1603546/fr/la-cesarienne-ce-que-toute-femme-enceinte-devrait-savoir-document-d-information-destine-aux-femmes-enceintes).
+La HAS (Haute Autorité de Santé) a rédigé un document d'information destiné aux femmes enceintes qui explique de façon claire les indications de césarienne ainsi que le déroulement d'un accouchement sous césarienne : ["La césarienne : ce que toute femme enceinte devrait savoir..."](https://www.has-sante.fr/portail/jcms/c_1603546/fr/la-cesarienne-ce-que-toute-femme-enceinte-devrait-savoir-document-d-information-destine-aux-femmes-enceintes).
 
-[![La césarienne : ce que toute femme enceinte devrait savoir...](/assets/2014-03-21/HAS-La-cesarienne.png)](http://www.has-sante.fr/portail/upload/docs/application/pdf/2013-07/brochure_patient_cesarienne_mel_2013-07-02_11-25-35_632.pdf)
+[![La césarienne : ce que toute femme enceinte devrait savoir...](/assets/2014-03-21/HAS-La-cesarienne.png)](https://www.has-sante.fr/portail/upload/docs/application/pdf/2013-07/brochure_patient_cesarienne_mel_2013-07-02_11-25-35_632.pdf)
 
 > En France, près d'une femme sur cinq donne naissance par césarienne que celle-ci soit programmée ou réalisée en urgence. Ce document d'information explique pourquoi chez certaines femmes une césarienne est réalisée et décrit les différentes étapes de cette intervention.
 >

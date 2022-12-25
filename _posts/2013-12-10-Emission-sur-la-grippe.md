@@ -5,7 +5,7 @@ tags: [TV, grippe]
 last_modified_at: '2014-11-27'
 ---
 
-Chouette émission hier soir sur France 3 intitulée ["Grippe, virus, microbes : la guerre est déclarée"](http://www.france3.fr/emission/tout-peut-changer/diffusion-du-09-12-2013-20h45).
+Chouette émission sur France 3 intitulée ["Grippe, virus, microbes : la guerre est déclarée"](https://www.france.tv/france-3/tout-peut-changer/saison-1/8629-grippe-virus-microbes-la-guerre-est-declaree.html).
 
 Si vous-vous interrogez sur :
 

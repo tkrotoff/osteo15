@@ -23,7 +23,7 @@ Ces 3 "points de vue" étant en étroite relation les uns avec les autres :
 - Le physique / somatique influe sur le psychique et le métabolisme du patient.
 - Le métabolisme influe sur le psychique et le physique.
 
-Voici [la définition de l'état de santé selon L'OMS](http://www.who.int/suggestions/faq/fr/) qui va dans le sens de cette vision globale :
+Voici [la définition de l'état de santé selon L'OMS](https://www.who.int/fr/about/frequently-asked-questions) qui va dans le sens de cette vision globale :
 
 > La santé est un état de complet bien-être physique, mental et social, et ne consiste pas seulement en une absence de maladie ou d'infirmité
 

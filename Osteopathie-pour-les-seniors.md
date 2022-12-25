@@ -20,4 +20,4 @@ Avec le temps, certaines pathologies prennent place et perturbent l'équilibre d
 - _La prévention tertiaire_ minimise une pathologie déjà présente et cherche à diminuer l'invalidité du patient. Lorsque la maladie est présente, le praticien soutient la santé en minorant les différents troubles annexes et conjoints. Une entorse de la cheville, un lumbago ou une douleur ne peuvent que rajouter à la peine d'une personne atteinte de Parkinson,
   d'insuffisance respiratoire ou d'un cancer. Lutter efficacement contre les effets néfastes du vieillissement passe obligatoirement par le maintien d'un équilibre postural aussi parfait que possible. Plus tôt la prise en main s'effectue, plus les chances d'éviter une perte de mobilité importante augmentent. Œuvrant dans le domaine de l'innocuité et de la douceur, l'ostéopathie dans sa philosophie, partenaire de santé efficace tout au long du parcours de vie et de ses risques, propose une réponse pour maintenir le bien-être quelque soit l'âge.
 
-Source : [UFOF](http://www.osteofrance.com/osteopathie/bienvieillir/).
+Source : [UFOF](https://osteofrance.com/osteopathie/bien-vieillir/).

@@ -38,7 +38,7 @@ Les plagiocéphalies positionnelles ont pour origine des contraintes mécaniques
 
 ### Pendant la grossesse
 
-On retrouvera tout ce qui peut augmenter les pressions exercées sur le crâne du fœtus : grossesse multiple (56% des jumeaux contre 11 à 13% des enfants uniques), [oligoamnios](http://www.larousse.fr/encyclopedie/medical/oligoamnios/14920), mauvaise position (ex: siège), malformations utérines, alitement de la maman, engagement précoce...
+On retrouvera tout ce qui peut augmenter les pressions exercées sur le crâne du fœtus : grossesse multiple (56% des jumeaux contre 11 à 13% des enfants uniques), [oligoamnios](https://www.larousse.fr/encyclopedie/medical/oligoamnios/14920), mauvaise position (ex: siège), malformations utérines, alitement de la maman, engagement précoce...
 
 ### Pendant l'accouchement
 
@@ -124,13 +124,13 @@ Le premier traitement de la plagiocéphalie positionnelle est avant tout préven
 
 - Pendant les phases d'éveil : mettre le bébé en position sur le ventre et ce, au moins 3 fois par jour, TOUJOURS SOUS SURVEILLANCE et privilégier la position sur le côté (en alternant à droite et à gauche) le premier mois puis sur le ventre après 6 mois lorsque l'enfant a les capacités de se retourner tout seul,
 
-- Pendant les phases de sommeil : éviter les surfaces dures et n'utiliser le cosy que pour les déplacements. L'utilisation de coussins ou de matelas spécifiques comme le [Bibed](http://www.bibed.fr/matelas-bebe.html) peuvent aider en évitant l'appui sur la zone plate du crâne [^36]. Cependant, de nombreux professionnels déconseillent ce genre de matériel car ils limitent les mouvements du bébé. On peut cependant conseiller un [coussin de latéralisation](https://www.physiomat.com/PBSCProduct.asp?ItmID=13724260) (avant les 4 mois du bébé ou avant qu'il puisse se retourner tout seul) pour éviter l'appui sur la zone aplatie : en veillant à alterner la position D/G si le méplat est postérieur (brachycéphalie) ou en plaçant le bébé du côté opposé au méplat si le crâne est asymétrique (plagiocéphalie).
+- Pendant les phases de sommeil : éviter les surfaces dures et n'utiliser le cosy que pour les déplacements. L'utilisation de coussins ou de matelas spécifiques comme le [Bibed](https://www.bibed.fr/matelas-bebe.html) peuvent aider en évitant l'appui sur la zone plate du crâne [^36]. Cependant, de nombreux professionnels déconseillent ce genre de matériel car ils limitent les mouvements du bébé. On peut cependant conseiller un [coussin de latéralisation](https://web.archive.org/web/20160428085441/https://www.physiomat.com/PBSCProduct.asp?ItmID=13724260) (avant les 4 mois du bébé ou avant qu'il puisse se retourner tout seul) pour éviter l'appui sur la zone aplatie : en veillant à alterner la position D/G si le méplat est postérieur (brachycéphalie) ou en plaçant le bébé du côté opposé au méplat si le crâne est asymétrique (plagiocéphalie).
 
 La plagiocéphalie est améliorée chez 77% des nourrissons après 2 mois de mesure de stimulation et de positionnement [^38].
 
 ### Kinésithérapie
 
-Quand un [torticolis congénital](http://pap-pediatrie.fr/orthopedie-sport/torticolis-congenital) est présent, la prise en charge chez le kinésithérapeute doit être mise en place le plus tôt possible [^7] [^8]. Une telle prise en charge à 4 mois réduit le risque de plagiocéphalie grave par rapport aux soins habituels [^37]. Cela évite, à cause de la perte de mobilité et de la position préférentielle, que la tête du nourrisson appuie toujours sur la même zone du crâne (provoquant ou aggravant la déformation). Dans les cas les moins graves, la déformation peut être corrigée par des exercices d'étirement [^20].
+Quand un [torticolis congénital](https://pap-pediatrie.fr/orthopedie-sport/torticolis-congenital) est présent, la prise en charge chez le kinésithérapeute doit être mise en place le plus tôt possible [^7] [^8]. Une telle prise en charge à 4 mois réduit le risque de plagiocéphalie grave par rapport aux soins habituels [^37]. Cela évite, à cause de la perte de mobilité et de la position préférentielle, que la tête du nourrisson appuie toujours sur la même zone du crâne (provoquant ou aggravant la déformation). Dans les cas les moins graves, la déformation peut être corrigée par des exercices d'étirement [^20].
 
 Je ne reviens pas sur la différence entre torticolis congénital et torticolis postural, néamoins, il faut être attentif en cas de torticolis postural et celui-ci doit impérativement être pris en charge : 1/ s'il ne se résoud pas de façcon spontanée et / ou 2/ si une déformation du crâne est présente ou commence à apparaitre. Il faut éviter le cercle vicieux : position préférentielle de la tête (toujours du même côté à cause du torticoli postural) -> apparition d'une plagiocéphalie positionnelle -> maintien de la position préférentielle (à cause du méplat sur le crâne) et donc du raccourcissement musculaire toujours du même côté -> entretien du torticolis postural.
 
@@ -173,188 +173,188 @@ Elle reste l'exception pour les formes majeures qui persistent après 18 mois. C
 
 ## Pour aller plus loin :
 
-- vous pouvez consulter le blog [Plagiocéphalie, têtes plates et têtes bornées](http://plagiocephalie-moncombat.blogspot.fr/p/plagiocephalie-prevention-traitement.html)
-- je conseille la lecture du livre ["Mon bébé n'aura pas la tête plate. Prévenir et traiter la plagiocéphalie"](http://livre.fnac.com/a8194584/Bernadette-de-Gasquet-Mon-bebe-n-aura-pas-la-tete-plate) de Bernadette de Gasquet et Thierry Marck.
+- vous pouvez consulter le blog [Plagiocéphalie, têtes plates et têtes bornées](https://plagiocephalie-moncombat.blogspot.fr/p/plagiocephalie-prevention-traitement.html)
+- je conseille la lecture du livre ["Mon bébé n'aura pas la tête plate. Prévenir et traiter la plagiocéphalie"](https://livre.fnac.com/a8194584/Dr-Bernadette-de-Gasquet-Mon-bebe-n-aura-pas-la-tete-plate) de Bernadette de Gasquet et Thierry Marck.
 
 ## Sources
 
 [^1]: B. Lynne Hutchison, Luke A.D. Hutchison, John M.D. Thompson, Ed A. Mitchell.
-      [Plagiocephaly and Brachycephaly in the First Two Years of Life: A Prospective Cohort Study](http://pediatrics.aappublications.org/content/114/4/970.abstract).
+      [Plagiocephaly and Brachycephaly in the First Two Years of Life: A Prospective Cohort Study](https://publications.aap.org/pediatrics/article-abstract/114/4/970/73271/Plagiocephaly-and-Brachycephaly-in-the-First-Two).
       Pediatrics (2004) Vol 114, N°4 - p 970 -980
 
 [^2]: Wendy S. Biggs.
-      [The 'Epidemic' of Deformational Plagiocephaly and the American Academy of Pediatrics' Response](http://www.oandp.org/jpo/library/2004_04S_005.asp).
+      [The 'Epidemic' of Deformational Plagiocephaly and the American Academy of Pediatrics' Response](https://web.archive.org/web/20160821144805/https://www.oandp.org/jpo/library/2004_04S_005.asp).
       American Academy of Orthotists and Prosthetists (2004) Vol. 16, N°4 - p 5-8
 
 [^3]: Rebecca Spragg.
-      [Natural Progression of Non-Synostotic Plagiocephaly](http://www.acpoc.org/library/2009_02_005.asp).
+      [Natural Progression of Non-Synostotic Plagiocephaly](https://web.archive.org/web/20150611212433/https://www.acpoc.org/library/2009_02_005.asp).
       The Association of Children's Prosthetic-Orthotic Clinic News (2009) Vol 15, N°2 - p 5-21
 
 [^4]: Wiebke K. Peitsch, Constance H. Keefer, Richard A. LaBrie, John B. Mulliken.
-      [Incidence of Cranial Asymmetry in Healthy Newborns](http://pediatrics.aappublications.org/content/110/6/e72.full).
+      [Incidence of Cranial Asymmetry in Healthy Newborns](https://publications.aap.org/pediatrics/article-abstract/110/6/e72/64493/Incidence-of-Cranial-Asymmetry-in-Healthy-Newborns).
       Pediatrics (2002) Vol 110, N°6 - p 72
 
 [^5]: LaBrie RA, Scott RM.
-      [Analysis of posterior plagiocephaly: deformational versus synostotic](http://www.ncbi.nlm.nih.gov/pubmed/9950521).
+      [Analysis of posterior plagiocephaly: deformational versus synostotic](https://pubmed.ncbi.nlm.nih.gov/9950521/).
       Plastic and Reconstructive Surgery (1999) Vol 103, N°2 - p 371-380
 
 [^6]: Nadine Travers.
-      [Plagiocéphalie positionnelle : quelles consignes aux parents ?](http://www.canal-u.tv/video/canal_u_medecine/44emes_journees_fmc_plagiocephalie_positionnelle_quelles_consignes_aux_parents.2520)
+      [Plagiocéphalie positionnelle : quelles consignes aux parents ?](https://www.canal-u.tv/chaines/canal-u-medecine/44emes-journees-fmc-plagiocephalie-positionnelle-quelles-consignes-aux)
       44ème JOURNÉES FMC
 
 [^7]: Kuo AA, Tritasavit S, Graham JM Jr.
-      [Congenital muscular torticollis and positional plagiocephaly](http://www.ncbi.nlm.nih.gov/pubmed/24488831).
+      [Congenital muscular torticollis and positional plagiocephaly](https://pubmed.ncbi.nlm.nih.gov/24488831/).
       Pediatric (2014) Vol 35, N°2 - p 79-87
 
 [^8]: Golden KA, Beals SP, Littlefield TR, Pomatto JK.
-      [Sternocleidomastoid imbalance versus congenital muscular torticollis: their relationship to positional plagiocephaly](http://www.ncbi.nlm.nih.gov/pubmed/10342615).
+      [Sternocleidomastoid imbalance versus congenital muscular torticollis: their relationship to positional plagiocephaly](https://pubmed.ncbi.nlm.nih.gov/10342615/).
       The Cleft Palate-Craniofacial Journal (1999) Vol 36, N°3 - p 256-261
 
 [^9]: Ifflaender S, Rüdiger M, Konstantelos D, Wahls K, Burkhardt W.
-      [Prevalence of head deformities in preterm infants at term equivalent age](http://www.ncbi.nlm.nih.gov/pubmed/24016482).
+      [Prevalence of head deformities in preterm infants at term equivalent age](https://pubmed.ncbi.nlm.nih.gov/24016482/).
       Early Human Development (2013) Vol 89, N°12 - p 1041-1047
 
 [^10]: Nuysink J, van Haastert IC, Eijsermans MJ, Koopman-Esseboom C, van der Net J, de Vries LS, Helders PJ.
-       [Prevalence and predictors of idiopathic asymmetry in infants born preterm](http://www.ncbi.nlm.nih.gov/pubmed/22051525).
+       [Prevalence and predictors of idiopathic asymmetry in infants born preterm](https://pubmed.ncbi.nlm.nih.gov/22051525/).
        Early Human Development (2012) Vol 88, N°6 - p 387-392
 
 [^11]: van Vlimmeren LA, van der Graaf Y, Boere-Boonekamp MM, L'Hoir MP, Helders PJ, Engelbert RH.
-       [Risk factors for deformational plagiocephaly at birth and at 7 weeks of age: a prospective cohort study](http://www.ncbi.nlm.nih.gov/pubmed/17272603).
+       [Risk factors for deformational plagiocephaly at birth and at 7 weeks of age: a prospective cohort study](https://pubmed.ncbi.nlm.nih.gov/17272603/).
        Pediatrics (2007) Vol 119, N°2 - p 408-418
 
 [^12]: Roby BB, Finkelstein M, Tibesar RJ, Sidman JD.
-       [Prevalence of positional plagiocephaly in teens born after the "Back to Sleep" campaign](http://www.ncbi.nlm.nih.gov/pubmed/22241785).
+       [Prevalence of positional plagiocephaly in teens born after the "Back to Sleep" campaign](https://pubmed.ncbi.nlm.nih.gov/22241785/).
        American Academy of Otolaryngology-Head and Neck Surgery (2012) Vol 146, N°5 - p 823-828
 
 [^13]: Cabrera-Martos I, Valenza MC, Benítez-Feliponi A, Robles-Vizcaíno C, Ruiz-Extremera A, Valenza-Demet G.
-       [Clinical profile and evolution of infants with deformational plagiocephaly included in a conservative treatment program](http://www.ncbi.nlm.nih.gov/pubmed/23644628).
+       [Clinical profile and evolution of infants with deformational plagiocephaly included in a conservative treatment program](https://pubmed.ncbi.nlm.nih.gov/23644628/).
        The International Society for Pediatric Neurosurgery (2013) Vol 29, N° 20 - p 1893-1898
 
 [^14]: St John D, Mulliken JB, Kaban LB, Padwa BL.
-       [Anthropometric analysis of mandibular asymmetry in infants with deformational posterior plagiocephaly](http://www.ncbi.nlm.nih.gov/pubmed/12149730).
+       [Anthropometric analysis of mandibular asymmetry in infants with deformational posterior plagiocephaly](https://pubmed.ncbi.nlm.nih.gov/12149730/).
        The American Association of Oral and Maxillofacial Surgeons (2002) Vol 60, N°8 - p 873-877
 
 [^15]: Brent R. Collett, Elizabeth H. Aylward, Jessica Berg, Candice Davidoff, Justin Norden, Michael L. Cunningham, Matthew L. Speltz.
-       [Brain volume and shape in infants with deformational plagiocephaly](http://link.springer.com/article/10.1007/s00381-012-1731-y).
+       [Brain volume and shape in infants with deformational plagiocephaly](https://link.springer.com/article/10.1007/s00381-012-1731-y).
        Child's Nervous System (2012) Vol 28, N° 7 - p 1083-1090
 
 [^16]: Balan P, Kushnerenko E, Sahlin P, Huotilainen M, Näätänen R, Hukki J.
-       [Auditory ERPs reveal brain dysfunction in infants with plagiocephaly](http://www.ncbi.nlm.nih.gov/pubmed/12140415).
+       [Auditory ERPs reveal brain dysfunction in infants with plagiocephaly](https://pubmed.ncbi.nlm.nih.gov/12140415/).
        Journal of Craniofacial Surgery (2002) Vo13, N°4 - p 520-525
 
 [^17]: Robert I. Miller, Sterling K. Clarren.
-       [Long-Term Developmental Outcomes in Patients With Deformational Plagiocephaly](http://pediatrics.aappublications.org/content/105/2/e26.short).
+       [Long-Term Developmental Outcomes in Patients With Deformational Plagiocephaly](https://pediatrics.aappublications.org/content/105/2/e26.short).
        Pediatrics (2000) Vol 105, N°2 - p 26
 
 [^18]: Shweikeh F, Nuño M, Danielpour M, Krieger MD, Drazin D.
-       [Positional plagiocephaly: an analysis of the literature on the effectiveness of current guidelines](http://www.ncbi.nlm.nih.gov/pubmed/24079780).
+       [Positional plagiocephaly: an analysis of the literature on the effectiveness of current guidelines](https://pubmed.ncbi.nlm.nih.gov/24079780/).
        Neurosurgical Focus (2013) Vom 35, N°4
 
 [^19]: Saccucci M, Tettamanti L, Mummolo S, Polimeni A, Festa F, Tecco S.
-       [Scoliosis and dental occlusion: a review of the literature](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3162939/).
+       [Scoliosis and dental occlusion: a review of the literature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3162939/).
        Scoliosis (2011) Vol 6, N°15
 
 [^20]: Wendy S. Biggs.
-       [Diagnosis and management of positional head deformity](http://www.aafp.org/afp/2003/0501/p1953.html).
+       [Diagnosis and management of positional head deformity](https://www.aafp.org/afp/2003/0501/p1953.html).
        American Family Physician (2003) Vol 67, N°9 - p 1953-1956
 
 [^22]: Morrison CS, Chariker M.
-       [Positional plagiocephaly: pathogenesis, diagnosis, and management](http://www.ncbi.nlm.nih.gov/pubmed/16700433).
+       [Positional plagiocephaly: pathogenesis, diagnosis, and management](https://pubmed.ncbi.nlm.nih.gov/16700433/).
        Journal of Kentucky Medical Association (2006) Vol 104, N°4 -p 136-340
 
 [^23]: Sylvie Lessard, Nathalie, Thiffault, Nathalie Trottier.
-       [L'ostéopathie dans le traitement des têtes plates ou plagiocéphalies](http://www.journalosteopathie.com/Plagiocephalie_42.pdf).
-       Journal de l'ostéopathie précisément, N° 42 - p 5-13
+       [L'ostéopathie dans le traitement des têtes plates ou plagiocéphalies](https://www.yumpu.com/fr/document/read/17601822/losteopathie-dans-le-traitement-des-tetes-plates-ou-).
+       Journal de l'ostéopathie... Précisément, N° 42 - p 5-13
 
 [^24]: Lessard S, Gagnon I, Trottier N.
-       [Exploring the impact of osteopathic treatment on cranial asymmetries associated with nonsynostotic plagiocephaly in infants](http://www.ncbi.nlm.nih.gov/pubmed/21982132).
+       [Exploring the impact of osteopathic treatment on cranial asymmetries associated with nonsynostotic plagiocephaly in infants](https://pubmed.ncbi.nlm.nih.gov/21982132/).
        Complementary Therapies of Clinical Practice (2011) Vol 17, N°4 - p 193-198
 
 [^25]: Amiel-Tison C, Soyez-Papiernik E.
-       [Place de l'ostéopathie dans la correction des déformations crâniennes du nouveau-né et du jeune enfant](http://www.ncbi.nlm.nih.gov/pubmed/18822256).
+       [Place de l'ostéopathie dans la correction des déformations crâniennes du nouveau-né et du jeune enfant](https://pubmed.ncbi.nlm.nih.gov/18822256/).
        Archives de Pédiatrie: organe officiel de la Société Française de Pédiatrie (2008) N°15 suppl 1 - p 24-30
 
 [^26]: Philippi H, Faldum A, Schleupen A, Pabst B, Jung T, Bergmann H, Bieber I, Kaemmerer C, Dijs P, Reitter B.
-       [Infantile postural asymmetry and osteopathic treatment: a randomized therapeutic trial](http://www.osteopathiebijkinderen.com/documents/2006_Infantileposturalasymmetryandosteopathictreatmentarandomizedtherapeutictrial.pdf).
+       [Infantile postural asymmetry and osteopathic treatment: a randomized therapeutic trial](https://onlinelibrary.wiley.com/doi/abs/10.1017/S001216220600003X).
        Developmental Medicine and Child Neurology (2006) N° 48 - p 5-9
 
 [^27]: Lessard Sylvie.
-       [Projet de standardisation clinique explorant l'effet du traitement ostéopathique sur les asymétries crâniennes chez les nourrissons](http://www.monphysio-qc.com/These-Finale.pdf).
-       Thèse présentées au jury international à Montréal 2007
+       [Projet de standardisation clinique explorant l'effet du traitement ostéopathique sur les asymétries crâniennes chez les nourrissons](http://frop.fr/wp-content/uploads/2017/02/Lessard-S.-Plagiocephales-These.pdf).
+       Thèse présentée au jury international à Montréal 2007
 
 [^28]: Gump WC, Mutchnick IS, Moriarty TM.
-       [Complications associated with molding helmet therapy for positional plagiocephaly: a review](http://thejns.org/doi/full/10.3171/2013.5.FOCUS13224).
+       [Complications associated with molding helmet therapy for positional plagiocephaly: a review](https://thejns.org/focus/view/journals/neurosurg-focus/35/4/article-pE3.xml).
        Neurosurgical Focus (2013) Vol 35, N° 4 - p 3
 
 [^29]: Goh JL, Bauer DF, Durham SR, Stotland MA.
-       [Orthotic (helmet) therapy in the treatment of plagiocephaly](http://www.ncbi.nlm.nih.gov/pubmed/24079781).
+       [Orthotic (helmet) therapy in the treatment of plagiocephaly](https://pubmed.ncbi.nlm.nih.gov/24079781/).
        Neurosurgical Focus (2013) Vol 35, N°4 - p 2
 
 [^30]: Kluba S, Kraut W, Calgeer B, Reinert S, Krimmel M.
-       [Treatment of positional plagiocephaly - Helmet or no helmet?](http://www.ncbi.nlm.nih.gov/pubmed/24238984)
+       [Treatment of positional plagiocephaly - Helmet or no helmet?](https://pubmed.ncbi.nlm.nih.gov/24238984)/
        Journal of Cranio-Maxillo-Facial Surgery (2014) Vol 42, N°5 - p 683-688
 
 [^31]: Aihara Y, Komatsu K, Dairoku H, Kubo O, Hori T, Okada Y.
-       [Cranial molding helmet therapy and establishment of practical criteria for management in Asian infant positionalhead deformity](http://www.ncbi.nlm.nih.gov/pubmed/24965682).
+       [Cranial molding helmet therapy and establishment of practical criteria for management in Asian infant positionalhead deformity](https://pubmed.ncbi.nlm.nih.gov/24965682/).
        Official Journal of the International Society for Pediatric Neurosurgery (2014) Vol 30, N°9 - p 1499-1509
 
 [^32]: Lee WT, Richards K, Redhed J, Papay FA.
-       [A pneumatic orthotic cranial molding helmet for correcting positional plagiocephaly](http://www.ncbi.nlm.nih.gov/pubmed/16432421).
+       [A pneumatic orthotic cranial molding helmet for correcting positional plagiocephaly](https://pubmed.ncbi.nlm.nih.gov/16432421/).
        The Journal of Craniofacial Surgery (2006) Vol 17, N°1 - p 139-144
 
 [^33]: Paquereau J.
-       [Non-surgical management of posterior positional plagiocephaly: orthotics versus repositioning](http://www.ncbi.nlm.nih.gov/pubmed/23433755).
+       [Non-surgical management of posterior positional plagiocephaly: orthotics versus repositioning](https://pubmed.ncbi.nlm.nih.gov/23433755/).
        Annal of Physical and Rehabilitation Medicine (2013) Vol 56, N°3 - p 231-249
 
 [^34]: Xia JJ, Kennedy KA, Teichgraeber JF, Wu KQ, Baumgartner JB, Gateno J.
-       [Nonsurgical treatment of deformational plagiocephaly: a systematic review](http://www.ncbi.nlm.nih.gov/pubmed/18678803).
+       [Nonsurgical treatment of deformational plagiocephaly: a systematic review](https://pubmed.ncbi.nlm.nih.gov/18678803/).
        Archives of Pediatric and Adolescent Medicine (2009) Vol 162, N°8 -p 719-727
 
 [^35]: Kim SY, Park MS, Yang JI, Yim SY.
-       [Comparison of helmet therapy and counter positioning for deformational plagiocephaly](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3895518/).
+       [Comparison of helmet therapy and counter positioning for deformational plagiocephaly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3895518/).
        Annals of Rehabilitation Medicine (2013) Vol 37, N°6 - p 785-795
 
 [^36]: Sillifant P, Vaiude P, Bruce S, Quirk D, Sinha A, Burn SC, Richardson D, Duncan C.
-       [Positional plagiocephaly: experience with a passive orthotic mattress](http://www.ncbi.nlm.nih.gov/pubmed/24978455).
+       [Positional plagiocephaly: experience with a passive orthotic mattress](https://pubmed.ncbi.nlm.nih.gov/24978455/).
        The journal of Craniofacial Surgery (2014) Vol 25, N°4 - p 1365-1368
 
 [^37]: van Vlimmeren LA, van der Graaf Y, Boere-Boonekamp MM, L'Hoir MP, Helders PJ, Engelbert RH.
-       [Effect of pediatric physical therapy on deformational plagiocephaly in children with positional preference: a randomized controlled trial](http://www.ncbi.nlm.nih.gov/pubmed/18678802).
+       [Effect of pediatric physical therapy on deformational plagiocephaly in children with positional preference: a randomized controlled trial](https://pubmed.ncbi.nlm.nih.gov/18678802/).
        Archives of Pediatric and Adolescent Medicine (2008) Vol 162, N°8 -p 712-718
 
 [^38]: Rubio AS, Griffet JR, Caci H, Bérard E, El Hayek T, Boutté P.
-       [The moulded baby syndrome: incidence and risk factors regarding 1,001 neonates](http://www.ncbi.nlm.nih.gov/pubmed/18795328).
+       [The moulded baby syndrome: incidence and risk factors regarding 1,001 neonates](https://pubmed.ncbi.nlm.nih.gov/18795328/).
        European Journal of Pediatrics (2009) Vol 168, N°5 - p 605-611
 
 [^39]: Renske M van Wijk, Leo A van Vlimmeren, Catharina G M Groothuis-Oudshoorn, Catharina P B Van der Ploeg, Maarten J IJzerman, Magda M Boere-Boonekamp.
-       [Helmet therapy in infants with positional skull deformation: randomised controlled trial](http://www.bmj.com/content/348/bmj.g2741).
+       [Helmet therapy in infants with positional skull deformation: randomised controlled trial](https://www.bmj.com/content/348/bmj.g2741).
        British Medical Journal (2014) N°348
 
 [^40]: Wilbrand JF, Wilbrand M, Malik CY, Howaldt HP, Streckbein P, Schaaf H, Kerkmann H.
-       [Complications in helmet therapy](http://www.ncbi.nlm.nih.gov/pubmed/21741852).
+       [Complications in helmet therapy](https://pubmed.ncbi.nlm.nih.gov/21741852/).
        Journal of Cranio-Maxillo-Facial Surgery (2012) Vol 40, N°4 - p 341-346
 
 [^41]: Marchac A, Arnaud E, Di Rocco F, Michienzi J, Renier D.
-       [Severe deformational plagiocephaly: long-term results of surgical treatment](http://www.ncbi.nlm.nih.gov/pubmed/21187754).
+       [Severe deformational plagiocephaly: long-term results of surgical treatment](https://pubmed.ncbi.nlm.nih.gov/21187754/).
        The journal of Craniofacial Surgery (2011) Vol 22, N°1 - p 24-29
 
 [^43]: Peter J. Taub, Paul Pierce.
-       [Positional Plagiocephaly, Part 1: A Practical Guide to Evaluation](http://www.pediatricsconsultant360.com/content/positional-plagiocephaly-part-1-practical-guide-evaluation).
-       [Positional Plagiocephaly, Part 2: Prevention and Treatment Wed](http://www.pediatricsconsultant360.com/content/positional-plagiocephaly-part-2-prevention-and-treatment).
+       [Positional Plagiocephaly, Part 1: A Practical Guide to Evaluation](https://www.consultant360.com/articles/positional-plagiocephaly-part-1-practical-guide-evaluation).
+       [Positional Plagiocephaly, Part 2: Prevention and Treatment Wed](https://www.consultant360.com/articles/positional-plagiocephaly-part-2-prevention-and-treatment).
        Consultant for Pediatricians (2010) Vol 9, N° 12 et (2011) Vol 1, N° 1
 
 [^44]: Nuysink J, Eijsermans MJ, van Haastert IC, Koopman-Esseboom C, Helders PJ, de Vries LS, van der Net J.
-       [Clinical course of asymmetric motor performance and deformational plagiocephaly in very preterm infants](http://www.ncbi.nlm.nih.gov/pubmed/23706356).
+       [Clinical course of asymmetric motor performance and deformational plagiocephaly in very preterm infants](https://pubmed.ncbi.nlm.nih.gov/23706356/).
        The journal of pediatrics (2013) Vol 163, N°3 - p658-665
 
 [^45]: Bialocerkowski AE, Vladusic SL, Wei Ng C.
-       [Prevalence, risk factors, and natural history of positional plagiocephaly: a systematic review](http://www.ncbi.nlm.nih.gov/pubmed/18754894).
+       [Prevalence, risk factors, and natural history of positional plagiocephaly: a systematic review](https://pubmed.ncbi.nlm.nih.gov/18754894/).
        Developmental Medicine and Child Neurology (2008) Vol 50, N°8 -p 577-586
 
 [^46]: Mawji A, Vollman AR, Hatfield J, McNeil DA, Sauvé R.
-       [The incidence of positional plagiocephaly: a cohort study](http://www.ncbi.nlm.nih.gov/pubmed/23837184).
+       [The incidence of positional plagiocephaly: a cohort study](https://pubmed.ncbi.nlm.nih.gov/23837184/).
        Pediatrics (2013) Vol 132, N°2 - p 298-304
 
 [^47]: Steinberg JP, Rawlani R, Humphries LS, Rawlani V, Vicari FA.
-       [Effectiveness of conservative therapy and helmet therapy for positional cranial deformation](http://insights.ovid.com/pubmed?pmid=25415272).
+       [Effectiveness of conservative therapy and helmet therapy for positional cranial deformation](https://pubmed.ncbi.nlm.nih.gov/25415272/).
        Plastic and Reconstructive Surgery (2015) Vol 135, n°3 - p 833-842

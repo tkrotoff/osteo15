@@ -45,4 +45,4 @@ Lors de mes séances d'ostéopathie, je m'applique à tester le corps en entier 
 - une meilleure ergonomie du poste de travail,
 - de demander auprès de la DRH l'intervention d'un ergothérapeute spécialisé dans les interventions en entreprise.
 
-Pour plus de renseignements, vous pouvez consulter le site de [l'INRS (Institut national de la recherche scientifique) sur les TMS](http://www.inrs.fr/accueil/header/recherche.html?queryStr=TMS) et celui du [gouvernement](http://www.travailler-mieux.gouv.fr/Troubles-musculo-squelettiques-TMS.html).
+Pour plus de renseignements, vous pouvez consulter le site de [l'INRS (Institut national de la recherche scientifique) sur les TMS](https://www.inrs.fr/header/recherche.html?queryStr=TMS) et celui du [gouvernement](https://travail-emploi.gouv.fr/sante-au-travail/prevention-des-risques-pour-la-sante-au-travail/article/troubles-musculo-squelettiques).

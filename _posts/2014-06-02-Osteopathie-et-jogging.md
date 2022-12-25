@@ -34,7 +34,7 @@ Vous choisirez vos chaussures aussi en fonction de votre type de foulée :
 
 ### Le terrain
 
-Privilégiez les terrains souples en terre plutôt que le bitume. Évitez de courir à proximité des grands axes routiers et dans [les périodes de grande pollution](http://www.airparif.asso.fr/) ou [d'alerte pollen](http://www.pollens.fr/docs/vigilance.html) afin de limiter la respiration des allergènes et particules fines.
+Privilégiez les terrains souples en terre plutôt que le bitume. Évitez de courir à proximité des grands axes routiers et dans [les périodes de grande pollution](https://www.airparif.asso.fr/) ou [d'alerte pollen](https://www.pollens.fr/docs/vigilance.html) afin de limiter la respiration des allergènes et particules fines.
 
 ### Hydratation
 
@@ -42,8 +42,8 @@ Une déshydratation, même minime, diminue les capacités du corps. Il faut boir
 
 Des boissons spéciales de récupération sont disponibles dans les magasins spécialisés et dans certaines pharmacies, il y a 2 types de boisson :
 
-- celles qui vont [favoriser l'hydratation et compenser les dépenses énergétiques](http://www.nutergia.com/complement-alimentaire/fr/produits-nutergia/vos-besoins/specifiques-sport/nutergia-ergysport-effort_BQ.php), à boire tout au long de l'effort,
-- celles qui vont [compenser les pertes minérales du corps](http://www.nutergia.com/complement-alimentaire/fr/produits-nutergia/vos-besoins/specifiques-sport/nutergia-ergysport-oligomax_BQ.php), à prendre après l'effort.
+- celles qui vont [favoriser l'hydratation et compenser les dépenses énergétiques](https://www.nutergia.com/complement-alimentaire/fr/produits-nutergia/vos-besoins/specifiques-sport/nutergia-ergysport-effort_BQ.php), à boire tout au long de l'effort,
+- celles qui vont [compenser les pertes minérales du corps](https://www.nutergia.com/complement-alimentaire/fr/produits-nutergia/vos-besoins/specifiques-sport/nutergia-ergysport-oligomax_BQ.php), à prendre après l'effort.
 
 ### Etirements
 
@@ -68,21 +68,21 @@ Sauf avis contraire de votre podologue, les semelles de ville ne doivent pas êt
 ## Sources
 
 [^1]: Peter Schnohr, Jacob L. Marott, Peter Lange, Gorm B. Jensen.
-      [Longevity in Male and Female Joggers: The Copenhagen City Heart Study](http://aje.oxfordjournals.org/content/177/7/683.full).
+      [Longevity in Male and Female Joggers: The Copenhagen City Heart Study](https://academic.oup.com/aje/article/177/7/683/91486).
       American Journal of Epidemiology (2013) Vol 177, N°7 - p 683-689
 
 [^2]: Peter Schnohr, James H. O'Keefe, Jacob L. Marott, Peter Lange, Gorm B. Jensen.
-      [Dose of Jogging and Long-Term Mortality. The Copenhagen City Heart Study](http://www.sciencedirect.com/science/article/pii/S0735109714071745).
+      [Dose of Jogging and Long-Term Mortality. The Copenhagen City Heart Study](https://www.sciencedirect.com/science/article/pii/S0735109714071745).
       Journal of the American College Cardiology (2015) Vol 65, N°5 - p 411-419
 
 [^3]: Solarberg Séhel.
-      [Courir pieds nus : une bonne idée ?](http://www.lanutrition.fr/bien-dans-sa-sante/sport/la-sante-du-sportif/courir-pieds-nus-une-bonne-idee.html)
+      [Courir pieds nus : une bonne idée ?](https://www.lanutrition.fr/forme/sport/endurance/courir-pieds-nus-une-bonne-idee)
       LaNutrition.fr, 4 février 2015
 
 [^4]: Juliette Pouyat.
-      [Le jogging, pas toujours bon pour la santé](http://www.lanutrition.fr/les-news/le-jogging-pas-toujours-bon-pour-la-sante.html).
+      [Le jogging, pas toujours bon pour la santé](https://www.lanutrition.fr/forme/sport/endurance/le-jogging-pas-toujours-bon-pour-la-sante).
       LaNutrition.fr, 12 février 2015
 
 [^5]: Vincent Lemoine.
-      [Intérêt de l'ostéopathie dans la pratique de la course à pied](http://www.globe-runners.fr/interet-osteopathie-pratique-course-pied/).
+      [Intérêt de l'ostéopathie dans la pratique de la course à pied](https://www.globe-runners.fr/interet-osteopathie-pratique-course-pied/).
       Globe Runners, 6 mai 2014

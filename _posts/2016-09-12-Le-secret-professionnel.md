@@ -22,10 +22,9 @@ Cette situation, source d'insécurité juridique pour les ostéopathes et toutes
 # Sources et ressources
 
 [^1]: Assemblé nationale.
-      [Amendement N°2216](http://www.assemblee-nationale.fr/14/amendements/2673/AN/2216.asp)
+      [Amendement N°2216](https://www.assemblee-nationale.fr/14/amendements/2673/AN/2216.asp)
       27 mars 2015
 
-- Site ostéopathie-France : [Décret n°2016-99 partage d'informations entre les professions de soins](http://www.osteopathie-france.net/l-osteopathie/legislation/decrets/2880-decret-n-2016-99-partage-d-informations-entre-les-professions-de-soins)
 - Site de l'UFOF : [Secret Professionnel : une grande avancée](https://osteofrance.com/actualites/news/2016/08/secret-professionnel-une-grande-avancee)
-- Site du ROF : [Informations : décryptage du décret n°2016-994 du 20 juillet 2016](http://www.osteopathie.org/364-informations----decryptage-du-decret-n-2016-994-du-20-juillet-2016.html)
-- Journal officiel : [Décret n°2016-994 du 20 juillet 2016 relatif aux conditions d'échange et de partage d'informations entre professionnels de santé et autres professionnels des champs social et médico-social et à l'accès aux informations de santé à caractère personnel](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032922455&categorieLien=id&idJO=JORFCONT000032921904)
+- Site du ROF : [Informations : décryptage du décret n°2016-994 du 20 juillet 2016](https://www.osteopathie.org/364-informations----decryptage-du-decret-n-2016-994-du-20-juillet-2016.html)
+- Journal officiel : [Décret n°2016-994 du 20 juillet 2016 relatif aux conditions d'échange et de partage d'informations entre professionnels de santé et autres professionnels des champs social et médico-social et à l'accès aux informations de santé à caractère personnel](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000032922455)

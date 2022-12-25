@@ -3,8 +3,8 @@
  *
  * [Smoothing the parallax scrolling of a background image](https://stackoverflow.com/q/15789026)
  * [Perfecting Parallax Scrolling](https://github.com/Form5/parallax)
- * [Adventures in Jank Busting: Parallax, performance](http://code.flickr.net/2013/06/04/adventures-in-jank-busting-parallax-performance-and-the-new-flickr-home-page/)
- * [Fixing a parallax scrolling website to run in 60 FPS](http://kristerkari.github.io/adventures-in-webkit-land/blog/2013/08/30/fixing-a-parallax-scrolling-website-to-run-in-60-fps/)
+ * [Adventures in Jank Busting: Parallax, performance](https://code.flickr.net/2013/06/04/adventures-in-jank-busting-parallax-performance-and-the-new-flickr-home-page/)
+ * [Fixing a parallax scrolling website to run in 60 FPS](https://kristerkari.github.io/adventures-in-webkit-land/blog/2013/08/30/fixing-a-parallax-scrolling-website-to-run-in-60-fps/)
  */
 
 $(window).on('scroll', function() {

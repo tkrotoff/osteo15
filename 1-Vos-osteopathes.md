@@ -8,7 +8,7 @@ sitenav: true
 
 Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une formation à temps plein de 5 ans (RNCP niveau 1) agréée par le Ministère de la Santé. Elles ont chacune poursuivi leur formation par des stages pratiques et des formations dites "post-graduate" afin de parfaire leur prise en charge respective.
 
-## Fabienne Krotoff, ostéopathe D.O. diplômée du [Collège Ostéopathique Européen (COE)](http://www.osteo-coe.fr/)
+## Fabienne Krotoff, ostéopathe D.O. diplômée du [Collège Ostéopathique Européen (COE)](https://www.osteo-coe.fr/)
 
 <div class="row">
   <div class="col-md-2">
@@ -17,9 +17,9 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
     </p>
   </div>
   <div class="col-md-10" markdown="1">
-  - Diplôme universitaire (DU) de [psychosomatique, université Paris Descartes](http://formations.parisdescartes.fr/fr-FR/1/diplome/P5-PROG5304/DIU%20Dermatologie%20psychosomatique)
-  - Diplôme universitaire de [thérapeutiques alternatives en antalgie périnatale, université Paris Diderot](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite)
-  - Membre des [Ostéopathes de France](https://osteofrance.com/) et de l'[Académie d'Ostéopathie de France](http://academie-osteopathie.fr/)
+  - Diplôme universitaire (DU) de psychosomatique, université Paris Descartes
+  - Diplôme universitaire de thérapeutiques alternatives en antalgie périnatale, université Paris Diderot
+  - Membre des [Ostéopathes de France](https://osteofrance.com/) et de l'[Académie d'Ostéopathie de France](https://www.academie-osteopathie.fr/)
   </div>
 </div>
 
@@ -33,9 +33,9 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 
 ### 2019
 
-- CFPCO : "La sphère gynécologique en ostéopathie : de l'adolescente à la femme ménopausée" avec [Isabelle Tousch](https://www.cfpco.fr/workshop/teacher/83/isabelle-tousch#formations), ostéopathe D.O.
+- CFPCO : "La sphère gynécologique en ostéopathie : de l'adolescente à la femme ménopausée" avec Isabelle Tousch, ostéopathe D.O.
 - CFPCO : "Réussir la prise en charge du périnée en ostéopathie" avec Isabelle Tousch, ostéopathe D.O.
-- [Institut de Gasquet](http://www.degasquet.com/) : "Approche posturo-respiratoire du périnée"
+- [Institut de Gasquet](https://www.degasquet.com/) : "Approche posturo-respiratoire du périnée"
 
 ### 2018
 
@@ -44,9 +44,9 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 
 ### 2017
 
-- UFOF formation : ["Posturologie clinique"](https://osteofrance.com/formation/2017/10/posturologie-clinique) avec [Jean Vercellotti](http://www.vercellotti-belot.fr/crbst_20.html) ostéopathe D.O.
-- Conférence de l'[AO](http://academie-osteopathie.fr/) : "Vers de nouveaux modèles pour l'ostéopathie ? Les systèmes complexes, l'intelligence collective et la mécanobiologie" avec [François Delcourt](http://www.francoisdelcourt.com/) ostéopathe D.O.
-- Institut de Gasquet: ["Plagiocéphalie"](http://www.degasquet.com/maternite/30-invites-plagiocephalie.html) avec Thierry Marck médecin pédiatre et Laurent Merlet kinésithérapeute M.K.D.E. et ostéopathe D.O.
+- UFOF formation : ["Posturologie clinique"](https://osteofrance.com/formation/2017/10/posturologie-clinique) avec Jean Vercellotti ostéopathe D.O.
+- Conférence de l'[AO](https://academie-osteopathie.fr/) : "Vers de nouveaux modèles pour l'ostéopathie ? Les systèmes complexes, l'intelligence collective et la mécanobiologie" avec [François Delcourt](https://www.francoisdelcourt.com/) ostéopathe D.O.
+- Institut de Gasquet: "Plagiocéphalie" avec Thierry Marck médecin pédiatre et Laurent Merlet kinésithérapeute M.K.D.E. et ostéopathe D.O.
 
 ### 2016
 
@@ -56,7 +56,7 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 
 ### 2015
 
-- [FCOP](http://www.fcop-formation-osteopathe.fr/) : ["Approche tissulaire"]({% post_url 2015-03-19-Stage-approche-tissulaire %}) I et II avec [Alain Andrieux](http://www.enfantsdestill.com/) ostéopathe D.O.
+- [FCOP](https://web.archive.org/web/20150815170418/http://fcop-formation-osteopathe.fr/) : ["Approche tissulaire"]({% post_url 2015-03-19-Stage-approche-tissulaire %}) I et II avec Alain Andrieux ostéopathe D.O.
 - Conférences UFOF : [Approche pluridisciplinaire autour de l'ostéopathie - 2015](https://osteofrance.com/services/congres/2015)
 
 ### 2014
@@ -67,14 +67,14 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 
 ### 2013
 
-- [Diplôme universitaire de thérapeutiques alternatives en antalgie périnatale](http://www.medecine.univ-paris-diderot.fr/index.php/formation-continue/du-di/liste-des-du-et-diu/item/173-osteopathie-acupuncture-et-homeopathie-appliquees-a-la-perinatalite), université Paris Diderot
+- Diplôme universitaire de thérapeutiques alternatives en antalgie périnatale, université Paris Diderot
 - Laboratoire Nutergia : "Ecosytème intestinal", "Nutrition et sport" et "bien-être hépatique et phytothérapie"
 
 ### 2012
 
-- FCOP : "Femmes enceintes et accouchement" avec [Michèle Dangréau-Mussat](http://www.osteo-formation.fr/) ostéopathe D.O. et Dr Emmanuelle Antonetti gynécologue-obstétricienne
+- FCOP : "Femmes enceintes et accouchement" avec [Michèle Dangréau-Mussat](https://www.osteo-formation.fr/) ostéopathe D.O. et Dr Emmanuelle Antonetti gynécologue-obstétricienne
 - FCOP : "La naissance et le nouveau né, prise en charge ostéopathique" avec Michèle Dangréau-Mussat ostéopathe D.O., Dr Emmanuelle Antonetti gynécologue-obstétricienne et Dr Florence Peyrefitte pédiatre homéopathe
-- [Ostéo bébé](http://www.osteo-bebe.com/) : "Approche ostéopathique des bébés" avec Eric Simon ostéopathe D.O. et Dany Heintz-Blondy ostéopathe D.O.
+- [Ostéo bébé](https://www.osteo-bebe.com/) : "Approche ostéopathique des bébés" avec Eric Simon ostéopathe D.O. et Dany Heintz-Blondy ostéopathe D.O.
 - Laboratoire Nutergia : "La nutrition autour de la naissance"
 - Conférences UFOF : [Approche pluridisciplinaire autour de l'ostéopathie - 2012](https://osteofrance.com/services/congres/2012)
 
@@ -87,19 +87,19 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 
 ### 2010
 
-- [Diplôme universitaire de psychosomatique](http://formations.parisdescartes.fr/fr-FR/1/diplome/P5-PROG5304/DIU%20Dermatologie%20psychosomatique), université Paris Descartes
+- Diplôme universitaire de psychosomatique, université Paris Descartes
 - FCOP : "Pathologies du nourrisson et ostéopathie" avec Rodrigue Pinel médecin du sport et Alain Bédouet ostéopathe D.O.
 - Conférences UFOF : [Approche pluridisciplinaire autour de l'ostéopathie - 2010](https://osteofrance.com/services/congres/2010)
 
 ### 2009
 
-- Diplôme d'ostéopathie du [Collège Ostéopathique Européen (COE)](http://www.osteo-coe.fr/) agréé par le ministère de la Santé (formation de 5 ans - RNCP niveau I). Mentions très bien aux mémoires (cas clinique et recherche de littérature).
+- Diplôme d'ostéopathie du [Collège Ostéopathique Européen (COE)](https://www.osteo-coe.fr/) agréé par le ministère de la Santé (formation de 5 ans - RNCP niveau I). Mentions très bien aux mémoires (cas clinique et recherche de littérature).
   Mon diplôme d'ostéopathie est inscrit au fichier ADELI (N° 750004061) de la DRASS référençant toutes les professions médicales et paramédicales.
   N° SIRET : 5151163900029
-- Titulaire du [label Eur Ost DO](http://www.osteofrance.com/eur-ost-do/), je réponds à son [code de déontologie](http://www.osteofrance.com/assets/pdf/ufof_deontologie.pdf)
+- Titulaire du [label Eur Ost DO](https://web.archive.org/web/20160506093154/http://www.osteofrance.com/eur-ost-do/), je réponds à son [code de déontologie](https://osteofrance.com/presentation/deontologie/)
 
 
-## Charlotte Wang, ostéopathe D.O. diplômée de l'[Institut Dauphine d'Ostéopathie](http://www.institutdauphine.com/)
+## Charlotte Wang, ostéopathe D.O. diplômée de l'[Institut Dauphine d'Ostéopathie](https://www.institutdauphine.com/)
 
 <div class="row">
   <div class="col-md-2">
@@ -118,8 +118,8 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 
 - Enseignante d'anatomie :
   - Depuis 2016 : enseignante d'anatomie à l'[Hôpital Saint-Joseph](https://www.hpsj.fr/) de Paris, auprès d'élèves aide-soignants et auxiliaires de puériculture
-  - de 2014 à 2016 : enseignante d'anatomie - EPSS - auprès d'élève agent hospitalié et aide-soignant à Paris
-  - de 2010 à 2016 : enseignante d'anatomie à l'[Hôpital des Diaconesses](https://hopital-dcss.org/) de Paris, auprès d'élèves aide-soignants et infirmières
+  - De 2014 à 2016 : enseignante d'anatomie - EPSS - auprès d'élève agent hospitalié et aide-soignant à Paris
+  - De 2010 à 2016 : enseignante d'anatomie à l'[Hôpital des Diaconesses](https://hopital-dcss.org/) de Paris, auprès d'élèves aide-soignants et infirmières
 - Suivis de sportifs et interventions lors d'évènements, compétitions et tournois :
   - 2014 : championnat de France de natation (Paris 20e)
   - 2012 et 2013 : tournois des grandes écoles (Paris 13e)
@@ -129,13 +129,13 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 
 #### 2018
 
-- [Isabelle Tousch](https://www.cfpco.fr/workshop/teacher/83/isabelle-tousch), ostéopathe D.O. : ["La sphère gynécologique en ostéopathie : de l'adolescente à la femme ménopausée"](http://postgradosteo.fr/event/la-sphere-gynecologique-en-osteopathie-de-ladolescente-a-la-femme-menopausee-isabelle-tousch-do)
+- [Isabelle Tousch](https://www.osteo-evolution.fr/isabelle-tousch-osteopathe/), ostéopathe D.O. : "La sphère gynécologique en ostéopathie : de l'adolescente à la femme ménopausée"
 - [Averille Morgan](https://www.cfpco.fr/workshop/teacher/41/averille-morgan), ostéopathe : ["Accompagnement ostéopathique fluidique de la grossesse et du nourrisson"](https://www.cfpco.fr/workshop/228/accompagnement-osteopathique-fluidique-de-la-grossesse-et-du-nourrisson---averille-morgan)
-- [Jean Ducourneau](https://www.mkperinat.com/), ostéopathe D.O. : [cycle 1 "Gynécologie médicale et obstétrique" et cycle 2 "Pédiatrie générale et posturologie"](https://www.mkperinat.com/programme-et-details-de-la-formation)
+- [Jean Ducourneau](https://www.mkperinat.com/), ostéopathe D.O. : cycle 1 "Gynécologie médicale et obstétrique" et cycle 2 "Pédiatrie générale et posturologie"
 
 #### 2017
 
-- [Ostéo bébé](http://www.osteo-bebe.com/) : formation à la prise en charge ostéopathique des nourrissons avec Eric Simon, ostéopathe D.O.
+- [Ostéo bébé](https://www.osteo-bebe.com/) : formation à la prise en charge ostéopathique des nourrissons avec Eric Simon, ostéopathe D.O.
 
 #### 2016
 

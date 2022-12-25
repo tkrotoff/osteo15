@@ -24,13 +24,13 @@ Une entorse de cheville mal soignée peut donc avoir des conséquences sur le lo
 ## Sources
 
 [^1]: Golditz T, Steib S, Pfeifer K, Uder M, Gelse K, Janka R, Hennig FF, Welsch GH.
-      [Functional ankle instability as a risk factor for osteoarthritis: using T2-mapping to analyze early cartilage degeneration in the ankle joint of young athletes](http://www.ncbi.nlm.nih.gov/pubmed/24814687).
+      [Functional ankle instability as a risk factor for osteoarthritis: using T2-mapping to analyze early cartilage degeneration in the ankle joint of young athletes](https://pubmed.ncbi.nlm.nih.gov/24814687/).
       Osteoarthritis Cartilage, 2014 May 9
 
 [^2]: Eisenhart AW, Gaeta TJ, Yens DP.
-      [Osteopathic manipulative treatment in the emergency department for patients with acute ankle injuries](http://www.ncbi.nlm.nih.gov/pubmed/14527076).
+      [Osteopathic manipulative treatment in the emergency department for patients with acute ankle injuries](https://pubmed.ncbi.nlm.nih.gov/14527076/).
       The Journal of the American Osteopathic Association, 2003 Sep
 
 [^3]: Pellow JE, Brantingham JW.
-      [The efficacy of adjusting the ankle in the treatment of subacute and chronic grade I and grade II ankle inversion sprains](http://www.ncbi.nlm.nih.gov/pubmed/11174691).
+      [The efficacy of adjusting the ankle in the treatment of subacute and chronic grade I and grade II ankle inversion sprains](https://pubmed.ncbi.nlm.nih.gov/11174691/).
       Journal of Manipulative and Physiological Therapeutics, 2001 Jan

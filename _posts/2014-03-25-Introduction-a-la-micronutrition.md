@@ -5,7 +5,7 @@ tags: [alimentation, micronutrition]
 last_modified_at: '2014-11-27'
 ---
 
-Peu connue et méritant une vraie démocratisation, la [micronutrition](http://fr.wikipedia.org/wiki/Micronutrition) est une thérapie à part entière qui vise à apporter au corps tous les micronutriments en quantité et qualité nécessaires à son bon fonctionnement, mais pas seulement.
+Peu connue et méritant une vraie démocratisation, la [micronutrition](https://fr.wikipedia.org/wiki/Micronutrition) est une thérapie à part entière qui vise à apporter au corps tous les micronutriments en quantité et qualité nécessaires à son bon fonctionnement, mais pas seulement.
 
 Je vous propose, à l'aide d'une succession de petits articles, de vous familiarisez avec la micronutrition pour comprendre ce qui est bon pour vous et ce qui l'est un peu moins afin de devenir acteur de votre santé.
 
@@ -40,7 +40,7 @@ Sans être dans le rejet de l'alimentation industrielle, ni être un fanatique d
 - à titre préventif selon le "terrain" de l'individu,
 - en complément des traitements médicamenteux dans certaines pathologies,
 
-Pour un bilan complet en micronutrition, vous pouvez contacter [Karine de la Rouère](http://votre-coach-nutrition-paris.blogspot.fr/) (diététicienne nutritionniste et spécialisée en micronutrition).
+Pour un bilan complet en micronutrition, vous pouvez contacter [Karine de la Rouère](https://votre-coach-nutrition-paris.blogspot.fr/) (diététicienne nutritionniste et spécialisée en micronutrition).
 
 _"Que ton aliment soit ta première médecine"_ Hippocrate, 460-370 av. J.-C.
 

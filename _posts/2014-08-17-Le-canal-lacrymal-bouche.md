@@ -6,7 +6,7 @@ tags: [ostéopathie, bébé]
 last_modified_at: '2015-04-07'
 ---
 
-Le canal lacrymal ou naso-lacrymal est situé à la base du nez, au coin de l'œil. Il y en a un à droite et un à gauche. Il permet d'évacuer l'excédent de [liquide lacrymal](http://fr.wikipedia.org/wiki/Liquide_lacrymal) (ou larme) vers la cavité nasale (le nez). Le canal lacrymal peut être bouché dès la naissance (en général par imperforation de la valve de Hasner), ou se boucher par la suite au cours de la première année de vie du bébé.
+Le canal lacrymal ou naso-lacrymal est situé à la base du nez, au coin de l'œil. Il y en a un à droite et un à gauche. Il permet d'évacuer l'excédent de [liquide lacrymal](https://fr.wikipedia.org/wiki/Liquide_lacrymal) (ou larme) vers la cavité nasale (le nez). Le canal lacrymal peut être bouché dès la naissance (en général par imperforation de la valve de Hasner), ou se boucher par la suite au cours de la première année de vie du bébé.
 
 Cette obstruction est présente, selon certains auteurs, chez 20 à 30% [^1] des nouveaux nés au cours de la première année, d'autres trouvent 5 à 6% [^2]. Cette obstruction est bénigne dans la majorité des cas et se résout de façon spontanée dans la première année. Lorsque ce canal est bouché, l'excédent de larme du nouveau-né ne peut plus s'évacuer par le nez et les larmes restent donc dans l'œil : le ou les yeux larmoient en permanence, provoquant parfois une infection.
 
@@ -14,11 +14,11 @@ Cette obstruction est présente, selon certains auteurs, chez 20 à 30% [^1] des
 
 ## Symptômes
 
-- Yeux qui larmoient, qui coulent. C'est ce que l'on appelle l'[épiphora](http://www.larousse.fr/dictionnaires/francais/%C3%A9piphora/30485) (ce larmoiement des yeux peut avoir plusieurs origines [^3] et nécessite donc le diagnostic d'un médecin),
+- Yeux qui larmoient, qui coulent. C'est ce que l'on appelle l'[épiphora](https://www.larousse.fr/dictionnaires/francais/%C3%A9piphora/30485) (ce larmoiement des yeux peut avoir plusieurs origines [^3] et nécessite donc le diagnostic d'un médecin),
 - Cils mouillés en permanence,
 - Paupières collées, surtout le matin au réveil car le mucus des yeux n'est plus nettoyé par les larmes,
 - Parfois, on peut voir un liquide jaune ou verdâtre dans l'oeil ou alors remarquer que l'œil est rouge : l'œil peut s'infecter plus facilement lorsque le canal lacrymal est bouché car il n'est plus nettoyé correctement par les larmes,
-- Le sac lacrymal, situé au coin interne de l'œil, peut être gonflé. C'est ce que l'on appelle la [dacryocystocèle](http://fr.wikipedia.org/wiki/Dacryocystoc%C3%A8le).
+- Le sac lacrymal, situé au coin interne de l'œil, peut être gonflé. C'est ce que l'on appelle la [dacryocystocèle](https://fr.wikipedia.org/wiki/Dacryocystoc%C3%A8le).
 
 ## Traitements
 
@@ -40,7 +40,7 @@ Cette opération s'effectue sous anesthésie générale et consiste à insérer 
 
 ### Dacryocystorhinostomie
 
-La [dacryocystorhinostomie](http://www.voies-lacrymales.com/52+dacryocystorhinostomie-par-voie-externe.html) est une intervention chirurgicale réalisée sous anesthésie locale ou générale, parfois associée au tubage siliconé, qui permet de créer artificiellement un passage entre le canal lacrymal et [les cavités nasales](http://fr.wikipedia.org/wiki/Cavit%C3%A9_nasale). Cette intervention laisse une petite cicatrice au coin du nez sauf si on passe par l'intérieur du nez (on parle alors d'abord endo-nasal mais il faut alors attendre les 4-5 ans de l'enfant avant de tenter une telle intervention).
+La [dacryocystorhinostomie](https://www.voies-lacrymales.com/52+dacryocystorhinostomie-par-voie-externe.html) est une intervention chirurgicale réalisée sous anesthésie locale ou générale, parfois associée au tubage siliconé, qui permet de créer artificiellement un passage entre le canal lacrymal et [les cavités nasales](https://fr.wikipedia.org/wiki/Cavit%C3%A9_nasale). Cette intervention laisse une petite cicatrice au coin du nez sauf si on passe par l'intérieur du nez (on parle alors d'abord endo-nasal mais il faut alors attendre les 4-5 ans de l'enfant avant de tenter une telle intervention).
 
 ## Calendrier des traitements
 
@@ -69,42 +69,42 @@ J'ajouterai que toutes les causes modifiant la qualité des tissus, leur vascula
 
 Dans ma pratique courante, je vois surtout des enfants âgés de plus de 6 mois dont le traitement lavage + massages a échoué et à qui l'on propose un traitement par sondage. Lors de ces consultations, je recherche par une palpation douce les pertes de qualité et de mobilité des tissus pouvant être à l'origine de l'obstruction du canal lacrymal. Je m'intéresse donc au crâne et à la face, mais aussi au reste du corps : ce n'est pas le canal lacrymal en lui-même qui est traité mais tout le corps de votre enfant. L'intérêt est d'éviter l'utilisation d'antibiothérapie lorsque cela est possible, mais aussi et surtout les interventions nécessitant une anesthésie générale.
 
-Pour aller plus loin, vous pouvez consulter le [site des Drs Bruno Fayet et Emmanuel Racy](http://www.voies-lacrymales.com/62+nourrisson-et-petit-enfant.html) ainsi que [le site de l'hôpital pour enfant de Toronto](http://www.aboutkidshealth.ca/Fr/HealthAZ/ConditionsandDiseases/EyeDisorders/Pages/Blocked-Tear-Ducts.aspx) très bien illustré.
+Pour aller plus loin, vous pouvez consulter le [site des Drs Bruno Fayet et Emmanuel Racy](https://www.voies-lacrymales.com/62+nourrisson-et-petit-enfant.html) ainsi que [le site de l'hôpital pour enfant de Toronto](https://web.archive.org/web/20180321123417/http://www.aboutkidshealth.ca/Fr/HealthAZ/ConditionsandDiseases/EyeDisorders/Pages/Blocked-Tear-Ducts.aspx) très bien illustré.
 
 ## Sources
 
 [^1]: MacEwen CJ, Young JDH.
-      [Epiphora during the first year of life](http://www.nature.com/eye/journal/v5/n5/pdf/eye1991103a.pdf).
+      [Epiphora during the first year of life](https://www.nature.com/articles/eye1991103.pdf).
       Eye, 1991
 
 [^2]: Paul TO, Shepherd R.
-      [Congenital nasolacrimal duct obstruction: natural history and the timing of optimal intervention](http://www.ncbi.nlm.nih.gov/pubmed/7714699).
+      [Congenital nasolacrimal duct obstruction: natural history and the timing of optimal intervention](https://pubmed.ncbi.nlm.nih.gov/7714699/).
       Journal of Pediatric Ophthalmology and Strabismus, 1994 Nov-Dec
 
 [^3]: J. Allali, J.-L. Dufier.
-      [Pathologie lacrymale chez le nourrisson et l'enfant](http://www.em-consulte.com/article/64099/pathologie-lacrymale-chez-le-nourrisson-et-l-enfan).
+      [Pathologie lacrymale chez le nourrisson et l'enfant](https://www.em-consulte.com/article/64099/pathologie-lacrymale-chez-le-nourrisson-et-l-enfan).
       2007
 
 [^4]: E. Baggio, J.-M. Ruban, K. Sandon.
-      [Analyse de l'efficacité du sondage précoce dans le traitement de l'obstruction congénitale des voies lacrymales symptomatique du nourrisson](http://www.em-consulte.com/en/article/111439).
+      [Analyse de l'efficacité du sondage précoce dans le traitement de l'obstruction congénitale des voies lacrymales symptomatique du nourrisson](https://www.em-consulte.com/en/article/111439).
       Journal Français d'Ophtalmologie, Vol 23, N° 7 - septembre 2000, p. 655
 
 [^5]: J.A. Bernard, B. Fayet, J.-M. Ruban, P. Klap, D. Schapiro.
-      [Le larmoiement du petit enfant. Questions ? Réponses...](http://www.em-consulte.com/en/article/111487)
+      [Le larmoiement du petit enfant. Questions ? Réponses...](https://www.em-consulte.com/article/111439)
       Journal Français d'Ophtalmologie, Vol 23, N° 9 - novembre 2000, p. 945
 
 [^6]: Ciftçi F, Akman A, Sönmez M, Unal M, Güngör A, Yaylali V.
-      [Systematic, combined treatment approach to nasolacrimal duct obstruction in different age groups](http://medlib.yu.ac.kr/eur_j_oph/ejo_pdf/684.pdf).
+      [Systematic, combined treatment approach to nasolacrimal duct obstruction in different age groups](https://medlib.yu.ac.kr/eur_j_oph/ejo_pdf/684.pdf).
       European Journal of Ophthalmology, Vol. 10 no. 4, 2000, p. 324-329
 
 [^7]: Joaquín Pérez Navarro, Joan Vicent Capó i Giner.
-      [Efficacy of the osteopathic technique of lacrimalis bone release in children with congenital nasolacrimal duct obstruction](http://zl.elsevier.es/es/revista/osteopatia-cientifica-281/eficacia-tecnica-osteopatica-liberacion-hueso-lagrimal-obstruccion-13146760-originales-2009).
+      [Efficacy of the osteopathic technique of lacrimalis bone release in children with congenital nasolacrimal duct obstruction](https://www.sciencedirect.com/science/article/abs/pii/S1886929709734332).
       Osteopatía científica, ISSN 1886-9297, Vol. 4, N° 3, 2009, p. 79-85
 
 [^9]: Gilles Perchepied.
-      [Etude des effets du traitement ostéopathique sur l'obstruction du canal lacrymal chez le nourrisson](http://www.bretagne-osteopathie.com/pdf/Memoire_PERCHEPIED_Gilles.pdf).
+      [Etude des effets du traitement ostéopathique sur l'obstruction du canal lacrymal chez le nourrisson](https://docplayer.fr/12515540-Etude-des-effets-du-traitement-osteopathique-sur-l-obstruction-du-canal-lacrymal-chez-le-nourrisson.html).
       2011/2012
 
 [^10]: Theresa E. Apoznanski, Reem Abu-Sbaih, Michael J. Terzella, Sheldon Yao.
-       [Resolution of dacryostenosis after osteopathic manipulative treatment](http://download.pdaverticals.com/jreader/aoa/jaoa/42C6AEBE-A57D-11E4-8A97-BB11EE72C7C7/document.pdf).
+       [Resolution of dacryostenosis after osteopathic manipulative treatment](https://www.degruyter.com/document/doi/10.7556/jaoa.2015.022/html).
        The Journal of the American Osteopathic Association Vol 115, N°2, 2015, p. 110-114

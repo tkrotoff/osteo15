@@ -28,4 +28,4 @@ Le sport permet d'entretenir le corps, d'améliorer l'état de santé et de comp
   - Mauvaise récupération entre les épreuves
   - Stress, manque de concentration, troubles du sommeil
 
-Source : [UFOF](http://www.osteofrance.com/osteopathie/sport/).
+Source : [UFOF](https://www.osteofrance.com/osteopathie/sport/).

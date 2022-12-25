@@ -6,7 +6,7 @@ tags: [ostéopathie, bébé, TV]
 last_modified_at: '2015-03-08'
 ---
 
-Chouette vidéo de l'émission [Allô docteurs](http://www.allodocteurs.fr/) de France 5 qui présente le travail ostéopathique sur un nouveau-né :
+Chouette vidéo de l'émission [Allô docteurs](https://www.allodocteurs.fr/) de France 5 qui présente le travail ostéopathique sur un nouveau-né :
 
 {% include embed-responsive-4by3.html src="https://www.youtube.com/embed/nuZtQkIgc9g" %}
 

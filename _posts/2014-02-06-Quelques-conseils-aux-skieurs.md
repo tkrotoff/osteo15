@@ -9,7 +9,7 @@ Vous venez certainement de passer une longue période sans forcément avoir eu u
 
 Il est important d'accorder votre effort sportif à vos capacités réelles, mais surtout d'y aller progressivement :
 
-- La première journée, testez votre matériel. Les [fixations doivent être réglées](http://www.reglagefixation.fr/) selon votre poids, votre niveau et votre style : c'est votre genou qui sera le plus sollicité et si la fixation est trop serrée vous risqué l'entorse du genou. Mieux vaut déchausser que de vous rompre les ligaments.
+- La première journée, testez votre matériel. Les [fixations doivent être réglées](https://www.reglagefixation.fr/) selon votre poids, votre niveau et votre style : c'est votre genou qui sera le plus sollicité et si la fixation est trop serrée vous risqué l'entorse du genou. Mieux vaut déchausser que de vous rompre les ligaments.
 
 - Prenez des chaussures avec peu de flex si vous êtes débutant et avez un style peu agressif sur les pistes. N'hésitez pas à retourner au magasin de location si le matériel ne vous convient pas : les professionnels sont là pour vous conseiller.
 
@@ -21,7 +21,7 @@ Il est important d'accorder votre effort sportif à vos capacités réelles, mai
 
 Au delà de la chute avec fracture, une trop grande sollicitation du corps par rapport à ses capacités peut aboutir à des blessures type entorses, tendinites, douleurs musculaires...
 
-Vous trouverez plein d'informations sur les sports d'hiver sur [le site de l'IRBMS (Institut de Recherche du Bien-être, de la Médecine et du Sport Santé)](http://www.irbms.com/sport/sports-hiver/).
+Vous trouverez plein d'informations sur les sports d'hiver sur [le site de l'IRBMS (Institut de Recherche du Bien-être, de la Médecine et du Sport Santé)](https://www.irbms.com/sport/sports-hiver/).
 
 Pour rappel, [les courbatures musculaires](https://fr.wikipedia.org/wiki/Courbature) après un effort n'ont pas pour origine l'acidité produite par le muscle pendant l'effort (cette acidité disparait 1 heure environ après l'effort) mais les microtraumatismes du muscle (micro déchirures des muscles et rupture des capillaires sanguins) quand les capacités du muscle ont été dépassées. Les étirements pour une reprise sportive ne peuvent donc pas être conseillés : après l'effort si on étire les muscles alors on étire aussi les micro déchirures.
 
@@ -31,7 +31,7 @@ Pour rappel, [les courbatures musculaires](https://fr.wikipedia.org/wiki/Courbat
   [Intérêts et limites des étirements musculaires passifs](http://l.sempe.free.fr/Etirements%20passifs.pdf).
 
 - Rob D Herbert, Michael Gabriel.
-  [Effects of stretching before and after exercising on muscle soreness and risk of injury: systematic review](http://www.bmj.com/content/325/7362/468).
+  [Effects of stretching before and after exercising on muscle soreness and risk of injury: systematic review](https://www.bmj.com/content/325/7362/468).
   British Medical Journal, 31 August 2002
 
 - Pascal Prévost.

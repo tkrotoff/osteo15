@@ -5,7 +5,7 @@ tags: [bébé, médicaments, FemmeEnceinte]
 last_modified_at: '2014-11-27'
 ---
 
-Le [centre de référence sur les agents tératogènes (CRAT)](http://www.lecrat.org/) propose un recensement des médicaments et leurs risques sur la fertilité, la grossesse et l'allaitement.
+Le [centre de référence sur les agents tératogènes (CRAT)](https://www.lecrat.fr/) propose un recensement des médicaments et leurs risques sur la fertilité, la grossesse et l'allaitement.
 
 > Le champ d'activité du CRAT couvre :
 >
@@ -20,4 +20,4 @@ Les huiles essentielles, bien que naturelles, présentent des effets secondaires
 
 Exemple : le baume du tigre est souvent utilisé pour les douleurs lombaires. Or le baume du tigre contient de l'huile essentielle de camphre qui est abortive : elle est donc formellement contre-indiquée en période de préconception, lors de la grossesse et pendant toute la durée de l'allaitement.
 
-[^1]: [Le CRAT](http://www.lecrat.org/crat.php3?id_article=34)
+[^1]: [Le CRAT](https://lecrat.fr/crat.php?id_article=34)

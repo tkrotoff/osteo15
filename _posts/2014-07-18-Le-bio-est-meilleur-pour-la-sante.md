@@ -22,11 +22,11 @@ L'agriculture biologique est un mode de production répondant à un cahier des c
 
 ![Nouveau logo label bio européen](/assets/2014-07-18/Label-bio-europeen.png)
 
-En France c'est l'[Agence BIO (Agence française pour le développement et la promotion de l'agriculture biologique)](http://www.agencebio.org/) qui délivre les certificats.
+En France c'est l'[Agence BIO (Agence française pour le développement et la promotion de l'agriculture biologique)](https://www.agencebio.org/) qui délivre les certificats.
 
-En 2009, le label AB (Agriculture biologique) s'est aligné sur [le cahier des charges de l'Union européenne ](https://fr.wikipedia.org/wiki/Label_bio_de_l%27Union_europ%C3%A9enne#Cahier_des_charges) qui est moins strict et est [dénoncé par Green Peace](http://www.greenpeace.org/belgium/fr/presse/communiques-presse/ogm-bio/) (entre autre pour la tolérance de trace d'OGM dans les produits issus de l'agriculture biologique).
+En 2009, le label AB (Agriculture biologique) s'est aligné sur [le cahier des charges de l'Union européenne ](https://fr.wikipedia.org/wiki/Label_bio_de_l%27Union_europ%C3%A9enne#Cahier_des_charges) qui est moins strict et est [dénoncé par Green Peace](https://www.greenpeace.org/belgium/fr/presse/communiques-presse/ogm-bio/) (entre autre pour la tolérance de trace d'OGM dans les produits issus de l'agriculture biologique).
 
-Un autre label [[1]](http://www.60millions-mag.com/guides_d_achat/conseils_d_experts/a_quel_label_bio_se_fier/bio_coherence) [[2]](http://www.lexpress.fr/actualite/societe/environnement/bio-coherence-le-nouveau-label-qui-peut-tout-changer_883966.html) a donc vu le jour : [Bio Cohérence](http://www.biocoherence.fr/Qu_est-ce_que_c_est_/Bio_Coherence_qu_est-ce_que_c_est_), qui reprend l'ancien cahier des charges du label AB.
+Un autre label [[1]](https://web.archive.org/web/20150312172215/https://www.60millions-mag.com/guides_d_achat/conseils_d_experts/a_quel_label_bio_se_fier/bio_coherence) [[2]](https://www.lexpress.fr/environnement/bio-coherence-le-nouveau-label-qui-peut-tout-changer_883966.html) a donc vu le jour : [Bio Cohérence](https://www.biocoherence.fr/bio-coherence/une-marque-de-filiere), qui reprend l'ancien cahier des charges du label AB.
 
 ![Bio Cohérence](/assets/2014-07-18/Bio-Coherence.jpg)
 
@@ -37,5 +37,5 @@ Une méta-analyse récente (juillet 2014) [^1] met en évidence tout l'intérêt
 Ainsi, pour une alimentation saine, légumes et fruits frais sont de rigueur pour une haute densité nutritionnelle, et si possible bio.
 
 [^1]: Marcin Barański, Dominika Średnicka-Tober, Nikolaos Volakakis, Chris Seal, Roy Sanderson, Gavin B. Stewart, Charles Benbrook, Bruno Biavati, Emilia Markellou, Charilaos Giotis, Joanna Gromadzka-Ostrowska, Ewa Rembiałkowska, Krystyna Skwarło-Sońta, Raija Tahvonen, Dagmar Janovská, Urs Niggli, Philippe Nicot, Carlo Leifert.
-      [Higher antioxidant and lower cadmium concentrations and lower incidence of pesticide residues in organically grown crops: a systematic literature review and meta-analyses](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141693/).
+      [Higher antioxidant and lower cadmium concentrations and lower incidence of pesticide residues in organically grown crops: a systematic literature review and meta-analyses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141693/).
       British Journal of Nutrition, 2014 Sep 14
