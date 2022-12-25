@@ -4,7 +4,9 @@
 
 ```Shell
 xcode-select --install # Installation de Xcode command line developer tools
-sudo gem install bundler
+
+# 'ruby/config.h' file not found
+# https://github.com/CocoaPods/CocoaPods/issues/10286#issuecomment-1361362989
 
 bundle install
 bundle update
@@ -24,12 +26,10 @@ bundle exec rake deploy # Déploiement sur Amazon S3
 brew install vnu
 vnu --skip-non-html _site
 
-sudo gem install html-proofer
-htmlproofer ./_site --check-html --check-favicon --check-opengraph
+bundle exec htmlproofer ./_site --check-html --check-favicon --check-opengraph
 
-sudo gem install validate-website
-cd _site && validate-website-static --site 'https://osteo15.com' --verbose --markup --not-found && cd ..
-validate-website --site 'https://osteo15.com' --verbose --markup --not-found
+cd _site && bundle exec validate-website-static --site 'https://osteo15.com' --verbose --markup --not-found && cd ..
+bundle exec validate-website --site 'https://osteo15.com' --verbose --markup --not-found
 
 sudo gem install site_validator
 site_validator https://osteo15.com site_validator-report.html

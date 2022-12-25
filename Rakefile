@@ -7,7 +7,7 @@ desc "Clean generated files"
 task :clean do |t|
   puts t.comment
 
-  system "rm -rf Gemfile.lock vendor/ _site/ .sass-cache/"
+  system "rm -rf Gemfile.lock vendor/ _site/ .sass-cache/ .jekyll-cache/"
 end
 
 desc "Build _site using 'jekyll build'"
