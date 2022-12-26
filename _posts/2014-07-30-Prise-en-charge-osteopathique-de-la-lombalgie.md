@@ -22,7 +22,7 @@ Il faut faire la différence entre 3 types de lombalgie :
 - Les lombalgies symptomatiques avec pathologies sous-jacentes (1 à 5%) dont le suivi et le traitement seront particuliers.
 
 <figure>
-  <img src="/assets/2014-07-30/Lombalgies-symptomatiques.png" alt="Lombalgies symptomatiques">
+  <img src="/assets/2014-07-30/Lombalgies-symptomatiques.png" alt="Lombalgies symptomatiques" loading="lazy">
   <figcaption markdown="1">
   Lombalgies symptomatiques [^2]
   </figcaption>
@@ -42,7 +42,7 @@ Les causes de survenue d'une lombalgie commune peuvent être très variées (lis
 - [Vibrations](https://www.inrs.fr/risques/vibration-corps-entier/effets-sante.html) : machines agricoles, tondeuses...
 
 <figure>
-  <img src="/assets/2014-07-30/Principaux-facteurs-de-risques-de-lombalgie-aigue-ou-chronique.png" alt="Lombalgies symptomatiques">
+  <img src="/assets/2014-07-30/Principaux-facteurs-de-risques-de-lombalgie-aigue-ou-chronique.png" alt="Lombalgies symptomatiques" loading="lazy">
   <figcaption markdown="1">
   Principaux facteurs de risques de lombalgie aiguë ou chronique [^22]
   </figcaption>

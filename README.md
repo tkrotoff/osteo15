@@ -118,7 +118,7 @@ Pareil pour les assets (images et autres fichiers) (problème détecté sous Ubu
 
 ```HTML
 <figure>
-  <img src="/assets/2014-07-30/Lombalgies-symptomatiques.png" alt="Lombalgies symptomatiques">
+  <img src="/assets/2014-07-30/Lombalgies-symptomatiques.png" alt="Lombalgies symptomatiques" loading="lazy">
   <figcaption markdown="1">
   Lombalgies symptomatiques [^2]
   </figcaption>

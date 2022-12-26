@@ -6,7 +6,7 @@
   {% if include.href %}
   <a href="{{ include.href }}">
   {% endif %}
-    <img src="{{ include.src }}" alt="{{ include.caption | escape }}">
+    <img src="{{ include.src }}" alt="{{ include.caption | escape }}" loading="lazy">
   {% if include.href %}
   </a>
   {% endif %}

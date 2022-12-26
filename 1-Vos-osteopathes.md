@@ -13,7 +13,7 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 <div class="row">
   <div class="col-md-2">
     <p>
-      <img src="/assets/Fabienne-Krotoff/Fabienne-Krotoff-1.jpg" alt="Fabienne Krotoff" width="158">
+      <img src="/assets/Fabienne-Krotoff/Fabienne-Krotoff-1.jpg" alt="Fabienne Krotoff" width="158" loading="lazy">
     </p>
   </div>
   <div class="col-md-10" markdown="1">
@@ -104,7 +104,7 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 <div class="row">
   <div class="col-md-2">
     <p>
-      <img src="/assets/Charlotte-Wang/Charlotte-Wang-1.jpg" alt="Charlotte Wang" width="158">
+      <img src="/assets/Charlotte-Wang/Charlotte-Wang-1.jpg" alt="Charlotte Wang" width="158" loading="lazy">
     </p>
   </div>
   <div class="col-md-10" markdown="1">
