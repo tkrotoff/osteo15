@@ -33,4 +33,7 @@ plugins:
   - jekyll-sitemap
   - octopress-minify-html
 
+sass:
+  style: expanded
+
 minify_html: false

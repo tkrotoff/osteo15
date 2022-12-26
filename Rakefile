@@ -18,10 +18,13 @@ task :build, :env do |t, args|
   if (args[:env] == 'production')
     # Very very slow => 12 minutes instead of 2s
     config[:minify_html] = true
-    config[:sass] = {style: :compressed}
+    config[:sass] = {
+      'style' => :compressed,
+      'sourcemap' => :never
+    }
   else
     config[:minify_html] = false
-    config[:sass] = {style: :expanded}
+    config[:sass] = {'style' => :expanded}
   end
   config[:full_rebuild] = true
   puts "Pre-configuration: #{config}"
