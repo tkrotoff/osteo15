@@ -22,11 +22,6 @@ body {
   // in case the page is smaller than the web browser window
   // This is also the color used for pull-to-refresh on iOS
   background-color: $grey-lightest;
-
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-          font-feature-settings: "kern" 1;
-  font-kerning: normal;
 }
 
 

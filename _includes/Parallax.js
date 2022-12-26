@@ -7,24 +7,25 @@
  * [Fixing a parallax scrolling website to run in 60 FPS](https://kristerkari.github.io/adventures-in-webkit-land/blog/2013/08/30/fixing-a-parallax-scrolling-website-to-run-in-60-fps/)
  */
 
-$(window).on('scroll', function() {
+/** @type {HTMLElement} */
+const parallax = document.getElementsByClassName('parallax-bg')[0];
+const speed = 0.5;
+
+function translate3dY() {
+  const scrollY = window.pageYOffset;
+
+  // Too slow on mobile devices: uses the CPU instead of the GPU
+  //parallax.style.backgroundPosition = '50% ' + scrollY * speed + 'px';
+
+  // Avoid ugly background with pull-to-refresh on iOS
+  if (scrollY >= 0) {
+    parallax.style.transform = 'translate3d(0, ' + scrollY * speed + 'px, 0)';
+  }
+}
+
+document.addEventListener('scroll', () => {
   // Does not make any difference
   //window.requestAnimationFrame(translate3dY);
 
   translate3dY();
 });
-
-var $parallax = $('.parallax-bg');
-var speed = 0.5;
-
-function translate3dY() {
-  var scrollY = window.pageYOffset;
-
-  // Too slow on mobile devices: uses the CPU instead of the GPU
-  //$parallax.css('background-position', '50% ' + scrollY * speed + 'px');
-
-  // Avoid ugly background with pull-to-refresh on iOS
-  if (scrollY >= 0) {
-    $parallax.css('transform', 'translate3d(0, ' + scrollY * speed + 'px, 0)');
-  }
-}

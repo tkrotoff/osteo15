@@ -5,10 +5,9 @@
   font-weight: 400;
   padding: .375rem .75rem;
   border-radius: .3rem;
+  // Safari 16 doesn't support user-select without -webkit- prefix
   -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
+  user-select: none;
   border: 1px solid transparent;
 
   // Reset transition-* defined on a
