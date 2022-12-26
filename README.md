@@ -173,10 +173,6 @@ Règles sur Twitter :
 - Ne pas utiliser un hashtag controversé ou lié à une polémique
 - Jekyll YAML Front Matter: `tags: [ostéopathie, TMS]`
 
-## Favicon
-
-- [FaviconTest](https://github.com/tkrotoff/FaviconTest)
-
 ## Sitemap
 
 - [Jekyll Sitemap Generator Plugin](https://github.com/jekyll/jekyll-sitemap)

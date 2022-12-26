@@ -1,0 +1,10 @@
+{
+  "name": "Osteo15",
+  "icons": [
+    { "src": "/assets/hand-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/assets/hand-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
