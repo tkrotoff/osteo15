@@ -17,7 +17,7 @@ task :build, :env do |t, args|
   config = {}
   if (args[:env] == 'production')
     # Very very slow => 12 minutes instead of 2s
-    #config[:minify_html] = true
+    config[:minify_html] = true
     config[:sass] = {style: :compressed}
   else
     config[:minify_html] = false
