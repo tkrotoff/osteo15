@@ -25,9 +25,17 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
 
 ### Formations et diplômes
 
+### 2022
+
+- [CFPCO](https://www.cfpco.fr/Workshop) : [Urgences ostéopathiques : les douleurs aiguës du rachis](https://www.cfpco.fr/workshop/244/urgences-osteopathiques-:-les-douleurs-aigues-du-rachis)
+
+### 2021
+
+- CFPCO : [Comment traiter les tendinites et les blessures musculaires ?](https://www.cfpco.fr/workshop/332/comment-traiter-les-tendinites-et-les-blessures-musculaires-?-)
+
 ### 2020
 
-- [CFPCO](https://www.cfpco.fr/Workshop) : ["Ostéopathie, hypnose et douleur"](https://www.cfpco.fr/workshop/389/osteopathie,-hypnose-et-douleur---theo-chaumeil) avec [Théo Chaumeil](https://www.cfpco.fr/workshop/teacher/127/theo--chaumeil), kinésithérapeute D.E., praticien et formateur en hypnose
+- CFPCO : ["Ostéopathie, hypnose et douleur"](https://www.cfpco.fr/workshop/389/osteopathie,-hypnose-et-douleur---theo-chaumeil) avec [Théo Chaumeil](https://www.cfpco.fr/workshop/teacher/127/theo--chaumeil), kinésithérapeute D.E., praticien et formateur en hypnose
 - [UFOF formation](https://osteofrance.com/formation/) : ["Cerveau abdominal et pelvien"](https://osteofrance.com/formation/archives/2020/02/cerveau-abdominal-et-pelvien) avec Nathalie Camirand, ostéopathe D.O.
 - UFOF Formation : ["Dysfonctions glandulaires et nerveuses en ostéopathie"](https://osteofrance.com/formation/archives/2019/06/dysfonctions-neuro-endocriniennes-diagnostic-et-traitement) avec Nathalie Camirand, ostéopathe D.O.
 
@@ -126,6 +134,29 @@ Fabienne Krotoff et Charlotte Wang sont deux ostéopathes D.O. issues d'une form
   - 2012 : semi-marathon de Paris (Paris 8e)
   - 2012 : Continental Beach Volleyball Cup, sélections pour les J.O. de 2012 (Sèvres)
   - Interventions ponctuelles lors d'évènements culturels : comédie musicale Robin des bois (Paris 17e), spectacle Féerie au Moulin rouge (Paris 18e), cirque Éloize au Grand Rex (Paris 2e)
+
+#### 2022
+
+- Ostéopathie pédiatrique : prise en charge des torticolis et des déformations crâniennes positionnelles - Gianni Marangelli
+- Freins de langue restrictifs et ostéopathie - Julie Ellwood
+
+#### 2021
+
+- Urgences ostéopathiques : douleurs aiguës du rachis - Thierry Colot
+- Suivi de grossesse et préparation ostéopathique à l'accouchement - Erwan Fabre
+
+#### 2020
+
+- Troubles digestifs et alimentation du petit enfant - Grégoire Benoit
+- Sécurité et bienveillance pendant l'accouchement - Anne Maquet
+- Les spécificités du nouveau-né - Anne Maquet
+- Grossesse accouchement et post-partum - Bernard Ferru
+- Examen ostéopathique du nouveau-né - Anne Maquet
+
+#### 2019
+
+- Neurosciences et douleurs - Marco Gabutti
+- La sphère gynécologique : de l'adolescente à la femme ménopausée - Isabelle Tousch
 
 #### 2018
 
